@@ -1,0 +1,195 @@
+---
+comments: true
+date: 2010-10-31 21:53:38
+layout: post
+slug: '%e4%bb%8efedora12%e6%88%96%e8%80%8513%e5%8d%87%e7%ba%a7%e8%87%b3fedora14laughlin'
+title: 从Fedora12或者13升级至fedora14"Laughlin"
+wordpress_id: 1405
+categories:
+- linux前沿
+---
+
+
+	本文着重介绍从Fedora12或者Fedora13升级至Fedora14"Laughlin".因为个人数据是最 宝贵的,所以备份必要的数据是大力推荐的.最好将备份好的数据放到u盘或者移动硬盘等存储设备上.
+
+
+
+
+
+
+	 升级前有几点要注意的:
+
+
+
+
+
+
+	
+  1. 
+		 独立的包配置文件可能在升级之后不能工作,
+	
+
+	
+  2. 
+		 如果你有红帽的一些产品,比如说集群套装,你需要在系统升级之后进行独立升级
+	
+
+	
+  3. 
+		 第三方或者独立软件生产商的应用程序可能在升级之后无法正常工作
+	
+
+	
+  4. 
+		 升级系统会升级目前系统中已经安装的包.升级过程会将老的配置文件命名位.rpmsave,升级日志是/root/upgrade.log
+	
+
+
+
+
+
+	好吧,深呼吸,开始升级吧!Good Luck!
+
+
+
+
+
+
+	第一钟方法:用preupgrade进行升级<!-- more -->
+
+
+
+
+
+
+	 preupgrade工具下载升级必须的包,初始化升级过程
+
+
+
+
+
+
+	1 yum update 
+
+
+
+
+
+
+	将你系统的所有包升级到最新
+
+
+
+
+
+
+	2 yum update rpm
+
+
+
+
+
+
+	检测是否安装了最新的rpm,否则安装最新的rpm(红帽包管理器)
+
+
+
+
+
+
+	3 yum install preupgrade
+
+
+
+
+
+
+	安装upgrade
+
+
+
+
+
+
+	4 preupgrade
+
+
+
+
+
+
+	开始升级
+
+
+
+
+
+
+	 ![](http://www.unixmen.com/images/stories/linux/distros/fedora14/upgrade//fed14up.png)
+
+
+
+
+
+
+	 ![](http://www.unixmen.com/images/stories/linux/distros/fedora14/upgrade//fed14up2.png)
+
+
+
+
+
+
+	 ![](http://www.unixmen.com/images/stories/linux/distros/fedora14/upgrade//fed14up3.png)
+
+
+
+
+
+
+	注:如果你有一些依赖性的问题,请删除下面的包
+
+
+
+
+
+
+	 totem-gstreamer
+
+
+
+
+
+
+	 Policykit-kde
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+	第二种方法:从Fedora14的DVD升级(离线升级)
+
+
+
+
+
+
+	插入光盘,重启机器,选择升级系统开始升级
+
+
+
+
+
+
+	via{[Unixman](http://www.unixmen.com/linux-distributions/7-fedora/1274-how-to-upgrade-to-fedora-14-from-fedora-13-a-12?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+unixmenhowtos+(Unixmen+Howtos+%26+Tutorials))}
+
+
+
+

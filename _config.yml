@@ -1,5 +1,6 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: "[shutter release]"
-markdown: rdiscount
+name: "[freetstar's blog]"
+auto: true
+paginate: 5

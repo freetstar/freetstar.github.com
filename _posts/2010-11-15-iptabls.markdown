@@ -1,0 +1,139 @@
+---
+comments: true
+date: 2010-11-15 21:52:05
+layout: post
+slug: iptabls
+title: iptables 小笔记
+wordpress_id: 1455
+categories:
+- 服务器
+---
+
+Iptables 介绍 
+
+对于Internet上的系统，不管是什么情况都要明确一点：网络是不安全的。因此，虽然创建一个防火墙并不能保证系统100％安全，但却是绝对必要的。Linux提供了一个非常优秀的防火墙工具—netfilter/iptables。它完全免费、功能强大、使用灵活、可以对流入和流出的信息进行细化控制，且可以在一台低配置机器上很好地运行。netfilter/iptabels应用程序，被认为是Linux中实现包过滤功能的第四代应用程序。netfilter/iptables包含在2.4以后的内核中，也就是在2.6的内核中开始应用，它可以实现防火墙、NAT（网络地址转换）（自己搭建VPN服务器的同学都知道是怎么回事吧 ）和数据包的分割等功能。 
+netfilter工作在内核内部，而iptables则是让用户定义规则集的表结构。 
+iptables的使用前提你是root用户，iptables的前身是ipchains，在2.6内核版本中，ipables取代了ipchains作为内核的过滤墙 
+
+如果你自建过VPN翻墙的话，你一定记得这两行代码： 
+
+[code language="bash"]
+echo "1" > /proc/sys/net/ipv4/ip_forward 
+//开启ipv4数据转发，即本机路由转发功能 
+iptables -t nat -A POSTROUTING -s 10.10.10.0/24 -o eth0 -j SNAT --to-source XXX.XXX.XXX.XXX 
+//就是将本地vpn对应的网卡的ip地址转换到服务器对外的ip地址 
+[/code]
+
+Iptables求助 
+
+查看帮助：man iptables 
+
+iptables中文手册：Iptables 指南 1.1.19 
+
+Iptables语法 
+
+一般语法如下： 
+
+[code language="bash"]iptables [-t table] command [match] [target] [/code]
+table：表，包含仅处理特定类型信息包的规则和链的信息包过滤。表是由许多链组成的，链是有顺序的 
+一般有3个表 
+
+[code language="bash"]
+filter：缺省的表，用于一般的信息包过滤，包含INPUT，OUTPUT，FORWARD 
+nat：用于要转发的信息包，包含PREROUTING，OUTPUT，POSTROUTING链 
+mangle：包含一些规则用于标记高级路由的信息包。。属于高级用法的表哈，我也不太熟悉，就不介绍了
+[/code] 
+command：当然是命令了 
+[code language="bash"]
+-A --append：该命令将一条规则附加到链的末尾 
+-D --delete：删除特定链接 
+-P --policy：设置链的缺醒目标 
+-N --newchain：用命令中所指定的名称创建一个新链 
+-F --flush：如果指定联名，则删除链中的所有规则;否则，删除所有链中的所有规则 
+-L --list 列出指定链中的所有规则 
+[/code]
+match：匹配。指定信息包与规则匹配所具有的特征：如源地址，目的地止，协议。 
+[code language="bash"]
+-p --protocol 可以匹配tcp，udp，icmp，还有ALL是默认阿 
+-s --source 根据源IP来匹配，源ip还可以是一个范围 
+-d --destination ip目的地址，当然也可以是一个范围 
+[/code]
+target：目标 
+[code language="bash"]ACCEPT：接受呗 
+DROP：阻塞呗 
+REJECT：与DROP稍微不太一样的地方是，REJECT不会在服务器和客户机上留下死套接字 
+[/code]
+iptables安装：
+
+
+现在大多数linux发行伴在安装时会默认安装iptables 
+ubuntu查看是否安装dpkg -l|grep iptables 安装:  sudo apt-get install iptables 
+redhat查看是否安装rpm -qa|grep iptables 安装：yum install iptables 
+
+iptables开机启动： 
+
+redhat：ntsys设置开机启动 
+iptables：可以用一些第三方的工具 //你有没有啥更好的方法 
+
+iptables实例： 
+
+1 阻止网络上已知的主机攻击我的机器 
+
+[code language="bash"]
+wget -qO - http://infiltrated.net/blacklisted|awk '!/#|[a-z]/&&/./{print "iptables -A INPUT -s "$1" -j DROP"}' 
+//blacklisted是网络上一份肮脏主机的黑名单，几小时更新一次。 如果想自动执行上边的iptables命令，在后边添加|sh & 
+[/code]
+2 将一个大号端口转换到80号端口 
+[code language="bash"]
+iptables -t nat -A PREROUTING -p tcp –dport 80 -j REDIRECT –to-port 9001 
+//允许普通用户以高端口号运行一个守护进程，但是看起来却是以低端口进行的。比如说用户可以用80号端口使用网站，而apache却是在监听9001 
+[/code]
+3 使用代理 
+[code language="bash"]
+iptables -t nat -A OUTPUT -d 10.0.0.0/8 -p tcp --dport 80 -j DNAT --to-destination 10.1.1.123:3128 
+将传送到子网10.0.0.0/8的封包的目的地址改为代理的地址 
+[/code]
+4 设置只能同时有10个ssh链接 
+[code language="bash"]
+/sbin/iptables -A INPUT -p tcp --syn --dport 22 -m connlimit --connlimit-above 10 -j REJECT 
+//将ssh链接限制在10个，再多的将会被reject 
+[/code]
+5 限制ssh每隔15秒才能重连 
+[code language="bash"]
+iptables -A INPUT -p tcp -i eth0 -m state --state NEW --dport 22 -m recent --update --seconds 15 -j DROP 
+iptables -A INPUT -p tcp -i eth0 -m state --state NEW --dport 22 -m recent --set -j ACCEPT 
+[/code]
+6 允许访问多个端口 
+[code language="bash"]
+iptables -A INPUT -p tcp -m multiport --dports 22,80,143,6000:6003 -j ACCEPT 
+//运行同时访问多个端口，单个端口可以独立写出，范围可以用“：”表示 ” 
+[/code]
+7 封杀BT 
+[code language="bash"]
+/sbin/iptables -A FORWARD -i eth0 -p tcp –dport 6881:6890 -j DROP 
+[/code]
+8  使自己不能ping 通自己 
+[code language="bash"]
+iptables -A INPUT -s 127.0.0.1 -p icmp -j DROP 
+[/code]
+iptables-save和iptables-resume：
+iptables-save命令： 
+iptables-save把当前规则放进一个文件以备iptables-restore使用 
+
+语法：iptables-save [-c] [-t table] 
+-c的作用是保存包和字节计数器的值。这可以使我们在重启防火墙后不丢失对包和字节的统计。这个参数默认是不使用的。 
+参数-t指定要保存的表，默认是保存所有的表。下面给出未装载任何规则的情况下iptables-save的输出。 
+
+iptables-restore用来装载由iptables-save保存的规则集。不幸的是，它只能从标准输入接受输入，而不能从文件接受。下面是它的事方法： 
+
+语法：iptables-restore [-c] [-n] 
+参数-c要求装入包和字节计数器。如果你用iptables-save保存了计数器，现在想重新装入，就必须用这个参数。它的另一种较长的形式是--counters。 
+参数-n告诉iptables-restore不要覆盖已有的表或表内的规则。默认情况是清除所有已存的规则。这个参数的长形式是--noflush。 
+
+参考： 
+
+http://www.ibm.com/developerworks/cn/linux/network/s-netip/
+http://www.phpfans.net/article/htmls/200608/MjE2OTcy.html
+http://forum.ubuntu.org.cn/viewtopic.php?t=478
+http://www.vsharp.cn/post/28.html
+http://linux.ccidnet.com/art/737/20040317/96576_1.html

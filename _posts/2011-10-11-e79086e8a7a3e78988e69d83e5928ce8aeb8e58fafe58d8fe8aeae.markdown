@@ -1,0 +1,526 @@
+---
+comments: true
+date: 2011-10-11 11:50:20
+layout: post
+slug: '%e7%90%86%e8%a7%a3%e7%89%88%e6%9d%83%e5%92%8c%e8%ae%b8%e5%8f%af%e5%8d%8f%e8%ae%ae'
+title: 理解版权和许可协议
+wordpress_id: 1829
+categories:
+- linux前沿
+---
+
+   整个Web中充满了具有创造性和实用价值的资源供我们来使用。摄影照片, 字体，音乐和代码都是非常好的例子.相对于自己创造轮子，寻找现有的物体和已存在的实现方法则比较快捷，廉价和实用。
+
+
+   无论免费与否，这些资源通常以**某种许可协议发布以确保公正的使用**。对于专业人士，理解某个许可协议的限制范围是非常关键的;了解此点，你会惊讶于有效的部分。理解版权和许可协议让我们发挥最大的能力：具有创造力！
+
+
+![](http://www.freetstar.com/wp-content/uploads/2011/10/101111_0350_1.jpg)<!-- more -->
+
+
+在本文中，我们将介绍控制着版权和许可协议的基本原则。然后带着例子，着重探讨一些比较流行的发行协议，这是本文的目录
+
+
+
+
+	
+  * [版权和许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+	
+  * [正当使用的含义](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+	
+  * [公共领域的含义](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+	
+  * [司法管辖权](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+	
+  * [许可协议术语](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+	
+  * [CC 知识共享](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+	
+  * [软件许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+	
+  * [许可协议的用途](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+	
+  * [作品是否需要许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+	
+  * [最后的几点想法](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+
+
+_声明：我不是律师，这只是我的研究经过，请仔细阅读你使用的资源对应的完整许可协议内容_
+
+_
+_
+
+版权和许可协议
+
+
+当我们创造一些东西时-比如说图象-我们拥有它的版权，这是我们做为此作品的作者而独享的权利.我们控制还有谁可以利用我们的作品，以何种方式利用。比如说，我允许别人打印我的图象，或者用在某个艺术品身上。此时，我不是通过口头形式建立协议，而是以设定了特定使用规则的许可协议发布我的作品。有版权的东西有时候又被称之为"智力财产"。
+
+
+许可协议由权威授予，用来允许某些特定的用途；举个例子，如版权所有者，我来设定资源的发布和使用方式。我可能决定免费提供我的作品，或者要求付费;或者,我可以使用某种许可协议来限制使用，并维护自己的版权。一些用户即使为我的作品付钱了也并不意味着他们对所购买的产品有全面的控制或者权利。许可协议可以规定指明金额或者用途，使用限制，甚至许可协议有效期。
+
+
+还有，在"雇佣模式下"，老板拥有版权，而不是作者或者创造者；在许多情况下，通常是公司（比如说创造机构）或者它的客户（通过合同）拥有版权。在这些情况下，创造者拥有他们产品的"精神权利"，包括了归属权。这也就是在发布的文章中通常提到原作者，尽管"精神权利"可以包括匿名。
+
+
+版权的法律可能非常复杂，但是这个可以是好的开始。
+
+
+
+
+"合理使用"的含义
+
+
+"合理使用"是版权所有者的特有权利的一个例外。它存在在比如说美国，英国这样的国家。在这个特定的情况下，使用未经授权的资源是可能的。如果某个人的使用被定义为合理的使用，他们就不需要遵循某个协议。实质上讲，使用具有版权的东西是一个合法的权利。下面是几个合理使用的例子：
+
+
+
+
+	
+  * 教育性的目的，比如说教授和学生研究
+
+
+	
+  * 作为新闻报道或者发布文章的评论和观点。
+
+
+
+这里有一个误解，即非商业和非盈利的使用都是可以被接受的,并这不成立。合理使用是一个法定词，是通过具体的例子来评判的。如果你认为你使用具有版权的资源是合法的，最好要深入彻底的研究下
+
+
+
+
+公共领域的含义
+
+
+   落入"公共领域"的资源通常没有版权拥有者，你随心所欲可以使用，修改，重新发布.一个作者因为某些原因丧失他们作品的版权，然后，他们的作品资源就放到公共领域中（尽管这并不是非常简单，我们随后会看到的）。版权的拥有权在作者死后就过期了（在大部分国家是死后的50到70年）.
+
+
+
+
+合法权利
+
+
+   每个国家对于版权法律都有自己的理解和解释，但是国家之间通常有许多的协定。许可协议是在版权法律之下的，不同于合同法律。然而，不同的司法局对法律的阐释又不太一样，所以版权法律和合同法律有时候看起来会没啥区别。
+
+
+[   Berne Convention](http://en.wikipedia.org/wiki/Berne_Convention_for_the_Protection_of_Literary_and_Artistic_Works) （为了保护文学和艺术品）于1886年建立，是一个管理版权的国际协定。它阐述到：每个成员国必须承认其他国家作品的版权，并且将给予本国公民的权利同等给予其他国家的公民。它同时为了版权所有者构建了最小标准化的保护。至今，已经有164个国家签署此协议。
+
+
+   许可协议会限制于某些司法局。所以，有时候一件东西可能在一个国家是自由的，而在另外一个国家版权所有者则会拥有所有权利。
+
+
+   如果你正在读这个，我猜，你正在或者将会从不同国家的版权所有者购买许可协议。这些许可协议可能会被这些国家的法律限制，而你必须要尊重他们。
+
+
+   现在，我们会深入政治和司法区域。记住：如果有疑问，寻求法律意见。
+
+
+
+
+许可协议术语
+
+
+    一个许可协议可以从头开始写起，但是大部分人都选择比较知名的。接下来，我们将介绍一些关于我们网站设计和开发的常用许可证协议，特别是那些允许免费使用-是免费使用，而不是自由使用。通常来说，管理付费资源的许可证协议都被单独撰写，但是所有的许可证协议都有共同点。
+
+
+在源代码和摄影作品这两个种类上通常会有明显的本质区别。所以不难理解，有各种范围的许可证协议存在着。每个都根据用途不同定做。在我们深入研究之前，先认识一些专业术语：
+
+
+
+
+	
+  * **"Copy"**
+源作品的一份拷贝。
+
+
+	
+  * 
+
+
+**"Modify"
+**
+
+
+在使用具有版权的作品之前，以某种方式来修改。
+
+
+	
+  * **"Derivative work"**
+修改有版权的作品来创造一个新的作品。
+
+
+	
+  * **"Distribute"**
+将自己的作品以某种许可证协议发布的行为。
+
+
+	
+  * **"Redistribute"**
+在原许可证协议下获取作品之后，再次发布作品和许可证协议的行为。
+
+
+	
+  * **"Share alike"**
+以相同或者类似许可证协议发布作品的行为.
+
+
+	
+  * **"Credit" 或者**** "attribution"**
+表明原版权所有者的行为
+
+
+	
+  * **"Copyright notice"**
+一个强调短语或者用(©)符号来表明版权所有者 (根据法律规定不一定存在)。
+
+
+	
+  * **"All rights reserved"**
+一个常见的版权所有的声明：保留所有权利（可以不声明）。
+
+
+	
+  * **"Warranty"**
+包含许可证协议的保证(通常可以不写).
+
+
+
+现在，我们开始认识这些许可证协议。
+
+
+
+
+CC知识共享
+
+
+**   Lawrence Lessig** 在2001年建立Creative Commons (CC) 来为在线工作创建一系列的易于理解版权许可证，通常包含了一些 "some rights reserved."
+
+
+  知识共享协议有六种核心协议.其包含了各种特定使用情况下的协议，如当初具有许可协议的作品是否可以商用，可以被修改，是否可以使用相同（或者兼容）的协议再发布。![](http://www.freetstar.com/wp-content/uploads/2011/10/101111_0350_2.jpg)
+
+
+  最基本的CC许可协议是CC Attribution。它允许所有的，如复制，修改，重新发布（甚至是商业的），它假设原作者的被著名（而原作者没有表示/暗示任何的认同，或支持
+）。在CC Attribution下东西是完全的自由。
+
+
+  CC Attribution扩展出来就是CC Attribution-ShareAlike.基本上与Attribution一样，不同的是所有衍生出来的工作必须以相同的许可协议发布。这样的不同确保了所有的东西仍然保持自由。Wikipedia就是采用此许可协议。
+
+
+    
+    <code><span style="color: #1e1e1e; font-size: 10pt;"><span style="font-family: 宋体;">下面是其他四个</span><span style="font-family: Verdana;">CC </span><span style="font-family: 宋体;">许可协议：</span></span></code>
+
+
+
+
+
+	
+  * **CC Attribution-NoDerivs**
+重新发布是允许的，前提是标注了原归属权，并且没有修改。
+
+
+	
+  * **CC Attribution-NonCommercial**
+只要包含了原归属权，所有事情都是允许的，但是不允许用于商业目的。
+
+
+	
+  * **CC Attribution-NonCommercial-ShareAlike**
+和上边的一样，但是重新发布的作品必须以同样的许可协议发布。
+
+
+	
+  * **CC Attribution-NonCommercial-NoDerivs**
+重新发布的作品允许非商业应用，没有任何修改。
+
+
+
+  如你所见，CC许可协议有6个不同的版本，所有的版本都要求注明原作者。
+
+
+  你可以这样标注，作品的标题，版权信息，原作者的名字，许可协议的名字，例如：
+
+
+
+This work includes the photo "Photo's Title," available under a Creative Commons Attribution license, © Author's Name.
+
+
+
+  如果原有作品包含了版权信息，必须原文完整的包含。还有，你可以用其他合适方法来注明。还有，最好给原作品和其版权信息的链接。通知原作者很礼貌的，但并不必须。
+
+
+[**   CC0**](http://creativecommons.org/choose/zero/) 也存在着。它使版权所有者放弃他们所有的权利。它是一种方式，即将作品放在公共区域并且"不保留任何权利"。这个概念存在着，是因为许多司法署对把作品放在公共区域的过程并不清楚，许多法律系统实际上也禁止诸如版权拥有权之类的法律权利。
+
+
+  CC许可协议清晰明了。如上所述，Wikipedia使用的是Attribution-ShareAlike。Flickr让用户为自己巨大的图像资源选择使用哪种CC许可协议。 你可以Google CC协议的详细信息。
+
+
+
+
+软件许可协议
+
+
+  已经写好的代码是具有版权的；你拥有你写过的代码。当然，像print('Hello World!'); 最简单的代码，完全可以独立的重写，不用知道原始的作者是谁，所有的合伙人都会拥有他们版本的版权（尽管可能毫无价值）。但是随着行数的增多，代码变得有价值起来，以某种许可协议发布它变得重要。
+
+
+  其他的智力财产法律，比如说专利，用来保护软件。软件专利权在US是个很激烈的争论话题，US认为软件专利是自然而然的。在其他的国家，比如说UK和新西兰，软件不可以被专利的。而版权是正确的时候，专利必须被赋予。
+
+
+  软件许可协议包含了代码的使用。如果你使用了第三方的库或者开源项目中的元素，你的使用必须遵守相关的协议。
+
+
+
+开发许可协议通常包含了以下几点：
+
+
+
+
+	
+  * 作品以及所做的修改发布的方式
+
+
+	
+  * 所有修改过的作品是否要开源
+
+
+	
+  * 重发布时的版权问题以及其他事项
+
+
+
+  软件许可协议可以被定义为："宽容的"或者"copyleft"，而后者移除了在重新发布的作品之上再加限制的权利。
+
+
+  下面是一些常见的软件许可协议和他们的方式。
+
+
+
+
+MIT 许可协议
+
+
+  MIT许可协议或许是最为开放的。它通常将作品放在公共领域。它明确地给出了权限，"没有限制，不限制使用，复制，修改，合并，子许可协议，卖软件的拷贝"。唯一的条件是包含全部的版权信息（即说明不做任何保证和可靠性）。以MIT协议发布的所有作品可以用于任何目的，包含商业和专有软件。
+
+
+
+
+BSD 许可协议
+
+
+  BSD许可协议和MIT协议比较类似。
+
+
+  最初的版本，于1990年发布，有4个条文，最后的"广告条款"指出，所有衍生作品的宣传材料必须提到原始来源。这个最后在"New BSD"或者"Modified BSD"中移除。
+
+
+  新的三个clause BSD许可协议与MIT许可协议不同的地方是一个条款-原版权拥有人的名称不能被用于支持任何未经原版权所有人允许的衍生作品。这消除了任何有关使用人或组织的名称的疑问。是否需要此条文是有争议的，因为版权和商标法是两回事。即使MIT许可协议并没有声明这一点，我们也不能假设拥有原版权所有人的支持。
+
+
+  还有2个条款"FreeBSD"或"简化BSD"许可协议存在着，其中省略了上述条款，而是包括一个声明，撇清原有版权拥有人对衍生工作所作的任何看法。这可以看作是明确表示不公开支持。
+
+
+  MIT 和 BSD 许可协议给于我们了完全的自由来以任意目的来复制，散发修改作品，前提是原有许可协议和版权注明都包括了。衍生的作品可以以专有软件或者以其他许可协议发布。
+
+
+
+
+Apache许可协议
+
+
+   从BSD的身影上我们看到表述一个许可协议是一件多么困难的事情。这里面有许多含糊之处和与法律的连结，要完全阐明是几乎不可能的。许多"自由"许可协议已经涌现，力图将这样的意图阐述清楚。
+
+
+ [  Apache License](http://www.apache.org/licenses/LICENSE-2.0.html) 是一份自由软件许可协议，其并不要求衍生作品采用同样地许可协议。这意味着此协议下的代码可以用于开源，自由和专有软件（就像MIT和BSD协议）。
+
+
+![](http://www.freetstar.com/wp-content/uploads/2011/10/101111_0350_3.png)
+
+
+    它规定，在此协议控制的文件中，所有的原始版权信息，归属信息和商标通知都必须保留。此外，如果有任何更改，需要包含变更通知。还必须保存已经存在变更通知。这些通知必须保存在一份文本文件和源代码或者文档中。
+保留变更通知让Apache许可协议不同于MIT和BSD许可协议。它也包含了许多法律条款和条件（有很多目的）来溶解原版权拥有人的责任
+
+
+   Apache 许可协议v2可以说是GPL兼容的，意味着一个Apache v2发布的代码工程同样以GPL v3许可协议发布。
+
+
+
+
+GPL许可协议
+
+
+   第一版由Richard Stallman于1989年完成，现在GPL是2007年完成的第三版，即GPLv3,。它建立于我们应该自由地使用，改变，分享源代码和分享对源代码做出的改变。不管软件是如何发布的，它总是自由的。这个概念被称之为"copyleft"。
+
+
+   GPL的基本原则决定了，其不同于MIT，BSD，Apache许可协议，在GPL协议下产生的作品必须同样以GPL协议发布，GPL的代码可以销售，但是专利软件不可以从中衍生。如果你要发布任何重新修正过的作品，你的源代码必须以相同的协议公布出来。自然而然的，一个作品一旦以GPL协议发布，它将一直保持GPL，不会再有更多的限制。
+
+
+  GPL的第三个版本特意指出，以GPL支持的代码可以用来实现**数字版权管理** (DRM),但并不算作有效的保护，数字版权法无法追究那些破坏DRM的人的责任。
+
+
+
+
+许可协议的用途
+
+
+   我们已经知道了Wikipedia使用CC Attribute-ShareAlik许可协议，Flicker允许用户选择一个CC许可协议。我们还应该知道什么呢？
+
+
+   许多Javascript库天然地以某种协议存在和发布。比如说，jQuery，以MIT，GPL v2双重协议存在着。还有其他库也以MIT许可协议发布，比如说Modernizr (同时也以BSD发布), [Raphaël](http://raphaeljs.com/) and [Respond.js](https://github.com/scottjehl/Respond) (同时也以GPL v2发布).你可以使用这些库，同时拥有自己在这些库基础之上做出的作品的权利，当然你还必须在作品中包含这些库相关版权声明。
+
+
+插件和主题
+
+
+  Wordpress和Drupal是需要给予特殊关注的，因为他们只以GPL v2许可协议发布。这意味着任何衍生的作品必须以GPL协议发布，而根据WordPress license page，这些包含了所有的插件和主题。
+
+
+
+Part of this license outlines requirements for derivative works, such as plugins or themes. Derivatives of WordPress code inherit the GPL license. […] There is some legal grey area regarding what is considered a derivative work, but we feel strongly that plugins and themes are derivative work and thus inherit the GPL license. If you disagree, you might want to consider a non-GPL platform…
+
+
+
+[  Drupal's licensing FAQ](http://drupal.org/licensing/faq/) is对于这个则更为详细:
+
+
+
+The GPL requires that if you make a derivative work of Drupal and distribute it to someone else, you must provide that person with the source code under the terms of the GPL so that they may modify and redistribute it under the terms of the GPL as well. However, you are under no obligation to distribute the code to anyone else. If you do not distribute the code but use it only within your organization, then you are not required to distribute it to anyone at all.
+
+
+
+  这意味着什么？如果你在为Wordpress或者Drupal开发主题，这套主题就必须以GPL协议发布。这样一来，你可以选择发布你的作品，而具体怎么做，自己来做决定吧。
+
+
+  如果你在为某一位客户开发一套个人使用的主题，你不用太担心，因为你并不是在"散发"它。
+
+
+  在公开市场销售主题是一个灰色区域，因为这些作品必须以GPL协议发布。GPL 允许你卖你的作品，但是同时允许其他人来重新发布和销售。现实就是这样，你无计可施。然而，理论上来讲，在GPL协议之下的只有那些PHP 代码；任意的图像，CSS和其他内容都属于你自己。据此来说，你可以通过技术支持等等来向你的客户收取金钱。
+
+
+  Wordpress虽然是以GPL协议发布的开源自由软件，他仍然具有版权。你必须尊重Wordpress许可协议的选择。
+
+
+
+
+我的作品需要一个许可协议么？
+
+
+
+
+   如果你在网上发布内容-比如说设计作品，摄影作品，文章，音频或者视频-默认的许可协议是"保留所有权利"。除非你特意以某种协议发布（或者通过某种web服务，他们本身会为自己保留一些权利），这样只有你具有版权。这样很不错，但是你可以通过给予别人权限来获取什么呢？
+
+
+    Jeff Atwood在他的文章"[Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)" 中特意指出了那些在自己博客上发布代码的开发者。除非开发者另有说明，其他人没有权利在自己的项目中使用这些代码。要多考虑别人使用和引用自己作品的好处：这是非常好的自我宣传！
+
+
+   最好注意下，你并不需要为了给其他人使用自己作品的权利而特意使用某种许可协议。一些地区的法律相对版权更喜欢纸面合同协议
+。
+
+
+   另外，当使用如Twitter和Flickr这样的服务时，你可能给这些网站你的作品的全部权利。这些网站离开你的内容将无法运作，但是他们保留你所发布的内容的所有权利，并加以利用。这允许他们依据你的内容用不同方法来开发他们的服务。
+
+
+   这里来自[雅虎的服务使用](http://info.yahoo.com/legal/uk/yahoo/utos-173.html)协议的一个片段，Flicker使用的：
+
+
+
+[…] you grant Yahoo! the royalty-free, perpetual, irrevocable, non-exclusive and fully sub-licensable right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such Content (in whole or part) worldwide and/or to incorporate it in other works in any form, media, or technology now known or later developed […]
+
+
+
+   这几乎包含了所有的东西！
+
+
+   Flickr允许你以CC许可协议上传照片供其他人使用，同时你也给了Yahoo权利来利用这些图片。我这里并不是谴责Yahoo这种行为，因为大部分Web服务提供商都是这样子做的。我只是想强调这2个重要性：阅读那些条件和协议，理解你发布作品的场所和你将会因此放弃的权利。
+
+
+
+
+最后的总结
+
+
+  通读文章之后，你应该对版权和许可证协议的工作方式，存在原因，作用有了很深入的理解了吧。忽略版权-还有法律-不能成为借口。通过理解这些知识，我们可以充分利用Web上丰富的资源。如果你在线发布作品，请考虑以某种协议发布它吧。你永远不知道人们会利用它创造出什么有意思的东西。
+
+
+   如上所述，这篇文章是我自己的研究结果，并不是法律建议。如果你对版权和许可协议还不够理解，建议您咨询专业的法律建议。
+
+
+
+
+Further Reading
+
+
+
+
+	
+  * "[A Short Guide To Open-Source And Similar Licenses](http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/)"
+A Smashing Magazine article by Cameron Chapman.
+
+
+	
+  * [Open Source Initiative](http://www.opensource.org/licenses/alphabetical)
+An extensive list of software licenses.
+
+
+	
+  * "[About the Licenses](http://creativecommons.org/licenses/)"
+A page that goes into detail on the variations of the Creative Commons license.
+
+
+	
+  * "[What Is Copyleft](http://www.gnu.org/copyleft/)?"
+The general concept of free software.
+
+
+	
+  * [Producing Open-Source Software](http://producingoss.com/en/)
+A guide to software projects, including chapters on licensing.
+
+
+	
+  * "[Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)"
+An overview of licenses, by Jeff Atwood.
+
+
+	
+  * "[The Ethics of WordPress Themes at a Premium](http://themeshaper.com/2008/09/08/the-ethics-of-premium-wordpress-themes/)"
+Are WordPress themes open source? Is it right to release them on a pay-to-download basis?
+
+	
+  * 
+
+
+# [**如何选择开源许可证？**](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+
+
+
+
+
+_(al)_
+
+
+
+
+
+原文来源：[http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+有兴趣做进一步更改的同学联系我要源文档。
+
+（请忽略：doubanclaim51b29b669520b62d）

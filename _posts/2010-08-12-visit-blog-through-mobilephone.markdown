@@ -1,4 +1,5 @@
 ---
+author: admin
 comments: true
 date: 2010-08-12 17:59:42
 layout: post

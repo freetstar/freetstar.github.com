@@ -1,0 +1,209 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <title>Freetstar</title>
+    <style>
+        body {
+            font-family: Arial,Helvetica,sans-serif;
+            margin: 0;
+            padding: 0;
+            color:#F0FFFF;
+            background-attachment: scroll;
+            background-clip: border-box;
+            background-color: #FFFFFF;
+            background-origin: padding-box;
+            background-position: 0 0;
+            background-image:url(media/mainpageimg/renzler-power-down.gif); 
+            background-repeat:repeat;
+            background-size: auto auto;
+        }
+        h1 {
+            margin: 0 0 5px;
+        }
+        h3 {
+            margin-top: 15px;
+        }
+        p {
+            margin: 5px;
+        }
+        a {
+            color:#FF4500;
+        }
+        #layout {
+            height: 240px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 10px;
+            width: 920px;
+        }
+        #avatar {
+            float: left;
+            height: 200px;
+            width: 200px;
+        }
+        #social {
+            float: left;
+            height: 200px;
+            width: 720px;
+        }
+        #social a:hover {
+            background-color:black;
+        }
+        #about {
+            font-size: 12px;
+            text-align: right;
+        }
+        .logo {
+            float: left;
+            height: 100px;
+            width: 180px;
+        }
+        .inlogo {
+            margin-left: 50px;
+            margin-top: 20px;
+            height:80px;
+            width:80px;
+        }
+
+        #content {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 10px;
+            width: 920px;
+        }
+
+        #community img{
+            float:left;
+        }
+        #community ul{
+            list-style-type:none;
+        }
+        #community ul li {
+            padding:0px 20px 0px 20px;
+        }
+        #life{
+            float:left;
+        }
+        #skills {
+            margin-top:10px;
+            padding-top:10px;
+        }
+    </style>
+    <script type="text/javascript" src="jquery-1.9.1.min.js"> </script>
+    <script type="text/javascript" > 
+         $(document).ready(function() {
+                 $(".logo").hover(
+                 function() {
+                     $(this).data('bgcolor', $(this).css('background-color')); 
+                     $(this).css("background-color","#FE4365");
+                 },
+                 function(){
+                     $(this).css("background-color",$(this).data('bgcolor'));
+                 }
+                 ); 
+                                
+             });
+    </script>
+</head>
+
+<body>
+    <!-- top layout -->
+        <div id="layout">
+          <h1>Freetstar</h1>
+          <div id="avatar">
+              <img id="avatar" src="media/mainpageimg/avatar.jpg">
+          </div>
+
+          <div id="social">
+            <a href="http://stackoverflow.com/users/694882/freetstar" >
+              <div class="logo" style="background-color: rgb(131,175,155)" >
+            <img class="inlogo" src="media/mainpageimg/stackoverflow.png">
+              </div>
+            </a>
+            <a href="http://github.com/freetstar">
+              <div class="logo" style="background-color: rgb(174,221,129)">
+                <img class="inlogo" src="media/mainpageimg/github.png">
+              </div>
+            </a>
+            <a href="mailto://lgxwqq@gmail.com">
+              <div class="logo" style="background-color: rgb(200,200,169)">
+                <img class="inlogo" src="media/mainpageimg/gmail.png">
+              </div>
+            </a>
+            <a href="https://twitter.com/freetstar">
+              <div class="logo" style="background-color: rgb(252,157,154)">
+                <img class="inlogo" src="media/mainpageimg/twitter.png">
+              </div>
+            </a>
+            <a href="http://douban.com/people/freetstar">
+              <div class="logo" style="background-color: rgb(205,179,128)">
+                <img class="inlogo" src="media/mainpageimg/douban.png">
+              </div>
+            </a>
+            <a href="http://v2ex.com/freetstar">
+              <div class="logo" style="background-color: rgb(92,167,186)">
+                <img class="inlogo" src="media/mainpageimg/v2ex.png">
+              </div>
+            </a>
+            <a href="http://www.renren.com/profile.do?id=236371300">
+              <div class="logo" style="background-color: rgb(138,151,123)">
+                <img class="inlogo" src="media/mainpageimg/renren.png">
+              </div>
+            </a>
+            <a href="http://www.zhihu.com/people/freetstar">
+              <div class="logo" style="background-color: rgb(199,237,233)">
+                <img class="inlogo" src="media/mainpageimg/zhihu.png">
+              </div>
+            </a>
+          </div>
+        </div>
+
+    <!-- content -->
+    <div id="content">
+        <div id="skills">
+            <a href="/blog/">my BLOG</a>... Familiar with python/c，4 years of linux experience，enjoying programming.My <a href="http://github.com/freetstar">github</a></p>
+            <p>Resume: <a href="http://www.freetstar.com/freetstar_resume.pdf">Chinese version</a> <a href="http://www.freetstar.com/freetstar_resume.pdf">English version</a> 
+            (Powered by <a href="http://wiki.freebsdchina.org/doc/x/xelatex">XeLatex</a>&<a href="http://blog.sina.com.cn/s/blog_5e16f1770100lgs5.html">moderncv</a>)
+            </p>
+        </div>
+
+        <div id="tools">
+            <h3>Tools</h3>
+            <ul>
+                <li>OS:Archlinux</li>
+                <li>Shell:Zsh</li>
+                <li>Editor:Vim</li>
+                <li>Web Browser:Mozilla Firefox + Pentadactyl</li>
+                <li>E-Reader:Kindle4</li>
+                <li>Tablet:KindleFire</li>
+                <li>MobilePhone:HTC G11</li>
+                <li>Terminal multiplexer:Tmux</li>
+                <li>FuckGFW:Google+Goagent/Openvpn</li>
+            </ul>
+        </div>
+
+        <div id="community">
+            <h3>community</h3>
+                <ul>
+                	<li>
+                        <a href="http://wowubuntu.com">WowUbuntu</a>
+                    </li> 
+                	<li>
+                        <a href="http://www.tjlug.net">TJLUG</a>
+                    </li>
+                </ul>
+        </div>
+
+        <div id="life">
+            <h3>Life</h3>
+            <ul>
+                <li>TJNU Master Basketball's registered bench guy,call me water dispenser administrator please:(</li>
+                <li>Sweet temper,easygoing</li>
+                <li>Music with DoubanFM</li>
+            </ul>
+        </div>
+    </div>
+
+
+</body>
+
+</html>

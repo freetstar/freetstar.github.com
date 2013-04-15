@@ -42,16 +42,18 @@ ol, ul {
 #header {
   width: 680px;
   margin: 0 auto;
-  margin: 4em auto;
   text-align: center; }
-  #header a {
-    color: #999999;
-    text-shadow: #e9e9e9 2px 2px 2px; }
-    #header a:hover {
-      color: #333333; }
-  #header h1 {
-    display: block;
-    font-family: "Coda", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
+
+#header a {
+color: #999999;
+text-shadow: #e9e9e9 2px 2px 2px; }
+
+#header a:hover {
+color: #333333; }
+
+#header h1 {
+display: block;
+font-family: "Coda", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
 
 #content {
   width: 680px;
@@ -192,23 +194,28 @@ footer {
   font-size: .9em;
   text-align: center;
   color: #909090; }
-  footer a {
-    color: #cccccc; }
-    footer a:hover {
-      color: #999999; }
-  footer nav {
-    margin: 1.2em auto 0.6em auto;
-    background-color: #333333;
-    padding: 1px 0; }
-    footer nav a {
-      margin: 0 0.5em;
-      display: inline-block;
-      font-family: "Coda", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-      font-size: 1em;
-      text-transform: uppercase;
-      color: #d0d0d0; }
-    footer nav a:hover {
-      color: #ffffff; }
+
+footer a {
+color: #cccccc; }
+
+footer a:hover {
+color: #999999; }
+
+nav {
+margin: 1.2em auto 0.6em auto;
+background-color: #333333;
+padding: 1px 0; }
+
+nav a {
+margin: 0 0.5em;
+display: inline-block;
+font-family: "Coda", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+font-size: 1em;
+text-transform: uppercase;
+color: #d0d0d0; }
+
+nav a:hover {
+  color: #ffffff; }
 
 #tag_cloud {
   margin-bottom: 1em; }

@@ -4,7 +4,7 @@ layout: default
 
 <div>
   <ul class="listing">
-  {% for post in site.posts limit: 2 %}
+  {% for post in site.posts limit: 10 %}
   <article class="content">
     <section class="title">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -21,10 +21,7 @@ layout: default
     </span>
     {% endif %}
     </section>
-    <section class="post">
-    {{ post.content }}
-    </section>
-    </article>
+  </article>
   {% endfor %}
   </ul>
   <div class="center">

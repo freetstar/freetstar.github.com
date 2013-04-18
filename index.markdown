@@ -24,6 +24,7 @@ layout: default
   </article>
   {% endfor %}
   </ul>
+  <div class="sidebar">a</div>
   <div class="center">
   <a href="/archive.html" class="circle-wrapper">
   <div class="circle">&nbsp;</div>

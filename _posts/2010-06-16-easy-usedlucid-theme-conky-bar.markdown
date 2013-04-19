@@ -19,7 +19,7 @@ categories:
 
 
 
-	这就是可爱漂亮的lucid conky栏.
+	这就是可爱漂亮的lucid conky栏.<!-- more -->
 
 
 

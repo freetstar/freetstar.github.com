@@ -68,7 +68,7 @@ categories:
 
 
 
-	  
+	<!-- more -->  
 
 	
 

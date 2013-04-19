@@ -60,7 +60,7 @@ categories:
 
 
 
-	本文以ubuntu10.10发行版为蓝本.  sudo apt-get install zsh
+	<!-- more -->本文以ubuntu10.10发行版为蓝本.  sudo apt-get install zsh
 
 
 

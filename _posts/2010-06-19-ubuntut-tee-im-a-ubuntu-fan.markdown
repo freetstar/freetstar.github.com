@@ -36,7 +36,7 @@ categories:
 
 
 
-	[![](http://www.freetstar.com/wp-content/uploads/2010/06/20100619-e1276925335351-225x300.jpg)](http://www.freetstar.com/wp-content/uploads/2010/06/20100619.jpg)[![](http://www.freetstar.com/wp-content/uploads/2010/06/20100619_001-e1276925399610-225x300.jpg)](http://www.freetstar.com/wp-content/uploads/2010/06/20100619_001.jpg)  
+	[![](http://www.freetstar.com/wp-content/uploads/2010/06/20100619-e1276925335351-225x300.jpg)<!-- more -->](http://www.freetstar.com/wp-content/uploads/2010/06/20100619.jpg)[![](http://www.freetstar.com/wp-content/uploads/2010/06/20100619_001-e1276925399610-225x300.jpg)](http://www.freetstar.com/wp-content/uploads/2010/06/20100619_001.jpg)  
 
 	
 

@@ -49,7 +49,7 @@ categories:
 
 
 
-	  
+	<!-- more -->  
 
 	
 

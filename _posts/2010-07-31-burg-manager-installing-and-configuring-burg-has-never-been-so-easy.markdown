@@ -60,7 +60,7 @@ categories:
 
 
 
-	 ![](http://www.sourceslist.eu/wp-content/uploads/2010/06/logoburgmanager.png)
+	 ![](http://www.sourceslist.eu/wp-content/uploads/2010/06/logoburgmanager.png)<!-- more -->
 
 
 

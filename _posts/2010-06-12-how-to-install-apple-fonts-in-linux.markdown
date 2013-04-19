@@ -60,7 +60,7 @@ sudo fc-cache -f -v [/code]
 		
 
 
-			  
+			<!-- more -->  
 
 			
 		

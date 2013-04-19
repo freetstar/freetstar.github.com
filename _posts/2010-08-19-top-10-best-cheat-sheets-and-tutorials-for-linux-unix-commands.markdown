@@ -95,7 +95,7 @@ categories:
 
 
 
-	 地址：[http://freeengineer.org/learnUNIXin10minutes.html](http://freeengineer.org/learnUNIXin10minutes.html)
+	 地址：[http://freeengineer.org/learnUNIXin10minutes.html<!-- more -->](http://freeengineer.org/learnUNIXin10minutes.html)
 
 
 

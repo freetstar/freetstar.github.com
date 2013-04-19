@@ -32,7 +32,7 @@ categories:
 
 
 
-	 telnet [towel.blinkenlights.nl](http://towel.blinkenlights.nl)
+	 telnet [towel.blinkenlights.nl<!-- more -->](http://towel.blinkenlights.nl)
 
 
 

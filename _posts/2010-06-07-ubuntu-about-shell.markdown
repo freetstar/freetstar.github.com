@@ -57,7 +57,7 @@ free the fish
 
 > sudo apt-get install girlfriend
 
-
+<!-- more -->
 
 正在读取软件包列表... 完成   
 
@@ -78,7 +78,7 @@ house,car: 依赖: money但是它将不会被安装
 E: 无法安装的软件包
 
 
-
+<!-- more -->
 
 7 每天的财富
 

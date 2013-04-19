@@ -18,7 +18,7 @@ fping命令简介：
           和ping不同的时，fping更倾向于在脚本中被使用
 安装方法：
 	  [code language="bash"]sudo apt-get install fping[/code]
-
+<!-- more -->
 用法：
            [code language="bash"]fping   [options]   hosts[/code]
 常用选项：

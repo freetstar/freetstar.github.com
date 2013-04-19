@@ -25,7 +25,7 @@ categories:
 
 
 
-	![](http://fc08.deviantart.net/fs71/i/2010/245/b/c/vim7_3_by_freetstar-d2xu6zu.jpg)
+	![](http://fc08.deviantart.net/fs71/i/2010/245/b/c/vim7_3_by_freetstar-d2xu6zu.jpg)<!-- more -->
 
 
 

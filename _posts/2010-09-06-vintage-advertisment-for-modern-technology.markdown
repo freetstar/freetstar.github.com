@@ -18,7 +18,7 @@ categories:
 
 
 
-	![](http://media02.hongkiat.com/vintage-ads-modern-technologies/facebook.jpg)
+	![](http://media02.hongkiat.com/vintage-ads-modern-technologies/facebook.jpg)<!-- more -->
 
 
 

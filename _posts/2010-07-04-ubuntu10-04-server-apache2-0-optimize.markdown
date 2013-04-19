@@ -48,7 +48,7 @@ tags:
 
 
 
-	比较适合那些需要有大量持续链接(KeepAlive traffic)的情况.KeepAlive的好处是,可以在同一个TCP链接中响应多次请求;这种方式,可以使一个包含大量图片的HTML文档加速50%.在配置文件中设置KeepAlive为On,即可启用KeepAlive
+	比较适合那些需要有大量持续链接(KeepAlive traffic)的情况.KeepAlive的好处是,可以在同一个TCP链接中响应多次请求;这种方式,可以使一个包含大量图片的HTML文档加速50%.在配置文件中设置KeepAlive为On,即可启用KeepAlive<!-- more -->
 
 
 

@@ -207,6 +207,7 @@ hr {
 footer {
   clear:both;
   margin: 10px auto;
+  padding-top: 10px;
   display: block;
   font-family: "Balthazar";
   font-size: .9em;

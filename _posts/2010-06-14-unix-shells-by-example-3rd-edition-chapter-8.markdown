@@ -25,7 +25,7 @@ categories:
 
 
 
-	 A:getty<!-- more -->
+	 A:getty
 
 
 

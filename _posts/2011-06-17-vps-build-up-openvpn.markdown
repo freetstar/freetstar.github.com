@@ -72,7 +72,7 @@ VPN Client:本机,国内的一个PC,OS:ubuntu desktop 10.10
 
     
     #apt-get update
-    #apt-get upgrade --upgrade<!-- more -->
+    #apt-get upgrade --upgrade
 
 
 

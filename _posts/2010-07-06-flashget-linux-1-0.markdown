@@ -47,7 +47,7 @@ categories:
 
 
 
-	 Linux下面的多源下载工具<!-- more -->
+	 Linux下面的多源下载工具
 
 
 

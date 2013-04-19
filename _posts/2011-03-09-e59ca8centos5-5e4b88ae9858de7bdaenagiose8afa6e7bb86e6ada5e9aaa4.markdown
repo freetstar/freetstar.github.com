@@ -86,7 +86,7 @@ categories:
   * usermod -a -G nagcmd nagios
 
 	
-  * usermod -a -G nagcmd apache //把apache运行用户加到nagcmd,这里是apache,当然你可以用其他名字，比如说nobody<!-- more -->
+  * usermod -a -G nagcmd apache //把apache运行用户加到nagcmd,这里是apache,当然你可以用其他名字，比如说nobody
 
 
 

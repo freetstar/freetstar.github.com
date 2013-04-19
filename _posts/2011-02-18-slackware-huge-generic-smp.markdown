@@ -71,7 +71,7 @@ linux /vmlinuz-generic-2.6.33.4 root=/dev/sda2
 
 
 
-}<!-- more -->
+}
 
 
 

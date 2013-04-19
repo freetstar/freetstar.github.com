@@ -98,7 +98,7 @@ if __name__=="__main__":
     lc=lucky()
     lc.main()
 [/code]
-<!-- more -->
+
 Glade源文件
 [code language="bash"]
 <?xml version="1.0" encoding="UTF-8"?>

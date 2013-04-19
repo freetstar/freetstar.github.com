@@ -33,7 +33,7 @@ sudo dpkg -i *.deb
 sudo dpkg -i *.deb
 
 
-<!-- more -->
+
 
 二:安装virtualBox4.0
 

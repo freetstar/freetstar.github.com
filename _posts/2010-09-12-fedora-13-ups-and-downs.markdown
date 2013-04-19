@@ -53,7 +53,7 @@ categories:
 
 
 
-	"can't open the theme:/usr/share/kde/apps/kdm/themes/Goddard"(大概是这句话，具体记不清出了)<!-- more -->
+	"can't open the theme:/usr/share/kde/apps/kdm/themes/Goddard"(大概是这句话，具体记不清出了)
 
 
 

@@ -22,7 +22,7 @@ categories:
 
 
 
-首先是我简单介绍了一下Linux＆Ubuntu，有点紧张,上去讲完都出汗了<!-- more -->
+首先是我简单介绍了一下Linux＆Ubuntu，有点紧张,上去讲完都出汗了
 
 
 

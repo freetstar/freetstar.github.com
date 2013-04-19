@@ -32,7 +32,7 @@ categories:
 
 
 
-	[code]man -t bash |ps2pdf - bash.pdf[/code]<!-- more -->
+	[code]man -t bash |ps2pdf - bash.pdf[/code]
 
 
 

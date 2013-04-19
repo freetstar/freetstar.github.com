@@ -20,7 +20,7 @@ categories:
 
 
 
-[![](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)<!-- more -->](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)
+[![](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)
 
 
 

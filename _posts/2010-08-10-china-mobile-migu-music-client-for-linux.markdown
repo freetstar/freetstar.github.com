@@ -39,7 +39,7 @@ categories:
 
 
 #### 
-	**[ HERE<!-- more -->](http://music.10086.cn/newweb/zq/2009/migu_music_client/default/_/_/_/_/_/_/p.html)**
+	**[ HERE](http://music.10086.cn/newweb/zq/2009/migu_music_client/default/_/_/_/_/_/_/p.html)**
 
 
 

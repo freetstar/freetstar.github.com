@@ -76,7 +76,7 @@ python中用ElementTree来读写处理xml文档
 
 
 
-<!-- more -->
+
 
 
 

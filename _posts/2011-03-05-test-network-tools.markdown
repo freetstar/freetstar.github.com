@@ -99,7 +99,7 @@ Iperf利用TCP和UDP不同特点来提供网络链接情况
 
 
 
-![](http://www.linuxaria.com/wp-content/uploads/2011/01/iperf_labo.gif)<!-- more -->
+![](http://www.linuxaria.com/wp-content/uploads/2011/01/iperf_labo.gif)
 
 
 

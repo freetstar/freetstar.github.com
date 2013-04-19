@@ -25,7 +25,7 @@ categories:
 
 
 
-	Dropbox在"中国"的安装方法：<!-- more -->
+	Dropbox在"中国"的安装方法：
 
 
 

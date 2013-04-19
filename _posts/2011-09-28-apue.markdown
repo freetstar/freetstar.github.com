@@ -12,7 +12,7 @@ categories:
 
 前阵子京东活动买了一直想买的书，这几天在读APUE和学习简单的Web设计
 
-![](http://fmn.rrimg.com/fmn063/20110921/1300/p_large_mueV_33ca000121b91212.jpg)<!-- more -->
+![](http://fmn.rrimg.com/fmn063/20110921/1300/p_large_mueV_33ca000121b91212.jpg)
 
 在APUE一书里，好多代码的头文件都包含了"apue.h"这个头文件，很明显是从当前目录寻找这个头文件的，而系统中并不存在此头文件，需要到APUE[网站](http://www.apuebook.com/)下载[示例源代码](http://www.apuebook.com/src.tar.gz)，下载好之后,
 

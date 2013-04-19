@@ -18,7 +18,7 @@ categories:
 
 
 
-	[![](http://www.freetstar.com/wp-content/uploads/2010/07/20100717_003-1024x768.jpg)<!-- more -->](http://www.freetstar.com/wp-content/uploads/2010/07/20100717_003.jpg)
+	[![](http://www.freetstar.com/wp-content/uploads/2010/07/20100717_003-1024x768.jpg)](http://www.freetstar.com/wp-content/uploads/2010/07/20100717_003.jpg)
 
 
 

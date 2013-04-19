@@ -22,7 +22,7 @@ categories:
 
 	 它经过了Linux x86 Linux x86/Alpha/SPARC, FreeBSD x86, OpenBSD x86, Solaris 2.x SPARC and x86, Digital UNIX, AIX, HP-UX, and IRIX平台的测试。  
 
-	 其Dos版本和Win32版本采用了DJGPP与Cygnus Developer's Kit来实现(一种跨平台库)。<!-- more -->
+	 其Dos版本和Win32版本采用了DJGPP与Cygnus Developer's Kit来实现(一种跨平台库)。
 
 
 

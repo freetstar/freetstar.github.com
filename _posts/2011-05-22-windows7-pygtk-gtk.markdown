@@ -82,7 +82,7 @@ gtk+-bundle_2.16.6-20100912_win32.zip 下载地址：[http://ftp.gnome.org/pub/g
 
 
 
-注：都是用win32的，虽然宿主环境是64位win7<!-- more -->
+注：都是用win32的，虽然宿主环境是64位win7
 
 
 

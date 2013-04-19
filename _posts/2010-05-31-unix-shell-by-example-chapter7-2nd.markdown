@@ -125,7 +125,7 @@ categories:
 	
 
 
-		***CAMPAIGN  1998  CONTRIBUTIONS*** <!-- more -->
+		***CAMPAIGN  1998  CONTRIBUTIONS*** 
 	
 
 

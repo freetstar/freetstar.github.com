@@ -56,7 +56,7 @@ categories:
 
 
 
-	第一钟方法:用preupgrade进行升级<!-- more -->
+	第一钟方法:用preupgrade进行升级
 
 
 

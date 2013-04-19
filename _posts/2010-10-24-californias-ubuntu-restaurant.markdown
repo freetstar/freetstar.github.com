@@ -25,7 +25,7 @@ categories:
 
 
 
-	![](http://imgur.com/jIJqk.jpg)<!-- more -->
+	![](http://imgur.com/jIJqk.jpg)
 
 
 

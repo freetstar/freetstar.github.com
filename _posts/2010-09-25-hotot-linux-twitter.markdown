@@ -39,7 +39,7 @@ categories:
 
 
 
-	虽然每天都有Linux下的twitter客户端象雨后春笋一样出现，但是Hotot绝对是目前Linux下新生的最新潮的Twitter客户端。<!-- more -->
+	虽然每天都有Linux下的twitter客户端象雨后春笋一样出现，但是Hotot绝对是目前Linux下新生的最新潮的Twitter客户端。
 
 
 

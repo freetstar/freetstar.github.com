@@ -18,7 +18,7 @@ categories:
 
 
 
-	![](http://imagebin.ca/img/ODH463B.jpg)<!-- more -->
+	![](http://imagebin.ca/img/ODH463B.jpg)
 
 
 

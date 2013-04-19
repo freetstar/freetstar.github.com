@@ -14,17 +14,30 @@ def delMoreTag(f):
 
 def delMultiblankline(f):
     file = open(f,'r+')
+    
     lines = file.readlines()
-    new_lines = list(set(lines))
-    print new_lines
-    # for line in new_lines:
-    #     file.write(line) 
-    # file.close();
+
+    index_list = []
+    for index, line in enumerate(lines):
+        if not line.strip():
+            index_list.append(index)
+
+    index_to_del = []
+    for i in range(len(index_list)):
+        try:
+            if index_list[i] + 1 == index_list[i + 1]:
+                index_to_del.append(index_list[i])
+        except IndexError:
+            pass
+
+    for j,i in enumerate(index_to_del):
+        del lines[i-j]
+    file.truncate()
+    file.write(''.join(lines))
 
 def process(f):
     delMoreTag(f)
     delMultiblankline(f)
-
 
 [process(f) for f in filelists]
     

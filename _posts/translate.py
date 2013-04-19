@@ -12,7 +12,9 @@ def delMoreTag(f):
             content.write(line)
 
 def delMultiblankline(f):
-    pass
+    for lines in fileinput.FileInput(f, inplace=1): 	
+        lines = lines.strip()
+        if lines == '': continue
 
 def process(f):
     delMoreTag(f)

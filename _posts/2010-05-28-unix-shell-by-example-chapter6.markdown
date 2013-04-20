@@ -37,7 +37,7 @@ tags:
 
 			Elizabeth Stachelin:(916) 440-1763:175:75:300
 
-	上面这个数据库的记录内容包括姓名，电话号码和最近3个月的竞选捐款数额注：以上内容被写进chapter6这个文档
+	上面这个数据库的记录内容包括姓名，电话号码和最近3个月的竞选捐款数额<!-- more -->注：以上内容被写进chapter6这个文档
 
 ##### 
 	1.打印在第一个月捐款超过100美元的人的姓和名
@@ -92,14 +92,6 @@ tags:
 
 ##### 
 	[sourcecode language="bash"]nawk -F[: ]  $1=="Elizabeth" {print $6+10} chapter6[/sourcecode]
-
-##### 
-	10 把Nancy McNeil的名字改成Louise McInnes
-
-##### 
-	[sourcecode language="bash"]nawk -F[: ] $1=="Nancy" {$1="Louise";$2="McInnes"; print $0} chapter6[/sourcecode]
-
-r6[/sourcecode]
 
 ##### 
 	10 把Nancy McNeil的名字改成Louise McInnes

@@ -28,7 +28,7 @@ categories:
 
 	好吧,深呼吸,开始升级吧!Good Luck!
 
-	第一钟方法:用preupgrade进行升级
+	第一钟方法:用preupgrade进行升级<!-- more -->
 
 	 preupgrade工具下载升级必须的包,初始化升级过程
 
@@ -65,6 +65,4 @@ categories:
 	插入光盘,重启机器,选择升级系统开始升级
 
 	via{[Unixman](http://www.unixmen.com/linux-distributions/7-fedora/1274-how-to-upgrade-to-fedora-14-from-fedora-13-a-12?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+unixmenhowtos+(Unixmen+Howtos+%26+Tutorials))}
-
-ra-14-from-fedora-13-a-12?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+unixmenhowtos+(Unixmen+Howtos+%26+Tutorials))}
 

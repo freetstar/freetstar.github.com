@@ -18,7 +18,7 @@ categories:
 [code language="bash"]$ tar xvf archive_name.tar [/code]
 查看tar包中有哪些文件 
 [code language="bash"]$ tar tvf archive_name.tar [/code]
-更多的例子[ The Ultimate Tar Command Tutorial with 10 Practical Examples ](http://www.thegeekstuff.com/2010/04/unix-tar-command-examples/)
+更多的例子[ The Ultimate Tar Command Tutorial with 10 Practical Examples ](http://www.thegeekstuff.com/2010/04/unix-tar-command-examples/)<!-- more -->
 2. grep 
 在文件中查找特定字符串（大小写敏感） 
 [code language="bash"]$ grep -i "the" demo_file [/code]

@@ -19,4 +19,3 @@ categories:
   肉体不死，Hacker Ethic常在！
 
   Happy New Year!
-y New Year!

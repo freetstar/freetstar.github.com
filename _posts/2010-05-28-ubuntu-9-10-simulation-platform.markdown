@@ -27,7 +27,7 @@ tags:
 
 	 (2)准备 下载包server monitor logger 网址：[http://sourceforge.net/projects/sserver/](http://sourceforge.net/projects/sserver/) 网址内有各种版本的包，应根据实际情况进行选择，同时每个版本的发行日志应该下载阅读。同时还有其他的工具，如观看录像工具。
 
-	 （3）前期安装 
+	<!-- more --> （3）前期安装 
 
 	 在终端中输入以下命令
 
@@ -72,6 +72,4 @@ tags:
 	 具体网址见： [https://launchpad.net/~rm1232002/+archive/rcss+lucid](https://launchpad.net/~rm1232002/+archive/rcss+lucid) PS：有的安装步骤需要权限，请加sudo 情况可能有所变化，但万变不离其宗。。。
 
 	 比赛平台的配置与安装的ubuntu操作系统有关，有的库和软件装时本身已安装。建议用DVD安装ubuntu。或者安装完毕后以DVD作为一个更新的数据源。为了方便系统重装和实现离线升级，把第一次在/var/cache/apt/archives的deb包找到并复制保存，待以后使用
-
-�据源。为了方便系统重装和实现离线升级，把第一次在/var/cache/apt/archives的deb包找到并复制保存，待以后使用
 

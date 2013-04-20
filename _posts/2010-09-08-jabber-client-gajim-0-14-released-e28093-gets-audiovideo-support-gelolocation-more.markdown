@@ -52,5 +52,3 @@ categories:
 
 	PS：Gailm比pigdin的XMPP支持更为强大，是Linux下Gtalk客户端首选
 
-P支持更为强大，是Linux下Gtalk客户端首选
-

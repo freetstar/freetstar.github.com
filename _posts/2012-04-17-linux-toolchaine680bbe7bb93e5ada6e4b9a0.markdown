@@ -21,4 +21,3 @@ categories:
 我给linux工具链这一节做了个总结的slide，欢迎围观，简单介绍了linux工具链的各方面
 
 地址：[http://www.freetstar.com/slides/linuxtoolchain.html](http://www.freetstar.com/slides/linuxtoolchain.html)
-uxtoolchain.html)

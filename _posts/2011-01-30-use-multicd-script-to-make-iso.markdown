@@ -37,7 +37,7 @@ categories:
 
 到这里下载Gparted:[http://sourceforge.net/projects/gparted/files/gparted-live-stable/](http://sourceforge.net/projects/gparted/files/gparted-live-stable/)
 
-到这里下载Clonezila:[http://clonezilla.org/downloads.php](http://clonezilla.org/downloads.php)
+到这里下载Clonezila:[http://clonezilla.org/downloads.php](http://clonezilla.org/downloads.php)<!-- more -->
 
 ![](http://i.imgur.com/IW00Z.png)
 

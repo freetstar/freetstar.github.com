@@ -38,7 +38,7 @@ tags:
 	安装好之后，打开插件的options，再打开style标签，点击LDR Simple，对All sites 挑上沟，把里面的字体改一下，保存重启或刷新。 我是把.item_title { font-size: 18px !important; }中的18px，改成 16px的 补充：发现上人人时左侧显示字体过大，故将LDR Simple中的.item{}的30px改成16px，刷新后显示正常 [http://www.baidu.com/](http://www.baidu.com/) 完美，字体不发虚 [http://www.cnbeta.com/](http://www.cnbeta.com/) 完美，字体不发虚，而且整体页面给人感觉很好
 
 > 
-	总结：比较完美的解决办法，强力推荐！！！
+	总结：比较完美的解决办法，强力推荐！！！<!-- more -->
 
 > 
 	实验3: 
@@ -75,8 +75,6 @@ tags:
 	
   * 
 		**[http://forum.ubuntu.org.cn/viewtopic.php?f=8&t=267006 ](http://forum.ubuntu.org.cn/viewtopic.php?f=8&t=267006 ) 看8楼**
-
-	如果有其他方法，请留言，我会做进一步实验和总结
 
 	如果有其他方法，请留言，我会做进一步实验和总结
 

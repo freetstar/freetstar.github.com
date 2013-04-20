@@ -18,6 +18,8 @@ categories:
 
 	我的联系方式是:
 
+	<!-- more -->
+
 	msn:lgxwqq@126.com
 
 	gtalk:lgxwqq@gtalk.com
@@ -40,11 +42,6 @@ categories:
 > 
 > 
 		[http://bbs.quickbest.com.cn/thread-93390-1-1.html  
-
-		](http://bbs.quickbest.com.cn/thread-93390-1-1.html)
-	
-> 
-> 
 
 		](http://bbs.quickbest.com.cn/thread-93390-1-1.html)
 	

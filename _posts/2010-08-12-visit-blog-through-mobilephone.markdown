@@ -24,5 +24,3 @@ categories:
 
 	 此插件支持wap.mysite.com域名
 
-件支持wap.mysite.com域名
-

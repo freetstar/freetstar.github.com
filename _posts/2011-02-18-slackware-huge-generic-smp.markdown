@@ -28,7 +28,7 @@ search --no-floppy --fs-uuid --set dea45308-63fa-4014-83b6-dadd1c4802ea
 
 linux /vmlinuz-generic-2.6.33.4 root=/dev/sda2
 
-}
+}<!-- more -->
 
 menuentry "Slackware Linux (Slackware 13.1.0) (on /dev/sda2)" {
 
@@ -133,8 +133,5 @@ huge模式从字面上来看就是很大，huge本来是在linux系统安装时�
 [http://mirror.switch.ch/ftp/mirror/slackware/slackware-12.2/README.initrd](http://mirror.switch.ch/ftp/mirror/slackware/slackware-12.2/README.initrd)
 
 [http://www.linuxforums.org/forum/slackware-linux/115663-add-slackware-grub.html](http://www.linuxforums.org/forum/slackware-linux/115663-add-slackware-grub.html)
-
-[http://blogold.chinaunix.net/u2/63038/showart_500230.html](http://blogold.chinaunix.net/u2/63038/showart_500230.html)
-15663-add-slackware-grub.html](http://www.linuxforums.org/forum/slackware-linux/115663-add-slackware-grub.html)
 
 [http://blogold.chinaunix.net/u2/63038/showart_500230.html](http://blogold.chinaunix.net/u2/63038/showart_500230.html)

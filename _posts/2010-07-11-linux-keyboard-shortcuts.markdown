@@ -94,7 +94,7 @@ categories:
 	
 > 
 > 
-		Alt-l  把光标所在单词转换为小写
+		Alt-l  把光标所在单词转换为小写<!-- more -->
 	
 > 
 > 
@@ -611,6 +611,4 @@ categories:
 	 [http://forum.ubuntu.org.cn/viewtopic.php?t=120712&sid=65039dec78fce92e90a43a2df86179a9](http://forum.ubuntu.org.cn/viewtopic.php?t=120712&sid=65039dec78fce92e90a43a2df86179a9)
 
 	 [http://wiki.ubuntu.org.cn/index.php?title=Gnome快捷键&variant=zh-tw](http://wiki.ubuntu.org.cn/index.php?title=Gnome%E5%BF%AB%E6%8D%B7%E9%94%AE&variant=zh-tw)
-
-&variant=zh-tw](http://wiki.ubuntu.org.cn/index.php?title=Gnome%E5%BF%AB%E6%8D%B7%E9%94%AE&variant=zh-tw)
 

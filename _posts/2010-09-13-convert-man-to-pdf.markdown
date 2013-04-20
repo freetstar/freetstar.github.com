@@ -16,7 +16,7 @@ categories:
 
 	命令
 
-	[code]man -t bash |ps2pdf - bash.pdf[/code]
+	[code]man -t bash |ps2pdf - bash.pdf[/code]<!-- more -->
 
 	解释：
 
@@ -31,6 +31,4 @@ categories:
 	[code]man -t man|ps2pdf - man.pdf[/code]
 
 	参考：[http://blogs.gnome.org/happyaron/2010/09/13/convert-man-page-to-pdf/](http://blogs.gnome.org/happyaron/2010/09/13/convert-man-page-to-pdf/)
-
-s.gnome.org/happyaron/2010/09/13/convert-man-page-to-pdf/)
 

@@ -70,7 +70,7 @@ list模式可将不可以打印的字符以^代替，如[TAB]和[SPACE]等空白
 
 效果如图:
 
-[![](http://www.freetstar.com/wp-content/uploads/2012/01/listchar.jpg)](http://www.freetstar.com/wp-content/uploads/2012/01/listchar.jpg)  
+[![](http://www.freetstar.com/wp-content/uploads/2012/01/listchar.jpg)<!-- more -->](http://www.freetstar.com/wp-content/uploads/2012/01/listchar.jpg)  
 
 为了方便，可以添加这个到你的vimrc中，
     
@@ -156,14 +156,6 @@ list模式可将不可以打印的字符以^代替，如[TAB]和[SPACE]等空白
   * vimwiki的介绍
 
 [http://vim.wikia.com/wiki/Converting_tabs_to_spaces](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
-
-  * 
-
-一个关于vim不错的网站，用视频来解释im_.
-
-参考文档: [http://tedlogan.com/techblog3.html](http://tedlogan.com/techblog3.html)
-
-[http://www.imkeke.net/vim-2/vim-tab-config.html](http://www.imkeke.net/vim-2/vim-tab-config.html)
 
   * 
 

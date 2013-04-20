@@ -22,7 +22,7 @@ categories:
 
 		官方主页：[http://linux.chinaunix.net/ebook/](http://linux.chinaunix.net/ebook/)
 
-		说明：最新的业界动态，系统维护，程序应用等，chinaunix官方推出
+		说明：最新的业界动态，系统维护，程序应用等，chinaunix官方推出<!-- more -->
 
 		三：开源通讯
 
@@ -45,10 +45,6 @@ categories:
 		六：Lupa内部参考
 
 		下载地址：[http://www.lupaworld.com/down.php](http://www.lupaworld.com/down.php)
-
-		说明：消息情报分析,开源理念传播,增加内部交流，同时有招聘信息
-
-://www.lupaworld.com/down.php)
 
 		说明：消息情报分析,开源理念传播,增加内部交流，同时有招聘信息
 

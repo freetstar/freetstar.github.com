@@ -42,5 +42,3 @@ sudo /etc/init.d/openvpn reload    //重新读取配置文件
 
 注:有特殊情况的可以改/etc/hosts配置文件.手动指定ip和域名
 
-�置文件.手动指定ip和域名
-

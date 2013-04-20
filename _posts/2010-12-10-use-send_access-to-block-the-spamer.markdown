@@ -20,7 +20,7 @@ Step 2 编辑黑名单
 #vi /etc/postfix/sender_access
 spamer1@expample.com  REJECT
 spamer2@expamle.com   REJECT
-//其中对应的邮箱设置成实际在打扰你的邮箱即可
+//其中对应的邮箱设置成实际在打扰你的邮箱即可<!-- more -->
 Step 3 转换数据库模式
 #postmap /etc/postfix/sender_access
 Step 4 重新加载postfix服务

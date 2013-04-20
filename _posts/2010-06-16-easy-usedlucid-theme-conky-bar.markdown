@@ -13,7 +13,7 @@ categories:
 
 	 [![](http://lh5.ggpht.com/_FJH0hYZmVtc/TBjJdF40qwI/AAAAAAAAIfY/J3feZjZRHNw/124144-1%5B3%5D_thumb%5B9%5D.jpg)](http://lh5.ggpht.com/_FJH0hYZmVtc/TBjJdF40qwI/AAAAAAAAIfY/J3feZjZRHNw/124144-1%5B3%5D_thumb%5B9%5D.jpg?imgmax=800)
 
-	这就是可爱漂亮的lucid conky栏.
+	这就是可爱漂亮的lucid conky栏.<!-- more -->
 
 	安装方法:
 
@@ -104,6 +104,4 @@ categories:
 	若使用新的conky配置,运行conky -c ~/.ConkyWizardTheme/ConkyWizardTheme -q &,相应的开机启动也要做同样的改变
 
 	 VIA{[OMG!Ubuntu](http://www.omgubuntu.co.uk/2010/06/easy-to-use-lucid-themed-conky-bar-now.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+d0od+(Omg!+Ubuntu!))}
-
-ar-now.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+d0od+(Omg!+Ubuntu!))}
 

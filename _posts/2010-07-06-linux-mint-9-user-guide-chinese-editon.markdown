@@ -27,5 +27,3 @@ categories:
 
 	英文文版下载:[Linux  Mint 9 英文版用户手册](http://ftp.heanet.ie/pub/linuxmint.com/docs/user-guide/english_9.0.pdf)
 
-p://ftp.heanet.ie/pub/linuxmint.com/docs/user-guide/english_9.0.pdf)
-

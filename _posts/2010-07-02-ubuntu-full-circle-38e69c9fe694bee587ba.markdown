@@ -23,7 +23,7 @@ tags:
 
 	目前只有英语版本的.在这里帮忙宣传下,中文版本的翻译没有问题,问题出在排版上,希望有兴趣的朋友参与到full circle工作中来,为开源做自己贡献
 
-	另外前端阵子和网友一起翻译了Linux Mint9 用户手册,不出意外,将在近日放出
+	另外前端阵子和网友一起翻译了Linux Mint9 用户手册,不出意外,将在近日放出<!-- more -->
 
 	附:
 
@@ -36,6 +36,4 @@ tags:
 	full circle 中文项目组wiki:[http://wiki.fcctt.org/index.php?title=首页](http://wiki.fcctt.org/index.php?title=%E9%A6%96%E9%A1%B5)
 
 	ubuntu中文社区full circle杂志版块[http://forum.ubuntu.org.cn/viewforum.php?f=153](http://forum.ubuntu.org.cn/viewforum.php?f=153)
-
-ubuntu.org.cn/viewforum.php?f=153](http://forum.ubuntu.org.cn/viewforum.php?f=153)
 

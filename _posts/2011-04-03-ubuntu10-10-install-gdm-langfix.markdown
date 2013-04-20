@@ -41,4 +41,3 @@ ubuntu10.04 32位用户可以下载这个包：[http://ubuntu.srt.cn/ubuntu/pool
 地址：[http://ubuntu.srt.cn/ubuntu/pool/main/g/gdm/](http://ubuntu.srt.cn/ubuntu/pool/main/g/gdm/)
 
 安装之后退出登录再登入即可恢复正常
-安装之后退出登录再登入即可恢复正常

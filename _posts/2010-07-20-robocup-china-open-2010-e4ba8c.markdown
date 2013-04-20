@@ -20,11 +20,11 @@ categories:
 
 ![](http://image163.poco.cn/mypoco/myphoto/20100720/09/5558833020100720094739061_640.jpg)
 
+<!-- more -->
+
 ![](http://image163.poco.cn/mypoco/myphoto/20100720/09/5558833020100720094705018_640.jpg)
 
 ![](http://image163.poco.cn/mypoco/myphoto/20100720/09/5558833020100720094631099_640.jpg)
 
 ![](http://image163.poco.cn/mypoco/myphoto/20100720/09/5558833020100720094553075_640.jpg)
-
-0094553075_640.jpg)
 

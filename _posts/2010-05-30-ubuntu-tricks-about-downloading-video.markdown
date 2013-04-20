@@ -16,5 +16,3 @@ tags:
 
 	 本人用的是google chrome浏览器。有的视频也会被保存到.cache/chrome这个文件夹中
 
-�中
-

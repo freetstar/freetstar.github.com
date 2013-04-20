@@ -30,7 +30,7 @@ categories:
 
 		 linuxgoogle   
 
-		 l33tgoogle  ewmew  
+		 l33tgoogle <!-- more --> ewmew  
 
 		 xx-klingon  
 
@@ -45,10 +45,6 @@ categories:
 		 google mozilla  
 
 		 google gizoogle
-
-		好好玩吧 &_& 
-
-		转自：[http://www.facebook.com/note.php?note_id=139277922773146](http://www.facebook.com/note.php?note_id=139277922773146)
 
 		好好玩吧 &_& 
 

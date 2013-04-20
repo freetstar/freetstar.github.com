@@ -12,7 +12,7 @@ categories:
 
 	1 Facebook
 
-	![](http://media02.hongkiat.com/vintage-ads-modern-technologies/facebook.jpg)
+	![](http://media02.hongkiat.com/vintage-ads-modern-technologies/facebook.jpg)<!-- more -->
 
 	2 Skype
 
@@ -105,16 +105,6 @@ categories:
 	24 Segway
 
 	![](http://media02.hongkiat.com/vintage-ads-modern-technologies/segway.jpg)
-
-	25 Roomba
-
-	![](http://media02.hongkiat.com/vintage-ads-modern-technologies/roomba.jpg)
-
-	26 Washing Machine
-
-	![](http://media02.hongkiat.com/vintage-ads-modern-technologies/washing-machine.jpg)
-
-m/vintage-ads-modern-technologies/segway.jpg)
 
 	25 Roomba
 

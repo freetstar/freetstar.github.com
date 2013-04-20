@@ -57,6 +57,8 @@ python中os.path常用模块
 
 python中用ElementTree来读写处理xml文档
 
+<!-- more -->
+
 添加xml.etree.ElementTree模块
 
 > 
@@ -231,8 +233,5 @@ text ：获取元素的文本内容
 attrib :获取元素的属性，通常是字典数据类型，上边提到过，如{"ID":"07509876"}
 
 getchildren() :获取元素的子元素
-
-更多的资料查看官方文档：[here](http://docs.python.org/library/xml.etree.elementtree.html)
-�元素的子元素
 
 更多的资料查看官方文档：[here](http://docs.python.org/library/xml.etree.elementtree.html)

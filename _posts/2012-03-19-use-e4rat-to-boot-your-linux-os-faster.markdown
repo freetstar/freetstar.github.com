@@ -99,7 +99,3 @@ e4rat是什么，简单来说他可以使系统的启动速度加快，之前我
 > 
 > 
 
-](http://wiki.archlinux.org/index.php/E4rat)
-> 
-> 
-

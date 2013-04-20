@@ -30,5 +30,3 @@ categories:
 
 	 另外ubuntu full circle33中文版放出，详情见：[http://forum.ubuntu.org.cn/viewtopic.php?f=1&t=285719](http://forum.ubuntu.org.cn/viewtopic.php?f=1&t=285719)
 
-untu.org.cn/viewtopic.php?f=1&t=285719)
-

@@ -24,6 +24,8 @@ categories:
 
 	 识别这些错误应该是很简单的：./configure的错误会被configure脚本输出，make和make install错误也应该很明显被识别。下面分类说明3种错误和解决办法：
 
+	<!-- more --> 
+
 	一：  ./configure 错误
 
 	 以下根据错误出现频率一一道来。第一个是经常性出现错误（是选择性的）。（）中表示可选，OR表示有一致的解决办法，<>表示内的文字由具体情况具体表示
@@ -254,14 +256,6 @@ categories:
 	1 。configure程序带有很多参数，可以通过 ./configure --help 查看详细内容,通常位于前面的是常规configure的参数说明，末尾是该程序的可用参数说明。  
 
 	2。pkg-config编译问题请参阅：[http://www.linuxeden.com/forum/viewthread.php?tid=164524](http://www.linuxeden.com/forum/viewthread.php?tid=164524)
-
-	3 。我喜欢以编译的方式安装软件。。虽然包管理系统没办法记录。。
-
-	4。推荐这篇文章，也很不错  
-
-	 [http://www.linuxeden.com/forum/viewthread.php?tid=164524](http://www.linuxeden.com/forum/viewthread.php?tid=164524) 
-
-�问题请参阅：[http://www.linuxeden.com/forum/viewthread.php?tid=164524](http://www.linuxeden.com/forum/viewthread.php?tid=164524)
 
 	3 。我喜欢以编译的方式安装软件。。虽然包管理系统没办法记录。。
 

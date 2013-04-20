@@ -22,7 +22,7 @@ categories:
 
  ![](http://media02.hongkiat.com/regex-tools-resources/preview.jpg)
 
-下面正式介绍一些有用的正则表达式工具和资源
+下面正式介绍一些有用的正则表达式工具和资源<!-- more -->
 
 **桌面版的：**
 
@@ -135,6 +135,4 @@ categories:
   * [37 Tested PHP, Perl, and JavaScript Regular Expressions](http://www.virtuosimedia.com/tutorials/37-tested-php-perl-and-javascript-regular-expressions)
 	
   * [8 Regular Expressions You Should Know](http://net.tutsplus.com/tutorials/other/8-regular-expressions-you-should-know/)
-
- You Should Know](http://net.tutsplus.com/tutorials/other/8-regular-expressions-you-should-know/)
 

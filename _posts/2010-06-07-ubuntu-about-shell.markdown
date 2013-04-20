@@ -44,6 +44,8 @@ free the fish
 
 > sudo apt-get install girlfriend
 
+<!-- more -->
+
 正在读取软件包列表... 完成   
 
 正在分析软件包的依赖关系树... 完成  
@@ -61,6 +63,8 @@ girlfriend: 依赖: car但是它将不会被安装
 house,car: 依赖: money但是它将不会被安装   
 
 E: 无法安装的软件包
+
+<!-- more -->
 
 7 每天的财富
 
@@ -131,10 +135,6 @@ fortune
 17 改变标题栏按钮的位置
 
 > gconftool-2 --set /apps/metacity/general/button_layout --type string "maximize,minimize,close:menu"
-
-未完待续，不断更新中。。。
-
-**
 
 未完待续，不断更新中。。。
 

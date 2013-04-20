@@ -42,7 +42,7 @@ Iperf利用TCP和UDP不同特点来提供网络链接情况
 
 例子:
 
-![](http://www.linuxaria.com/wp-content/uploads/2011/01/iperf_labo.gif)
+![](http://www.linuxaria.com/wp-content/uploads/2011/01/iperf_labo.gif)<!-- more -->
 
 安装:
 
@@ -189,12 +189,6 @@ server端:
     <span style="font-family: Tahoma, Verdana, Arial; line-height: normal; white-space: normal;">检测网络的负载情况，延时等其他网络性能，对于tcp和udp都有很好的检测，有易读的输出结果</span>
     
     <span style="font-family: Tahoma, Verdana, Arial; line-height: normal; white-space: normal;">参考：</span><a href="http://e2epi.internet2.edu/thrulay/thrulayd.man.html">http://e2epi.internet2.edu/thrulay/thrulayd.man.html</a>
-
-个人觉得thrulay，iperf需要好好研究下
-
- 
-
-ht: normal; white-space: normal;">参考：</span><a href="http://e2epi.internet2.edu/thrulay/thrulayd.man.html">http://e2epi.internet2.edu/thrulay/thrulayd.man.html</a>
 
 个人觉得thrulay，iperf需要好好研究下
 

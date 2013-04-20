@@ -14,5 +14,3 @@ categories:
 
 	[![](http://www.freetstar.com/wp-content/uploads/2010/06/b_large_USQc_36540003c7a82d14-212x300.jpg)](http://www.freetstar.com/wp-content/uploads/2010/06/b_large_USQc_36540003c7a82d14.jpg)希望代表中国出战的中科大蓝鹰仿真组能够卫冕成功，也愿中国的其他队伍能够赛出水平，为国争光！祝你们好运！！！
 
-�运！！！
-

@@ -24,7 +24,7 @@ categories:
 
 到这里看还不算亮点,看各位楼下的同志们的评语和调侃图吧,这才强大
 
-[Hezion](https://github.com/HezionGreat ):Success!!  //站着说话不腰疼的
+[Hezion](https://github.com/HezionGreat ):Success!!  //站着说话不腰疼的<!-- more -->
 
 [jschairb](https://github.com/jschairb):where's the 'like' button? //FB党找like按钮的
 
@@ -123,15 +123,6 @@ linux下最好对rm做如下处理,安全性最高
     
      if [ -w $log ]; then
        echo -e "[$stamp]\t$file\t=>\t[$trash_file]" |tee -a $log
-       else
-       echo -e "[$stamp]\t$file\t=>\t[$trash_file]"
-     fi
-    
-     shift   #increment the loop
-     done
-    }
-
- -e "[$stamp]\t$file\t=>\t[$trash_file]" |tee -a $log
        else
        echo -e "[$stamp]\t$file\t=>\t[$trash_file]"
      fi

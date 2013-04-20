@@ -19,6 +19,8 @@ categories:
 
 	你可以通过LiveCD安装此操作系统,当然如果你喜欢她的主题的话,你也可以独自获取该版本的主题和图标
 
+	<!-- more -->
+
 	获取方法
 
 	1下载GPG KEY,打开终端输入
@@ -56,6 +58,4 @@ deb http:://ubuntusatanic.org/hell jaunty main
 	更多截屏:[http://ubuntusatanic.org/screenshots.php](http://ubuntusatanic.org/screenshots.php)
 
 	本文参考[http://linux.cn/home/space-4646-do-thread-id-3678.html](http://linux.cn/home/space-4646-do-thread-id-3678.html)
-
-�[http://linux.cn/home/space-4646-do-thread-id-3678.html](http://linux.cn/home/space-4646-do-thread-id-3678.html)
 

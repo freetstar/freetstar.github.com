@@ -207,12 +207,3 @@ Now Time is : <% out.println(new Date()); %>
 打开浏览器输入：http://localhost/showtime.jsp出现时间，整合成功
 
 六 ：本人新手，本文档也不是原文档，是自己总结的，可能会有错误，仅供参考
-ava" import="java.util.*"%>
-
-Now Time is : <% out.println(new Date()); %>
-
-打开浏览器输入：http://localhost:8080  大猫出现，ok，tomcat运行正常
-
-打开浏览器输入：http://localhost/showtime.jsp出现时间，整合成功
-
-六 ：本人新手，本文档也不是原文档，是自己总结的，可能会有错误，仅供参考

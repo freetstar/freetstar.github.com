@@ -32,5 +32,3 @@ categories:
 
 via{[here](http://ubuntuguide.net/how-to-install-google-earth-in-ubuntu-10-10-maverick)}
 
-gle-earth-in-ubuntu-10-10-maverick)}
-

@@ -24,7 +24,7 @@ categories:
 
 	 ro quiet splash的行，用 rw init=/bin/bash替换，然后按Ctrl+X（或者B键）来以修改后的Grub加载系统
 
-	 这样，你以root身份登陆系统，然后开始重设你的密码。
+	 这样，你以root身份登陆系统，然后开始重设你的密码。<!-- more -->
 
 	二：重设密码
 
@@ -41,10 +41,6 @@ categories:
 	 3) 重启系统
 
 	 reboot -f
-
-	三：正常使用您的系统吧
-
-	via{[HERE](http://www.panoet.com/)}
 
 	三：正常使用您的系统吧
 

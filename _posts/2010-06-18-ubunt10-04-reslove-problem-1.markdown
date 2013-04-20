@@ -23,7 +23,7 @@ categories:
 	
 > 
 > 
-		我的电脑是ubuntu9。10，从9.10直接升级到10.04 ，参考此帖
+		我的电脑是ubuntu9。10，从9.10直接升级到10.04 ，参考此帖<!-- more -->
 	
 > 
 > 
@@ -331,10 +331,6 @@ categories:
 >     <span style="font-size:14px;"><span style="font-family:comic sans ms,cursive;"><span style="color: #000000;"> </span>增加：Option "NoLogo"</span></span>
 >     
 >     <span style="font-size:14px;"><span style="font-family:comic sans ms,cursive;"><span style="color: #000000;">保存后重启，发现一切ok。</span></span></span>
-> 
-> 
-
-�切ok。</span></span></span>
 > 
 > 
 

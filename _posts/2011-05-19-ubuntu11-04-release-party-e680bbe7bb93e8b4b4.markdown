@@ -14,7 +14,7 @@ categories:
 
 先把今天活动大致流程图片发一下
 
-首先是我简单介绍了一下Linux＆Ubuntu，有点紧张,上去讲完都出汗了
+首先是我简单介绍了一下Linux＆Ubuntu，有点紧张,上去讲完都出汗了<!-- more -->
 
 ![](http://i.imgur.com/ajCAa.jpg)
 
@@ -73,24 +73,6 @@ categories:
  
 
 不知道还要说点啥,要总结的还要更多,各种方面的
-
-fuck 官僚!
-
- 
-
- 
-
- 
-
-![](http://i.imgur.com/Q8l33.jpg)
-
- 
-
- 
-
- 
-
-��点啥,要总结的还要更多,各种方面的
 
 fuck 官僚!
 

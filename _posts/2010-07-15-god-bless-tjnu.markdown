@@ -24,5 +24,3 @@ categories:
 
 	Pay a visit:[http://www.hengruitongze.com/](http://www.hengruitongze.com/)
 
-e.com/](http://www.hengruitongze.com/)
-

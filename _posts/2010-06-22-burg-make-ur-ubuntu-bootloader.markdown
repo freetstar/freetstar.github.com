@@ -49,6 +49,8 @@ tags:
 > 
 > 
 
+	<!-- more -->  
+
 	当出现下面图案时，直接回车即可
 
 	[![](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot3-300x215.png)](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot3.png)
@@ -80,10 +82,6 @@ tags:
 	1:可能会导致开机Logo变模糊
 
 	2:不知道与[http://www.freetstar.com/index.php/ubuntu-10-04-9-10grub2-splash-picure](http://www.freetstar.com/index.php/ubuntu-10-04-9-10grub2-splash-picure)里的包是否会冲突
-
-	3:毕竟是对Grub操作，做好grub重装的准备，不过基本上没有问题
-
-	4:删除burg的时候，因为倚赖关系会提示删除Grub2,这一步选择否就是了
 
 	3:毕竟是对Grub操作，做好grub重装的准备，不过基本上没有问题
 

@@ -24,7 +24,3 @@ tags:
 
 	从网上收集来的一些ubuntu stamp
 
-10/06/8500c0ab3b3884a480b2adfd36fec94f1.png)
-
-	从网上收集来的一些ubuntu stamp
-

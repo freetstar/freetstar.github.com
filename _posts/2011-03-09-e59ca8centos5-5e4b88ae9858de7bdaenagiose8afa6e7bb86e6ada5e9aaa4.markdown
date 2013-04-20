@@ -49,7 +49,7 @@ categories:
 	
   * usermod -a -G nagcmd nagios
 	
-  * usermod -a -G nagcmd apache //把apache运行用户加到nagcmd,这里是apache,当然你可以用其他名字，比如说nobody
+  * usermod -a -G nagcmd apache //把apache运行用户加到nagcmd,这里是apache,当然你可以用其他名字，比如说nobody<!-- more -->
 
 第三步：下载必要的包包
 	
@@ -172,10 +172,6 @@ categories:
 ![](http://i.imgur.com/BQwea.png)
 
 这样nagios的基本已经配置完毕，发觉网上有的文章比较老，还是推荐阅读官方的安装手册
-
-[http://nagios.sourceforge.net/docs/3_0/quickstart-fedora.html](http://nagios.sourceforge.net/docs/3_0/quickstart-fedora.html)
-
-��配置完毕，发觉网上有的文章比较老，还是推荐阅读官方的安装手册
 
 [http://nagios.sourceforge.net/docs/3_0/quickstart-fedora.html](http://nagios.sourceforge.net/docs/3_0/quickstart-fedora.html)
 

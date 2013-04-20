@@ -41,6 +41,8 @@ categories:
 > 
 > 
 
+	<!-- more -->  
+
 	截图:
 
 	![](http://www.ubuntugeek.com/wp-content/uploads/2010/06/Screenshot-1.png)
@@ -48,10 +50,6 @@ categories:
 	使用:在任意面板上单击右键,选择"添加到面板",选择"Ubuntu System Tool",单击添加
 
 	Via{[UbuntuGeek](http://www.ubuntugeek.com/ubuntu-system-panel-simple-menu-and-launcher-for-gnome-desktop-environment.html)}
-
-	实际总结:没截图那么好看.用起来不习惯.她这个模仿的是SUSE的SLAB,貌似Linux Mint采用的也是这种主菜单
-
-](http://www.ubuntugeek.com/ubuntu-system-panel-simple-menu-and-launcher-for-gnome-desktop-environment.html)}
 
 	实际总结:没截图那么好看.用起来不习惯.她这个模仿的是SUSE的SLAB,貌似Linux Mint采用的也是这种主菜单
 

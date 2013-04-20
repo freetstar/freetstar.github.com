@@ -94,6 +94,8 @@ categories:
 > 
 > 
 
+	<!-- more -->
+
 > 
 	
 > 
@@ -192,6 +194,4 @@ categories:
 	参考资料：[http://sardis.ycool.com/post.2911493.html](http://sardis.ycool.com/post.2911493.html)
 
 	 [http://forum.ubuntu.org.cn/viewtopic.php?t=107532](http://forum.ubuntu.org.cn/viewtopic.php?t=107532)
-
-/forum.ubuntu.org.cn/viewtopic.php?t=107532](http://forum.ubuntu.org.cn/viewtopic.php?t=107532)
 

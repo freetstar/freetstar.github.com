@@ -36,7 +36,3 @@ arch的pacman安装中
 
 恩，很水，睡觉
 
-![](http://i.imgur.com/WNmbi.png)
-
-恩，很水，睡觉
-

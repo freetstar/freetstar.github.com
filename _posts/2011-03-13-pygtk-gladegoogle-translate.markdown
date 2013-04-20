@@ -18,6 +18,7 @@ categories:
 
 源码：
 
+<!-- more -->
 [code language="python"]
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
@@ -105,6 +106,4 @@ if __name__=='__main__':
 [/code]
 为什么wordpress总爱把下划线给吃掉=_=
 源码文件：[here](http://www.freetstar.com/uploads/pyGT.py),glade文件：[here](http://www.freetstar.com/uploads/pyGT.glade)
-
-yGT.glade)
 

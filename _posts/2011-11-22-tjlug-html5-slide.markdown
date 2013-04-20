@@ -24,5 +24,3 @@ categories:
 
 **slide使用landslide和restructedText制造,这是是rst源文件:[here](http://www.freetstar.com/slides/html5intro.rst)**
 
-ides/html5intro.rst)**
-

@@ -67,5 +67,3 @@ categories:
 
 	[![](http://www.freetstar.com/wp-content/uploads/2010/06/1249962215Rv7fp83R-213x300.jpg)](http://www.freetstar.com/wp-content/uploads/2010/06/1249962215Rv7fp83R.jpg)
 
-Rv7fp83R.jpg)
-

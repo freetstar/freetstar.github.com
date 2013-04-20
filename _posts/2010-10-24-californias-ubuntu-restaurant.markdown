@@ -14,7 +14,7 @@ categories:
 
 	首先上菜单~
 
-	![](http://imgur.com/jIJqk.jpg)
+	![](http://imgur.com/jIJqk.jpg)<!-- more -->
 
 	餐厅的招牌
 
@@ -43,6 +43,4 @@ categories:
 	原作者:Dustin Kirkland is a Core Developer of the [Ubuntu Server](https://launchpad.net/~kirkland) for [Canonical](http://www.canonical.com/), and founder of [**DivItUp.com**](https://www.divitup.com/) and[**LinuxSearch.org**](http://linuxsearch.org/).
 
 	原文:[http://blog.dustinkirkland.com/2010/10/ubuntu-restaurant-101010.html](http://blog.dustinkirkland.com/2010/10/ubuntu-restaurant-101010.html)
-
-urant-101010.html](http://blog.dustinkirkland.com/2010/10/ubuntu-restaurant-101010.html)
 

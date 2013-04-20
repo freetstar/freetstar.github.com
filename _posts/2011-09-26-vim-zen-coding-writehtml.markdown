@@ -24,7 +24,7 @@ vim.org主页：[http://www.vim.org/scripts/script.php?script_id=2981](http://ww
 > 
 
 > 
-> unzip zencoding-vim.zip
+> unzip zencoding-vim.zip<!-- more -->
 > 
 > 
 
@@ -236,10 +236,6 @@ vim.org主页：[http://www.vim.org/scripts/script.php?script_id=2981](http://ww
      \ },
      \}
      ---------------------
-      let g:user_zen_expandabbr_key = '<c-e>'//即"<c-y>,"都变成<c-e>了
-    
-      let g:use_zen_complete_tag = 1
----
       let g:user_zen_expandabbr_key = '<c-e>'//即"<c-y>,"都变成<c-e>了
     
       let g:use_zen_complete_tag = 1

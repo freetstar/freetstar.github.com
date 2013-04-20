@@ -34,7 +34,7 @@ categories:
 
 	 让学生能够在一张也页面学习Unix shell的基本命令
 
-	 地址：[http://freeengineer.org/learnUNIXin10minutes.html](http://freeengineer.org/learnUNIXin10minutes.html)
+	 地址：[http://freeengineer.org/learnUNIXin10minutes.html<!-- more -->](http://freeengineer.org/learnUNIXin10minutes.html)
 
 	5 How To Look Like A UNIx Guru
 
@@ -71,10 +71,6 @@ categories:
 	 伟大的sun公司的网站，包括了数以吨计的Unix，shell script 资料
 
 	 地址：[http://www.sun.com/bigadmin/shellme/](http://www.sun.com/bigadmin/shellme/)
-
-	via:[HERE](http://www.cyberciti.biz/tips/linux-unix-commands-cheat-sheets.html)
-
-ww.sun.com/bigadmin/shellme/](http://www.sun.com/bigadmin/shellme/)
 
 	via:[HERE](http://www.cyberciti.biz/tips/linux-unix-commands-cheat-sheets.html)
 

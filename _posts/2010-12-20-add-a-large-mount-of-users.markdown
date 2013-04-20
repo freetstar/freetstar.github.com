@@ -20,7 +20,7 @@ categories:
       5         useradd -s /bin/bash temp$ID
       6         echo "passwd"|passwd --stdin temp$ID
       7 done
-[/code]
+[/code]<!-- more -->
 #可以根据自己的情况给用户添加选项，同时也可以将用户列表写到某个特定文件中去，$（cat userlist）来读取    
 #另外redhat4U8下的useradd和adduser是一个东东，不存在神马传说中的区别，如果您有兴趣的话，可以围观下这个http://hi.chinaunix.net/?uid-20766364-action-viewspace-itemid-34721                                                                                            
 方法二：

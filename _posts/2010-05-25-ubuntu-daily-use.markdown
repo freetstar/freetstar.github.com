@@ -16,5 +16,3 @@ categories:
 
 	[![qq2009](http://www.freetstar.com/wp-content/uploads/2010/05/qq2009-.jpg)](http://www.freetstar.com/wp-content/uploads/2010/05/qq2009-.jpg) [![libfetion](http://www.freetstar.com/wp-content/uploads/2010/05/libfetion1.jpg)](http://www.freetstar.com/wp-content/uploads/2010/05/libfetion1.jpg) [![openfetion](http://www.freetstar.com/wp-content/uploads/2010/05/openfetion1.jpg)](http://www.freetstar.com/wp-content/uploads/2010/05/openfetion1.jpg)[![](http://www.freetstar.com/wp-content/uploads/2010/05/pidgin1.jpg)](http://www.freetstar.com/wp-content/uploads/2010/05/pidgin1.jpg) [![](http://www.freetstar.com/wp-content/uploads/2010/05/terminal1.jpg)](http://www.freetstar.com/wp-content/uploads/2010/05/terminal1.jpg) 
 
-0/05/terminal1.jpg) 
-

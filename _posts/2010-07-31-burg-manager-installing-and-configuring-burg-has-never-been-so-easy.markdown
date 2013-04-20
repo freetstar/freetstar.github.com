@@ -23,7 +23,7 @@ categories:
 
 	//Translation Begin
 
-	 ![](http://www.sourceslist.eu/wp-content/uploads/2010/06/logoburgmanager.png)
+	 ![](http://www.sourceslist.eu/wp-content/uploads/2010/06/logoburgmanager.png)<!-- more -->
 
 	 由Ingalex & Canopus0003编写的Burg-manager，以[BUC](http://buc.billeragroup.net/?page_id=15)为基础。此软件的目标是通过简单直观的图形界面，来管理BURG 引导器，而无须使用终端命令。
 
@@ -178,18 +178,6 @@ categories:
 > 
 
 	 想跟上Burg-manager发行版的脚步吗？假如facebook的[fan page](http://www.facebook.com/pages/Sourceslisteu/366814072412)吧
-
-	//Translation end
-
-	 二：软件汉化
-
-	 汉化之初，[Ingalex](http://www.sourceslist.eu/) 提示我要更换中文编码以此来显示中文，我把所有中文编码都尝试了，可是显示出来的都还是乱码。。
-
-	 之前自己也没有汉化的经验，故也在此求救，忘高人指点！
-
-	 HELP！！！！！！！
-
-上Burg-manager发行版的脚步吗？假如facebook的[fan page](http://www.facebook.com/pages/Sourceslisteu/366814072412)吧
 
 	//Translation end
 

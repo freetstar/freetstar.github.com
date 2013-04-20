@@ -62,5 +62,3 @@ categories:
 
 	原文链接:[http://www.ubuntugeek.com/gnome-paint-a-simple-easy-to-use-paint-program-for-gnome.html](http://www.ubuntugeek.com/gnome-paint-a-simple-easy-to-use-paint-program-for-gnome.html)
 
-me-paint-a-simple-easy-to-use-paint-program-for-gnome.html)
-

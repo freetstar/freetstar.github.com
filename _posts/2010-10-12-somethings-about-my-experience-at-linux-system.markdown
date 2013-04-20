@@ -16,7 +16,7 @@ categories:
 
 	推荐几个Ubuntu10.10的几个资讯类Blog：[WOW！ubuntu](http://wowubuntu.com/)，[UbuntuHome](http://www.ubuntuhome.com/)，[UbuntuSoft](http://www.ubuntusoft.com/)
 
-	前几天看到Jasey Wang和[Carlos_Gong](http://ibfsu.com/blog/author/carlos_gong/)同学写的[感想](http://jaseywang.info/2010/10/10/%E5%86%99%E5%9C%A8ubuntu-10-10%E5%8F%91%E8%A1%8C%E4%B9%8B%E9%99%85/)，想想自己的经历，我也想写写。
+	前几天看到Jasey Wang和[Carlos_Gong](http://ibfsu.com/blog/author/carlos_gong/)同学写的[感想](http://jaseywang.info/2010/10/10/%E5%86%99%E5%9C%A8ubuntu-10-10%E5%8F%91%E8%A1%8C%E4%B9%8B%E9%99%85/)，想想自己的经历，我也想写写。<!-- more -->
 
 	![](http://lh6.ggpht.com/_1QSDkzYY2vc/TH1VlsjajrI/AAAAAAAABw4/IagZGQklDVM/fantasy_ubuntu_10_10_wallpaper.png)
 
@@ -35,6 +35,4 @@ categories:
 	 最近学校保我研究生了，学院主任想让我继续给他做苦力，而我这几天又在公司实习工作，搞得心里很纠结。。然后这几天学院非得强制学生去企业实习，不让自主实习，不讲道理，我也没管学院的事情，我该去我的自主实习就去我的自主实习，不信堂堂一个学校能不让我毕业。。。
 
 	 我已经买了10月16号天津到北京的火车票了，等着去北京参加Ubuntu10.10 北京 release Party了，哈哈，运气好的话捞几件衣服回来
-
-se Party了，哈哈，运气好的话捞几件衣服回来
 

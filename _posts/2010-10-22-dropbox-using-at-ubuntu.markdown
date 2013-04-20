@@ -14,7 +14,7 @@ categories:
 
 	 Dropbox 是一个优秀的云端储存同步服务。Dropbox 可跨平台同步，目前的客户端已支持 Linux，Windows，Mac OS 及部分 Mobile 系统，如 Android，iPhone，BlackBerry等，安装十分方便。它还提供 Web 访问及操作，它是你电脑的一部分……如果你只有一台电脑，可以用它来当作网盘储存数据，也可以把文件或目录共享给其他人；如果你有多台电脑，可以同步每台电脑上需要共享的数据，而不必拿 U 盘或移动硬盘导来导去。只需要把需要同步的文件或目录放入 Dropbox 中，便可随时随地使用这些数据。
 
-	Dropbox在"中国"的安装方法：
+	Dropbox在"中国"的安装方法：<!-- more -->
 
 	 由于各种"原因"，我们无法正常的安装和使用。。。JUST FUCK G#F#W#！我推荐你拥有1枚ssh账号，你懂得！在这里我们利用ssh来安装Dropbox。这里使用Proxychains工具来安装Dropbox，ProxyChains工具的使用方法：[here](http://wiki.wowubuntu.com/blog/ubuntu_ssh_tunneling)
 
@@ -85,10 +85,6 @@ categories:
 	 Dropbox默认有2G的免费空间，每邀请1位新增用户，双方获得250M的空间。免费上限为10G。我的邀请链接是：[http://www.dropbox.com/referrals/NTExMTc0MDUzOQ](http://www.dropbox.com/referrals/NTExMTc0MDUzOQ)
 
 	参考文章：[http://www.maizidi.com/dropbox-sync-other-folders/](http://www.maizidi.com/dropbox-sync-other-folders/)
-
-	 [http://wowubuntu.com/vps-dropbox.html](http://wowubuntu.com/vps-dropbox.html)//其实是p哥写的日志,我就不再外链了
-
-p://www.maizidi.com/dropbox-sync-other-folders/](http://www.maizidi.com/dropbox-sync-other-folders/)
 
 	 [http://wowubuntu.com/vps-dropbox.html](http://wowubuntu.com/vps-dropbox.html)//其实是p哥写的日志,我就不再外链了
 

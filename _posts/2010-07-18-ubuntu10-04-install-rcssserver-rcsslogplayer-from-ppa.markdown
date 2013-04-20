@@ -27,5 +27,3 @@ categories:
 
 	本人没有亲自尝试此方法，故rcssserver和rcsslogplayer的版本不祥。。。其实一直觉得亲自从源代码编译安装软件是最好的
 
-译安装软件是最好的
-

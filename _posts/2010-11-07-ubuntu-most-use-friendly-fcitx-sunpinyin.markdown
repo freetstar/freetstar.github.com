@@ -91,7 +91,3 @@ categories:
 
 	huber_star:[http://www.linuxsir.org/bbs/thread372879.html](http://www.linuxsir.org/bbs/thread372879.html)
 
-	[http://www.nenew.net/fcitx-sunpinyin.html](http://www.nenew.net/fcitx-sunpinyin.html)
-
-	huber_star:[http://www.linuxsir.org/bbs/thread372879.html](http://www.linuxsir.org/bbs/thread372879.html)
-

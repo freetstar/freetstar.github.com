@@ -33,7 +33,7 @@ categories:
 
 		](http://www.nvidia.cn/object/linux-display-amd64-256.35-driver-cn.html)本本情况：显卡8400M GS ,缓存64mb，CPU T2330，主频1.6G  
 
-		驱动情况：之前使用的是Nvidia 195系列驱动  
+		驱动情况：之前使用的是Nvidia 195系列驱动<!-- more -->  
 
 		安装方法：  
 
@@ -65,10 +65,6 @@ sudo sh -c "echo 'deb-src http://ppa.launchpad.net/nvidia-vdpau/ppa/ubuntu UBUNT
 		3 安装完毕后nvidia-xserver提示版本还是195,重启后提示版本为256.35
 
 		 [![](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot4.png)](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot4.png)
-
-		PS：如果想恢复原来驱动的话，可以删除此源，重新安装驱动即可
-
-com/wp-content/uploads/2010/06/Screenshot4.png)
 
 		PS：如果想恢复原来驱动的话，可以删除此源，重新安装驱动即可
 

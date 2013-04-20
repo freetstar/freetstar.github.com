@@ -31,6 +31,8 @@ sudo dpkg -i *.deb
 再次运行
 sudo dpkg -i *.deb
 
+<!-- more -->
+
 二:安装virtualBox4.0
 
 如果之前安装过
@@ -61,4 +63,3 @@ mkdir profile4.0b8
 
 然后创建快捷方式,图标什马的自己选一个就好了,命令是关键
 /opt/firefox/firefox -profile /opt/firefox/profile4.0b8
-0b8

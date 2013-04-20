@@ -19,7 +19,7 @@ categories:
 
 	 Flashget 网际快车 for Linux 
 
-	 Linux下面的多源下载工具
+	 Linux下面的多源下载工具<!-- more -->
 
 	 Features
 
@@ -86,12 +86,6 @@ categories:
 	 1 附件中README的sudo ln -s libexpat.so.1.5.2 libexpt.so.0拼写错误.
 
 	 2  我的PC中/usr/lib 只有libexpat.so ,没关系,都是做软链接,同样的道理.运行命令
-
-	 sudo ln -s  /usr/lib/libexpat.so /usr/lib/libexpat.so.0
-
-	 3  做好上述工作后,我直接在文件夹下运行./wxFlashget,提示错误.加权限后sudo ./wxFlashget运行正常
-
-只有libexpat.so ,没关系,都是做软链接,同样的道理.运行命令
 
 	 sudo ln -s  /usr/lib/libexpat.so /usr/lib/libexpat.so.0
 

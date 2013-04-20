@@ -14,7 +14,7 @@ categories:
 
 如图：
 
-[![](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)
+[![](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)<!-- more -->](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)
 
 在右侧显示馆藏信息，显示图书在师大图书馆的书号，序号，馆藏位置，方便读者进行查阅。
 
@@ -33,6 +33,4 @@ categories:
 使用：
 
 打开豆瓣的图书页面就能用了
-
-�瓣的图书页面就能用了
 

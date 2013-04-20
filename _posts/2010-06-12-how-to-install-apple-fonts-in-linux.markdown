@@ -28,6 +28,8 @@ sudo fc-cache -f -v [/code]
 
 			` ![](http://lh6.ggpht.com/_1QSDkzYY2vc/TBJ9hIGHWxI/AAAAAAAABPQ/1GqbDINLA-0/s288/AppleGaramond.ttf_001.png) `
 
+			<!-- more -->  
+
 			` ![](http://lh3.ggpht.com/_1QSDkzYY2vc/TBJ9hSE_I5I/AAAAAAAABPU/ldsQcHZMpfE/s288/Lucida%20Grande.ttf_002.png)`
 
 			`  
@@ -37,6 +39,4 @@ sudo fc-cache -f -v [/code]
 			`翻译:[FreeTstar](http://www.freetstar.com)`
 
 			`VIA{[http://www.webupd8.org/2010/06/how-to-install-apple-mac-osx-fonts-in.html](http://www.webupd8.org/2010/06/how-to-install-apple-mac-osx-fonts-in.html)}`
-
-sx-fonts-in.html](http://www.webupd8.org/2010/06/how-to-install-apple-mac-osx-fonts-in.html)}`
 

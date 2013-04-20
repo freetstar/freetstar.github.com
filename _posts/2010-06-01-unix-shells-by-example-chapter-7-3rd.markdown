@@ -38,7 +38,7 @@ categories:
 
 	注:以上内容被写进chapter7这个文档
 
-	请编写一个用户自定义函数,要求该函书能返回指定月份的人均捐款数额.月份由命令行传入
+	请编写一个用户自定义函数,要求该函书能返回指定月份的人均捐款数额.月份由命令行传入<!-- more -->
 
 	文件内容:
 
@@ -138,19 +138,6 @@ categories:
 			
 >   17. 
 				END{printf "The #%d month's average is %6.2f \n",month,aver}
-			
-> 
-	
-> 
-> 
-	
-> 
-> 
-	
-> 
-> 
-
-f "The #%d month's average is %6.2f \n",month,aver}
 			
 > 
 	

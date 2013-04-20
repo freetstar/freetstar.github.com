@@ -48,7 +48,7 @@ categories:
 	
 > 
 > 
-		 rm -rf ~/.gnome* ~/.gconf*
+		 rm -rf ~/.gnome* ~/.gconf*<!-- more -->
 	
 > 
 > 
@@ -100,11 +100,6 @@ categories:
 > 
 > 
 		 本人安装时是sudo apt-get install rar unrar ,只需要sudo apt-get autoremove rar 即可,即把rar卸载就可解决乱码问题
-	
-> 
-> 
-
-t-get autoremove rar 即可,即把rar卸载就可解决乱码问题
 	
 > 
 > 

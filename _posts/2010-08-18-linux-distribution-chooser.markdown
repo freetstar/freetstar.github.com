@@ -25,9 +25,7 @@ tags:
 
 	 单击网站下方的"Take the test"，开始您的旅程吧，注意选择语言
 
-	网站截图：
+	网站截图：<!-- more -->
 
 	 ![](http://fc02.deviantart.net/fs71/f/2010/228/3/a/my_by_freetstar.png)
-
-t/fs71/f/2010/228/3/a/my_by_freetstar.png)
 

@@ -29,6 +29,7 @@ categories:
 	
 > 
 > 
+		<!-- more -->
 	
 > 
 > 
@@ -113,10 +114,6 @@ categories:
 	注意：你可以在~/，bashrc文件中，改变提示图标等提示消息。具体设置可以看notify-send的man手册
 
 	VIA{[Web Upd8](http://www.webupd8.org/2010/07/get-notified-when-job-you-run-in.html)}
-
-	` `
-
-/07/get-notified-when-job-you-run-in.html)}
 
 	` `
 

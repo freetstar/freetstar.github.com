@@ -44,6 +44,8 @@ categories:
 
 	 现在所有丢失的认证密钥都已经安装好了。你可以到系统-系统管理-软件源-身份认证中查看
 
+	<!-- more -->
+
 	 翻译：[FreeTstar](http://www.freetstar.tcom)
 
 	 via{[Ubuntu Explorer](http://ubuntuexplore.blogspot.com/2010/05/ubuntu-how-to-download-missing-gpg-key.html)}
@@ -61,13 +63,6 @@ categories:
 		导入密匙：  
 
 		gpg --export --armor ******** | sudo apt-key add -  
-
-		注： * 号是指密匙的后八位
-	
-> 
-> 
-
--  
 
 		注： * 号是指密匙的后八位
 	

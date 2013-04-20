@@ -63,4 +63,3 @@ _192.168.0.29以为192.168.0.24就是192.168.0.1，192.168.0.1以为192.168.0.24
 [http://microcai.gsalex.net/archives/2010/11/p2p-killer-for-linux.html](http://microcai.gsalex.net/archives/2010/11/p2p-killer-for-linux.html)
 
 [http://www.yuanma.org/data/2006/0914/article_1536.htm](http://www.yuanma.org/data/2006/0914/article_1536.htm)
-06/0914/article_1536.htm](http://www.yuanma.org/data/2006/0914/article_1536.htm)

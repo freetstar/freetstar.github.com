@@ -47,5 +47,3 @@ chroot真是个不错的东东
 
 PS:解决glibc强制--force后遗症的办法之一：[hehe](http://forum.ubuntu.org.cn/viewtopic.php?f=155&t=380980)
 
-untu.org.cn/viewtopic.php?f=155&t=380980)
-

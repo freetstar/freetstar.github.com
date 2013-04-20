@@ -1,0 +1,701 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT">
+<head>
+<script language="Javascript" src="http://www.sourceslist.eu/ccount/display.php"></script>
+	<title>SOURCES.LIST &raquo; Pagina non trovata.</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
+	<meta name="generator" content="WordPress 3.5.1" /> <!-- leave this for stats please -->
+<meta name="description" content="Sourceslist.eu is a blog where you can find latest Linux news, tips and trick. This site tries to support the best ideas and ingenuity of users to develop many useful open source projects. Burg-Manager and Repo-Finder are only some of this project. You can suggest your idea and your project and you can collaborate on sourceslist.eu. Give your contribute to opensource." />
+<meta name="keywords" content="opensource,burg-manager,project,user,ubuntu,chakra,linux,archlinux,idea,develop,collaboration,distro,repo-finder,repository,search,engine,free,program,gui,blog,forum,aggregator" />
+<meta name="robots" content="all,index,follow">
+<meta name="copyright" content="sourceslist.eu">
+<meta name="DC language" content="ita,eng" scheme="RFC1766">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link rel="stylesheet" type="text/css" href="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/themes/Bright-Field/style.css" media="screen" />
+	<link href='http://fonts.googleapis.com/css?family=Nunito&v1' rel='stylesheet' type='text/css' />
+					  
+	
+		
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds2.feedburner.com/Sourceslist" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.sourceslist.eu/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.sourceslist.eu/feed/atom/" />
+	<link rel="pingback" href="http://www.sourceslist.eu/xmlrpc.php" />
+	
+	<!--[if IE 6]>
+	<script src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/themes/Bright-Field/js/DD_belatedPNG_0.0.8a-min.js"></script>
+	<script>
+		DD_belatedPNG.fix('*');
+	</script>
+	<![endif]-->
+
+
+
+
+
+<script type="text/javascript" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/themes/Bright-Field/js/total.js"></script>
+
+
+
+
+
+		<link rel='archives' title='aprile 2013' href='http://www.sourceslist.eu/2013/04/' />
+	<link rel='archives' title='marzo 2013' href='http://www.sourceslist.eu/2013/03/' />
+	<link rel='archives' title='febbraio 2013' href='http://www.sourceslist.eu/2013/02/' />
+	<link rel='archives' title='gennaio 2013' href='http://www.sourceslist.eu/2013/01/' />
+	<link rel='archives' title='dicembre 2012' href='http://www.sourceslist.eu/2012/12/' />
+	<link rel='archives' title='novembre 2012' href='http://www.sourceslist.eu/2012/11/' />
+	<link rel='archives' title='ottobre 2012' href='http://www.sourceslist.eu/2012/10/' />
+	<link rel='archives' title='settembre 2012' href='http://www.sourceslist.eu/2012/09/' />
+	<link rel='archives' title='agosto 2012' href='http://www.sourceslist.eu/2012/08/' />
+	<link rel='archives' title='luglio 2012' href='http://www.sourceslist.eu/2012/07/' />
+	<link rel='archives' title='giugno 2012' href='http://www.sourceslist.eu/2012/06/' />
+	<link rel='archives' title='maggio 2012' href='http://www.sourceslist.eu/2012/05/' />
+	<link rel='archives' title='aprile 2012' href='http://www.sourceslist.eu/2012/04/' />
+	<link rel='archives' title='marzo 2012' href='http://www.sourceslist.eu/2012/03/' />
+	<link rel='archives' title='febbraio 2012' href='http://www.sourceslist.eu/2012/02/' />
+	<link rel='archives' title='gennaio 2012' href='http://www.sourceslist.eu/2012/01/' />
+	<link rel='archives' title='dicembre 2011' href='http://www.sourceslist.eu/2011/12/' />
+	<link rel='archives' title='novembre 2011' href='http://www.sourceslist.eu/2011/11/' />
+	<link rel='archives' title='ottobre 2011' href='http://www.sourceslist.eu/2011/10/' />
+	<link rel='archives' title='settembre 2011' href='http://www.sourceslist.eu/2011/09/' />
+	<link rel='archives' title='agosto 2011' href='http://www.sourceslist.eu/2011/08/' />
+	<link rel='archives' title='luglio 2011' href='http://www.sourceslist.eu/2011/07/' />
+	<link rel='archives' title='giugno 2011' href='http://www.sourceslist.eu/2011/06/' />
+	<link rel='archives' title='maggio 2011' href='http://www.sourceslist.eu/2011/05/' />
+	<link rel='archives' title='aprile 2011' href='http://www.sourceslist.eu/2011/04/' />
+	<link rel='archives' title='marzo 2011' href='http://www.sourceslist.eu/2011/03/' />
+	<link rel='archives' title='febbraio 2011' href='http://www.sourceslist.eu/2011/02/' />
+	<link rel='archives' title='gennaio 2011' href='http://www.sourceslist.eu/2011/01/' />
+	<link rel='archives' title='dicembre 2010' href='http://www.sourceslist.eu/2010/12/' />
+	<link rel='archives' title='novembre 2010' href='http://www.sourceslist.eu/2010/11/' />
+	<link rel='archives' title='ottobre 2010' href='http://www.sourceslist.eu/2010/10/' />
+	<link rel='archives' title='luglio 2010' href='http://www.sourceslist.eu/2010/07/' />
+	<link rel='archives' title='giugno 2010' href='http://www.sourceslist.eu/2010/06/' />
+	<link rel='archives' title='maggio 2010' href='http://www.sourceslist.eu/2010/05/' />
+	<link rel='archives' title='aprile 2010' href='http://www.sourceslist.eu/2010/04/' />
+	<link rel='archives' title='marzo 2010' href='http://www.sourceslist.eu/2010/03/' />
+	<link rel='archives' title='febbraio 2010' href='http://www.sourceslist.eu/2010/02/' />
+	<link rel='archives' title='gennaio 2010' href='http://www.sourceslist.eu/2010/01/' />
+	<link rel='archives' title='dicembre 2009' href='http://www.sourceslist.eu/2009/12/' />
+	<link rel='archives' title='novembre 2009' href='http://www.sourceslist.eu/2009/11/' />
+	<link rel='archives' title='ottobre 2009' href='http://www.sourceslist.eu/2009/10/' />
+	<link rel='archives' title='settembre 2009' href='http://www.sourceslist.eu/2009/09/' />
+	<link rel='archives' title='giugno 2009' href='http://www.sourceslist.eu/2009/06/' />
+	<link rel='archives' title='maggio 2009' href='http://www.sourceslist.eu/2009/05/' />
+	<link rel='archives' title='aprile 2009' href='http://www.sourceslist.eu/2009/04/' />
+	<link rel='archives' title='marzo 2009' href='http://www.sourceslist.eu/2009/03/' />
+	<link rel='archives' title='febbraio 2009' href='http://www.sourceslist.eu/2009/02/' />
+	<link rel='archives' title=' 0' href='http://www.sourceslist.eu/2013/04/' />
+	
+	
+	
+	<link rel='stylesheet' id='thickbox-css'  href='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-includes/js/thickbox/thickbox.css?ver=20121105' type='text/css' media='all' />
+<link rel='stylesheet' id='sidebar-login-css'  href='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/sidebar-login/assets/css/sidebar-login.css?ver=2.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='xGABStyle-css'  href='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/give-a-beer/style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='avhec-widget-css'  href='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/extended-categories-widget/3.3/css/avh-ec.widget.css?ver=3.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='smp_style-css'  href='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/wp-super-popup/colorbox.css?ver=1699281839' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/wp-plus-one/wp-plus-one.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/sidebar-login/assets/js/blockui.min.js?ver=2.57'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sidebar_login_params = {"ajax_url":"http:\/\/www.sourceslist.eu\/wp-admin\/admin-ajax.php","login_nonce":"7cb52c3537","force_ssl_login":"0","force_ssl_admin":"0","is_ssl":"0","i18n_username_required":"Please enter your username","i18n_password_required":"Please enter your password"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/sidebar-login/assets/js/sidebar-login.min.js?ver=2.5.0'></script>
+<script type='text/javascript' src='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/wp-super-popup/jquery.colorbox-min.js?ver=1888351056'></script>
+<script type='text/javascript' src='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/wp-super-popup/jquery.utils-min.js?ver=972741170'></script>
+<script type='text/javascript' src='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/give-a-beer/script.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sourceslist.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+
+<!-- Generated with Facebook Meta Tags plugin by Shailan ( http://shailan.com/ ) --> 
+	<meta property="og:title" content="SOURCES.LIST" />
+	<meta property="og:type" content="blog" />
+	<meta property="og:url" content="http://www.sourceslist.eu" />
+	<meta property="og:image" content="" />
+	<meta property="og:site_name" content="SOURCES.LIST" />
+	<meta property="fb:app_id" content="136300759761557"/>
+	<meta property="og:description"
+          content="Il sito di riferimento per le sources.list" />
+<!-- End of Facebook Meta Tags -->
+<link rel="stylesheet" type="text/css" href="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/wp-recaptcha/recaptcha.css" /><script type="text/javascript">
+	jQuery.noConflict();
+	jQuery(document).ready(function($) {
+		$(document).ready(function(){
+			var smp_cookie_name_a = 'smp_1365336477850_a';//1
+			var smp_cookie_name_b = 'smp_1365336477850_b';//2
+			var smp_cookie_num_visits = 3;
+			var smp_show_mode = 1;
+			function smp_show_popup(){
+								setTimeout(function() 	{ $.fn.colorbox({
+											fixed: true,
+											width:"570px", 
+											height:"590px", 
+											iframe:true, 
+											opacity:0.5, 
+											speed:700, 
+											overlayClose:true, 
+											href:'http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/smp_plain_popup.html'}) 
+										}, 
+							2000);
+			}
+			function smp_reset_cookies(){
+				c_value_a = $.cookie(smp_cookie_name_a);
+				c_value_b = $.cookie(smp_cookie_name_b);
+				if (smp_show_mode == 1 && c_value_b != null){
+					$.cookie(smp_cookie_name_b, null, { path: '/', expires: 0 });
+					return true;
+				} else if (smp_show_mode == 2 && c_value_a != null){
+					$.cookie(smp_cookie_name_a, null, { path: '/', expires: 0 });
+					return true;
+				} else {
+					return false;
+				}
+			}
+			$(document).ready(function(){
+				var date = new Date();
+				if (!smp_reset_cookies()){
+					c_value_a = $.cookie(smp_cookie_name_a);
+					c_value_b = $.cookie(smp_cookie_name_b);
+					if (smp_show_mode == 1){
+						date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
+						c_value = c_value_a;
+						smp_cookie_name = smp_cookie_name_a;
+					} else if (smp_show_mode == 2){
+						date.setTime(date.getTime() + (100000 * 24 * 60 * 60 * 1000));
+						c_value = c_value_b;
+						smp_cookie_name = smp_cookie_name_b;
+					}
+					if (c_value == null){	
+				    $.cookie(smp_cookie_name, '0', { path: '/', expires: date });
+						smp_show_popup();
+					} else {
+						//cookie exists
+						if (smp_show_mode == 2){
+							date.setTime(date.getTime() + (100000 * 24 * 60 * 60 * 1000));
+							c_value++;
+							$.cookie(smp_cookie_name, c_value, { path: '/', expires: date });
+							if (c_value < smp_cookie_num_visits){
+								smp_show_popup();
+							}
+						}
+					}
+				}
+			});
+		});
+	});
+</script>
+	
+	<!-- BEGIN Tynt Script -->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('bYBe-20Xqr4A9Eacwqm_6l');Tynt.i={"ap":"Read more:"};
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- END Tynt Script -->
+	
+	
+	
+</head>
+
+<body>
+<div class="wrapper">
+	
+
+	<!-- BEGIN UPPER MENU -->		
+	<div id="top-menu"> 
+    <div id="top-menu-inner" class="clearfix">
+
+		 <!-- end div #myslidemenu -->
+				<div id="feedburner">
+			<p><a href="http://feedburner.google.com/fb/a/mailverify?uri=Sourceslist"><img src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/themes/Bright-Field/images/feedburner.gif" alt="Subscribe via email"/> </a></p>
+		</div>
+
+				<div id="twitter">
+			<p><a href="http://www.twitter.com/ingalex81"><img src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/themes/Bright-Field/images/twitter.gif" alt="Follow my tweet"/> </a></p>
+		</div>
+				<div id="facebook">
+			<p><a href="http://www.facebook.com/sourceslist.eu"><img src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/themes/Bright-Field/images/facebook.gif" alt="Subcribe to my fan page"/> </a></p>
+		</div>
+						<div id="googleplus">
+			<p><a href="https://plus.google.com/u/0/115334211140773370905/posts"><img src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/themes/Bright-Field/images/google_plus.gif" alt="Subcribe to my fan page"/> </a></p>
+		</div>
+		<div id="feed">
+			<p><a href="http://feeds2.feedburner.com/Sourceslist"><img src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/themes/Bright-Field/images/feed.gif" alt="Subcribe to my feed"/> </a></p>
+		</div> <!-- end #feed -->
+
+
+
+    </div> <!-- end div #top-menu-inner -->
+	</div> <!-- end div #top-menu -->
+	<!-- END UPPER MENU -->
+
+
+	<!-- BEGIN HEADER -->
+	<div id="header">
+    <div id="header-inner" class="clearfix">
+
+		<div id="logo">
+		<a href="http://www.sourceslist.eu/" title="SOURCES.LIST">
+							<img src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/themes/Bright-Field/images/logo.gif" alt="SOURCES.LIST" />
+					</a>	
+		</div>
+					
+			
+    </div> <!-- end div #header-inner -->
+	</div> <!-- end div #header -->
+
+	<!-- END HEADER -->
+
+	<!-- BEGIN TOP NAVIGATION -->		
+	<div id="navigation"> 
+    <div id="navigation-inner" class="clearfix">
+
+		<div id="myslidemenu" class="jqueryslidemenu transparent_class clearfix">
+			<ul><li><a href="http://www.sourceslist.eu/">Home</a></li><li class="page_item page-item-3189"><a href="http://www.sourceslist.eu/aggregator/">Aggregator</a></li>
+<li class="page_item page-item-1240"><a href="http://www.sourceslist.eu/forum/">Forum</a></li>
+<li class="page_item page-item-1410"><a href="http://www.sourceslist.eu/info/">Info</a>
+<ul class='children'>
+	<li class="page_item page-item-1792"><a href="http://www.sourceslist.eu/info/disclaimer-e-privacy/">Disclaimer e Privacy</a></li>
+	<li class="page_item page-item-2794"><a href="http://www.sourceslist.eu/info/donate/">Donate</a></li>
+	<li class="page_item page-item-3993"><a href="http://www.sourceslist.eu/info/my-ppa-launchpad/">My PPA Launchpad</a></li>
+	<li class="page_item page-item-2810"><a href="http://www.sourceslist.eu/info/press-releases/">Press Releases</a></li>
+	<li class="page_item page-item-1385"><a href="http://www.sourceslist.eu/info/help/">Proponi repository</a></li>
+	<li class="page_item page-item-183"><a href="http://www.sourceslist.eu/info/contattami/">Contact me</a></li>
+	<li class="page_item page-item-236"><a href="http://www.sourceslist.eu/info/antipixel/">Antipixel</a></li>
+</ul>
+</li>
+<li class="page_item page-item-3539"><a href="http://www.sourceslist.eu/projects/">Projects</a>
+<ul class='children'>
+	<li class="page_item page-item-2922"><a href="http://www.sourceslist.eu/projects/burg-manager/">Burg-Manager</a></li>
+	<li class="page_item page-item-3790"><a href="http://www.sourceslist.eu/projects/idg/">Linux IDCG</a></li>
+	<li class="page_item page-item-3544"><a href="http://www.sourceslist.eu/projects/super-boot-manager/">Super-boot-manager</a></li>
+</ul>
+</li>
+<li class="page_item page-item-216"><a href="http://www.sourceslist.eu/guide/">Guide</a></li>
+<li class="page_item page-item-300"><a href="http://www.sourceslist.eu/repofinder/">Repo-Finder</a></li>
+</ul>		</div> <!-- end div #myslidemenu -->
+		<div id="search"><form method="get" id="searchform" action="http://www.sourceslist.eu/">
+	<div>
+		<input type="text" value="Search" name="s" id="s" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+		<input type="submit" id="searchsubmit" value="Go" />
+	</div>
+</form>
+</div>
+
+
+		
+    </div> <!-- end div #navigation-inner -->
+    </div> <!-- end div #navigation -->
+	<!-- END TOP NAVIGATION -->
+<div id="navigation-adsense" ><p><script type="text/javascript"><!--
+google_ad_client = "ca-pub-8175246967106851";
+/* UNDER MENU HEADER */
+google_ad_slot = "1052845513";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p></div>
+<!--</br>
+</br>
+</br>
+</br>
+</br>	-->
+	
+	<!-- BEGIN PAGE -->
+	<div id="page">
+    <div id="page-inner" class="clearfix">
+		<div id="content">
+			<div class="post clearfix">
+				<h2>404 Error&#58; Not Found</h2>
+				<div class="entry">
+					<h3>Oops!</h3>
+					<p>Sorry, but the page you are trying to reach is unavailable or does not exist.</p>
+				<h3>You may interested with this</h3>
+					<h4>Random Posts</h4>
+	<ul>
+				<li><a href="http://www.sourceslist.eu/notizie/supportate-il-sito/">SUPPORTATE IL SITO</a></li>
+				<li><a href="http://www.sourceslist.eu/software-tramite-repository/rilasciata-la-versione-3-6-5-di-libre-office/">Rilasciata la versione 3.6.5 di Libre Office</a></li>
+				<li><a href="http://www.sourceslist.eu/software-tramite-repository/installare-yahoo-messenger-su-kubuntu/">Installare Yahoo! Messenger su K/Ubuntu</a></li>
+				<li><a href="http://www.sourceslist.eu/software-tramite-repository/rilasciata-la-versione-1-5-20-di-wine/">Rilasciata la versione 1.5.20 di Wine</a></li>
+				<li><a href="http://www.sourceslist.eu/blog/plasmacon-lemulatore-di-terminale-sempre-sul-desktop/">Plasmacon, l&#8217;emulatore di terminale sempre sul desktop</a></li>
+			</ul>
+				</div>				
+			</div> <!-- end div .post -->
+		</div> <!-- end div #content -->
+			
+<div id="sidebar">	
+			<div class="box clearfloat">
+				<div class="boxinside clearfloat">
+<center>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8175246967106851";
+/* sidebar new template2 */
+google_ad_slot = "1280163099";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8175246967106851";
+/* sidebar secondo */
+google_ad_slot = "9158605536";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+
+<!--<center><div style="overflow:hidden;margin:0;border:0;padding:0;width:300px;height:250px;"><a href="http://roia.biz/ts/n/t5ujvq1BAAMcKkMAAAgWQgAAdRpmMQA-A/" style="margin:0;border:0;padding:0;" target="_top" ><img src="http://roia.biz/ts/v/wHe6vq1BAAMcKkMAAAgWQgAAdRo-A/d/12076/i?_=87241" border="0" style="margin:0;border:0;padding:0;width:300px;height:250px;" alt="echo 4geek" /></a></div>
+
+
+</center>//-->
+
+				</div>
+			</div>
+		<div class="box clearfloat">
+	<div class="boxinside clearfloat">
+
+		<div id="sidebartop">
+			<div id="sidebartabs">
+		
+				<ul class="tabs">
+				    <li><h4><a href="#tab1">Latest</a></h4></li>
+				    <li><h4><a href="#tab2">Popular</a></h4></li>
+				    <li><h4><a href="#tab3">Tags</a></h4></li>
+				</ul>
+				
+				<div class="tab_container">
+				
+				    <div id="tab1" class="tab_content">
+						<ul>
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2013/04/wpid-kernel1-150x150.png" class="alignleft wp-post-image" alt="wpid-kernel.png" />									 <a title="Rilasciata la versione 3.9-rc6 del kernel mainline" href="http://www.sourceslist.eu/software-tramite-repository/rilasciata-la-versione-stabile-del-kernel-mainline-versione-3-9-rc6/" rel="bookmark">Rilasciata la versione 3.9-rc6 del kernel mainline</a><br />apr 08, 2013									 <div class="clear"></div>
+								</li>			
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2012/12/wpid-enlightenment1-150x150.png" class="alignleft wp-post-image" alt="wpid-enlightenment.png" />									 <a title="Rilasciata la versione 1.7.6 di Enlightenment" href="http://www.sourceslist.eu/software-tramite-repository/rilasciata-la-versione-1-7-6-di-enlightenment/" rel="bookmark">Rilasciata la versione 1.7.6 di Enlightenment</a><br />apr 05, 2013									 <div class="clear"></div>
+								</li>			
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2013/04/wpid-opera-100x100.png" class="alignleft wp-post-image" alt="wpid-opera.png" />									 <a title="Rilasciata la versione 12.15 di Opera" href="http://www.sourceslist.eu/software-tramite-repository/rilasciata-la-versione-12-15-di-opera/" rel="bookmark">Rilasciata la versione 12.15 di Opera</a><br />apr 04, 2013									 <div class="clear"></div>
+								</li>			
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2013/04/wpid-libreoffice-100x100.png" class="alignleft wp-post-image" alt="wpid-libreoffice.png" />									 <a title="Rilasciata la versione 4.0.2 di Libre Office" href="http://www.sourceslist.eu/software-tramite-repository/rilasciata-la-versione-4-0-2-di-libre-office/" rel="bookmark">Rilasciata la versione 4.0.2 di Libre Office</a><br />apr 04, 2013									 <div class="clear"></div>
+								</li>			
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2013/04/wpid-mate-150x150.png" class="alignleft wp-post-image" alt="wpid-mate.png" />									 <a title="Rilasciata la versione 1.6.0 di Mate" href="http://www.sourceslist.eu/software-tramite-repository/rilasciata-la-versione-1-6-0-di-mate/" rel="bookmark">Rilasciata la versione 1.6.0 di Mate</a><br />apr 04, 2013									 <div class="clear"></div>
+								</li>			
+																					</li>
+						</ul>
+				    </div>
+
+				    <div id="tab2" class="tab_content">
+						<ul>
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2010/06/logoburgmanager-150x150.png" class="alignleft wp-post-image" alt="logoburgmanager" />									<a href="http://www.sourceslist.eu/burg-2/burg-manager-configurare-e-installare-il-burg-non-e-mai-stato-cosi-semplice/" title="Burg-Manager: configurare e installare il Burg non è mai stato così semplice">
+									Burg-Manager: configurare e installare il Burg non è mai stato così semplice</a><br />118 comments
+									<div class="clear"></div>
+								</li>
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2010/06/logoburgmanager-150x150.png" class="alignleft wp-post-image" alt="logoburgmanager" />									<a href="http://www.sourceslist.eu/blog/linux-blog/burg-manager-installing-and-configuring-burg-has-never-been-so-easy/" title="Burg-Manager: installing and configuring Burg has never been so easy">
+									Burg-Manager: installing and configuring Burg has never been so easy</a><br />99 comments
+									<div class="clear"></div>
+								</li>
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2010/06/logoburgmanager-150x150.png" class="alignleft wp-post-image" alt="logoburgmanager" />									<a href="http://www.sourceslist.eu/burg-2/burg-manager/burg-manager-download-and-installation/" title="Burg-Manager: Download and Installation">
+									Burg-Manager: Download and Installation</a><br />45 comments
+									<div class="clear"></div>
+								</li>
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2010/11/taben1-150x150.png" class="alignleft wp-post-image" alt="taben1" />									<a href="http://www.sourceslist.eu/burg-2/burg-manager/burg-manager-1-0-0-released/" title="Burg-manager 1.0.0 released">
+									Burg-manager 1.0.0 released</a><br />40 comments
+									<div class="clear"></div>
+								</li>
+															<li class="latest-post">
+									<img width="40" height="40" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2011/05/octo_m-150x150.png" class="alignleft wp-post-image" alt="octo_m" />									<a href="http://www.sourceslist.eu/blog/linux-blog/super-boot-manager-buc-version-download-installation/" title="Super-boot-manager buc version: Download & Installation">
+									Super-boot-manager buc version: Download & Installation</a><br />39 comments
+									<div class="clear"></div>
+								</li>
+													</ul>
+				    </div>
+				
+				    <div id="tab3" class="tab_content">
+						<ul>
+							<li><a href='http://www.sourceslist.eu/tag/910/' class='tag-link-375' title='6 argomenti' style='font-size: 11.6853146853pt;'>9.10</a>
+<a href='http://www.sourceslist.eu/tag/add/' class='tag-link-64' title='8 argomenti' style='font-size: 12.6643356643pt;'>add</a>
+<a href='http://www.sourceslist.eu/tag/added/' class='tag-link-53' title='5 argomenti' style='font-size: 11pt;'>added</a>
+<a href='http://www.sourceslist.eu/tag/aggiunti/' class='tag-link-52' title='5 argomenti' style='font-size: 11pt;'>aggiunti</a>
+<a href='http://www.sourceslist.eu/tag/apt/' class='tag-link-15' title='10 argomenti' style='font-size: 13.5454545455pt;'>apt</a>
+<a href='http://www.sourceslist.eu/tag/architettura/' class='tag-link-1639' title='6 argomenti' style='font-size: 11.6853146853pt;'>architettura</a>
+<a href='http://www.sourceslist.eu/tag/burg/' class='tag-link-1211' title='10 argomenti' style='font-size: 13.5454545455pt;'>burg</a>
+<a href='http://www.sourceslist.eu/tag/canonical/' class='tag-link-1170' title='8 argomenti' style='font-size: 12.6643356643pt;'>canonical</a>
+<a href='http://www.sourceslist.eu/tag/commentati/' class='tag-link-51' title='5 argomenti' style='font-size: 11pt;'>commentati</a>
+<a href='http://www.sourceslist.eu/tag/debian/' class='tag-link-24' title='13 argomenti' style='font-size: 14.6223776224pt;'>debian</a>
+<a href='http://www.sourceslist.eu/tag/debug/' class='tag-link-1636' title='7 argomenti' style='font-size: 12.1748251748pt;'>debug</a>
+<a href='http://www.sourceslist.eu/tag/depositi/' class='tag-link-248' title='10 argomenti' style='font-size: 13.5454545455pt;'>depositi</a>
+<a href='http://www.sourceslist.eu/tag/depot/' class='tag-link-247' title='11 argomenti' style='font-size: 13.9370629371pt;'>depot</a>
+<a href='http://www.sourceslist.eu/tag/desktop/' class='tag-link-828' title='8 argomenti' style='font-size: 12.6643356643pt;'>desktop</a>
+<a href='http://www.sourceslist.eu/tag/driver/' class='tag-link-1007' title='8 argomenti' style='font-size: 12.6643356643pt;'>driver</a>
+<a href='http://www.sourceslist.eu/tag/editing/' class='tag-link-49' title='5 argomenti' style='font-size: 11pt;'>editing</a>
+<a href='http://www.sourceslist.eu/tag/engine/' class='tag-link-175' title='9 argomenti' style='font-size: 13.1538461538pt;'>engine</a>
+<a href='http://www.sourceslist.eu/tag/find/' class='tag-link-246' title='8 argomenti' style='font-size: 12.6643356643pt;'>find</a>
+<a href='http://www.sourceslist.eu/tag/ftp/' class='tag-link-249' title='6 argomenti' style='font-size: 11.6853146853pt;'>ftp</a>
+<a href='http://www.sourceslist.eu/tag/gnome/' class='tag-link-193' title='7 argomenti' style='font-size: 12.1748251748pt;'>gnome</a>
+<a href='http://www.sourceslist.eu/tag/gpg/' class='tag-link-13' title='8 argomenti' style='font-size: 12.6643356643pt;'>gpg</a>
+<a href='http://www.sourceslist.eu/tag/ibex/' class='tag-link-33' title='5 argomenti' style='font-size: 11pt;'>ibex</a>
+<a href='http://www.sourceslist.eu/tag/install/' class='tag-link-75' title='8 argomenti' style='font-size: 12.6643356643pt;'>install</a>
+<a href='http://www.sourceslist.eu/tag/intrepid/' class='tag-link-31' title='5 argomenti' style='font-size: 11pt;'>intrepid</a>
+<a href='http://www.sourceslist.eu/tag/jackalope/' class='tag-link-36' title='8 argomenti' style='font-size: 12.6643356643pt;'>jackalope</a>
+<a href='http://www.sourceslist.eu/tag/jaunty/' class='tag-link-35' title='9 argomenti' style='font-size: 13.1538461538pt;'>jaunty</a>
+<a href='http://www.sourceslist.eu/tag/karmic/' class='tag-link-698' title='8 argomenti' style='font-size: 12.6643356643pt;'>karmic</a>
+<a href='http://www.sourceslist.eu/tag/kde/' class='tag-link-139' title='7 argomenti' style='font-size: 12.1748251748pt;'>kde</a>
+<a href='http://www.sourceslist.eu/tag/kernel/' class='tag-link-386' title='10 argomenti' style='font-size: 13.5454545455pt;'>kernel</a>
+<a href='http://www.sourceslist.eu/tag/key/' class='tag-link-12' title='11 argomenti' style='font-size: 13.9370629371pt;'>key</a>
+<a href='http://www.sourceslist.eu/tag/kubuntu/' class='tag-link-131' title='10 argomenti' style='font-size: 13.5454545455pt;'>kubuntu</a>
+<a href='http://www.sourceslist.eu/tag/launchpad/' class='tag-link-100' title='124 argomenti' style='font-size: 23.9230769231pt;'>launchpad</a>
+<a href='http://www.sourceslist.eu/tag/linux/' class='tag-link-37' title='32 argomenti' style='font-size: 18.2447552448pt;'>linux</a>
+<a href='http://www.sourceslist.eu/tag/linux-image/' class='tag-link-1638' title='6 argomenti' style='font-size: 11.6853146853pt;'>linux image</a>
+<a href='http://www.sourceslist.eu/tag/mainline/' class='tag-link-1637' title='7 argomenti' style='font-size: 12.1748251748pt;'>mainline</a>
+<a href='http://www.sourceslist.eu/tag/mint/' class='tag-link-250' title='7 argomenti' style='font-size: 12.1748251748pt;'>mint</a>
+<a href='http://www.sourceslist.eu/tag/modifiche/' class='tag-link-45' title='8 argomenti' style='font-size: 12.6643356643pt;'>modifiche</a>
+<a href='http://www.sourceslist.eu/tag/ppa/' class='tag-link-99' title='122 argomenti' style='font-size: 23.8251748252pt;'>ppa</a>
+<a href='http://www.sourceslist.eu/tag/removed/' class='tag-link-57' title='5 argomenti' style='font-size: 11pt;'>removed</a>
+<a href='http://www.sourceslist.eu/tag/repo-finder/' class='tag-link-171' title='7 argomenti' style='font-size: 12.1748251748pt;'>repo-finder</a>
+<a href='http://www.sourceslist.eu/tag/repofinder/' class='tag-link-172' title='7 argomenti' style='font-size: 12.1748251748pt;'>repofinder</a>
+<a href='http://www.sourceslist.eu/tag/repository/' class='tag-link-11' title='33 argomenti' style='font-size: 18.3426573427pt;'>repository</a>
+<a href='http://www.sourceslist.eu/tag/search/' class='tag-link-167' title='9 argomenti' style='font-size: 13.1538461538pt;'>search</a>
+<a href='http://www.sourceslist.eu/tag/sourceslist/' class='tag-link-5' title='23 argomenti' style='font-size: 16.8741258741pt;'>sources.list</a>
+<a href='http://www.sourceslist.eu/tag/stable/' class='tag-link-29' title='8 argomenti' style='font-size: 12.6643356643pt;'>stable</a>
+<a href='http://www.sourceslist.eu/tag/terminal/' class='tag-link-1019' title='6 argomenti' style='font-size: 11.6853146853pt;'>terminal</a>
+<a href='http://www.sourceslist.eu/tag/theme/' class='tag-link-132' title='7 argomenti' style='font-size: 12.1748251748pt;'>theme</a>
+<a href='http://www.sourceslist.eu/tag/ubuntu/' class='tag-link-14' title='160 argomenti' style='font-size: 25pt;'>ubuntu</a>
+<a href='http://www.sourceslist.eu/tag/update/' class='tag-link-41' title='12 argomenti' style='font-size: 14.2307692308pt;'>update</a>
+<a href='http://www.sourceslist.eu/tag/upgrade/' class='tag-link-43' title='5 argomenti' style='font-size: 11pt;'>upgrade</a></li>
+						</ul>
+				    </div>
+				
+				</div>
+		
+			</div> <!-- end sidebartabs -->
+		</div> <!-- end sidebartop -->
+		
+		<div style="clear:both;"></div>
+
+	</div>
+</div>
+		
+
+		<div class="box clearfloat"><div class="boxinside clearfloat"><h4 class="widgettitle">Translator</h4>			<div class="textwidget"><center><div><div id="google_translate_element"></div><script>function googleTranslateElementInit() {  new google.translate.TranslateElement({    pageLanguage: 'it',    multilanguagePage: true,    layout: google.translate.TranslateElement.InlineLayout.SIMPLE  }, 'google_translate_element');}</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div></center>
+</div>
+		</div></div>    <div class="box clearfloat"><div class="boxinside clearfloat">    <h4 class="widgettitle">Buy Me a Beer!</h4><div align="center">
+    <img style="cursor:pointer;" onClick="xGABSend('http://www.sourceslist.eu/wp-content/plugins/give-a-beer/give.php','https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3E3MG3WNYH334&lc=IT&item_name=www%2esourceslist%2eeu&item_number=give%20a%20beer&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted');" src="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/give-a-beer/transpbeer.jpg" alt="Image of a beer - if this shows instead of the picture, you did not install the plugin corectly"/><br/>
+
+<div id="xGABReturn"><b>2</b> Beers Received</div>
+
+</div>
+
+    </div></div><div class="box clearfloat"><div class="boxinside clearfloat"><!-- AVH Extended Categories version 3.6.6 | http://blog.avirtualhome.com/wordpress-plugins/ --><h4 class="widgettitle">Categorie</h4><select name='extended-categories-select-3' id='extended-categories-select-3' class='postform' >
+	<option value="-1">Selezione categoria</option>
+	<option class="level-0" value="3">NOTIZIE</option>
+	<option class="level-0" value="44">ULTIME MODIFICHE</option>
+	<option class="level-0" value="76">GUIDE</option>
+	<option class="level-0" value="82">UN REPOSITORY AL GIORNO</option>
+	<option class="level-0" value="800">SOFTWARE TRAMITE REPOSITORY</option>
+	<option class="level-0" value="938">BLOG</option>
+	<option class="level-0" value="939">LINUX</option>
+	<option class="level-0" value="1142">COMUNICAZIONI DI SERVIZIO</option>
+	<option class="level-0" value="1145">WEB</option>
+	<option class="level-0" value="1385">BURG</option>
+	<option class="level-0" value="1386">Burg-Manager</option>
+</select>
+<script type='text/javascript'>
+/* <![CDATA[ */
+            var ec_dropdown_3 = document.getElementById("extended-categories-select-3");
+            function ec_onCatChange_3() {
+                if ( ec_dropdown_3.options[ec_dropdown_3.selectedIndex].value > 0 ) {
+                    location.href = "http://www.sourceslist.eu/?cat="+ec_dropdown_3.options[ec_dropdown_3.selectedIndex].value;
+                }
+            }
+            ec_dropdown_3.onchange = ec_onCatChange_3;
+/* ]]> */
+</script>
+</div></div>	
+	
+
+</div> <!-- end div #sidebar --></div> <!-- end div #page-inner -->
+</div> <!-- end div #page -->
+<!-- END PAGE -->
+
+
+	<!-- BEGIN BOTTOM-MENU -->
+<div id="bottom-menu">
+<div id="bottom-menu-inner" class="clearfix">
+	
+<div id="bottom-menu-left">
+	<div id="wp_sidebarlogin-4" class="widget widget_wp_sidebarlogin"><h4>Login</h4>
+		<form name="loginform" id="loginform" action="http://www.sourceslist.eu/wp-login.php" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Username</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" checked="checked" /> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Login &rarr;" />
+				<input type="hidden" name="redirect_to" value="http://www.sourceslist.eu/senza-categoria/show-image/" />
+			</p>
+			
+		</form></div><div id="text-456541831" class="widget widget_text"><h4>Google Pagerank</h4>			<div class="textwidget"><center><div id="SourceListPR">...loading</div>
+<script type="text/javascript" src="http://sourceslisteucdn.appspot.com/sourceslisteu/pr/LWCalcPR.js"></script></center>
+</div>
+		</div><div id="text-372348051" class="widget widget_text"><h4>Licenza</h4>			<div class="textwidget"><center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/it/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/it/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">sourceslist</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sourceslist.eu" property="cc:attributionName" rel="cc:attributionURL">ingalex</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/it/">Creative Commons Attribuzione-Non commerciale-Non opere derivate 2.5 Italia License</a>.<br />Based on a work at <a xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://www.sourceslist.eu" rel="dc:source">www.sourceslist.eu</a></center></div>
+		</div></div> <!-- end div #bottom-menu-left -->
+
+<div id="bottom-menu-center">
+	<div id="text-339828021" class="widget widget_text"><h4>Friend Site</h4>			<div class="textwidget"><map id="imgmap2011816112852" name="imgmap2011816112852"><area shape="rect" alt="Paperblog" title="Paperblog" coords="1,3,98,35" href="http://it.paperblog.com/" target="_blank" /><area shape="rect" alt="Il Bloggatore" title="Il Bloggatore" coords="0,41,78,55" href="http://www.ilbloggatore.com" target="_blank" /><area shape="rect" alt="GiornaleBlog Notizie Blog di Informatica e Internet" title="GiornaleBlog Notizie Blog di Informatica e Internet" coords="83,41,161,54" href="http://giornaleblog.it/informatica-internet" target="_blank" /><area shape="rect" alt="http://www.wikio.it" title="http://www.wikio.it" coords="165,40,244,56" href="http://www.wikio.it/subscribe?url=http%3A%2F%2Ffeeds2.feedburner.com%2FSourceslist" target="_blank" /><area shape="rect" alt="Add to Technorati Favorites" title="Add to Technorati Favorites" coords="0,59,78,72" href="http://technorati.com/faves?sub=addfavbtn&add=http://www.sourceslist.eu" target="_blank" /><area shape="rect" alt="Segnala Feed" title="Segnala Feed" coords="84,59,161,72" href="http://www.segnalafeed.it/" target="_blank" /><area shape="rect" alt="Vero Geek" title="Vero Geek" coords="166,60,244,73" href="http://www.verogeek.com/" target="_blank" /><area shape="rect" alt="Tecnolandia" title="Tecnolandia" coords="0,77,78,90" href="http://www.tecnolandia.info/" target="_blank" /><area shape="rect" alt="Aggregatore di blog" title="Aggregatore di blog" coords="83,77,161,88" href="http://aggregatore.seoguru.it/" target="_blank" /><area shape="rect" alt="Aggregati a KikkeMania.com" title="Aggregati a KikkeMania.com" coords="166,77,245,90" href="http://kikkemania.com" target="_blank" /><area shape="rect" alt="Smilla Magazine" title="Smilla Magazine" coords="0,95,78,108" href="http://smillamagazine.com/" target="_blank" /><area shape="rect" alt="Colombo’S Blog" title="Colombo’S Blog" coords="82,94,161,107" href="http://colombom.altervista.org/" target="_blank" /><area shape="rect" alt="iwinuxfeed.altervista.org" title="iwinuxfeed.altervista.org" coords="166,95,244,108" href="http://iwinuxfeed.altervista.org/aggregatore/" target="_blank" /><area shape="rect" alt="Feedelissimo" title="Feedelissimo" coords="0,112,77,124" href="http://www.feedelissimo.com" target="_blank" /><area shape="rect" alt="bloghissimo" title="bloghissimo" coords="82,112,160,125" href="http://www.bloghissimo.it/" target="_blank" /><area shape="rect" alt="Aggregatore di feed" title="Aggregatore di feed" coords="165,112,245,126" href="http://linuxfeed.org/" target="_blank" /><area shape="rect" alt="Miglior Aggregatore" title="Miglior Aggregatore" coords="0,130,77,140" href="http://www.codicesorgente.it/feedsaggregator" target="_blank" /><area shape="rect" alt="BlogItalia.it" title="BlogItalia.it" coords="83,129,159,142" href="http://www.blogitalia.it/" target="_blank" /><area shape="rect" alt="Iscritto su Mondo Geek.it- aggregatore di news sulle tecnologie" title="Iscritto su Mondo Geek.it- aggregatore di news sulle tecnologie" coords="165,128,245,142" href="http://www.mondogeek.it" target="_blank" /><area shape="rect" alt="Aggregatore Blog" title="Aggregatore Blog" coords="82,144,161,156" href="http://www.miogoogle.com" target="_blank" /><area shape="rect" alt="tua notizia" title="tua notizia" coords="1,145,77,156" href="http://www.tuanotizia.it/" target="_blank" /><area shape="rect" alt="WebShake – tecnologia" title="WebShake – tecnologia" coords="168,145,245,158" href="http://tecnologia.webshake.it" target="_blank" /><area shape="rect" alt="Webso" title="Webso" coords="0,161,78,173" href="http://www.webso.it/" target="_blank" /><area shape="rect" alt="blipper" title="blipper" coords="84,161,161,174" href="http://www.blipper.it/" target="_blank" /><area shape="rect" alt="aggregatutto" title="aggregatutto" coords="167,161,245,174" href="http://www.aggregotutto.com/" target="" /><area shape="rect" alt="limegator" title="limegator" coords="1,176,78,190" href="http://www.limegator.it/" target="_blank" /><area shape="rect" alt="Marco Robutti - Software News" title="Marco Robutti - Software News" coords="82,176,159,189" href="http://marcorobutti.blogspot.com/" target="_blank" /><area shape="rect" alt="eppoliano.net Blog" title="eppoliano.net Blog" coords="166,178,244,189" href="http://www.eppoliano.net" target="_blank" /><area shape="rect" alt="notiziedalweb" title="" title="" co" coords="122,9,245,32" href="http://www.notiziedalweb.eu/" target="_blank" /></map>
+<IMG SRC="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2009/11/aggregatori.gif" ALT="map of RSS" BORDER=0 USEMAP="#imgmap2011816112852">
+<center><a href="http://www.wikio.it/blogs/top/Linux"><img src="http://external.wikio.it/blogs/top/getrank?url=http%3A%2F%2Fwww.sourceslist.eu%2F&amp;cat=Linux&amp;style=8" style="border: none;" alt="Wikio - Top dei blog - Linux"/></a></center></div>
+		</div><div id="text-456541829" class="widget widget_text"><h4>Blogroll</h4>			<div class="textwidget"><style>#blogscroll {overflow: auto; display: block; overflow-x: no; overflow-y: scroll; height: 150px; width:290px; padding-right:3px; scrollbar-3dlight-color:#20B2AA; scrollbar-arrow-color:#000000; scrollbar-base-color:#87CEEB; scrollbar-track-color:#FFFFFF; scrollbar-darkshadow-color:#0000FF; scrollbar-face-color:#6495ED; scrollbar-highlight-color:#00FFFF; scrollbar-shadow-color:#A9A9A9}</style>
+<div id="blogscroll" align=left> 
+<ul>
+<li id="linkcat-2" class="linkcat"><!--Blogroll-->
+	<ul class='xoxo blogroll'>
+<li><a href="http://fds.affinica.com">Franco De Sinno</a></li>
+<li><a href="http://www.geekinformatico.net/">Geekinformatico.net</a></li>
+<li><a href="http://www.landroideminimalista.com">L&#039;androide minimalista</a></li>
+<li><a href="http://www.marentz.it" title="Marentz" target="_blank">Marentz</a></li>
+<li><a href="http://sempresoftware.myblog.it/">Sempre software</a></li>
+<li><a href="http://www.universalsite.org/">Universalsite</a></li>
+
+	</ul>
+</li>
+</ul>
+ </div> 
+</div>
+		</div></div> <!-- end div #bottom-menu-center -->
+
+<div id="bottom-menu-right">
+	<div id="text-456541830" class="widget widget_text"><h4>Help us!</h4>			<div class="textwidget"><center><map id="imgmap201183110031" name="imgmap201183110031"><area shape="rect" alt="contact us" title="" coords="16,139,100,158" href="http://www.sourceslist.eu/info/contattami/" target="_blank" /><!-- Created by Online Image Map Editor (http://www.maschek.hu/imagemap/index) --></map>
+<IMG SRC="http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/uploads/2011/08/note.jpg" ALT="map of RSS" BORDER=0 USEMAP="#imgmap201183110031"></center>
+</br>
+</br></div>
+		</div><div id="calendar-2" class="widget widget_calendar"><h4>Calendar</h4><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>aprile: 2013</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="lunedì">L</th>
+		<th scope="col" title="martedì">M</th>
+		<th scope="col" title="mercoledì">M</th>
+		<th scope="col" title="giovedì">G</th>
+		<th scope="col" title="venerdì">V</th>
+		<th scope="col" title="sabato">S</th>
+		<th scope="col" title="domenica">D</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://www.sourceslist.eu/2013/03/" title="Visualizza articoli di marzo 2013">&laquo; mar</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr><td><a href="http://www.sourceslist.eu/2013/04/01/" title="Rilasciata la versione 3.9-rc5 del kernel mainline (vanilla), Rilasciata la versione 1.5.27 di Wine">1</a></td><td>2</td><td><a href="http://www.sourceslist.eu/2013/04/03/" title="Rilasciata la versione 20.0 di Firefox, Rilasciata la versione 4.10.2  di KDE, Rilasciata la versione 17.0.5 di Thunderbird">3</a></td><td><a href="http://www.sourceslist.eu/2013/04/04/" title="Rilasciata la versione 1.6.0 di Mate, Rilasciata la versione 4.0.2 di Libre Office, Rilasciata la versione 12.15 di Opera">4</a></td><td><a href="http://www.sourceslist.eu/2013/04/05/" title="Rilasciata la versione 1.7.6 di Enlightenment">5</a></td><td>6</td><td>7</td>
+	</tr>
+	<tr>
+		<td><a href="http://www.sourceslist.eu/2013/04/08/" title="Rilasciata la versione 3.9-rc6 del kernel mainline">8</a></td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
+	</tr>
+	<tr>
+		<td id="today">15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td>
+	</tr>
+	<tr>
+		<td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td>
+	</tr>
+	<tr>
+		<td>29</td><td>30</td>
+		<td class="pad" colspan="5">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div></div> <!-- end div #bottom-menu-right -->
+
+</div> <!-- end div #bottom-menu-inner -->
+</div> <!-- end div #bottom-menu -->
+<!-- END BOTTOM-MENU -->
+ 
+	
+
+	<!-- BEGIN FOOTER -->
+	<div id="footer">
+	<div id="footer-inner" class="clearfix">
+		
+		<div id="footer-left">
+
+		</div> <!-- end div #footer-left -->
+
+		<div id="footer-right">
+			<p>© 2013 <a href="http://www.sourceslist.eu/" title="SOURCES.LIST" >SOURCES.LIST</a><br />
+			</p>
+		</div> <!-- end div #footer-right -->
+
+	</div> <!-- end div #footer-inner -->
+	</div> <!-- end div #footer -->
+	<!-- END FOOTER -->
+		
+</div> <!-- end wrapper -->
+
+	<script type="text/javascript">
+	  window.___gcfg = {lang: 'it'};
+	
+	  (function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>	<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Succ. \u00bb","prev":"\u00ab Prec.","image":"Immagine","of":"di","close":"Chiudi","noiframes":"Questa funzionalit\u00e0 richiede frame in linea. Si hanno i frame disabilitati o il browser non li supporta.","loadingAnimation":"http:\/\/www.sourceslist.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/www.sourceslist.eu\/wp-includes\/js\/thickbox\/tb-close.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201316'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2013Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sourceslisteucdn.appspot.com/sourceslisteu/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.5.1'></script>
+
+	<script src="http://stats.wordpress.com/e-201316.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.2.2',blog:'6388072',post:'0',tz:'2'});
+	var load_cmc = function(){linktracker_init(6388072,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+</body>
+</html>

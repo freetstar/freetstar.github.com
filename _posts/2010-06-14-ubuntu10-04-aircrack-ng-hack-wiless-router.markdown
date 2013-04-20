@@ -37,6 +37,8 @@ categories:
 > 
 > 
 
+	<!-- more -->  
+
 	 每个工具的具体参数选项就不一一介绍了,详情请参考原作者:[here](http://blog.csdn.net/MHY_MHY/archive/2008/11/07/3244543.aspx)
 
 	 其他必须的linux命令
@@ -179,6 +181,4 @@ categories:
 	 原帖:[http://blog.csdn.net/MHY_MHY/archive/2008/11/07/3244543.aspx](http://blog.csdn.net/MHY_MHY/archive/2008/11/07/3244543.aspx) 
 
 	引用请注明作者和来源,鄙视抄袭冒充。本文原创（技术说明文档由本人参照英文原文翻译）,作者:MHY_MHY, email:mayc66@gmail.com,欢迎指出错误.最初发表在 [http://blog.csdn.net/mhy_mhy](http://blog.csdn.net/mhy_mhy) ,最后修改17:00 2008/11/6。
-
-抄袭冒充。本文原创（技术说明文档由本人参照英文原文翻译）,作者:MHY_MHY, email:mayc66@gmail.com,欢迎指出错误.最初发表在 [http://blog.csdn.net/mhy_mhy](http://blog.csdn.net/mhy_mhy) ,最后修改17:00 2008/11/6。
 

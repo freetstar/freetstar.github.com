@@ -12,7 +12,7 @@ categories:
 
 	先放张图感觉下哈,已经更新图床
 
-	![](http://imagebin.ca/img/ODH463B.jpg)
+	![](http://imagebin.ca/img/ODH463B.jpg)<!-- more -->
 
 	好吧，看见有多火热了吧
 
@@ -89,10 +89,6 @@ categories:
 	[http://forum.ubuntu.org.cn/viewtopic.php?f=152&t=298121](http://forum.ubuntu.org.cn/viewtopic.php?f=152&t=298121)
 
 	[http://forum.ubuntu.org.cn/viewtopic.php?f=152&t=298205](http://forum.ubuntu.org.cn/viewtopic.php?f=152&t=298205)
-
-	[http://picasaweb.google.ca/magicfish1990/Ubuntu1010ReleaseParty?feat=directlink#](http://picasaweb.google.ca/magicfish1990/Ubuntu1010ReleaseParty?feat=directlink#)
-
-org.cn/viewtopic.php?f=152&t=298205)
 
 	[http://picasaweb.google.ca/magicfish1990/Ubuntu1010ReleaseParty?feat=directlink#](http://picasaweb.google.ca/magicfish1990/Ubuntu1010ReleaseParty?feat=directlink#)
 

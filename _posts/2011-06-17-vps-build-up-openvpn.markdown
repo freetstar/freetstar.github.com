@@ -29,7 +29,7 @@ VPN Client:本机,国内的一个PC,OS:ubuntu desktop 10.10
 1)更新VPS 自身软件至最新
     
     #apt-get update
-    #apt-get upgrade --upgrade
+    #apt-get upgrade --upgrade<!-- more -->
 
 2)安装Openvpn及其依赖udev
     
@@ -210,11 +210,6 @@ sudo cp ca.crt freetstar.crt freetstar.key client.conf /etc/openvpn
 参考文档:
 
 [http://library.linode.com/networking/openvpn/ubuntu-10.04-lucid#sph_id2](http://library.linode.com/networking/openvpn/ubuntu-10.04-lucid#sph_id2)
-
-[https://www.deleak.com/blog/2010/06/04/openvpn-on-vps/](https://www.deleak.com/blog/2010/06/04/openvpn-on-vps/)
-
-[http://pityonline.info/?p=1054](http://pityonline.info/?p=1054)
-tworking/openvpn/ubuntu-10.04-lucid#sph_id2](http://library.linode.com/networking/openvpn/ubuntu-10.04-lucid#sph_id2)
 
 [https://www.deleak.com/blog/2010/06/04/openvpn-on-vps/](https://www.deleak.com/blog/2010/06/04/openvpn-on-vps/)
 

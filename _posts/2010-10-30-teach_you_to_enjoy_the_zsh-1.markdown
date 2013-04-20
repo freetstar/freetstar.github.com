@@ -24,7 +24,7 @@ categories:
 
 	安装:
 
-	本文以ubuntu10.10发行版为蓝本.  sudo apt-get install zsh
+	<!-- more -->本文以ubuntu10.10发行版为蓝本.  sudo apt-get install zsh
 
 	第一次运行 
 
@@ -238,14 +238,6 @@ categories:
 	 更改用户默认的登录shell: 
 
 	 chsh -s /bin/zsh username  普通用户可以更改自己的,root用户则可更改所有用户的
-
-	参考:http://www.linuxaria.com/howto/introduzione-a-zsh?lang=it
-
-	 [http://www.builder.com.cn/2007/0328/383678.shtml](http://www.builder.com.cn/2007/0328/383678.shtml)
-
-	 [http://linuxtoy.org/archives/zsh.html](http://linuxtoy.org/archives/zsh.html)
-
-改自己的,root用户则可更改所有用户的
 
 	参考:http://www.linuxaria.com/howto/introduzione-a-zsh?lang=it
 

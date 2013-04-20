@@ -32,5 +32,3 @@ rfkill unblock all//将所有的无线设备都unblock
 
 开机启动后无线设备运行良好
 
-�动后无线设备运行良好
-

@@ -33,7 +33,7 @@ categories:
 	
 > 
 > 
-		 另一种是安装软件后,程序自动加到启动应用程序中的,比如说小熊猫,conky,都可以自己删除
+		 另一种是安装软件后,程序自动加到启动应用程序中的,比如说小熊猫,conky,都可以自己删除<!-- more -->
 	
 > 
 > 
@@ -172,6 +172,4 @@ categories:
 	[http://www.marzocca.net/linux/bum.html](http://www.marzocca.net/linux/bum.html)
 
 	[http://www.omgubuntu.co.uk/2010/06/bootchart-ubuntu-how-to.html](http://www.omgubuntu.co.uk/2010/06/bootchart-ubuntu-how-to.html)
-
-ml](http://www.omgubuntu.co.uk/2010/06/bootchart-ubuntu-how-to.html)
 

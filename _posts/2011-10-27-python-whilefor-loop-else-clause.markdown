@@ -19,6 +19,8 @@ categories:
     
     while(True)
           {your code}//可能有必要的break或者continue语句
+
+<!-- more -->
     
      
 
@@ -68,4 +70,3 @@ categories:
 每个人有可能对这样的实现有自己的理解，可能大家更喜欢或者习惯使用found flag：）
 
 更多的讨论，在[这里](http://nedbatchelder.com/blog/201110/forelse.html)
-/nedbatchelder.com/blog/201110/forelse.html)

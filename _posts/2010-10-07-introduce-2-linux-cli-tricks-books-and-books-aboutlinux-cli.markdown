@@ -16,7 +16,7 @@ categories:
 
 	1 用TELNET看《星球大战》
 
-	 telnet [towel.blinkenlights.nl](http://towel.blinkenlights.nl)
+	 telnet [towel.blinkenlights.nl<!-- more -->](http://towel.blinkenlights.nl)
 
 	没什么好解释的，就是ASCII艺术之一。如果你有ipv6连接，还能看到彩色版的。牛吧？
 
@@ -83,10 +83,6 @@ categories:
 	这些东西都不是出自我手，前4个命令是来自[WOW！Ubuntu](http://wowubuntu.com/linux-shell-pdf.html)两位大哥的辛勤工作，外文的翻译和整理，同时提供了pdf下载，地址：[51CTO](http://down.51cto.com/data/127587) / [UUShare](http://www.uushare.com/user/rikulu/file/3499500)
 
 	后两个来自亲爱的[Jasey_Wang](http://jaseywang.info/2010/09/16/linux-101-hacks%E7%AC%94%E8%AE%B0%E4%B8%80/)同学对于《Linux 101 Hacks》的读后感，《Linux 101 Hacks》下载：[英文原版](http://db.tt/MIjb25x)/[中文版](http://db.tt/XxPblfU)
-
-	其实文章比较水，目的主要是推广下这两本好书吧。
-
-��版](http://db.tt/MIjb25x)/[中文版](http://db.tt/XxPblfU)
 
 	其实文章比较水，目的主要是推广下这两本好书吧。
 

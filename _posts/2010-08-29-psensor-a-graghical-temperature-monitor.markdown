@@ -16,7 +16,7 @@ categories:
 
 	设计初衷：简单易用，避免复杂的设置，而且对CPU和内存消耗少
 
-	安装方法：（限于9.10/10.04 ）
+	安装方法：（限于9.10/10.04 ）<!-- more -->
 
 	 1 安装必要的包
 
@@ -45,8 +45,6 @@ categories:
 	 然后输入psensor即可
 
 	 更多选项可以参考源码包中的README
-
-	via{[here](http://www.ubuntugeek.com/psensor-a-graphical-temperature-monitor.html)}
 
 	via{[here](http://www.ubuntugeek.com/psensor-a-graphical-temperature-monitor.html)}
 

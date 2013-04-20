@@ -22,7 +22,7 @@ categories:
 
 	重启机器，等启动界面慢慢爬过之后，弹出一个对话框
 
-	"can't open the theme:/usr/share/kde/apps/kdm/themes/Goddard"(大概是这句话，具体记不清出了)
+	"can't open the theme:/usr/share/kde/apps/kdm/themes/Goddard"(大概是这句话，具体记不清出了)<!-- more -->
 
 	然后开始google，拿我可爱的Nokia5320上UC浏览器google，好吧，都是提示更改开机登录管理器，选择gdm之类的，我忘了我装没装Gnome桌面。心想，没救了，突然灵光一现
 
@@ -157,14 +157,6 @@ categories:
 	其实用Fedora用几个原因把，作为Linux界大哥红帽的桌面版，Fedora集成了很多先进的技术，同时Fedora貌似也是很多Linux开发人员的得力助手，具有完备的开发环境，同时自己也可以体验下rpm系的linux发行版
 
 	这几天在看Redhat 服务器管理与应用，暂且拿Fedora来体验下吧。
-
-	最近也把Shellscript看得差不多了，打算开始好好掌握Linux c/C++。
-
-	其实自己也比较乱，以linux为核心工作又很多发展方向，linux应用软件开发，linux网络工程师，系统管理员，嵌入式开发。现在自己是到处看，四处望。
-
-	路漫漫其修远兮，吾将上下而求索
-
-用，暂且拿Fedora来体验下吧。
 
 	最近也把Shellscript看得差不多了，打算开始好好掌握Linux c/C++。
 

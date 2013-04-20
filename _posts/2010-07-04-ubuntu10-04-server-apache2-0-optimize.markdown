@@ -22,7 +22,7 @@ tags:
 
 	event模式
 
-	比较适合那些需要有大量持续链接(KeepAlive traffic)的情况.KeepAlive的好处是,可以在同一个TCP链接中响应多次请求;这种方式,可以使一个包含大量图片的HTML文档加速50%.在配置文件中设置KeepAlive为On,即可启用KeepAlive
+	比较适合那些需要有大量持续链接(KeepAlive traffic)的情况.KeepAlive的好处是,可以在同一个TCP链接中响应多次请求;这种方式,可以使一个包含大量图片的HTML文档加速50%.在配置文件中设置KeepAlive为On,即可启用KeepAlive<!-- more -->
 
 	prefork模式（默认）  
 
@@ -483,16 +483,6 @@ tags:
 		参考资料: 
 
 		Hiweed的<Ubuntu Server 最佳方案> 
-
-		[http://www.6curl.com/post/21/](http://www.6curl.com/post/21/) 
-
-		[http://67054.blog.51cto.com/57054/70439/](http://67054.blog.51cto.com/57054/70439/) 
-
-		[http://www.netroby.com/article-823.html](http://www.netroby.com/article-823.html) 
-
-		[http://ubuntuforums.org/showthread.php?t=1038416](http://ubuntuforums.org/showthread.php?t=1038416) 
-
-<Ubuntu Server 最佳方案> 
 
 		[http://www.6curl.com/post/21/](http://www.6curl.com/post/21/) 
 

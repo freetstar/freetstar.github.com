@@ -16,6 +16,8 @@ categories:
 
 	 主要有四种Ubuntu ID Card，分别是:Ubuntu ID, Kubuntu ID,Xubuntu ID,Ubuntu Studio ID
 
+	 <!-- more -->  
+
 	 Ubuntu ID  (也就是我用的)  
 
 	 ![](http://fc01.deviantart.net/fs29/i/2008/117/9/6/Ubuntu_ID_by_fabianff.jpg) 
@@ -93,17 +95,6 @@ categories:
 > 
 > 
 		 再往下看有字体大小，颜色的要求，注意选择上自动对齐框。建议保存成png格式。
-	
-> 
-> 
-
-	 P.S. 安装Gimp sudo apt-get install gimp
-
-	ID Card使用：
-
-	 :)可以论坛签名之类的。。。
-
-��成png格式。
 	
 > 
 > 

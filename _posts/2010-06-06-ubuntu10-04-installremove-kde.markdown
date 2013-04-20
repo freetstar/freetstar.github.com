@@ -44,5 +44,3 @@ tags:
 
 	折腾记完毕呼，，，unix shell 范例精解第八章页数好多。。。![;)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/wink_smile.gif)
 
-plugins/smiley/images/wink_smile.gif)
-

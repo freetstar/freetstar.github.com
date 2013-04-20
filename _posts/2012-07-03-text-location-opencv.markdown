@@ -17,4 +17,3 @@ categories:
 代码在这里：[here](https://github.com/freetstar/opencv/blob/master/location.cpp)
 
 最终有一个总结的slide，在这里：[here](http://www.freetstar.com/processimg/summary.pdf)(Powered by Beamer)
- Beamer)

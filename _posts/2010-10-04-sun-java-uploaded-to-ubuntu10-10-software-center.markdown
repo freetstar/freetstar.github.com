@@ -27,5 +27,3 @@ categories:
 
 	通过这里：[here](http://www.webupd8.org/2010/10/sun-java-finally-uploaded-to-ubuntu.html)
 
-ed-to-ubuntu.html)
-

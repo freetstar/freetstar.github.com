@@ -14,7 +14,7 @@ categories:
 
 	话不多说了，我这个vim伪菜鸟上图了
 
-	![](http://fc08.deviantart.net/fs71/i/2010/245/b/c/vim7_3_by_freetstar-d2xu6zu.jpg)
+	![](http://fc08.deviantart.net/fs71/i/2010/245/b/c/vim7_3_by_freetstar-d2xu6zu.jpg)<!-- more -->
 
 	![](http://fc07.deviantart.net/fs70/i/2010/245/4/9/vim_by_freetstar-d2xu74t.jpg)
 
@@ -25,6 +25,4 @@ categories:
 	如果朋友你也想购买的话，看：[http://item.taobao.com/auction/item_detail.htm?item_num_id=7174622420](http://item.taobao.com/auction/item_detail.htm?item_num_id=7174622420)
 
 	大哥的blog在此：[http://hotoo.github.com/blog/index.html](http://hotoo.github.com/blog/index.html)
-
-dex.html](http://hotoo.github.com/blog/index.html)
 

@@ -51,6 +51,7 @@ categories:
 	
 > 
 > 
+		<!-- more -->
 	
 > 
 > 
@@ -79,17 +80,6 @@ categories:
 > 
 > 
 		原文链接:[http://www.ubuntugeek.com/grub2-splash-images-for-ubuntu-10-049-10.html](http://www.ubuntugeek.com/grub2-splash-images-for-ubuntu-10-049-10.html)
-	
-> 
-> 
-	
-> 
-> 
-	
-> 
-> 
-
-l)
 	
 > 
 > 

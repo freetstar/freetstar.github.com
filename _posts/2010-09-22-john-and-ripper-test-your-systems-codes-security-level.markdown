@@ -16,7 +16,7 @@ categories:
 
 	 它经过了Linux x86 Linux x86/Alpha/SPARC, FreeBSD x86, OpenBSD x86, Solaris 2.x SPARC and x86, Digital UNIX, AIX, HP-UX, and IRIX平台的测试。  
 
-	 其Dos版本和Win32版本采用了DJGPP与Cygnus Developer's Kit来实现(一种跨平台库)。
+	 其Dos版本和Win32版本采用了DJGPP与Cygnus Developer's Kit来实现(一种跨平台库)。<!-- more -->
 
 	安装方法：
 
@@ -51,6 +51,4 @@ categories:
 	Youtube教程：[http://www.youtube.com/watch?v=4ZpzZsGCG9I&feature=fvw](http://www.youtube.com/watch?v=4ZpzZsGCG9I&feature=fvw)
 
 	参考资料：[http://linux.chinaunix.net/bbs/viewthread.php?tid=45977](http://linux.chinaunix.net/bbs/viewthread.php?tid=45977)
-
-�料：[http://linux.chinaunix.net/bbs/viewthread.php?tid=45977](http://linux.chinaunix.net/bbs/viewthread.php?tid=45977)
 

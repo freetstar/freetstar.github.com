@@ -56,5 +56,3 @@ Localtion项输入:http://download.eclipse.org/technology/linuxtools/update
 
 Autotools support for CDT (Incubation) 3.0.0.201106060936 
 
-1106060936 
-

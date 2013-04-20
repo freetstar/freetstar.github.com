@@ -89,5 +89,3 @@ categories:
 
 	 [http://johnny.chadda.se/article/how-to-remove-files-with-special-characters-in-linux/](http://johnny.chadda.se/article/how-to-remove-files-with-special-characters-in-linux/)
 
-iles-with-special-characters-in-linux/)
-

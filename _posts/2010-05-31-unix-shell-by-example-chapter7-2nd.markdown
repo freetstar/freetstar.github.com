@@ -40,7 +40,7 @@ categories:
 
 		***FIRST QUARTERLY REPROT*** 
 
-		***CAMPAIGN  1998  CONTRIBUTIONS*** 
+		***CAMPAIGN  1998  CONTRIBUTIONS*** <!-- more -->
 
 		--------------------------------------------------------------------------------------
 
@@ -365,57 +365,6 @@ categories:
 		
 > 
 > 
-		
-> 
-> 
-			if(matrix[i,j]) printf " %s", matrix[i,j]
-		
-> 
-> 
-		
-> 
-> 
-			if(matrix[i,j] && j==2) printf "--"
-		
-> 
-> 
-		
-> 
-> 
-			if(matrix[i,j] && j==4) printf "\n"
-		
-> 
-> 
-		
-> 
-> 
-			}
-		
-> 
-> 
-		
-> 
-> 
-			}
-		
-> 
-> 
-		
-> 
-> 
-			printf "\t\t Thanks to all of you for your continued support!!\n"
-		
-> 
-> 
-		
-> 
-> 
-			}
-		
-> 
-> 
-
-	格式控制比较麻烦- -!
 		
 > 
 > 

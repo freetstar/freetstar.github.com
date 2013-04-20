@@ -29,6 +29,8 @@ categories:
 > 
 > 
 
+	<!-- more -->  
+
 	翻译:[FreeTstar](http://www.freetstar.com)
 
 	via{[UbuntuGeek](http://www.ubuntugeek.com/gstyle-a-new-full-gnome-theme-manager.html)}
@@ -66,22 +68,6 @@ categories:
 	目前可以安装内置有27个主题,秀下本人安装的mac主题.
 
 	[![](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot1.png)](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot1.png)
-
-> 
-	
-> 
-> 
-	
-> 
-> 
-	
-> 
-> 
-	
-> 
-> 
-
-enshot1.png)](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot1.png)
 
 > 
 	

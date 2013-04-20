@@ -40,6 +40,8 @@ tags:
 
 	请编写一个能产生如下输出的nawk的脚本：
 
+	<!-- more -->
+
 			***CAMPAIGN  1998  CONTRIBUTIONS*** 
 
 			--------------------------------------------------------------------------------------
@@ -108,13 +110,6 @@ BEGIN{  printf("\t\t\t  ***CAMPAIGN 1998 CONTRIBUTIONS***\t\t\t\n";)
                     printf("\t\t\t\t\t\ SUMMARY \t\t\t\t\t\t\t\n") 
                     printf("-------------------------------------------------------------------------------\n") 
                     printf("THe campaign recevied a total of $%6.2f for this quaiter\n",sum) 
-                    printf("The average donation for the 12 contributions was $%6.2f\n",sum/12)
-                    printf("The highest contribution was $%6.2f\n",max) 
-                    printf("The lowest contribution was $%5.2f\n",min) }
-        [/code]
-            感觉自己在排序这块写的比较累赘- -！待以后改进吧
-
-quaiter\n",sum) 
                     printf("The average donation for the 12 contributions was $%6.2f\n",sum/12)
                     printf("The highest contribution was $%6.2f\n",max) 
                     printf("The lowest contribution was $%5.2f\n",min) }

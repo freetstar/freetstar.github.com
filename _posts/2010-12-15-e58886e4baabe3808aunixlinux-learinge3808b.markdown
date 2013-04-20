@@ -80,4 +80,3 @@ foobar是每个程序员都常常见到的，其知名程度不逊于Hello world
 哈哈，还有人说fuck   object   orientatio呢，看官方的说法
 
 [http://www.ietf.org/rfc/rfc3092.txt?number=3092](http://www.ietf.org/rfc/rfc3092.txt?number=3092)
-92.txt?number=3092](http://www.ietf.org/rfc/rfc3092.txt?number=3092)

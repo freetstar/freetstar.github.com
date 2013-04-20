@@ -73,4 +73,3 @@ categories:
 PS：满是数学公式的书读不懂啊～伤不起啊，关于数学的书：《什么是数学》，好好学习数学～据说以后计算机的发展方向是计算机和和生物结合成计算机生物科学，还有计算机数学
 
 豆瓣是个汇集个人文化的好地方：[http://www.douban.com/people/freetstar/](http://www.douban.com/people/freetstar/)
-n.com/people/freetstar/](http://www.douban.com/people/freetstar/)

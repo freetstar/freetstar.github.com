@@ -60,6 +60,7 @@ categories:
 	
 > 
 > 
+		<!-- more -->
 	
 > 
 > 
@@ -459,10 +460,6 @@ categories:
 	资料来源:[http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=277199&p=1903934#p1903934](http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=277199&p=1903934#p1903934)
 
 	[http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=269926](http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=269926)
-
-	[http://forum.ubuntu.org.cn/viewtopic.php?t=269211&p=1841817](http://forum.ubuntu.org.cn/viewtopic.php?t=269211&p=1841817)
-
-926](http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=269926)
 
 	[http://forum.ubuntu.org.cn/viewtopic.php?t=269211&p=1841817](http://forum.ubuntu.org.cn/viewtopic.php?t=269211&p=1841817)
 

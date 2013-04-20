@@ -90,9 +90,3 @@ categories:
 
 	via{[here](http://www.linuxaria.com/howto/globbing-con-zsh?lang=en&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Linuxaria_En+(Linuxaria%C2%BB+English))}
 
-用户拥有的(u0),其他用户可写(W),大于10K(LK+10),1小时内修改过(M10)的文件
-
-	ls **/*(u0WLk+10m0)
-
-	via{[here](http://www.linuxaria.com/howto/globbing-con-zsh?lang=en&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Linuxaria_En+(Linuxaria%C2%BB+English))}
-

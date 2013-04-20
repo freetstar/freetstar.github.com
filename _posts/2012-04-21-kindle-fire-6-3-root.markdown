@@ -26,7 +26,7 @@ categories:
 
 4 打开控制面板->设备管理器，会有一个黄色叹号的Kindle设备，点击更新驱动程序软件，点击“浏览计算机以查找驱动程序软件”，选择“U-Boot磁盘修复”文件夹中的Drivers文件夹，选择“始终安装此驱动程序软件”（不使用快速搭建KF的ADB环境文件中的驱动，可能是驱动太老，有问题）
 
- 
+ <!-- more -->
 
 第二步：开始root
 
@@ -75,6 +75,4 @@ categories:
 6 重启后打开RE管理器，试着把/分区挂载成R/W，成功的话说明root成功
 
 本身92kindle论坛的步骤大部分是ok的，但是kindle fire驱动那部分有问题，建议采用我说的方法。另外还有[kindle fire utility](http://forum.xda-developers.com/showthread.php?t=1399889)可以一键root，不过我没有成功。
-
-ead.php?t=1399889)可以一键root，不过我没有成功。
 

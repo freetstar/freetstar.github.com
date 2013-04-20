@@ -16,7 +16,7 @@ categories:
 
 	==============================================================
 
-	虽然每天都有Linux下的twitter客户端象雨后春笋一样出现，但是Hotot绝对是目前Linux下新生的最新潮的Twitter客户端。
+	虽然每天都有Linux下的twitter客户端象雨后春笋一样出现，但是Hotot绝对是目前Linux下新生的最新潮的Twitter客户端。<!-- more -->
 
 	尽管是特别为Linux桌面设计的，但是给人的感觉更像是iphone或者Andorid的应用软件。她有光滑的动画过渡，具体其他twitter客户端的性能，反应敏捷-貌似这一切应该归功于软件底层是python吧。
 
@@ -102,8 +102,5 @@ categories:
     强力推荐！</span>
     
     来源：<a style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-decoration: none; color: rgb(204, 102, 0); border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; " href="http://wowubuntu.com/hotot.html">OMG! Ubuntu&&WOW！UBUNTU 
-    
-    </a>
-th: 0px; border-style: initial; border-color: initial; " href="http://wowubuntu.com/hotot.html">OMG! Ubuntu&&WOW！UBUNTU 
     
     </a>

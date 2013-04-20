@@ -12,7 +12,7 @@ categories:
 
 [Landslide](https://github.com/adamzap/landslide)是一款用python写的制作Html5 slide的软件。
 
-Landslide通过源代码来产生Html文件。
+Landslide通过源代码来产生Html文件。<!-- more -->
 
 举个例子，制作一个介绍python流程控制的slide，这里是Rst源码
 
@@ -89,4 +89,3 @@ landslide python.rst即可产生html文件，效果图
 原文：[here](http://f.souza.cc/2011/09/creating-html-5-slide-presentations-using-landslide/)
 
 好玩，下次的slide就用它做了，顺便学学css和rst。。。
-�

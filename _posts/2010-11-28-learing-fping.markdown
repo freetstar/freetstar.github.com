@@ -18,7 +18,7 @@ fping命令简介：
           和ping不同的时，fping更倾向于在脚本中被使用
 安装方法：
 	  [code language="bash"]sudo apt-get install fping[/code]
-<!-- more -->
+
 用法：
            [code language="bash"]fping   [options]   hosts[/code]
 常用选项：
@@ -43,5 +43,4 @@ fping命令简介：
         4 系统调用失败
 总结：
 	fping命令以轮转的方式发出去大量的ping请求，比ping单独的对一个目的主机操作要简单和快速的多。乃利器也
-	
-         
+ 

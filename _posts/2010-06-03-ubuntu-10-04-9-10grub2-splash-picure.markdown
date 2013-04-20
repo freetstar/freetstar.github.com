@@ -10,26 +10,11 @@ categories:
 - ubuntu
 ---
 
-
 	让您的grub看起来更漂亮.此软件包和ubuntu9.10(karmic)和ubuntu10.04 (lucid)LTS兼容.
-
-
-
-
-
 
 	首先下载grub2启动背景图片.deb包.下载地址:[here](http://gnome-look.org/content/show.php/Grub2+Splash+Image+?content=125657)
 
-
-
-
-
-
 	双击安装或者在终端中输入下列命令
-
-
-
-
 
 > 
 	
@@ -40,16 +25,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	如果您是64位系统,运行下列命令
-
-
-
-
 
 > 
 	
@@ -62,7 +38,6 @@ categories:
 	
 > 
 > 
-		 
 	
 > 
 > 
@@ -76,7 +51,6 @@ categories:
 	
 > 
 > 
-		<!-- more -->
 	
 > 
 > 
@@ -111,11 +85,18 @@ categories:
 	
 > 
 > 
-		 
 	
 > 
 > 
 
-
-
+l)
+	
+> 
+> 
+	
+> 
+> 
+	
+> 
+> 
 

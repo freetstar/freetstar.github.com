@@ -10,14 +10,9 @@ categories:
 - PROGRAM
 ---
 
-
 	**Base64 定义：  
 
 	**
-
-
-
-
 
 > 
 	
@@ -28,16 +23,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	**Base 64 产生：**
-
-
-
-
 
 > 
 	
@@ -54,7 +40,7 @@ categories:
 
 		2.加密算法复杂程度和效率   
 
-		3.如何处理传输？ <!-- more -->  
+		3.如何处理传输？   
 
 		 加密是肯定的，但是加密的目的不是让用户发送非常安全的mail。这种加密方式主要就是"防君子不防小人"。即达到一眼望去完全看不出内容即可。基于这个目的加密算法的复杂程度和效率也就不能太大和太低。和上一个理由类似，MIME协议等用于发送Email的协议解决的是如何收发Email，而并不 是如何安全的收发Email。因此算法的复杂程度要小，效率要高，否则因为发送Email而大量占用资源，路就有点走歪了。   
 
@@ -63,24 +49,13 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	**Base 64 算法描述：**
-
-
-
-
 
 > 
 	
 > 
 > 
 		 我们知道通常的计算机系统当中，一个字节是由8个二进制位组成的，例如"A"的ASCII编码值是十进制数的65，转换成二进制数就是"01000001"，而BASE64算法就是在这样的二进制的基础上进行编码的。  
-
-		
 	
 > 
 > 
@@ -173,11 +148,6 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	**Base 64 加密算法C语言实现 **  
 
 	[code language="c"]
@@ -261,27 +231,11 @@ int main(int agrc,char **argvv)
 }
 	[/code]
 
-
-
-
-
-
 	参考资料：[http://blog.csdn.net/wangjj_016/archive/2008/09/14/2794245.aspx](http://blog.csdn.net/wangjj_016/archive/2008/09/14/2794245.aspx)
-
-
-
-
-
 
 	 [http://hi.baidu.com/yjsword/blog/item/81b930956a88ad0a7af480d2.html](http://hi.baidu.com/yjsword/blog/item/81b930956a88ad0a7af480d2.html)
 
-
-
-
-
-
 	 [http://blog.csdn.net/xueleng/archive/2006/03/24/637561.aspx](http://blog.csdn.net/xueleng/archive/2006/03/24/637561.aspx)
 
-
-
+n.net/xueleng/archive/2006/03/24/637561.aspx)
 

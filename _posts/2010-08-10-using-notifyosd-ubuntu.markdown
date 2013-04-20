@@ -10,33 +10,13 @@ categories:
 - 软件安装
 ---
 
-
 	如果你是命令行控的话，我觉得你会非常喜欢这个工具的。
-
-
-
-
-
 
 	[![](http://ss10.sinaimg.cn/bmiddle/68785cf1h8d70538f1d39&690)](http://www.freetstar.com/wp-content/uploads/2010/08/notifyosd-terminal.png)
 
-
-
-
-
-
 	当你在一个终端里进行一个非常耗时的工作任务时，你还可能同时在其他终端运行着其他的任务。这样，你可能要反复查看那个终端中的工作是否已经完成，还有时候你还会忘记在那个终端中有任务在运行，这都会导致你的工作效率降低。有了NotifyOSD，一切会方便很多
 
-
-
-
-
-
 	使用步骤
-
-
-
-
 
 > 
 	
@@ -49,7 +29,6 @@ categories:
 	
 > 
 > 
-		<!-- more -->
 	
 > 
 > 
@@ -74,10 +53,6 @@ categories:
 > 
 > 
 
-
-
-
-
 > 
 	
 > 
@@ -93,10 +68,6 @@ categories:
 	
 > 
 > 
-
-
-
-
 
 > 
 	
@@ -115,10 +86,6 @@ categories:
 	
 > 
 > 
-
-
-
-
 
 > 
 	
@@ -143,34 +110,13 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	 
-
-
-
-
-
-
 	注意：你可以在~/，bashrc文件中，改变提示图标等提示消息。具体设置可以看notify-send的man手册
-
-
-
-
-
 
 	VIA{[Web Upd8](http://www.webupd8.org/2010/07/get-notified-when-job-you-run-in.html)}
 
-
-
-
-
-
 	` `
 
+/07/get-notified-when-job-you-run-in.html)}
 
-
+	` `
 

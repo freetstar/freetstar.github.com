@@ -10,9 +10,5 @@ categories:
 - linux前沿
 ---
 
-
 	[http://skype.tom.com/help/linux/index_linux.htm](http://skype.tom.com/help/linux/index_linux.htm) 夜逛ubuntu中文论坛，看到有人说正式版出来了。发个帖子纪念下
-
-
-
 

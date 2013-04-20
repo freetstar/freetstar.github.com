@@ -12,325 +12,99 @@ categories:
 
 在过去的几年间，我们一直致力于修改Digg的架构，现在我们称之为“Digg V4”.本文我们将全面介绍Digg的系统和技术。
 
-
-
-
-
 首先，我们来看下Digg给大众用户提供的服务吧：
-
-
-
-
-
-
 	
   1. 一个社会化的新闻站点
-
 	
   2. 为个人可定制的社会新闻
-
 	
   3. 广告平台
-
 	
   4. API 服务
-
 	
   5. 博客和文档站点
 
-
-
-
-
 人们用浏览器或者其他方式来访问这些Digg站点。一些有Digg账户的用户，可以得到“我的新闻”。每位用户可以得到所有用户的我们称之为“热门新闻”。我们有[digg.com](digg.com)和移动版的[m.digg.com](m.digg.com),API服务的[services.digg.com](services.digg.com),[about.digg.com](about.digg.com),[developers.digg.com](developers.digg.com)。这些站点统一为用户，新闻发布者，开发人员提供了博客和文档服务
 
-
-
-
-
-本文主要介绍Digg在高层使用的技术<!-- more -->
-
-
-
-
+本文主要介绍Digg在高层使用的技术
 
 **我们在努力做的**
 
-
-
-
-
 我们努力搭建一个社会新闻站点，以用户发布新闻和广告商发布广告为基础
-
-
-
-
 
 **故事提交 **注册用户提交文章，文章里肯定有描述了这几个方面：一个标题，一篇段落，一个媒体类型，一个主题，或者一个缩略图。这些方面通过一系列的元字符标准从文章中解压出来，当然提交者完全决定这些元字符具体是什么。广告发布商将广告发布到另外一个独立的系统，当然如果Dugg够的话，完全可以成为故事
 
-
-
-
-
 **故事列表 **在“我的新闻“里，你追随的用户发布的所有故事以“故事列表”显示，采用最近发布，媒体类型，故事的主题等方式排列
-
-
-
-
 
 **故事动作 **用户可以对故事进行操作，比如说读，点击，Digg，掩埋，发表评论，投票等等。没有注册登录的用户只能读和点击这些故事
 
-
-
-
-
 **故事推荐 **我们会决定每个小时有一些故事会从最近故事列表转移到热门新闻列表。我们的算法通过查看用户的行为和故事内容的分类来决定选择哪些故事进入热门新闻（当然，我们的算法可是保密的）
-
-
-
-
-
-  
-
-
-
-
-
 
 **我们的做法**
 
-
-
-
-
 这是Digg站点的运行图。此图展示了公共视图，并介绍了Digg内部提供页面，图片，API的服务
-
-
-
-
 
 ![](http://developers.diggstatic.com/files/digg-user-facing-public.png)
 
-
-
-
-
 我们内部系统的边界显示得很清楚，同时显示出API服务器代理请求到系统后端服务器。前端的服务器是透明的（virtually stateless），依赖于同样的服务层。CMS和广告系统并不会在本文中过多提及
-
-
-
-
 
 用抽象的方式看内部的高级服务，他们可以分为2个部分：
 
-
-
-
-
 **在线或者互动或者同步**
-
-
-
-
 
 用户直接或者间接发出页面或者API申请，为了提供良好的页面回应，每个服务要在几个百万级秒内做出反应，同时所有服务集合起来不能超过1,2s的反应时间。这些包含了ALAX的异步请求，但是从服务系统来看是请求/回复的服务
 
-
-
-
-
 **离线或者批次或者异步**
-
-
-
-
 
 不交互的服务请求通常是由一个用户间接提出的。这些响应时间可以允许到秒，分，小时（当然很少发生了）
 
-
-
-
-
 图示：
 
-
-
-
-
 ![](http://developers.diggstatic.com/files/digg-high-level-services-public.png)
-
-
-
-
-
-  
-
-
-
-
-
 
 **在线系统：**
 
-
-
-
-
 提供页面和API请求服务的程序主要以PHP（前端，Drupal CMS）和使用[Tornado](http://www.tornadoweb.org/)的Python（API服务）编写。前端通过[Thrift protocol](http://incubator.apache.org/thrift/)协议来调用后端的服务（Python）。在线程序（FE和BE）用[MEmcached](http://memcached.org/)和[Redis](http://redis.io/)来做缓存。一些项目也主要存储在Redis中的。下边有描述
-
-
-
-
 
 **信息和事件**：
 
-
-
-
-
 在线和离线的世界通过1：调用主要数据存储，transient / logging系统这种同步方式链接 2 ：用[RabbitMQ](http://www.rabbitmq.com/)来队列化事件和工作任务，比如说”一个用户Dugg了一个故事“，”计算这个东西“这种异步方式链接
-
-
-
-
 
 **批处理和异步系统**
 
-
-
-
-
 当队列中发现信息时，一个”工作者“被调用来完成特定的动作。一些信息由事件触发，有点象cron机制。然后工作者对主存储设备或者离线存储设备的数据进行运算和操作，在HDFS中记录日志，然后把结果写回到主存储设备，这样在线服务就可以使用他们。举个例子：比如说索引新的故事，计算故事提升算法，运行分析工作
-
-
-
-
 
 **数据存储：**
 
-
-
-
-
 Digg根据数据的类型和使用方式的不同，将数据存储在不同的系统中，当然，有时候还避免不了有一些历史原因:)（个人认为可能是由于老的系统架构难以或者不值得再做大的更改）
-
-
-
-
 
 **[Cassanda](http://cassandra.apache.org/)**:主要要用来存储”类对象“使用方式的数据，比如说项目（故事），用户，Diggs，和相关的索引。因为Cassanda0.6版不支持2级索引，他们被程序计算并存储。这样就允许了服务器能够查看，比如说，通过用户的用户名或者邮件而不是用户的用户ID来查询。这里我们使用了[Python Lazyboy wrapper](https://github.com/digg/lazyboy)
 
-
-
-
-
 **[HDFS](http://hadoop.apache.org/hdfs/)**：来自站点和API事件，用户活动的日志都在这里。以Map-Reduce和[Hive](http://hive.apache.org/) in [Hadoop](http://hadoop.apache.org/)方式运行的批处理工作的数据源和数据终点。很大的数据和很大的计算量！
-
-
-
-
 
 **[MogileFS](http://www.danga.com/mogilefs/)**：存储用户的图标，截图，等其他静态集合的二进制存储基地。是CDN的后端存储，可以通过不同的CDN前端来使用（翻译不吃准）
 
-
-
-
-
 **[Mysql](http://www.mysql.com/)**：用来存储故事提升算法和计算的数据，因为它需要许多大量繁重的操作，很自然不适合其他类型的数据存储，[HBase](http://hbase.apache.org/)看起来挺有意思的
-
-
-
-
 
 **[Redis](http://redis.io/)**：存储每个用户新闻数据，每个用户的新闻具有不同和需要及时更新的特征。我们用Redis来提供[Digg Streaming API](http://about.digg.com/blog/introducing-diggs-streaming-api)和[real time view and click counts](http://about.digg.com/blog/story-view-counts)服务。作为一款基于内存存储的系统，它提供了超底的负载
 
-
-
-
-
 **[SOLR](http://lucene.apache.org/solr/)**：被用来做文本，时间，主题等查询的搜索索引
-
-
-
-
 
 **[Scribe](https://github.com/facebook/scribe)**：日志收集服务。这是个主要的存储，日志会定期轮转出系统，并写到HDFS中
 
-
-
-
-
-  
-
-
-
-
-
-
 **操作系统和配置**
-
-
-
-
 
 Digg运行在[Debian](http://www.debian.org/) GNU/Linux稳定版上，配置了[Clusto](http://clusto.org/)，[Puppet](http://www.puppetlabs.com/puppet/introduction/)。使用的是[Zookeeper](http://hadoop.apache.org/zookeeper/)配置系统
 
-
-
-
-
-  
-
-
-
-
-
-
 原文地址：[http://about.digg.com/blog/how-digg-is-built](http://about.digg.com/blog/how-digg-is-built)
-
-
-
-
 
 第一次翻译这种文章，头大！
 
-
-
-
-
-  
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-
- 
-
-
-
-
-
 ![](http://developers.diggstatic.com/files/digg-high-level-services-public.png)
 
+![](http://developers.diggstatic.com/files/digg-high-level-services-public.png)
+第一次翻译这种文章，头大！
 
-
-
+![](http://developers.diggstatic.com/files/digg-high-level-services-public.png)
 
 ![](http://developers.diggstatic.com/files/digg-high-level-services-public.png)

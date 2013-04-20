@@ -31,7 +31,7 @@ h 献给[howtoforge](http://www.howtoforge.com/)：许多详细给力的教程�
 
 i IBM的linux中国版：[http://www.ibm.com/developerworks/cn/linux/](http://www.ibm.com/developerworks/cn/linux/) 有很多很详细很好的文章
 
-j [http://jandan.net](http://jandan.net/)：好玩，扯淡<!-- more -->
+j [http://jandan.net](http://jandan.net/)：好玩，扯淡
 
 k [thinkgeek](http://www.thinkgeek.com/)：不知道k有啥候选词了，挑这个吧：有许多geek ideas
 

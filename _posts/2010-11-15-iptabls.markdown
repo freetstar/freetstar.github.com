@@ -66,7 +66,6 @@ REJECT：与DROP稍微不太一样的地方是，REJECT不会在服务器和客�
 [/code]
 iptables安装：
 
-
 现在大多数linux发行伴在安装时会默认安装iptables 
 ubuntu查看是否安装dpkg -l|grep iptables 安装:  sudo apt-get install iptables 
 redhat查看是否安装rpm -qa|grep iptables 安装：yum install iptables 
@@ -138,3 +137,4 @@ http://www.phpfans.net/article/htmls/200608/MjE2OTcy.html
 http://forum.ubuntu.org.cn/viewtopic.php?t=478
 http://www.vsharp.cn/post/28.html
 http://linux.ccidnet.com/art/737/20040317/96576_1.html
+

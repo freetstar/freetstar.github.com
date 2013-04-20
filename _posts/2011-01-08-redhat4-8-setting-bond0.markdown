@@ -23,7 +23,7 @@ bond0的制作:
 以Redhat4.8为例子
 第一步:首先确认系统支持
 [code language="bash"]modprobe bond[tab]看一下是否有对应的模块[/code]
-第二步:<!-- more -->
+第二步:
 制作bond0,以root身份
 [code language="bash"]cd /etc/sysconfig/network-scripts/[/code]
 生成bond0的配置文件

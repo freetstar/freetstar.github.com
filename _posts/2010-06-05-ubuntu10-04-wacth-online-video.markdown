@@ -10,19 +10,9 @@ categories:
 - ubuntu
 ---
 
-
 	前段镇子正式抛弃了windows 7操作系统,在笔记本上装上了Fedora,组成了Ubuntu +Fedora的双系统.基本上一切都很ok,但比较烦恼的是没有一个比较好的在线直播软件
 
-
-
-
-
-
 	集合自己不断得google+坛子里的朋友的帖子+亲身实践,找到了以下几个好东东:
-
-
-
-
 
 > 
 	
@@ -70,14 +60,9 @@ categories:
 	
 > 
 > 
-		<!-- more -->
 	
 > 
 > 
-
-
-
-
 
 > 
 	
@@ -112,8 +97,6 @@ categories:
 > 
 > 
 		截图:  
-
-		 
 	
 > 
 > 
@@ -121,24 +104,9 @@ categories:
 > 
 > 
 		[![](http://www.freetstar.com/wp-content/uploads/2010/06/CCTV-6电影频道-SopCast-Player_001-1024x600.png)](http://www.freetstar.com/wp-content/uploads/2010/06/CCTV-6电影频道-SopCast-Player_001.png)  
-
-		
 	
 > 
 > 
-
-
-
-
-
-
-	  
-
-	
-
-
-
-
 
 > 
 	
@@ -194,24 +162,9 @@ categories:
 > 
 > 
 		[![](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot-发展联盟免费在线网络电视直播导航-NBA湖南卫视广东体育东方电影-Arora-1024x577.png)](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot-发展联盟免费在线网络电视直播导航-NBA湖南卫视广东体育东方电影-Arora.png)  
-
-		
 	
 > 
 > 
-
-
-
-
-
-
-	  
-
-	
-
-
-
-
 
 > 
 	
@@ -267,22 +220,9 @@ categories:
 > 
 > 
 		[![](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot-2.png)](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot-2.png)  
-
-		
 	
 > 
 > 
-
-
-
-
-
-
-	 
-
-
-
-
 
 > 
 	
@@ -348,28 +288,6 @@ categories:
 	
 > 
 > 
-
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
-
-	  
-
-	
-
-
-
-
 
 > 
 	
@@ -450,19 +368,6 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
 > 
 	
 > 
@@ -523,7 +428,6 @@ categories:
 	
 > 
 > 
-		 
 	
 > 
 > 
@@ -531,31 +435,9 @@ categories:
 > 
 > 
 		[![](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot-mms-222.47.122.102-litv10-SMPlayer-1024x577.png)](http://www.freetstar.com/wp-content/uploads/2010/06/Screenshot-mms-222.47.122.102-litv10-SMPlayer.png)  
-
-		
 	
 > 
 > 
-
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
-
-	 
-
-
-
-
 
 > 
 	
@@ -568,46 +450,19 @@ categories:
 	
 > 
 > 
-		 
 	
 > 
 > 
 
-
-
-
-
-
-	 
-
-
-
-
-
-
 	感谢ubuntu 的爱好者们
-
-
-
-
-
 
 	资料来源:[http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=277199&p=1903934#p1903934](http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=277199&p=1903934#p1903934)
 
-
-
-
-
-
 	[http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=269926](http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=269926)
-
-
-
-
-
 
 	[http://forum.ubuntu.org.cn/viewtopic.php?t=269211&p=1841817](http://forum.ubuntu.org.cn/viewtopic.php?t=269211&p=1841817)
 
+926](http://forum.ubuntu.org.cn/viewtopic.php?f=74&t=269926)
 
-
+	[http://forum.ubuntu.org.cn/viewtopic.php?t=269211&p=1841817](http://forum.ubuntu.org.cn/viewtopic.php?t=269211&p=1841817)
 

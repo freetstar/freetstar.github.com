@@ -10,9 +10,5 @@ categories:
 - PROGRAM
 ---
 
-
 	 近来在看Unix Shell by Example 3rd  。就以此来做一个课后作业专题吧
-
-
-
 

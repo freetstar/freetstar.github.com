@@ -10,20 +10,9 @@ categories:
 - ubuntu
 ---
 
-
 	gnome-paint 是一个简单易用的GNOME画图程序 . 她最初的灵感来源于微软的画图
 
-
-
-
-
-
 	特色:
-
-
-
-
-
 
 	o 打开文件  
 
@@ -33,17 +22,7 @@ categories:
 
 	o 多次撤销
 
-
-
-
-
-
 	工具:
-
-
-
-
-
 
 	o 铅笔  
 
@@ -67,62 +46,21 @@ categories:
 
 	o 圆角矩形
 
-
-
-
-
-
 	**在Ubuntu下安装**
-
-
-
-
-
 
 	首先从这里下载 [here](http://code.google.com/p/gnome-paint/)
 
-
-
-
-
-
 	或者你双击下载好的deb包,或者你运行下面的命令
-
-
-
-
-
 
 	sudo dpkg -i gnome-paint_0.3-1_i386.deb
 
-
-
-
-
-
 	截图
-
-
-
-
-
 
 	![](http://www.ubuntugeek.com/wp-content/uploads/2010/06/Captura_de_tela.png)
 
-
-
-
-
-
 	转载及翻译:[http://www.freetstar.com/wp-admin/post-new.php](http://www.freetstar.com/wp-admin/post-new.php)
-
-
-
-
-
 
 	原文链接:[http://www.ubuntugeek.com/gnome-paint-a-simple-easy-to-use-paint-program-for-gnome.html](http://www.ubuntugeek.com/gnome-paint-a-simple-easy-to-use-paint-program-for-gnome.html)
 
-
-
+me-paint-a-simple-easy-to-use-paint-program-for-gnome.html)
 

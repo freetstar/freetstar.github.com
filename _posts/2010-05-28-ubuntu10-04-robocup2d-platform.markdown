@@ -18,19 +18,13 @@ tags:
 
 （1）系统准备
 
-
-
 [code language="bash"]sudo apt-get install nautilus-gksu[/code]
 
 把“管理员打开选项”添加到右键菜单中
 
-
-
 [code language="bash"]sudo apt-get install nautilus-open-terminal [/code]
 
 把终端添加到右键菜单中
-
-
 
 [code language="bash"]sudo apt-get install rar unrar p7zip[/code]
 
@@ -44,13 +38,11 @@ tags:
 
 网址：[http://sourceforge.net/projects/sserver/](http://sourceforge.net/projects/sserver/)
 
-网址内有各种版本的包，应根据实际情况进行选择，同时每个版本的发行日志应该下载阅读。同时还有其他的工具，如观看录像工具。<!-- more -->
+网址内有各种版本的包，应根据实际情况进行选择，同时每个版本的发行日志应该下载阅读。同时还有其他的工具，如观看录像工具。
 
 （3）前期安装（注：10.04和9.10在一些软件包上可能有所改动，请注意10.04和9.10所安装软件包的不同之处）
 
 在终端中输入以下命令
-
-
 
 [code language="bash"]sudo apt-get install build-essential //编译器安装
 sudo apt-get install xorg-dev  //xorg图形界面
@@ -93,13 +85,11 @@ sudo ln -s libaudio.so.2 libaudio.so
 
 进入系统/系统管理/软件源，在软件源对话框中切换到第三方软件页面，点击添加：
 
-
 [code language="bash"]deb http://ppa.launchpad.net/gnurubuntu/rubuntu/ubuntu lucid main
 deb-src http://ppa.launchpad.net/gnurubuntu/rubuntu/ubuntu lucid main
 [/code]
 
 安装Server：
-
 
 [code language="bash"]sudo apt-get update
 sudo apt-get install rcssserver rcsslogplayer
@@ -115,3 +105,4 @@ PS：有的安装步骤需要权限，请加sudo
 情况可能有所变化，但万变不离其宗。。。
 
 比赛平台的配置与安装的ubuntu操作系统有关，有的库和软件装时本身已安装。建议用DVD安装ubuntu。或者安装完毕后以DVD作为一个更新的数据源。为了方便系统重装和实现离线升级，把第一次在/var/cache/apt/archives的deb包找到并复制保存，待以后使用
+后使用

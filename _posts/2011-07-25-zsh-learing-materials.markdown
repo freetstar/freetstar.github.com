@@ -20,9 +20,7 @@ Zsh,Linux下非常强大的Shell,我之前曾经做过一些简单的[介绍1](h
 
 2 Zzappers Best of ZSH Tips
 
-
 ## [http://www.rayninfo.co.uk/tips/zshtips.html](http://www.rayninfo.co.uk/tips/zshtips.html)
-
 
 3 **zsh-lovers**
 
@@ -44,3 +42,4 @@ Zsh,Linux下非常强大的Shell,我之前曾经做过一些简单的[介绍1](h
 
 **
 **
+*

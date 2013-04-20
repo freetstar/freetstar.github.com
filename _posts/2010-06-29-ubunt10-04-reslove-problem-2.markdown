@@ -11,19 +11,9 @@ categories:
 - 问题解决
 ---
 
-
 	继上一次[问题总结](http://www.freetstar.com/index.php/ubunt10-04-reslove-problem-1)之后放出问题总结二
 
-
-
-
-
-
 	1 双击后缀为txt的文件提示打开方式
-
-
-
-
 
 > 
 	
@@ -34,16 +24,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	2 启用ctrl+alt+backspace
-
-
-
-
 
 > 
 	
@@ -54,16 +35,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	3  gnome面板恢复初始状态
-
-
-
-
 
 > 
 	
@@ -76,21 +48,12 @@ categories:
 	
 > 
 > 
-		 rm -rf ~/.gnome* ~/.gconf*<!-- more -->
+		 rm -rf ~/.gnome* ~/.gconf*
 	
 > 
 > 
 
-
-
-
-
-
 	4开机提示要输入登录密钥 
-
-
-
-
 
 > 
 	
@@ -101,25 +64,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
-
 	5u盘无法卸载的情况
-
-
-
-
 
 > 
 	
@@ -137,16 +82,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	6 清除僵死进程
-
-
-
-
 
 > 
 	
@@ -157,16 +93,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	7 解压rar乱码问题
-
-
-
-
 
 > 
 	
@@ -177,6 +104,8 @@ categories:
 > 
 > 
 
-
-
+t-get autoremove rar 即可,即把rar卸载就可解决乱码问题
+	
+> 
+> 
 

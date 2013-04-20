@@ -12,258 +12,81 @@ categories:
 
 下午逛V2EX时撞到这个帖子:[这样的 install.sh 实在是让人情何以堪](http://www.v2ex.com/t/14559#reply14)
 
-
-
-
-
 点击[链接](https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1)进去,看粉色的第三行,哈哈,仔细找亮点,
-
-
-
-
     
     rm -rf /usr /lib/nvidia-current/xorg/xorg
 
-
-
-
-
 原来是多打了个空格,直接导致/usr目录被删除,看可怜作者的sorry语"
-
-
-
-
     
     GIANT BUG... causing /usr to be deleted... so sorry.... issue <a href="https://github.com/MrMEEE/bumblebee/issues/123">#123</a>, issue <a href="https://github.com/MrMEEE/bumblebee/issues/122">#122</a>, issue <a href="https://github.com/MrMEEE/bumblebee/issues/121">#121</a>
 
-
-
-
-
 "
-
-
-
-
 
 到这里看还不算亮点,看各位楼下的同志们的评语和调侃图吧,这才强大
 
-
-
-
-
-[Hezion](https://github.com/HezionGreat ):Success!!  //站着说话不腰疼的<!-- more -->
-
-
-
-
+[Hezion](https://github.com/HezionGreat ):Success!!  //站着说话不腰疼的
 
 [jschairb](https://github.com/jschairb):where's the 'like' button? //FB党找like按钮的
 
-
-
-
-
 [flying-sheep](https://github.com/flying-sheep):and here is the most commented-on code line on github! //gitbuh史上最多代码评论
-
-
-
-
 
 [manjun](https://github.com/manjun):倒霉孩子 //中国人民安慰你
 
-
-
-
-
 来吧,各种亮图:
-
-
-
-
 
 注:有bug的软件的名字是bumblebee
 
-
-
-
-
 ![](https://a248.e.akamai.net/assets.github.com/img/3abffdf4bce3ca164a1136423b754d09452fc4cc/687474703a2f2f692e696d6775722e636f6d2f44674454572e676966)
-
-
-
-
 
 ![](https://a248.e.akamai.net/assets.github.com/img/c9a396ff30ecff05f185a22201c1fb0cb532754e/687474703a2f2f696d676b6b2e636f6d2f692f707977642e6a7067)
 
-
-
-
-
 ![](https://a248.e.akamai.net/assets.github.com/img/77f20c772e7768c05c2a0c6f60ece1aedfc6d13a/687474703a2f2f7472617669736b726f62657274732e73332e616d617a6f6e6177732e636f6d2f6173736574732f62756d626c656265652e706e67)
-
-
-
-
 
 ![](https://a248.e.akamai.net/assets.github.com/img/58bb0e2ff4031e355738be85c9fc59aea4eef07c/687474703a2f2f692e696d6775722e636f6d2f496d7831422e706e67)
 
-
-
-
-
 ![](https://a248.e.akamai.net/assets.github.com/img/0e621b1a55a9e2963113d16916ca4c2f01bccebc/687474703a2f2f692e6d696e2e75732f69444848362e706e67)
-
-
-
-
 
 ![](https://img.skitch.com/20110616-edgex5fcw6b7drdbjnehph7sei.jpg)
 
-
-
-
-
 ![](https://a248.e.akamai.net/assets.github.com/img/b806b80ee9913ed686aace73d79b1016c090b6ae/687474703a2f2f692e6d696e2e75732f69444235652e706e67)
-
-
-
-
 
 恐怖型滴:
 
-
-
-
-
 ![](https://a248.e.akamai.net/assets.github.com/img/ee72484fc4b130a382ac710c7af9d672818a7d8c/687474703a2f2f696d6738342e696d616765736861636b2e75732f696d6738342f313938312f726d7266742e6a7067)
-
-
-
-
 
 ![](https://a248.e.akamai.net/assets.github.com/img/e1f00567aac3eeb1354211e883ecf230ed5ad8b2/687474703a2f2f692e696d6775722e636f6d2f5a4d384d762e706e67)
 
-
-
-
-
 ![](https://github.com/rubysolo/.ignore/raw/master/slash_usr.png)
-
-
-
-
-
-  
-
-
-
-
-
 
 ![](https://github.com/nlemke/nyan/raw/master/2.jpg)
 
-
-
-
-
 ![](https://a248.e.akamai.net/assets.github.com/img/152187daf4734933ebe10f79dd8925362a1008df/687474703a2f2f696d673639302e696d616765736861636b2e75732f696d673639302f313731382f776879756c656176652e706e67)
-
-
-
-
 
 有坚决鼓掌的
 
-
-
-
-
 ![](https://a248.e.akamai.net/assets.github.com/img/91cd03317ddf03102a9ab884cf4a77b79dd7eecf/687474703a2f2f6c6170756c656e74612e636f6d2f6c6f6c2f6b616e655f636c617070696e672e676966)
-
-
-
-
 
 mm
 
-
-
-
-
 ![](https://a248.e.akamai.net/assets.github.com/img/b8fd0821ad3a5f35dcccbeece501e01a26aa69c2/687474703a2f2f696861746576616e732e636f6d2f6c656176655f7573725f616c6f6e652e706e67)
-
-
-
-
 
 ![](https://a248.e.akamai.net/assets.github.com/img/74c0a856f62357d305e1f655f49961276d151c5b/687474703a2f2f692e696d6775722e636f6d2f574b7437662e706e67)
 
-
-
-
-
 比较geek的
-
-
-
-
 
 ![](https://a248.e.akamai.net/assets.github.com/img/8d4a2ba70a9c1eaec18f01e4a788f27aaf1f5063/687474703a2f2f686162726173746f726167652e6f72672f73746f726167652f63306664356434622f31636233613637362f37373734636632642f64366635353064302e6a7067)
 
-
-
-
-
 有点傻
-
-
-
-
 
 ![](https://a248.e.akamai.net/assets.github.com/img/bfbb891bc2472e05af1b3324652079d679a91fdd/687474703a2f2f63616368652e6779617a6f2e636f6d2f32303435343137303365326431326666373833393032623038346133653634322e706e67)
 
-
-
-
-
 ![](https://a248.e.akamai.net/assets.github.com/img/d892f09ac75eade63052c60c8ffc5f7048c1f905/687474703a2f2f646c2e64726f70626f782e636f6d2f752f31313634393639322f71622e6a7067)
-
-
-
-
-
-  
-
-
-
-
-
 
 额...欲知更多情况,去原帖围观吧
 
-
-
-
-
-  
-
-
-
-
-
-
 linux下最好对rm做如下处理,安全性最高
 
-
-
-
-
 第一种,直接放到shell的配置文件里,zsh为~/.zshrc,bash对应~/.bashrc,比较简单型:
-
-
-
-
     
     trash()
     {
@@ -272,15 +95,7 @@ linux下最好对rm做如下处理,安全性最高
     alias trm="rm"
     alias rm=“trash”
 
-
-
-
-
 第二种:来自这里,[http://iregex.org/blog/safer-rm-command.html](http://iregex.org/blog/safer-rm-command.html)
-
-
-
-
     
     #safe remove, mv the files to .Trash with unique name
     #and log the acction
@@ -316,9 +131,12 @@ linux下最好对rm做如下处理,安全性最高
      done
     }
 
-
-
-
-
-  
+ -e "[$stamp]\t$file\t=>\t[$trash_file]" |tee -a $log
+       else
+       echo -e "[$stamp]\t$file\t=>\t[$trash_file]"
+     fi
+    
+     shift   #increment the loop
+     done
+    }
 

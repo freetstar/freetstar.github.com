@@ -11,19 +11,7 @@ categories:
 - 软件安装
 ---
 
-
-	 
-
-
-
-
-
-
 	一 终端里使用的那些快捷键(SERVER ADMIN必备)
-
-
-
-
 
 > 
 	
@@ -106,7 +94,7 @@ categories:
 	
 > 
 > 
-		Alt-l  把光标所在单词转换为小写<!-- more -->
+		Alt-l  把光标所在单词转换为小写
 	
 > 
 > 
@@ -307,23 +295,9 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	想更好的使用CLI,访问:[http://www.makeuseof.com/tag/4-websites-to-learn-cool-linux-command-line-tricks/](http://www.makeuseof.com/tag/4-websites-to-learn-cool-linux-command-line-tricks/)
 
-
-
-
-
-
 	二  操作终端的快捷键
-
-
-
-
 
 > 
 	
@@ -411,16 +385,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	三 GNOME桌面快捷键
-
-
-
-
 
 > 
 	
@@ -578,30 +543,9 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	注:部分需要显卡驱动和CCSM软件的支持,超级键为"Windows"键
 
-
-
-
-
-
 	四 nautilus 文件管理器处理快捷键
-
-
-
-
-
-
-	 
-
-
-
-
 
 > 
 	
@@ -647,16 +591,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	五 定义自己的快捷键
-
-
-
-
 
 > 
 	
@@ -667,57 +602,15 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
-
 	暂时就想到和看到这么多了,也就是平常在使用的一些快捷键
-
-
-
-
-
 
 	参考资料:
 
-
-
-
-
-
 	 [http://yanglin048130.blog.163.com/blog/static/14209096120102219222791/](http://yanglin048130.blog.163.com/blog/static/14209096120102219222791/)
-
-
-
-
-
 
 	 [http://forum.ubuntu.org.cn/viewtopic.php?t=120712&sid=65039dec78fce92e90a43a2df86179a9](http://forum.ubuntu.org.cn/viewtopic.php?t=120712&sid=65039dec78fce92e90a43a2df86179a9)
 
-
-
-
-
-
 	 [http://wiki.ubuntu.org.cn/index.php?title=Gnome快捷键&variant=zh-tw](http://wiki.ubuntu.org.cn/index.php?title=Gnome%E5%BF%AB%E6%8D%B7%E9%94%AE&variant=zh-tw)
 
-
-
-
-
-
-	 
-
-
-
+&variant=zh-tw](http://wiki.ubuntu.org.cn/index.php?title=Gnome%E5%BF%AB%E6%8D%B7%E9%94%AE&variant=zh-tw)
 

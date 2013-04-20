@@ -55,7 +55,6 @@ class update(threading.Thread):
             self.setNum(self.label,self.num)
             time.sleep(0.1000)
 
-
 class lucky():
     """抽奖的一个小程序"""
     def on_window_destroy(self,widget,data=None):
@@ -98,7 +97,7 @@ if __name__=="__main__":
     lc=lucky()
     lc.main()
 [/code]
-<!-- more -->
+
 Glade源文件
 [code language="bash"]
 <?xml version="1.0" encoding="UTF-8"?>
@@ -172,3 +171,4 @@ Glade源文件
   <object class="GtkTextBuffer" id="textbuffer1"/>
 </interface>
 [/code]
+

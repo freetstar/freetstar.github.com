@@ -12,25 +12,12 @@ categories:
 
 打算毕业设计做个pyRssReader，用pygtk+glade+xml解析完成，先简单熟悉一下，参照这网上的一些文章和例子简单写了一个pyGoogleTranslator
 
-
-
-
 截图
-
-
-
 
 ![](http://i.imgur.com/dc6ZU.png) ![](http://i.imgur.com/iENcS.png)
 
-
-
-
 源码：
 
-
-
-
-<!-- more -->
 [code language="python"]
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
@@ -118,4 +105,6 @@ if __name__=='__main__':
 [/code]
 为什么wordpress总爱把下划线给吃掉=_=
 源码文件：[here](http://www.freetstar.com/uploads/pyGT.py),glade文件：[here](http://www.freetstar.com/uploads/pyGT.glade)
+
+yGT.glade)
 

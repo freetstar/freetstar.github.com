@@ -10,59 +10,25 @@ categories:
 - 软件安装
 ---
 
-
 	支持Jabber协议的客户端Gajim0.14 [发布](http://trac.gajim.org/query?status=closed&milestone=0.14)
 
-
-
-
-
-
 	新增了以下特色：
-
-
-
-
-
-
 	
   * 
 		 音频和视频支持  
-
-		
-	
-
 	
   * 
 		 改善了启动时间
 	
-
-	
   * 
 		 群组聊天自动回加
 	
-
-	
   * 
 		 地理位置定义
-	
-
-
-
-
 
 	[更新日志](http://hg.gajim.org/gajim/file/605ca10afd21/ChangeLog)
 
-
-
-
-
-
 	通过ppa安装
-
-
-
-
 
 > 
 	
@@ -80,27 +46,11 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	通过Gajim使用Google Gtalk的教程：
-
-
-
-
-
 
 	[http://trac.gajim.org/wiki/GajimGoogleTalk](http://trac.gajim.org/wiki/GajimGoogleTalk)
 
-
-
-
-
-
 	PS：Gailm比pigdin的XMPP支持更为强大，是Linux下Gtalk客户端首选
 
-
-
+P支持更为强大，是Linux下Gtalk客户端首选
 

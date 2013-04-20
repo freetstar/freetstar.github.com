@@ -17,12 +17,8 @@ categories:
 不推荐使用Ubuntu源中的Eclipse
 
 **第二步:解压缩下载好的Eclipse包至/opt目录**
-
-
-
     
     sudo tar zxvf eclipse-linuxtools-indigo-incubation-linux-gtk-x86_64.tar.gz -C /opt
-
 
 **第三步:创建Gnome2的面板快捷方式**
 
@@ -40,19 +36,11 @@ Name项填入CDT
 
 Location项填入**[**http://download.eclipse.org/tools/cdt/releases/indigo**](http://download.eclipse.org/tools/cdt/releases/indigo)**
 
-
-
 点击Ok按钮,在下边出现的列表中,
-
-
 
 第一个CDT Main Features基本都要安装
 
-
-
 第二个中务必要把包含GNU字眼选择安装
-
-
 
 然后根据提示选择下一步,接受协议,并且安装,安装成功后就restart eclipse
 
@@ -66,32 +54,7 @@ Localtion项输入:http://download.eclipse.org/technology/linuxtools/update
 
 点击Ok按钮,在下边出现的列表中,将此选项选中,然后安装即可
 
-
-
 Autotools support for CDT (Incubation) 3.0.0.201106060936 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1106060936 
 

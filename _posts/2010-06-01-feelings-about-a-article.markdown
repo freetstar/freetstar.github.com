@@ -10,7 +10,6 @@ categories:
 - 生活
 ---
 
-
 	 现在的学生真的好苦啊，这么晚了还要继续写作业，一方面处于时间，另一方面就是家长所给予的压力了。    
 
 	 学习，是为了完善自我，但是在现在看来是为了升学，为了拿一个文凭。  
@@ -27,16 +26,7 @@ categories:
 
 	 最近在家中研究Ubuntu的组网，真的很深奥，要是放在半年前，我可能连Concy都安不好，但是经过几次编译软件后，对于Linux的shell有了自己的理解，再按照步骤就感到和以前大不相同，轻松多了。Linux很深奥，深奥到可能系统坏了都没人可以修，只能重装，但这就是 探索的过程，也是学习Linux的乐趣所在。
 
-
-
-
-
-
 	原文链接:[http://user.qzone.qq.com/28652408 4](http://user.qzone.qq.com/286524084)
-
-
-
-
 
 > 
 	
@@ -75,13 +65,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	[![](http://www.freetstar.com/wp-content/uploads/2010/06/1249962215Rv7fp83R-213x300.jpg)](http://www.freetstar.com/wp-content/uploads/2010/06/1249962215Rv7fp83R.jpg)
 
-
-
+Rv7fp83R.jpg)
 

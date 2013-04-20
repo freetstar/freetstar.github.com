@@ -21,7 +21,6 @@ sudo apt-get autoremove openoffice-common 先卸载掉再说
 另外有语言包,可以自己选择下载
 准备安装
 
-
 > tar zxvf  LibO_3.3.0rc2_Linux_x86_install-deb_en-US.tar.gz
 ls
 DEBS  readmes update
@@ -32,21 +31,16 @@ sudo dpkg -i *.deb
 再次运行
 sudo dpkg -i *.deb
 
-
-<!-- more -->
-
 二:安装virtualBox4.0
 
 如果之前安装过
 sudo apt-get autoremove virtualbox- [这里tab一下,对应你安装的版本]
 增加vb的10.10源,并安装
 
-
 > echo "deb http://download.virtualbox.org/virtualbox/debian $(lsb_release -sc) contrib" | sudo tee -a /etc/apt/sources.list
 wget -q http://download.virtualbox.org/virtualbox/debian/oracle_vbox.asc -O- | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install virtualbox-4.0
-
 
 对于usb2.0的支持,VirtualBox RDP和PXE对于intel的支持,需要安装这个扩展包,下载地址
 [ http://download.virtualbox.org/virtualbox/4.0.0/Oracle_VM_VirtualBox_Extension_Pack-4.0.0-69151.vbox-extpack](http://download.virtualbox.org/virtualbox/4.0.0/Oracle_VM_VirtualBox_Extension_Pack-4.0.0-69151.vbox-extpack)
@@ -67,3 +61,4 @@ mkdir profile4.0b8
 
 然后创建快捷方式,图标什马的自己选一个就好了,命令是关键
 /opt/firefox/firefox -profile /opt/firefox/profile4.0b8
+0b8

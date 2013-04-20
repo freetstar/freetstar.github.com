@@ -12,7 +12,7 @@ def delMoreTag(f):
             content.write(line)
 
 def delMultiblankline(f):
-    file = open(f,'w')
+    file = open(f,'r+')
     
     lines = file.readlines()
 
@@ -31,7 +31,9 @@ def delMultiblankline(f):
 
     for j,i in enumerate(index_to_del):
         del lines[i-j]
-
+    
+    file.seek(0)
+    file.truncate()
     file.write(''.join(lines))
     file.close()
 

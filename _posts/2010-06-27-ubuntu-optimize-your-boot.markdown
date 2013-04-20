@@ -11,19 +11,9 @@ categories:
 - 软件安装
 ---
 
-
 	 ubuntu10.04刚全新安装时开机时间只用25-30秒,可是用了一段时间后开机启动启动时间升到了1m20s左右.桌面壁纸出现后,面板的载入速度很慢,于是想到了优化开机启动项目
 
-
-
-
-
-
 	 方法一:**利用系统自带的启动应用程序**
-
-
-
-
 
 > 
 	
@@ -43,21 +33,12 @@ categories:
 	
 > 
 > 
-		 另一种是安装软件后,程序自动加到启动应用程序中的,比如说小熊猫,conky,都可以自己删除<!-- more -->
+		 另一种是安装软件后,程序自动加到启动应用程序中的,比如说小熊猫,conky,都可以自己删除
 	
 > 
 > 
 
-
-
-
-
-
 	 方法二:**使用boot-up  manager(推荐)**
-
-
-
-
 
 > 
 	
@@ -152,25 +133,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
-
 	附:**查看系统开机时间方法**
-
-
-
-
 
 > 
 	
@@ -202,41 +165,13 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	 
-
-
-
-
-
-
 	参考资料:
-
-
-
-
-
 
 	[http://www.marzocca.net/linux/bumdocs.html](http://www.marzocca.net/linux/bumdocs.html)
 
-
-
-
-
-
 	[http://www.marzocca.net/linux/bum.html](http://www.marzocca.net/linux/bum.html)
-
-
-
-
-
 
 	[http://www.omgubuntu.co.uk/2010/06/bootchart-ubuntu-how-to.html](http://www.omgubuntu.co.uk/2010/06/bootchart-ubuntu-how-to.html)
 
-
-
+ml](http://www.omgubuntu.co.uk/2010/06/bootchart-ubuntu-how-to.html)
 

@@ -11,26 +11,11 @@ categories:
 - 转载翻译
 ---
 
-
 	 [![](http://lh5.ggpht.com/_FJH0hYZmVtc/TBjJdF40qwI/AAAAAAAAIfY/J3feZjZRHNw/124144-1%5B3%5D_thumb%5B9%5D.jpg)](http://lh5.ggpht.com/_FJH0hYZmVtc/TBjJdF40qwI/AAAAAAAAIfY/J3feZjZRHNw/124144-1%5B3%5D_thumb%5B9%5D.jpg?imgmax=800)
 
-
-
-
-
-
-	这就是可爱漂亮的lucid conky栏.<!-- more -->
-
-
-
-
-
+	这就是可爱漂亮的lucid conky栏.
 
 	安装方法:
-
-
-
-
 
 > 
 	
@@ -76,39 +61,11 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
-
 	补充:
-
-
-
-
-
 
 	作者[Veoduendes](http://gnome-look.org/usermanager/search.php?username=Veoduendes)之前写的conky比较难配置,不过现在在作者的努力下,已经有了良好的配置向导
 
-
-
-
-
-
 	配置向导的一些特色:
-
-
-
-
 
 > 
 	
@@ -117,29 +74,21 @@ categories:
 		
 >   * 
 			可以调整conky来适应屏幕  
-
-			
 		
 > 
 		
 >   * 
 			可以选择要展示的元素  
-
-			
 		
 > 
 		
 >   * 
 			可以嵌入脚本  
-
-			
 		
 > 
 		
 >   * 
 			保存设置,并顺序装载  
-
-			
 		
 > 
 		
@@ -147,47 +96,14 @@ categories:
 			西班牙语和英语两种语言
 		
 > 
-	
-
-
-
-
-
 
 	配置向导下载:  
 
-	
-
-
-
-
-
-
 	ubuntu 32位和64位:[http://code.google.com/p/conkywizard/](http://code.google.com/p/conkywizard/)
-
-
-
-
-
 
 	若使用新的conky配置,运行conky -c ~/.ConkyWizardTheme/ConkyWizardTheme -q &,相应的开机启动也要做同样的改变
 
-
-
-
-
-
 	 VIA{[OMG!Ubuntu](http://www.omgubuntu.co.uk/2010/06/easy-to-use-lucid-themed-conky-bar-now.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+d0od+(Omg!+Ubuntu!))}
 
-
-
-
-
-
-	  
-
-	
-
-
-
+ar-now.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+d0od+(Omg!+Ubuntu!))}
 

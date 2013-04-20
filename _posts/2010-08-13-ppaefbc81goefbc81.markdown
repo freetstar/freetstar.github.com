@@ -11,19 +11,7 @@ categories:
 - 软件安装
 ---
 
-
-	 
-
-
-
-
-
-
 	PPA的定义：
-
-
-
-
 
 > 
 	
@@ -34,18 +22,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	PPA 使用指南：  
-
-	
-
-
-
-
 
 > 
 	
@@ -56,16 +33,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	关于PPA我的理解：
-
-
-
-
 
 > 
 	
@@ -76,16 +44,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	寻找PPA：
-
-
-
-
 
 > 
 	
@@ -106,8 +65,6 @@ categories:
 > 
 > 
 		 插件下载：[HERE ](https://chrome.google.com/extensions/detail/jlmhakjgfcifidaaichkfplodeljkmpn?hl=zh-cn )  
-
-		
 	
 > 
 > 
@@ -122,8 +79,6 @@ categories:
 > 
 > 
 		 插件图示：    
-
-		
 	
 > 
 > 
@@ -134,17 +89,6 @@ categories:
 	
 > 
 > 
-
-
-
-
-
-
-	<!-- more -->
-
-
-
-
 
 > 
 	
@@ -158,8 +102,6 @@ categories:
 > 
 > 
 		 打开终端，输入：  
-
-		
 	
 > 
 > 
@@ -192,19 +134,6 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
 > 
 	
 > 
@@ -231,8 +160,6 @@ categories:
 > 
 > 
 		 然后就是添加PPA了    
-
-		
 	
 > 
 > 
@@ -258,25 +185,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
-
 	PPA的基本使用命令：
-
-
-
-
 
 > 
 	
@@ -301,27 +210,11 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	 注意："寻找ppa 1"中基本上都需要运行上述命令来完成ppa的添加和软件的下载  "寻找ppa2,3"基本不需要  
-
-
-
-
-
 
 	 记：万变不离其宗
 
+��述命令来完成ppa的添加和软件的下载  "寻找ppa2,3"基本不需要  
 
-
-
-
-
-	 
-
-
-
+	 记：万变不离其宗
 

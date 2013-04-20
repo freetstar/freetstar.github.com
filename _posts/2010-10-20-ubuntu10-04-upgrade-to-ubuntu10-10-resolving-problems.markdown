@@ -14,14 +14,12 @@ categories:
 	
 > 
 > 
-		 
 	
 > 
 > 
 	
 > 
 > 
-		 
 	
 > 
 > 
@@ -61,10 +59,6 @@ categories:
 > 
 > 
 
-
-
-
-
 > 
 	
 > 
@@ -80,10 +74,6 @@ categories:
 	
 > 
 > 
-
-
-
-
 
 > 
 	
@@ -141,20 +131,12 @@ categories:
 > 
 > 
 
-
-
-
-
 > 
 	
 >     
 >     <span style="font-style: italic; " class="Apple-style-span"><span style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; "><span style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ">网址：<a style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 17, 17); text-decoration: none; " href="http://forum.ubuntu.org.cn/viewtopic.php?f=49&t=265686">http://forum.ubuntu.org.cn/viewtopic.php?f=49&t=265686</a></span></span></span>
 > 
 > 
-
-
-
-
 
 > 
 	
@@ -163,10 +145,6 @@ categories:
 >     /etc/grub.d/00_header中找到set gfxmode=${GRUB_GFXMODE}，后面加一行让plymouth和grub分辨率一样：</span></span></span>
 > 
 > 
-
-
-
-
 
 > 
 	
@@ -179,20 +157,9 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	 注：升级有风险！
-
-
-
-
-
 
 	总结下：自己还是太菜了，或许尝试做LFS是对自己的一个提升！加油！ 
 
-
-
+��自己的一个提升！加油！ 
 

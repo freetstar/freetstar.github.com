@@ -10,19 +10,9 @@ categories:
 - PROGRAM
 ---
 
-
 	对于学习和使用linux的人来讲,掌握强大和伟大的CML是必要的,掌握一款合适自己的shell(命令解释器)是非常必须的
 
-
-
-
-
-
 	通常大多数linux发行版默认的shell是bash(Bourne Again shel),他的优点是
-
-
-
-
 
 > 
 	
@@ -33,16 +23,7 @@ categories:
 > 
 > 
 
-
-
-
-
-
 	下面介绍一款同样优秀的shell-----Friendly Interactive Shell,简称为fish,他的优点是
-
-
-
-
 
 > 
 	
@@ -52,10 +33,6 @@ categories:
 	
 > 
 > 
-
-
-
-
 
 > 
 	
@@ -96,7 +73,6 @@ categories:
 	
 > 
 > 
-		 
 	
 > 
 > 
@@ -110,18 +86,22 @@ categories:
 	
 > 
 > 
-		 
 	
 > 
 > 
 	
 > 
 > 
-		 
 	
 > 
 > 
-
-
-
+	
+> 
+> 
+	
+> 
+> 
+	
+> 
+> 
 

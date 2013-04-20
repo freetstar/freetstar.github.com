@@ -10,21 +10,13 @@ categories:
 - 生活
 ---
 
-
-
-
 [](http://www.freetstar.com/wp-content/uploads/2010/07/P10802151.jpg)
-
 
 ![](http://www.freetstar.com/wp-content/uploads/2010/07/P10802151.jpg)
 
 [![](http://www.freetstar.com/wp-content/uploads/2010/07/P1080219.jpg)](http://www.freetstar.com/wp-content/uploads/2010/07/P1080219.jpg)
 
-
 [![](http://www.freetstar.com/wp-content/uploads/2010/07/P1080216-1024x768.jpg)](http://www.freetstar.com/wp-content/uploads/2010/07/P1080216.jpg)
-
-
-
 
 [caption id="attachment_1021" align="aligncenter" width="320" caption="这是我的项目ubuntu10.04的比赛平台"][![这是我的项目](http://www.freetstar.com/wp-content/uploads/2010/07/P1080174.jpg)](http://www.freetstar.com/wp-content/uploads/2010/07/P1080174.jpg)[/caption]
 
@@ -32,4 +24,7 @@ categories:
 
  
 
+n]
+
+ 
 

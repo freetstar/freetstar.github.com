@@ -10,26 +10,11 @@ categories:
 - 软件安装
 ---
 
-
 	 从学校回到家，家里却没有网，很悲剧的没有网。。。
-
-
-
-
-
 
 	 想办法吧，记得同学以前在XP下用NOKIA的PC套件把手机做为猫上网 ：（，我电脑中没有XP也没有WIN 7,只能另想办法。google一下，发现真还有在ubuntu下通过手机上网的方法。
 
-
-
-
-
-
 	 环境：Nokia 5320  Ubuntu 10.04  手机cmnet上网
-
-
-
-
 
 > 
 	
@@ -54,17 +39,11 @@ categories:
 > 
 > 
 
-
-
-
-
 > 
 	
 > 
 > 
 		 2.使用usb数据线,将手机连接到电脑.本人选择的是PC套件模式  
-
-		
 	
 > 
 > 
@@ -83,10 +62,6 @@ categories:
 > 
 > 
 
-
-
-
-
 > 
 	
 > 
@@ -103,17 +78,11 @@ categories:
 > 
 > 
 
-
-
-
-
 > 
 	
 > 
 > 
 		 4. 同样在gnome-ppp的Setup中,设置init Strings的init3为  
-
-		
 	
 > 
 > 
@@ -125,24 +94,11 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	<!-- more -->
-
-
-
-
-
 > 
 	
 > 
 > 
 		 5.回到gnome-ppp主窗口,  
-
-		
 	
 > 
 > 
@@ -157,8 +113,6 @@ categories:
 > 
 > 
 		 应该会出现.  
-
-		
 	
 > 
 > 
@@ -226,19 +180,6 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	  
-
-	
-
-
-
-
-
 > 
 	
 > 
@@ -248,34 +189,9 @@ categories:
 > 
 > 
 
-
-
-
-
-
-	 
-
-
-
-
-
-
 	参考资料：[http://sardis.ycool.com/post.2911493.html](http://sardis.ycool.com/post.2911493.html)
-
-
-
-
-
-
-	 
-
-
-
-
-
 
 	 [http://forum.ubuntu.org.cn/viewtopic.php?t=107532](http://forum.ubuntu.org.cn/viewtopic.php?t=107532)
 
-
-
+/forum.ubuntu.org.cn/viewtopic.php?t=107532](http://forum.ubuntu.org.cn/viewtopic.php?t=107532)
 

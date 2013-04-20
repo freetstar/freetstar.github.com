@@ -16,8 +16,656 @@ FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php
 define("FS_CHMOD_DIR", 0777);
 define("FS_CHMOD_FILE", 0777)[/sourcecode]`
 
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
 
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
 
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
+](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。
+---
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+slug: wordpress%e5%9c%a8%e7%ba%bf%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%92%8c%e4%b8%bb%e9%a2%98%e6%97%b6%e6%8f%90%e7%a4%ba%e5%af%86%e7%a0%81%e9%94%99%e8%af%af%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
+- WP使用
+---
+
+具体方法：
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+`[sourcecode language="c"]define("FS_METHOD", "direct);
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777)[/sourcecode]`
 
 参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
 ](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。

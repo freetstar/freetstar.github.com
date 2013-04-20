@@ -2,7 +2,6 @@ import os
 
 filelists =  os.listdir(os.getcwd())
 
-
 def delMoreTag(f):
     newlines = []
     with open(f,'r')  as content:
@@ -13,7 +12,7 @@ def delMoreTag(f):
             content.write(line)
 
 def delMultiblankline(f):
-    file = open(f,'r+')
+    file = open(f,'w')
     
     lines = file.readlines()
 
@@ -32,8 +31,9 @@ def delMultiblankline(f):
 
     for j,i in enumerate(index_to_del):
         del lines[i-j]
-    file.truncate()
+
     file.write(''.join(lines))
+    file.close()
 
 def process(f):
     delMoreTag(f)

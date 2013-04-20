@@ -77,3 +77,2452 @@ categories:
 学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
 
 ![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)
+---
+author: admin
+comments: true
+date: 2011-08-05 23:32:17
+layout: post
+slug: life-2
+title: 近来的生活[多图]
+wordpress_id: 1769
+categories:
+- 生活
+---
+
+1 下午无聊时搜索了下自己的网络id，发现自己的网站被Google索引内容了，小高兴阿，分别是英文和中文的![](http://i.imgur.com/RlmpK.png)
+
+![](http://i.imgur.com/PMHpV.png)
+
+2 近来在准备Robocup China Open 2011,每天除了给一帮学弟学妹介绍代码，介绍平台，介绍Linux和C++的时间外，都没有时间干点其它的事情或者没有心思干点其它的事情
+
+上个我讲课的图，嘿嘿，他们说这是S型的。。冏
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_Q4gi_59dd0000cf115c43.jpg)<!-- more -->
+
+给他们讲累了。。恩
+
+![](http://fmn.rrimg.com/fmn051/20110804/1820/p_large_klSU_3849000167275c74.jpg)
+
+教他们怎么搞软链接了。。其实是库相应的版本没有安装
+
+![](http://fmn.rrimg.com/fmn054/20110722/0855/p_large_08ij_187a0005d02a5c70.jpg)
+
+那天下大雨之后，突然另外一个低洼的地形硬是多出来很多的水，看吧，水还不深，然后还有各种鱼，然后捞鱼去喽
+
+![](http://fmn.rrimg.com/fmn047/20110730/2025/p_large_0Q6Z_188d000892255c70.jpg)
+
+3 期间USTC的[Aenon](https://twitter.com/#!/ssngiraffe)同学来参加了TJLUG的线下活动，介绍了LinuxDeepin和USTC mirrors的事情，让学弟学妹甚是眼馋阿，具体见马老师的[记录](http://www.richardma.org/blog/2011/07/20/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB-tjlug2011%E5%B9%B47%E6%9C%88%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8/)
+
+首先是合影：依次是工大的同学，我，Aenon，richard_ma，sunpinyin的核心开发者之一：mike，jerrypeng
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_weVO_5a0900049f745c41.jpg)
+
+来个vim 搞基图
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_F5ry_099f0004a1465c44.jpg)
+
+黑客与和谐，来自GhostTomas
+
+![](http://www.richardma.org/blog/wp-content/uploads/2011/07/p_large_j2Ly_3b060004951f5c71-1.jpg)
+
+有同学可以围观下屏幕下方，同学们都在用ubuntu阿，有木有阿
+
+4 还是Robocup，累阿，代码进展程度没我想象的快，新上手的同学时间短，悟性相对不太高，恩。。。我还是继续搞我的Robocup 2D的代码，想成绩想疯了的学校
+
+还让我带着Robocup Rescue和Fira 5V5,Robocup @Home的，好消息是这几个项目都通过了资质认证，同学们都很认真的继续做了前期和中期的准备，上交的TDP都很有质量，
+
+大部分都很负责，也已经准备好了代码，正在努力冲刺和修改当中呢。在课余时间，我会教他们多用Google，多用gmail，多用Gtalk，偶尔教教怎么ssh fuckgfw，给他们个帐号
+
+给学弟学妹上点镜头，搞Robocup Rescue的tianjun xue
+
+![](http://fmn.rrimg.com/fmn054/20110804/1820/p_large_tvkb_3ebb0000ce4d5c6f.jpg)
+
+学妹学着蛋疼弄了个这样的开场阵型。。。
+
+![](http://fmn.rrimg.com/fmn046/20110804/1820/p_large_65pv_12850000ce795c44.jpg)
+
+来个我的冏图，注意亲：11.04阿
+
+![](http://fmn.rrimg.com/fmn052/20110730/2025/p_large_i7KM_511900088a3f5c73.jpg)
+
+突然你很上像。。再来一个，注意是10.04阿，
+
+![](http://fmn.rrimg.com/fmn051/20110727/2035/p_large_Dsd3_3ddf000715325c42.jpg)
+
+孩子们累了
+
+![](http://fmn.rrimg.com/fmn054/20110727/2035/p_large_17H8_221000079cf55c6f.jpg)
+
+学妹说这个return 0.0的0.0特别可爱，你觉得呢。。
+
+![](http://fmn.rrfmn.com/fmn048/20110725/1650/p_large_6zfB_57f30006e4e45c72.jpg)

@@ -10,23 +10,567 @@ categories:
 - 生活
 ---
 
-
 	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
-
-
-
-
-
 
 	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
 
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
 
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
 
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
 
-
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
 
 	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
 
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
 
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
 
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
+
+---
+author: admin
+comments: true
+date: 2010-06-08 04:47:33
+layout: post
+slug: life
+title: 又是一个熬夜
+wordpress_id: 323
+categories:
+- 生活
+---
+
+	 想想从购买VPS搭建blog开始，到现在已经有差不多两个星期了，期间学会了很多东西，付出可很多的时间和精力在上边，![:)](http://www.freetstar.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif)，都没怎么好好脚踏实地系统学习linux shell编程和服务器。
+
+	 经过一晚上的熬夜，今天基本上把博客WP的主题确定下来了，之前的主题总多少存在些不合理的地方，修正这些问题对于我一个对WEB开发没有多少研究的菜鸟来说是比较困难的。以后不会把重点放在研究WP身上了，之后多踏实学习LINUX，奉献给大家好的精神享受是我最高的目标。谢谢这么久来delectate兄的照顾，也很荣幸和幸运的通过独立blog这样的一个平台认识了许多对ubuntu，对linux，对编程有兴趣的朋友，谢谢！
+
+	 天又亮了，校园里的青蛙叫了一晚上，睡去了。。。
 

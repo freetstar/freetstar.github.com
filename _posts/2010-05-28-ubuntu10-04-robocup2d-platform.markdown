@@ -18,15 +18,15 @@ tags:
 
 （1）系统准备
 
-[code language="bash"]sudo apt-get install nautilus-gksu[/code]
+    sudo apt-get install nautilus-gksu
 
 把“管理员打开选项”添加到右键菜单中
 
-[code language="bash"]sudo apt-get install nautilus-open-terminal [/code]
+    sudo apt-get install nautilus-open-terminal 
 
 把终端添加到右键菜单中
 
-[code language="bash"]sudo apt-get install rar unrar p7zip[/code]
+    sudo apt-get install rar unrar p7zip
 
 安装解压缩程序
 
@@ -44,24 +44,22 @@ tags:
 
 在终端中输入以下命令
 
-[code language="bash"]sudo apt-get install build-essential //编译器安装
-sudo apt-get install xorg-dev  //xorg图形界面
-sudo apt-get install flex bison //词法分析器生成器 语法分析器
-sudo apt-get install libboost-dev libboost-all-dev//安装boost库 10.04增加了libboost-all-dev
-sudo apt-get install libqt4-dev libqt4-gui qt4-dev-tools qt4-doc qt4-designer qt4-qtconfig //qt4的应用程序
-sudo apt-get install libglpng libglpng-dev//ubuntu10.04默认没有装这个
-sudo apt-get install libglib2.0-dev //ubuntu10.04默认也没装glibc库
-           [/code]
+    sudo apt-get install build-essential //编译器安装
+    sudo apt-get install xorg-dev  //xorg图形界面
+    sudo apt-get install flex bison //词法分析器生成器 语法分析器
+    sudo apt-get install libboost-dev libboost-all-dev//安装boost库 10.04增加了libboost-all-dev
+    sudo apt-get install libqt4-dev libqt4-gui qt4-dev-tools qt4-doc qt4-designer qt4-qtconfig //qt4的应用程序
+    sudo apt-get install libglpng libglpng-dev//ubuntu10.04默认没有装这个
+    sudo apt-get install libglib2.0-dev //ubuntu10.04默认也没装glibc库
 
 （4）前期准备完毕后
 
 解压相应的rcssserver rcssmonitor文件夹，在文件夹右键单击在终端中打开。依次输入下面命令
 
-[code language="bash"]sudo ./configure //配置库等一系列东西
-sudo make
-sudo make install //必须root装
-sudo ldconfig //修改软件数据库 缓存
-[/code]
+    sudo ./configure //配置库等一系列东西
+    sudo make
+    sudo make install //必须root装
+    sudo ldconfig //修改软件数据库 缓存
 
 注：在make的过程中可能提示/usr/bin/ld 错误。是因为/usr/lib下的共享库文件无法使用造成的，利用find .  -name “strings” 大概查找需要的文件，然后做个软链接sudo ln -s example1.so.1 example1.so.
 
@@ -71,11 +69,9 @@ sudo ldconfig //修改软件数据库 缓存
 
 切换到/usr/lib文件夹下
 
-[code language="bash"]
-sudo ln -s libgthread-2.0.so.0 libgthread-2.0.so
-sudo ln -s libgobject-2.0.so.0 libgobject-2.0.so
-sudo ln -s libaudio.so.2 libaudio.so
-[/code]
+    sudo ln -s libgthread-2.0.so.0 libgthread-2.0.so
+    sudo ln -s libgobject-2.0.so.0 libgobject-2.0.so
+    sudo ln -s libaudio.so.2 libaudio.so
 
 还有就是在安装soccerwindows的时候在./configure 的时候加选项--disable-qt3（现在都是qt4了）
 
@@ -85,15 +81,15 @@ sudo ln -s libaudio.so.2 libaudio.so
 
 进入系统/系统管理/软件源，在软件源对话框中切换到第三方软件页面，点击添加：
 
-[code language="bash"]deb http://ppa.launchpad.net/gnurubuntu/rubuntu/ubuntu lucid main
-deb-src http://ppa.launchpad.net/gnurubuntu/rubuntu/ubuntu lucid main
-[/code]
+    deb http://ppa.launchpad.net/gnurubuntu/rubuntu/ubuntu lucid main
+    deb-src http://ppa.launchpad.net/gnurubuntu/rubuntu/ubuntu lucid main
+
 
 安装Server：
 
-[code language="bash"]sudo apt-get update
-sudo apt-get install rcssserver rcsslogplayer
-[/code]
+    sudo apt-get update
+    sudo apt-get install rcssserver rcsslogplayer
+
 参考网址：
 
 [https://launchpad.net/~rm1232002/+archive/rcss+lucid](https://launchpad.net/~rm1232002/+archive/rcss+lucid)

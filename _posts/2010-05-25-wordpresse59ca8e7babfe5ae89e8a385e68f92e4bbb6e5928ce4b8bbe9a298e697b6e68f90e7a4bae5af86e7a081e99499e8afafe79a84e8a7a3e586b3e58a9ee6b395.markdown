@@ -11,11 +11,16 @@ categories:
 ---
 
 具体方法：
-FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
-`[sourcecode language="c"]define("FS_METHOD", "direct);
-define("FS_CHMOD_DIR", 0777);
-define("FS_CHMOD_FILE", 0777)[/sourcecode]`
 
-参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)[
-](http://wordpress.org.cn/thread-49547-1-1.html) 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php里加入下面代码:
+
+    define("FS_METHOD", "direct);
+    define("FS_CHMOD_DIR", 0777);
+    define("FS_CHMOD_FILE", 0777)[/sourcecode]
+
+
+参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)
+
+我只将上面3行代码加入wp-config.php里就行了，没有做其他的。
+
 另外还有  [http://www.ifunkey.com/4060.html](http://www.ifunkey.com/4060.html) [http://wubangtu.com/665](http://wubangtu.com/665) 这两个帖子，我实验了下，不行。

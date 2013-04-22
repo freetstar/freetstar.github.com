@@ -125,113 +125,36 @@ categories:
 	 让配置保持生效 
 
 	 为了一直使用扩展的文件名替换,将下边命令添加到~/.zshrc  
-
-> 
-	
-> 
-> 
+ 
 		autoload -Uz compinit
-	
-> 
-> 
-	
-> 
-> 
+ 
 		compinit
-	
-> 
-> 
-	
-> 
-> 
+ 
 		zstyle :compinstall filename '/home/capecchi/.zshrc'
-	
-> 
-> 
-	
-> 
-> 
+ 
 		zstyle ':completion:*:descriptions' format '%U%B%d%b%u'
-	
-> 
-> 
-	
-> 
-> 
+ 
 		zstyle ':completion:*:warnings' format '%BSorry, no matches for: %d%b'
-	
-> 
-> 
-	
-> 
-> 
+ 
 		#Prompt setup
-	
-> 
-> 
-	
-> 
-> 
+ 
 		autoload -U promptinit
-	
-> 
-> 
-	
-> 
-> 
+ 
 		promptinit
-	
-> 
-> 
-	
-> 
-> 
+ 
 		prompt elite2 yellow
-	
-> 
-> 
-	
-> 
-> 
+ 
 		# History
-	
-> 
-> 
-	
-> 
-> 
+ 
 		HISTFILE=~/.histfile
-	
-> 
-> 
-	
-> 
-> 
+ 
 		HISTSIZE=1000
-	
-> 
-> 
-	
-> 
-> 
+ 
 		SAVEHIST=1000
-	
-> 
-> 
-	
-> 
-> 
+ 
 		#We set some options here
-	
-> 
-> 
-	
-> 
-> 
+ 
 		setopt appendhistory autocd hist_ignore_all_dups hist_ignore
-	
-> 
-> 
 
 	 注:  ~/.zshrc文件可以来自交互和登录shell。如果你希望为非交互运行的zsh（即，通过cronjob）设定选项，那么你需要把那些命令添加在~/.zshenv后面  
 

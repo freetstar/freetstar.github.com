@@ -16,7 +16,7 @@ Landslide通过源代码来产生Html文件。
 
 举个例子，制作一个介绍python流程控制的slide，这里是Rst源码
 
-> Python
+ Python
 ======
 
 --------------

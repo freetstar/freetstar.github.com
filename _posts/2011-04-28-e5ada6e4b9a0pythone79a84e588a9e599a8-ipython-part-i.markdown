@@ -46,7 +46,7 @@ IPython 使用：
 
 **不一样的In和Out**（^_^不许邪恶的遐想）
 
-> 小例子，在IPython命令行输入：
+ 小例子，在IPython命令行输入：
 
 In [1]: a=1
 
@@ -66,17 +66,17 @@ In [4]: print In
 
 **TAB补全你要的**
 
-> 例子：
-> 
-> In [1]: import os[TAB]
-> 
-> os  os2emxpath  ossaudiodev
-> 
-> In [2]:os.pa[TAB]
-> 
-> os.pardir  os.pathconf  os.pathsep 
-> 
-> os.path  os.pathconf_names
+ 例子：
+ 
+ In [1]: import os[TAB]
+ 
+ os  os2emxpath  ossaudiodev
+ 
+ In [2]:os.pa[TAB]
+ 
+ os.pardir  os.pathconf  os.pathsep 
+ 
+ os.path  os.pathconf_names
 
 IPython提供两类自动完成功能：完成与菜单完成.默认的是完成，即列出所有的可能性列表，菜单完成即是不提供列表，而是直接你TAB时，切换到下一个可供选择的选项中。
 
@@ -86,9 +86,9 @@ IPython提供两类自动完成功能：完成与菜单完成.默认的是完成
 
 2 其实默认的python shell也是支持TAB补全的，方法：
 
->>>import rlcompleter,readline
+>>import rlcompleter,readline
 
->>>readline.parse_and_bind('tab:complete')
+>>readline.parse_and_bind('tab:complete')
 
 **魔力编辑**
 

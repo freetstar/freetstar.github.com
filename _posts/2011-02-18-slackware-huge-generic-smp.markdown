@@ -91,28 +91,14 @@ linux的smp技术
 查看是否在是使用的smp的内核uname -a|grep --color=always -i "smp"，看是否有结果。一般较新的linux发行版都会在安装时检测是否有多个cpu或者多核，然后自动安装smp和普通的内核。ubuntu貌似默认就是smp，而slackware等其他发行版有其他smp和其他模式
 
 自己编译smp的内核支持
-
-> 
-
-> 
-> make menuconfnig
-> 
-> 
-
-> 
-> 选取 Processor type and features
-> 
-> 
-
-> 
-> 选取==>Support for suspend on SMP and hot-pluggable CPUs (EXPERIMENTAL)
-> 
-> 
-
-> 
-> 选取==>Symmetric multi-processing support #SMP 支持
-> 
-> 
+ 
+ make menuconfnig
+ 
+ 选取 Processor type and features
+ 
+ 选取==>Support for suspend on SMP and hot-pluggable CPUs (EXPERIMENTAL)
+ 
+ 选取==>Symmetric multi-processing support #SMP 支持
 
 slackware的huge版本
 

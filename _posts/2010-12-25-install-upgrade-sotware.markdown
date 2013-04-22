@@ -21,7 +21,7 @@ sudo apt-get autoremove openoffice-common 先卸载掉再说
 另外有语言包,可以自己选择下载
 准备安装
 
-> tar zxvf  LibO_3.3.0rc2_Linux_x86_install-deb_en-US.tar.gz
+ tar zxvf  LibO_3.3.0rc2_Linux_x86_install-deb_en-US.tar.gz
 ls
 DEBS  readmes update
 DEBS里是必要的deb包,readmes中是安装方法和安装语言包的一些介绍
@@ -37,7 +37,7 @@ sudo dpkg -i *.deb
 sudo apt-get autoremove virtualbox- [这里tab一下,对应你安装的版本]
 增加vb的10.10源,并安装
 
-> echo "deb http://download.virtualbox.org/virtualbox/debian $(lsb_release -sc) contrib" | sudo tee -a /etc/apt/sources.list
+ echo "deb http://download.virtualbox.org/virtualbox/debian $(lsb_release -sc) contrib" | sudo tee -a /etc/apt/sources.list
 wget -q http://download.virtualbox.org/virtualbox/debian/oracle_vbox.asc -O- | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install virtualbox-4.0

@@ -14,13 +14,13 @@ categories:
 
 在install的最后阶段，报类似下面的错误
 
-> perl: warning: Please check that your locale settings: LC_ALL = (unset), LC__FASTMSG = "true", LC_MESSAGES = "", LANG = "zh_CN" are supported and installed
+ perl: warning: Please check that your locale settings: LC_ALL = (unset), LC__FASTMSG = "true", LC_MESSAGES = "", LANG = "zh_CN" are supported and installed
 
 用locale命令查看时发现报下面的错误
 
 然后各种LC_*混乱，直接就悲剧了
 
-> locale: Cannot set LC_CTYPE to default locale: No such file or directory  
+ locale: Cannot set LC_CTYPE to default locale: No such file or directory  
 
 locale: Cannot set LC_MESSAGES to default locale: No such file or directory  
 

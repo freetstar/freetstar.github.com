@@ -16,7 +16,7 @@ categories:
 
 在APUE一书里，好多代码的头文件都包含了"apue.h"这个头文件，很明显是从当前目录寻找这个头文件的，而系统中并不存在此头文件，需要到APUE[网站](http://www.apuebook.com/)下载[示例源代码](http://www.apuebook.com/src.tar.gz)，下载好之后,
 
-> mv ~/Downloads/src.tar.gz ~/testapue
+ mv ~/Downloads/src.tar.gz ~/testapue
 
 cd ~/testapue
 

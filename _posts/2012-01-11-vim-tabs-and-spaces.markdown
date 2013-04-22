@@ -49,24 +49,14 @@ softtabstop|sts [数字]
   * 
 
 list模式可将不可以打印的字符以^代替，如[TAB]和[SPACE]等空白字符，同时每行末添加$
-
-> 
-
-> 
-> set list
-> 
-> 
+ 
+ set list
 
   * 
 
 使用listchars来改变list模式下显示的字符 listchars关于[TAB]的设置默认模板为tab:xy,其中x只显示一次，y则占有剩余的空间
-
-> 
-
-> 
-> set listchars=tab:>-,eol:$,同时tab默认占4个空格时，tab就显示为>---，每行末尾显示为$
-> 
-> 
+ 
+ set listchars=tab:>-,eol:$,同时tab默认占4个空格时，tab就显示为>---，每行末尾显示为$
 
 效果如图:
 

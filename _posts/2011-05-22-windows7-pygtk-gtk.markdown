@@ -48,37 +48,19 @@ gtk+-bundle_2.16.6-20100912_win32.zip 下载地址：[http://ftp.gnome.org/pub/g
 
 我简单说一下
 
-> 问题产生的原因：
-> 
-> 
-
-> 
-> Python注册表的路径是：HKEY_LOCAL_MACHINE\SOFTWARE\Python
-> 
-> 
-
-> 
-> 而安装程序会去：HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node下寻找python
-> 
-> 
-
-> 
-> 修改问题的办法：
-> 
-> 
-
-> 
-> HKEY_LOCAL_MACHINE\SOFTWARE\Python把这个注册表output出来，然后用文本编辑器编辑一下，把output出来的注册表文本每一行的HKEY_LOCAL_MACHINE\SOFTWARE\Python在
-> 
-> 
-
-> 
-> SOFTWARE和Python中间加上Wow6432Node，然后保存好修改，退出。双击修改过的注册表，系统会提示你导入，导入后即可，然后到HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node
-> 
-> 
-
-> 
-> 找下Python是否出现，ok，搞定！
+ 问题产生的原因：
+ 
+ Python注册表的路径是：HKEY_LOCAL_MACHINE\SOFTWARE\Python
+ 
+ 而安装程序会去：HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node下寻找python
+ 
+ 修改问题的办法：
+ 
+ HKEY_LOCAL_MACHINE\SOFTWARE\Python把这个注册表output出来，然后用文本编辑器编辑一下，把output出来的注册表文本每一行的HKEY_LOCAL_MACHINE\SOFTWARE\Python在
+ 
+ SOFTWARE和Python中间加上Wow6432Node，然后保存好修改，退出。双击修改过的注册表，系统会提示你导入，导入后即可，然后到HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node
+ 
+ 找下Python是否出现，ok，搞定！
 
 七：安装gtk+-bundle_2.16.6-20100912_win32.zip
 
@@ -88,7 +70,7 @@ gtk+-bundle_2.16.6-20100912_win32.zip 下载地址：[http://ftp.gnome.org/pub/g
 
 输入gtk-demo测试gtk是否安装成功，打开python的gui IDE查看python的版本信息等等
 
-> #!/usr/bin/env python  
+ #!/usr/bin/env python  
 
 import pygtk  
 
@@ -111,11 +93,8 @@ class Base:
  gtk.main()  
 
 if __name__==”__main__”:
-> 
-> 
-
-> 
-> base=Base()  
+ 
+ base=Base()  
 
  base.main()
 

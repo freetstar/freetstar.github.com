@@ -79,29 +79,29 @@ categories:
 
 13 重复执行
 
-> ！！重复执行上一次执行过的命令 
+ ！！重复执行上一次执行过的命令 
 
 14 文件带行号输出
 
-> nl filename
+ nl filename
 
 15 关掉显示器
 
-> 桌面单击右键，创建启动器
+ 桌面单击右键，创建启动器
 
 命令部分填 xset dpms force off
 
 16 删除回收站垃圾
 
-> rm -rf ~/.Trash/*
+ rm -rf ~/.Trash/*
 
 17 嘿嘿，搞坏你的硬盘
 
-> dd if=/dev/random of=/dev/sda
+ dd if=/dev/random of=/dev/sda
 
 17 改变标题栏按钮的位置
 
-> gconftool-2 --set /apps/metacity/general/button_layout --type string "maximize,minimize,close:menu"
+ gconftool-2 --set /apps/metacity/general/button_layout --type string "maximize,minimize,close:menu"
 
 未完待续，不断更新中。。。
 

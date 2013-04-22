@@ -112,70 +112,28 @@ categories:
 	 这个项目处在"胚胎"阶段，因此我将不会为任何因为Burg-manager导致的问题负任何责任
 
 	** 从源中安装Burg-Manager**
-
-> 
-	
-> 
-> 
+ 
 		 sudo gedit /etc/apt/sources.list
-	
-> 
-> 
 
 	 将下面添加进去
-
-> 
-	
-> 
-> 
+ 
 		 deb http://www.sourceslist.eu/repo/ubuntu lucid main non-free
-	
-> 
-> 
 
 	 当然也可以这样
-
-> 
-	
-> 
-> 
+ 
 		echo "deb http://www.sourceslist.eu/repo/ubuntu lucid main non-free" | sudo tee -a /etc/apt/sources.list
-	
-> 
-> 
 
 	 添加gpg key
-
-> 
-	
-> 
-> 
+ 
 		 `sudo gpg --keyserver hkp://pgp.mit.edu --recv-keys FA088BA5 && sudo gpg --armor --export FA088BA5 | sudo apt-key add -`>
-	
-> 
-> 
 
 	 或者 
-
-> 
-	
-> 
-> 
+ 
 		 wget http://www.sourceslist.eu/?download=public.key -O- | sudo apt-key add -
-	
-> 
-> 
 
 	 然后运行
-
-> 
-	
-> 
-> 
+ 
 		 sudo apt-get update && sudo apt-get install burg-manager
-	
-> 
-> 
 
 	 想跟上Burg-manager发行版的脚步吗？假如facebook的[fan page](http://www.facebook.com/pages/Sourceslisteu/366814072412)吧
 

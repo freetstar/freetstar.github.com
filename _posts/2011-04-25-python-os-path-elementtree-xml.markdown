@@ -13,43 +13,20 @@ categories:
 学习中，肯定有不对的地方！
 
 python中os.path常用模块
-
-> 
-
-> 
-> os.path.sep:路径分隔符      linux下就用这个了'/'
-> 
-> 
-
-> 
-> os.path.altsep: 根目录
-> 
-> 
-
-> 
-> os.path.curdir:当前目录
-> 
-> 
-
-> 
-> os.path.pardir：父目录
-> 
-> 
-
-> 
-> os.path.abspath(path)：绝对路径
-> 
-> 
-
-> 
-> os.path.join():       常用来链接路径
-> 
-> 
-
-> 
-> os.path.split(path):      把path分为目录和文件两个部分，以列表返回
-> 
-> 
+ 
+ os.path.sep:路径分隔符      linux下就用这个了'/'
+ 
+ os.path.altsep: 根目录
+ 
+ os.path.curdir:当前目录
+ 
+ os.path.pardir：父目录
+ 
+ os.path.abspath(path)：绝对路径
+ 
+ os.path.join():       常用来链接路径
+ 
+ os.path.split(path):      把path分为目录和文件两个部分，以列表返回
 
 见图：
 
@@ -58,149 +35,64 @@ python中os.path常用模块
 python中用ElementTree来读写处理xml文档
 
 添加xml.etree.ElementTree模块
-
-> 
-
-> 
-> import xml.etree.ElementTree as ET
-> 
-> 
+ 
+ import xml.etree.ElementTree as ET
 
 两种解析xml方式
 
 1解析xml文档
-
-> 
-
-> 
-> ET.parse('test.xml')
-> 
-> 
+ 
+ ET.parse('test.xml')
 
 2 解析xml字符串
-
-> 
-
-> 
-> ET.fromstring(string)
-> 
-> 
+ 
+ ET.fromstring(string)
 
 得到xml的root元素
-
-> 
-
-> 
-> tree=ET.parse('test.xml')
-> 
-> 
-
-> 
-> root=tree.getroot()
-> 
-> 
+ 
+ tree=ET.parse('test.xml')
+ 
+ root=tree.getroot()
 
 xml中元素(Element)属性
-
-> 
-
-> 
-> 
-
-> 
-> tree=ET.parse('test.xml')
-> 
-> 
-
-> 
-> root=tree.getroot()
-> 
-> 
-
-> 
-> #root是一个特殊的元素(Element)
-> 
-> 
-
-> 
-> #元素的tag
-> 
-> 
-
-> 
-> 
-
-> 
-> root.tag
-> 
-> 
-
-> 
-> #元素的text
-> 
-> 
-
-> 
-> root.text
-> 
-> 
-
-> 
-> #元素的children类似于列表
-> 
-> 
-
-> 
-> root[0]表示root下的第一个子元素，root[1]表示root的第二个子元素，依次类推。。。
-> 
-> 
-
-> 
-> #元素的属性.attrib是一个字典。也就是用唯一的键，和其对应的值
-> 
-> 
-
-> 
-> root[o].attrib
-> 
-> 
+ 
+ tree=ET.parse('test.xml')
+ 
+ root=tree.getroot()
+ 
+ #root是一个特殊的元素(Element)
+ 
+ #元素的tag
+ 
+ root.tag
+ 
+ #元素的text
+ 
+ root.text
+ 
+ #元素的children类似于列表
+ 
+ root[0]表示root下的第一个子元素，root[1]表示root的第二个子元素，依次类推。。。
+ 
+ #元素的属性.attrib是一个字典。也就是用唯一的键，和其对应的值
+ 
+ root[o].attrib
 
 xml中创建子节点
-
-> 
-
-> 
-> #parent即父节点，tag则创建元素的tag
-> 
-> 
-
-> 
-> ET.SubElement(parent,tag)
-> 
-> 
+ 
+ #parent即父节点，tag则创建元素的tag
+ 
+ ET.SubElement(parent,tag)
 
 xml中查找节点
-
-> 
-
-> 
-> 方法为:find,findall
-> 
-> 
+ 
+ 方法为:find,findall
 
 xml写到文件中
-
-> 
-
-> 
-> tree=ET.parse('test.xml')
-> 
-> 
-
-> 
-> tree.write('test2.xml')
-> 
-> 
+ 
+ tree=ET.parse('test.xml')
+ 
+ tree.write('test2.xml')
 
 Element中有3个对象（不知道这样说准确否）
 

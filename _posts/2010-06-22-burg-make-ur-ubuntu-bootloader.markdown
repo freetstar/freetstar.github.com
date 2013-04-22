@@ -14,40 +14,17 @@ tags:
 
 还记得之前那个美化开机背景的日志吗？
 
-[http://www.freetstar.com/index.php/ubuntu-10-04-9-10grub2-splash-picure](http://www.freetstar.com/index.php/ubuntu-10-04-9-10grub2-splash-picure)
+[http://www.freetstar.com/ubuntu-10-04-9-10grub2-splash-picure](http://www.freetstar.com/ubuntu-10-04-9-10grub2-splash-picure)
 
 现在我们burg用来美化的你开机启动菜单，下面我来一步步介绍她的使用方法
-
-
-
-
 
 	打开终端：输入以下命令  
 
 	 sudo add-apt-repository ppa:bean123ch/burg   
 
-
-
-
-
-
 	sudo apt-get update   
 
-
-
-
-
-
 	sudo apt-get install burg burg-themes  
-
-
-
-
-
-
-
-
-
 
 当出现下面图案时，直接回车即可
 

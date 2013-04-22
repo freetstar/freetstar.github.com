@@ -62,33 +62,18 @@ categories:
 	# 安装：在压缩包中有ubutnu下的安装方法。
 
 	终端运行命令：
-
-> 
-	
->     
->      sudo apt-get install python-webkit python-notify python-keybinder
-> 
-> 
+     
+      sudo apt-get install python-webkit python-notify python-keybinder
     
      解压缩之前下载的包，进入文件夹，运行
-
-> 
-	
->     
->      ./install.ubuntu
-> 
-> 
+     
+      ./install.ubuntu
     
      提示输入密码时输入密码，就是这么简单
     
      或者你可以制作deb包然后安装，运行命令
-
-> 
-	
->     
->      dpkg-buildpackage -rfakeroot && sudo dpkg -i ../*.deb
-> 
-> 
+     
+      dpkg-buildpackage -rfakeroot && sudo dpkg -i ../*.deb
 
 	其他Linux发行版安装方法情参见：[http://code.google.com/p/hotot/wiki/Installation_HOWTO](http://code.google.com/p/hotot/wiki/Installation_HOWTO)
     

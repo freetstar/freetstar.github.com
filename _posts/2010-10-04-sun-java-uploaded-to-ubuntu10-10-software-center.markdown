@@ -11,15 +11,8 @@ categories:
 ---
 
 	在Ubuntu10.04中安装Java JDK时，我们通常需要在第三方源中添加合作伙伴的源，如：
-
-> 
-	
-> 
-> 
+ 
 		deb http://archive.canonical.com/ lucid partner
-	
-> 
-> 
 
 	或者使用一些PPA来安装JDK，而在Ubuntu10.10中，一切都变得很容易，因为Sun Java（6.21）被上传到了ubuntu10.10的官方合作伙伴源中。
 

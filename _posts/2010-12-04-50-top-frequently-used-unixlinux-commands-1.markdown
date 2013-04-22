@@ -73,7 +73,7 @@ $ ssh -V
 [code language="bash"]# diff -w name_list.txt name_list_new.txt 
 2c2,3 
 < John Doe --- > John M Doe 
-> Jason Bourne [/code]
+ Jason Bourne [/code]
 更多的例子 [Top 4 File Difference Tools on UNIX / Linux – Diff, Colordiff, Wdiff, Vimdiff ](http://www.thegeekstuff.com/2010/06/linux-file-diff-utilities/)
 9. sort command examples 
 以升序排列文件 

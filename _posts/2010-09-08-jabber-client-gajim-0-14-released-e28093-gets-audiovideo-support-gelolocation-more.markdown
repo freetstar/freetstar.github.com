@@ -29,22 +29,10 @@ categories:
 	[更新日志](http://hg.gajim.org/gajim/file/605ca10afd21/ChangeLog)
 
 	通过ppa安装
-
-> 
-	
-> 
-> 
+ 
 		**_sudo add-apt-repository ppa:gajim/gajim-ppa_**
-	
-> 
-> 
-	
-> 
-> 
+ 
 		**_sudo apt-get update && sudo apt-get install gajim_**
-	
-> 
-> 
 
 	通过Gajim使用Google Gtalk的教程：
 

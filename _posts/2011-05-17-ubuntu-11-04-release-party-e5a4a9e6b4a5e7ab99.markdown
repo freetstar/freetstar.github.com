@@ -22,13 +22,13 @@ categories:
 
 一:演讲部分  
 
-> 共3个演讲:  
+ 共3个演讲:  
 
-> 1 Ubuntu/Linux Introduction  freetstar  
+ 1 Ubuntu/Linux Introduction  freetstar  
 
-> 2 Firefox4 新特性         delectate  
+ 2 Firefox4 新特性         delectate  
 
-> 3 Geek成长之路            朱峰老师  
+ 3 Geek成长之路            朱峰老师  
 
 二:自由问答时间  
 

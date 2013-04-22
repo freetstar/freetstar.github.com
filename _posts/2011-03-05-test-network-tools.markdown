@@ -153,24 +153,13 @@ server端:
     
     1：
 
-> server端：
-> 
-> 
-
->     
->     nuttcp -S
-> 
-> 
-
->     
->     client端：
-> 
-> 
-
->     
->     nuttcp serverip
-> 
-> 
+ server端：
+     
+     nuttcp -S
+     
+     client端：
+     
+     nuttcp serverip
     
     2：
     

@@ -15,31 +15,18 @@ categories:
 vim.org主页：[http://www.vim.org/scripts/script.php?script_id=2981](http://www.vim.org/scripts/script.php?script_id=2981)
 
 **安装方法：**
-
-> 
-
-> 
-> cd ~/.vim
-> 
-> 
-
-> 
-> unzip zencoding-vim.zip
-> 
-> 
+ 
+ cd ~/.vim
+ 
+ unzip zencoding-vim.zip
 
 还有其他安装方法，可以参考主页里的方法和本页14点
 
 **使用方法**：基本上是[英文版](https://raw.github.com/mattn/zencoding-vim/master/TUTORIAL)的翻译
 
 1 **展开缩写**
-
-> 
-
-> 
-> 输入div>p#foo$*3>a，按下'<c-y>,'
-> 
-> 
+ 
+ 输入div>p#foo$*3>a，按下'<c-y>,'
 
 结果
     

@@ -123,53 +123,24 @@ VPS采用了xen虚拟,故是eth0,如果vps采用了openvz虚拟化,此处应该�
     修改为push "dhcp-option DNS 10.8.0.1"
 
 14)测试,正常情况下应该出现tun0这个虚拟网卡
-
-> 
-
-> 
-> #/etc/init.d/openvpn start
-> 
-> 
-
-> 
-> #ifconfig
-> 
-> 
-
-> 
-> tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
-> 
-> 
-
-> 
-> inet addr:10.8.0.1  P-t-P:10.8.0.2  Mask:255.255.255.255
-> 
-> 
-
-> 
-> UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
-> 
-> 
-
-> 
-> RX packets:2762 errors:0 dropped:0 overruns:0 frame:0
-> 
-> 
-
-> 
-> TX packets:2920 errors:0 dropped:0 overruns:0 carrier:0
-> 
-> 
-
-> 
-> collisions:0 txqueuelen:100
-> 
-> 
-
-> 
-> RX bytes:520504 (520.5 KB)  TX bytes:1035346 (1.0 MB)
-> 
-> 
+ 
+ #/etc/init.d/openvpn start
+ 
+ #ifconfig
+ 
+ tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+ 
+ inet addr:10.8.0.1  P-t-P:10.8.0.2  Mask:255.255.255.255
+ 
+ UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+ 
+ RX packets:2762 errors:0 dropped:0 overruns:0 frame:0
+ 
+ TX packets:2920 errors:0 dropped:0 overruns:0 carrier:0
+ 
+ collisions:0 txqueuelen:100
+ 
+ RX bytes:520504 (520.5 KB)  TX bytes:1035346 (1.0 MB)
 
 **第二步:配置Client端**
 

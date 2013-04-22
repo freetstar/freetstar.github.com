@@ -11,23 +11,12 @@ categories:
 ---
 
 本文环境
-
-> 
-
-> 
-> cat /etc/issue 操作系统为Centos release 5.5(Final)
-> 
-> 
-
-> 
-> uname -a       位数为64位
-> 
-> 
-
-> 
-> 本文假设安装配置时用户是root
-> 
-> 
+ 
+ cat /etc/issue 操作系统为Centos release 5.5(Final)
+ 
+ uname -a       位数为64位
+ 
+ 本文假设安装配置时用户是root
 
 第一步：安装必要的环境
 	

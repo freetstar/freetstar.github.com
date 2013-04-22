@@ -14,7 +14,7 @@ categories:
 
 	话不多说了，我这个vim伪菜鸟上图了
 
-	![](http://fc08.deviantart.net/fs71/i/2010/245/b/c/vim7_3_by_freetstar-d2xu6zu.jpg)<!-- more -->
+	![](http://fc08.deviantart.net/fs71/i/2010/245/b/c/vim7_3_by_freetstar-d2xu6zu.jpg)
 
 	![](http://fc07.deviantart.net/fs70/i/2010/245/4/9/vim_by_freetstar-d2xu74t.jpg)
 

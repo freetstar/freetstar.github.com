@@ -28,7 +28,7 @@ search --no-floppy --fs-uuid --set dea45308-63fa-4014-83b6-dadd1c4802ea
 
 linux /vmlinuz-generic-2.6.33.4 root=/dev/sda2
 
-}<!-- more -->
+}
 
 menuentry "Slackware Linux (Slackware 13.1.0) (on /dev/sda2)" {
 

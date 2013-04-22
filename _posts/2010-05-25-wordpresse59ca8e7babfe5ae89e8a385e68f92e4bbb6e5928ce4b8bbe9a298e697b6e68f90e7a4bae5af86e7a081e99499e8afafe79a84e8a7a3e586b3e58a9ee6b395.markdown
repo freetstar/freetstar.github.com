@@ -18,7 +18,6 @@ FTP里把wp目录下所有文件和文件夹权限递归改为777, wp-config.php
     define("FS_CHMOD_DIR", 0777);
     define("FS_CHMOD_FILE", 0777)[/sourcecode]
 
-
 参考帖子：[http://wordpress.org.cn/thread-49547-1-1.html](http://wordpress.org.cn/thread-49547-1-1.html)
 
 我只将上面3行代码加入wp-config.php里就行了，没有做其他的。

@@ -24,7 +24,7 @@ vim.org主页：[http://www.vim.org/scripts/script.php?script_id=2981](http://ww
 > 
 
 > 
-> unzip zencoding-vim.zip<!-- more -->
+> unzip zencoding-vim.zip
 > 
 > 
 

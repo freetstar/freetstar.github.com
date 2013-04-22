@@ -34,7 +34,7 @@ pygtk-2.16.0+glade.win32-py2.6.exe 下载地址：[http://ftp.gnome.org/pub/GNOM
 
 gtk+-bundle_2.16.6-20100912_win32.zip 下载地址：[http://ftp.gnome.org/pub/gnome/binaries/win32/gtk+/2.16/gtk+-bundle_2.16.6-20100912_win32.zip](http://ftp.gnome.org/pub/gnome/binaries/win32/gtk+/2.16/gtk+-bundle_2.16.6-20100912_win32.zip)
 
-注：都是用win32的，虽然宿主环境是64位win7<!-- more -->
+注：都是用win32的，虽然宿主环境是64位win7
 
 三：安装python2.6.5，这个不需要多废话，一步步的安装即可
 

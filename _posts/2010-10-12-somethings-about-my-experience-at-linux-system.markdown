@@ -16,7 +16,7 @@ categories:
 
 	推荐几个Ubuntu10.10的几个资讯类Blog：[WOW！ubuntu](http://wowubuntu.com/)，[UbuntuHome](http://www.ubuntuhome.com/)，[UbuntuSoft](http://www.ubuntusoft.com/)
 
-	前几天看到Jasey Wang和[Carlos_Gong](http://ibfsu.com/blog/author/carlos_gong/)同学写的[感想](http://jaseywang.info/2010/10/10/%E5%86%99%E5%9C%A8ubuntu-10-10%E5%8F%91%E8%A1%8C%E4%B9%8B%E9%99%85/)，想想自己的经历，我也想写写。<!-- more -->
+	前几天看到Jasey Wang和[Carlos_Gong](http://ibfsu.com/blog/author/carlos_gong/)同学写的[感想](http://jaseywang.info/2010/10/10/%E5%86%99%E5%9C%A8ubuntu-10-10%E5%8F%91%E8%A1%8C%E4%B9%8B%E9%99%85/)，想想自己的经历，我也想写写。
 
 	![](http://lh6.ggpht.com/_1QSDkzYY2vc/TH1VlsjajrI/AAAAAAAABw4/IagZGQklDVM/fantasy_ubuntu_10_10_wallpaper.png)
 

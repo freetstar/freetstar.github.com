@@ -22,7 +22,7 @@ categories:
 
 	 解决办法：停止掉（废话^ ^）
 
-	2 chrome浏览器居然无法打开网页<!-- more -->
+	2 chrome浏览器居然无法打开网页
 
 	 情况：chrome打不开大部分网页，只能打开https://www.google.com 等加密网页。自己还傻乎乎的以为路由器设置有问题
 

@@ -34,7 +34,7 @@ categories:
 
 	 让学生能够在一张也页面学习Unix shell的基本命令
 
-	 地址：[http://freeengineer.org/learnUNIXin10minutes.html<!-- more -->](http://freeengineer.org/learnUNIXin10minutes.html)
+	 地址：[http://freeengineer.org/learnUNIXin10minutes.html](http://freeengineer.org/learnUNIXin10minutes.html)
 
 	5 How To Look Like A UNIx Guru
 

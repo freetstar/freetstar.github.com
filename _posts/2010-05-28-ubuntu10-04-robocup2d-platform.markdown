@@ -38,7 +38,7 @@ tags:
 
 网址：[http://sourceforge.net/projects/sserver/](http://sourceforge.net/projects/sserver/)
 
-网址内有各种版本的包，应根据实际情况进行选择，同时每个版本的发行日志应该下载阅读。同时还有其他的工具，如观看录像工具。<!-- more -->
+网址内有各种版本的包，应根据实际情况进行选择，同时每个版本的发行日志应该下载阅读。同时还有其他的工具，如观看录像工具。
 
 （3）前期安装（注：10.04和9.10在一些软件包上可能有所改动，请注意10.04和9.10所安装软件包的不同之处）
 
@@ -83,7 +83,6 @@ tags:
 
     deb http://ppa.launchpad.net/gnurubuntu/rubuntu/ubuntu lucid main
     deb-src http://ppa.launchpad.net/gnurubuntu/rubuntu/ubuntu lucid main
-
 
 安装Server：
 

@@ -24,8 +24,6 @@ tags:
 
 	![](http://blog.josephhall.com/uploaded_images/DSC00371-320.jpg)
 
-	<!-- more -->  
-
 	![](http://blog.josephhall.com/uploaded_images/DSC00379-320.jpg)
 
 	制作方法

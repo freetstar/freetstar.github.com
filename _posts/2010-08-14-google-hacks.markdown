@@ -30,7 +30,7 @@ categories:
 
 		 linuxgoogle   
 
-		 l33tgoogle <!-- more --> ewmew  
+		 l33tgoogle  ewmew  
 
 		 xx-klingon  
 

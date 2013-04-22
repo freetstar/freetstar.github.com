@@ -16,7 +16,7 @@ categories:
 
 	命令
 
-	[code]man -t bash |ps2pdf - bash.pdf[/code]<!-- more -->
+	[code]man -t bash |ps2pdf - bash.pdf[/code]
 
 	解释：
 

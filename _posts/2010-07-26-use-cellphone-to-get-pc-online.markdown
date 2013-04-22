@@ -94,8 +94,6 @@ categories:
 > 
 > 
 
-	<!-- more -->
-
 > 
 	
 > 

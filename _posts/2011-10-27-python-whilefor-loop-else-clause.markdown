@@ -19,8 +19,6 @@ categories:
     
     while(True)
           {your code}//可能有必要的break或者continue语句
-
-<!-- more -->
     
      
 

@@ -18,7 +18,7 @@ Ailurus 一款linux下的方便linux使用的软件工具. 他帮助你安装优
   * 能够使用更多的资源
   * 增加GNOME设置项
   * 显示CPU的一级和二级缓存
-  * 增加系统医生功能。能够检测系统问题，帮助您修复困难。<!-- more -->
+  * 增加系统医生功能。能够检测系统问题，帮助您修复困难。
 
 总共有65处改进 [Here is a detailed change log.](http://github.com/homerxing/Ailurus/raw/master/ChangeLog) 
 

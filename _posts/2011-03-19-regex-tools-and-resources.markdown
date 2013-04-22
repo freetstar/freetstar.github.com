@@ -22,7 +22,7 @@ categories:
 
  ![](http://media02.hongkiat.com/regex-tools-resources/preview.jpg)
 
-下面正式介绍一些有用的正则表达式工具和资源<!-- more -->
+下面正式介绍一些有用的正则表达式工具和资源
 
 **桌面版的：**
 

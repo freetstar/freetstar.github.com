@@ -24,7 +24,7 @@ categories:
 
 	 ro quiet splash的行，用 rw init=/bin/bash替换，然后按Ctrl+X（或者B键）来以修改后的Grub加载系统
 
-	 这样，你以root身份登陆系统，然后开始重设你的密码。<!-- more -->
+	 这样，你以root身份登陆系统，然后开始重设你的密码。
 
 	二：重设密码
 

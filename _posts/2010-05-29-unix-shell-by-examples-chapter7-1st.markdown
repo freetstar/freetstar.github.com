@@ -40,7 +40,6 @@ Elizabeth Stachelin:(916) 440-1763:175:75:300
 
 请编写一个能产生如下输出的nawk的脚本：
 
-
 ***CAMPAIGN  1998  CONTRIBUTIONS*** 
 
 --------------------------------------------------------------------------------------
@@ -86,7 +85,6 @@ The average donation for the 12 contributions was $511.42
 The highest contribution was $450.00
 
 The lowest contribution was $15.00
-
 
 % nawk -f nawk.sc chapter7
 

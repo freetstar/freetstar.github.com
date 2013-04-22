@@ -16,7 +16,7 @@ categories:
 
 	1 用TELNET看《星球大战》
 
-	 telnet [towel.blinkenlights.nl<!-- more -->](http://towel.blinkenlights.nl)
+	 telnet [towel.blinkenlights.nl](http://towel.blinkenlights.nl)
 
 	没什么好解释的，就是ASCII艺术之一。如果你有ipv6连接，还能看到彩色版的。牛吧？
 

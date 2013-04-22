@@ -71,7 +71,6 @@ categories:
 	
 > 
 > 
-		<!-- more -->  
 	
 > 
 > 

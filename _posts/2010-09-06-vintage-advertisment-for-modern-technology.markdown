@@ -12,7 +12,7 @@ categories:
 
 	1 Facebook
 
-	![](http://media02.hongkiat.com/vintage-ads-modern-technologies/facebook.jpg)<!-- more -->
+	![](http://media02.hongkiat.com/vintage-ads-modern-technologies/facebook.jpg)
 
 	2 Skype
 

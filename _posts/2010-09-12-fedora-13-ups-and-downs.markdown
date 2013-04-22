@@ -22,7 +22,7 @@ categories:
 
 	重启机器，等启动界面慢慢爬过之后，弹出一个对话框
 
-	"can't open the theme:/usr/share/kde/apps/kdm/themes/Goddard"(大概是这句话，具体记不清出了)<!-- more -->
+	"can't open the theme:/usr/share/kde/apps/kdm/themes/Goddard"(大概是这句话，具体记不清出了)
 
 	然后开始google，拿我可爱的Nokia5320上UC浏览器google，好吧，都是提示更改开机登录管理器，选择gdm之类的，我忘了我装没装Gnome桌面。心想，没救了，突然灵光一现
 

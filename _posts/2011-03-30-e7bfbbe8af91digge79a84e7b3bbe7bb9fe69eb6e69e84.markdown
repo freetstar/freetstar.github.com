@@ -26,7 +26,7 @@ categories:
 
 人们用浏览器或者其他方式来访问这些Digg站点。一些有Digg账户的用户，可以得到“我的新闻”。每位用户可以得到所有用户的我们称之为“热门新闻”。我们有[digg.com](digg.com)和移动版的[m.digg.com](m.digg.com),API服务的[services.digg.com](services.digg.com),[about.digg.com](about.digg.com),[developers.digg.com](developers.digg.com)。这些站点统一为用户，新闻发布者，开发人员提供了博客和文档服务
 
-本文主要介绍Digg在高层使用的技术<!-- more -->
+本文主要介绍Digg在高层使用的技术
 
 **我们在努力做的**
 

@@ -12,7 +12,7 @@ categories:
 
 	先放张图感觉下哈,已经更新图床
 
-	![](http://imagebin.ca/img/ODH463B.jpg)<!-- more -->
+	![](http://imagebin.ca/img/ODH463B.jpg)
 
 	好吧，看见有多火热了吧
 

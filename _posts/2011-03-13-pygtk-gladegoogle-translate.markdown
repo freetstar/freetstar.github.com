@@ -18,7 +18,6 @@ categories:
 
 源码：
 
-<!-- more -->
 [code language="python"]
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-

@@ -22,7 +22,7 @@ categories:
 
 		官方主页：[http://linux.chinaunix.net/ebook/](http://linux.chinaunix.net/ebook/)
 
-		说明：最新的业界动态，系统维护，程序应用等，chinaunix官方推出<!-- more -->
+		说明：最新的业界动态，系统维护，程序应用等，chinaunix官方推出
 
 		三：开源通讯
 

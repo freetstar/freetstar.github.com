@@ -33,7 +33,7 @@ categories:
 
 		](http://www.nvidia.cn/object/linux-display-amd64-256.35-driver-cn.html)本本情况：显卡8400M GS ,缓存64mb，CPU T2330，主频1.6G  
 
-		驱动情况：之前使用的是Nvidia 195系列驱动<!-- more -->  
+		驱动情况：之前使用的是Nvidia 195系列驱动  
 
 		安装方法：  
 

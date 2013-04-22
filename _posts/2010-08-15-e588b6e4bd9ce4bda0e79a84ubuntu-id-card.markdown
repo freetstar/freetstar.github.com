@@ -16,8 +16,6 @@ categories:
 
 	 主要有四种Ubuntu ID Card，分别是:Ubuntu ID, Kubuntu ID,Xubuntu ID,Ubuntu Studio ID
 
-	 <!-- more -->  
-
 	 Ubuntu ID  (也就是我用的)  
 
 	 ![](http://fc01.deviantart.net/fs29/i/2008/117/9/6/Ubuntu_ID_by_fabianff.jpg) 

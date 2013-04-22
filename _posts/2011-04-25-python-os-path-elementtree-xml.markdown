@@ -57,8 +57,6 @@ python中os.path常用模块
 
 python中用ElementTree来读写处理xml文档
 
-<!-- more -->
-
 添加xml.etree.ElementTree模块
 
 > 

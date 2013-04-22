@@ -22,7 +22,7 @@ categories:
 
 3 再次访问actIndex.do页面，这时候就真正登录进来了,可以查看资源列表文件了
 
-<!-- more -->4 在actIndex.do页面,选择某个想要看的视频，查看页面源文件，查看此视频对应的progid是多少，每个视频文件的progid唯一的，还有查看每个有多少集，举个例子:柯南剧场的独有的progid是3349，而 柯南剧场的有400多集，所以柯南剧场对应的volume就从1-400多这个范围移动，这个具体的含义不懂得话还可以参考上边物电的同学的链接
+4 在actIndex.do页面,选择某个想要看的视频，查看页面源文件，查看此视频对应的progid是多少，每个视频文件的progid唯一的，还有查看每个有多少集，举个例子:柯南剧场的独有的progid是3349，而 柯南剧场的有400多集，所以柯南剧场对应的volume就从1-400多这个范围移动，这个具体的含义不懂得话还可以参考上边物电的同学的链接
 
 5 接着访问下载页面http://59.67.75.254/actDownload.do，用GET方法请求，带着上边的progid和volume信息,在http会话中发现在response headers中还有Location标志，指向下载的download.jsp页面，这时urilib2会自动访问download.jsp，然后做一个跳转，在接收回来的response body会有真实资源的地址，如
 

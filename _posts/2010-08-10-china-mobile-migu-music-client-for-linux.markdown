@@ -22,7 +22,7 @@ categories:
 	**下载地址：**
 
 #### 
-	**[ HERE<!-- more -->](http://music.10086.cn/newweb/zq/2009/migu_music_client/default/_/_/_/_/_/_/p.html)**
+	**[ HERE](http://music.10086.cn/newweb/zq/2009/migu_music_client/default/_/_/_/_/_/_/p.html)**
 
 #### 
 	** Linux 版有带Qt库和不带Qt库的两种。推荐下载带Qt库的（本人尝试不带Qt库的有问题，可能时之前折腾Qt出现小问题所致）**

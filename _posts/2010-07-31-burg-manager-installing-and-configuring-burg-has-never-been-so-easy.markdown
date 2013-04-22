@@ -23,7 +23,7 @@ categories:
 
 	//Translation Begin
 
-	 ![](http://www.sourceslist.eu/wp-content/uploads/2010/06/logoburgmanager.png)<!-- more -->
+	 ![](http://www.sourceslist.eu/wp-content/uploads/2010/06/logoburgmanager.png)
 
 	 由Ingalex & Canopus0003编写的Burg-manager，以[BUC](http://buc.billeragroup.net/?page_id=15)为基础。此软件的目标是通过简单直观的图形界面，来管理BURG 引导器，而无须使用终端命令。
 

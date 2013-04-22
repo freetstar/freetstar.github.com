@@ -29,7 +29,7 @@ VPN Client:本机,国内的一个PC,OS:ubuntu desktop 10.10
 1)更新VPS 自身软件至最新
     
     #apt-get update
-    #apt-get upgrade --upgrade<!-- more -->
+    #apt-get upgrade --upgrade
 
 2)安装Openvpn及其依赖udev
     

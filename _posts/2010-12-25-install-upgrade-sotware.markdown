@@ -31,8 +31,6 @@ sudo dpkg -i *.deb
 再次运行
 sudo dpkg -i *.deb
 
-<!-- more -->
-
 二:安装virtualBox4.0
 
 如果之前安装过

@@ -14,7 +14,7 @@ categories:
 
 	首先上菜单~
 
-	![](http://imgur.com/jIJqk.jpg)<!-- more -->
+	![](http://imgur.com/jIJqk.jpg)
 
 	餐厅的招牌
 

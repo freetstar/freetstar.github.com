@@ -25,7 +25,7 @@ scp file1 file2
 当然scp主要是用户网络传输的
 [code language="bash"]scp tem.pdf username@remotemachine:[/code]
 注意：“：”，同志们可以想象下没有冒号会怎么样
-<!-- more -->
+
 充分利用alias吧
 比如说：cd3 cd4
 [code language="bash"]alias cd3='cd ../..'

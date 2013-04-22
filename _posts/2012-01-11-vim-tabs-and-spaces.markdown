@@ -70,7 +70,7 @@ list模式可将不可以打印的字符以^代替，如[TAB]和[SPACE]等空白
 
 效果如图:
 
-[![](http://www.freetstar.com/wp-content/uploads/2012/01/listchar.jpg)<!-- more -->](http://www.freetstar.com/wp-content/uploads/2012/01/listchar.jpg)  
+[![](http://www.freetstar.com/wp-content/uploads/2012/01/listchar.jpg)](http://www.freetstar.com/wp-content/uploads/2012/01/listchar.jpg)  
 
 为了方便，可以添加这个到你的vimrc中，
     

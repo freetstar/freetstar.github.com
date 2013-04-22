@@ -48,7 +48,7 @@ categories:
 	
 > 
 > 
-		 rm -rf ~/.gnome* ~/.gconf*<!-- more -->
+		 rm -rf ~/.gnome* ~/.gconf*
 	
 > 
 > 

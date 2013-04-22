@@ -28,7 +28,7 @@ categories:
 
 	好吧,深呼吸,开始升级吧!Good Luck!
 
-	第一钟方法:用preupgrade进行升级<!-- more -->
+	第一钟方法:用preupgrade进行升级
 
 	 preupgrade工具下载升级必须的包,初始化升级过程
 

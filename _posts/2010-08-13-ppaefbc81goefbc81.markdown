@@ -90,8 +90,6 @@ categories:
 > 
 > 
 
-	<!-- more -->
-
 > 
 	
 > 

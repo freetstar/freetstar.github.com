@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-04-28 12:19:00
-layout: post
-slug: '%e5%ad%a6%e4%b9%a0python%e7%9a%84%e5%88%a9%e5%99%a8-ipython-part-i'
-title: 学习Python的利器-IPython Part I
-wordpress_id: 1692
-categories:
+    author: admin
+    comments: true
+    date: 2011-04-28 12:19:00
+    layout: post
+    slug: '%e5%ad%a6%e4%b9%a0python%e7%9a%84%e5%88%a9%e5%99%a8-ipython-part-i'
+    title: 学习Python的利器-IPython Part I
+    wordpress_id: 1692
+    categories:
 - python
 ---
 
@@ -26,13 +26,13 @@ IPython安装方法：
 
 2源代码安装:
 
-wget http://ipython.scipy.org/dist/0.10.2/ipython-0.10.2.tar.gz
+    wget http://ipython.scipy.org/dist/0.10.2/ipython-0.10.2.tar.gz
 
-tar zxvf ipython[TAB]
+    tar zxvf ipython[TAB]
 
-cd ipython[TAB]
+    cd ipython[TAB]
 
-python setup.py install
+    python setup.py install
 
 IPython 使用：
 
@@ -46,7 +46,7 @@ IPython 使用：
 
 **不一样的In和Out**（^_^不许邪恶的遐想）
 
- 小例子，在IPython命令行输入：
+小例子，在IPython命令行输入：
 
 In [1]: a=1
 
@@ -66,17 +66,17 @@ In [4]: print In
 
 **TAB补全你要的**
 
- 例子：
- 
- In [1]: import os[TAB]
- 
- os  os2emxpath  ossaudiodev
- 
- In [2]:os.pa[TAB]
- 
- os.pardir  os.pathconf  os.pathsep 
- 
- os.path  os.pathconf_names
+例子：
+
+In [1]: import os[TAB]
+
+    os  os2emxpath  ossaudiodev
+
+In [2]:os.pa[TAB]
+
+    os.pardir  os.pathconf  os.pathsep 
+
+    os.path  os.pathconf_names
 
 IPython提供两类自动完成功能：完成与菜单完成.默认的是完成，即列出所有的可能性列表，菜单完成即是不提供列表，而是直接你TAB时，切换到下一个可供选择的选项中。
 
@@ -86,9 +86,9 @@ IPython提供两类自动完成功能：完成与菜单完成.默认的是完成
 
 2 其实默认的python shell也是支持TAB补全的，方法：
 
->import rlcompleter,readline
+    import rlcompleter,readline
 
->readline.parse_and_bind('tab:complete')
+    readline.parse_and_bind('tab:complete')
 
 **魔力编辑**
 
@@ -100,7 +100,7 @@ IPython会将任何第一个字幕为%的行，视为对魔力函数的调用。
 
 查看所有可用的魔力函数，方法1：输入lsmagic 方法2：输入%[TAB] (TAB是用来敲的)
 
-magci自己的magic，输入maigc，可以得到一个帮助文档，你可以象shell中的less命令那样阅读和操作这个文档，文档中有关于各个magic函数的用法，参数等等 
+    magci自己的magic，输入maigc，可以得到一个帮助文档，你可以象shell中的less命令那样阅读和操作这个文档，文档中有关于各个magic函数的用法，参数等等 
 
 获得魔力函数的帮助方法:%魔力函数 ? 
 

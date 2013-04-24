@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-05-19 21:35:54
-layout: post
-slug: ubuntu11-04-release-party-%e6%80%bb%e7%bb%93%e8%b4%b4
-title: Ubuntu11.04 Release Party 总结贴
-wordpress_id: 1712
-categories:
+    author: admin
+    comments: true
+    date: 2011-05-19 21:35:54
+    layout: post
+    slug: ubuntu11-04-release-party-%e6%80%bb%e7%bb%93%e8%b4%b4
+    title: Ubuntu11.04 Release Party 总结贴
+    wordpress_id: 1712
+    categories:
 - 生活
 ---
 
@@ -74,7 +74,7 @@ categories:
 
 不知道还要说点啥,要总结的还要更多,各种方面的
 
-fuck 官僚!
+    fuck 官僚!
 
  
 

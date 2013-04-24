@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-03 20:13:57
-layout: post
-slug: linux-one-excellent-shell
-title: linux下一款优秀的shell
-wordpress_id: 245
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-03 20:13:57
+    layout: post
+    slug: linux-one-excellent-shell
+    title: linux下一款优秀的shell
+    wordpress_id: 245
+    categories:
 - PROGRAM
 ---
 
@@ -20,7 +20,7 @@ categories:
 
 提供简明的语法，显著改善了用户体验。与其他 shell 一样，fish 也提供重定向、快捷方式、globbing（即通配符的展开）、子 shell、制表符补全和变量。但是，与其他 shell 不同，fish 还提供颜色编码的 CLI、功能丰富的命令行编辑器和大量文档。同时fish兼容bash的大部分命令,只有少数快捷键不一致.
 
-fish安装:
+    fish安装:
 
     sudo apt-get install fish
 

@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-01-30 15:28:55
-layout: post
-slug: use-multicd-script-to-make-iso
-title: 用MultiCD和UNetbootin制作支持多Linux发行版启动的u盘
-wordpress_id: 1579
-categories:
+    author: admin
+    comments: true
+    date: 2011-01-30 15:28:55
+    layout: post
+    slug: use-multicd-script-to-make-iso
+    title: 用MultiCD和UNetbootin制作支持多Linux发行版启动的u盘
+    wordpress_id: 1579
+    categories:
 - ubuntu
 - 软件安装
 ---
@@ -45,13 +45,13 @@ categories:
 
 1创建一个文件夹
 
-mkdir ~/multicd
+    mkdir ~/multicd
 
 2 进入文件夹,并下载multicd脚本
 
-cd ~/muitlcd
+    cd ~/muitlcd
 
-wget  ftp://downloads.tuxfamily.org/multicd/multicd-6.3.sh
+    wget  ftp://downloads.tuxfamily.org/multicd/multicd-6.3.sh
 
 3 将第一步下载的镜像拷贝到multicd文件夹中,并进行改名,改名规则:[http://multicd.tuxfamily.org/#SupportedDistros](http://multicd.tuxfamily.org/#SupportedDistros).比如说puppy必须改名为_puppy.iso_
 
@@ -59,9 +59,9 @@ wget  ftp://downloads.tuxfamily.org/multicd/multicd-6.3.sh
 
 4 赋予刚才下载脚本执行权限
 
-chmod +x multicd-6.3.sh
+    chmod +x multicd-6.3.sh
 
-sudo ./multicd-6.3.sh 这是一些[参数](http://multicd.tuxfamily.org/#Arguments)
+    sudo ./multicd-6.3.sh 这是一些[参数](http://multicd.tuxfamily.org/#Arguments)
 
 会生成一个大iso文件(我的一直报tiny core错误,然后就把这个镜像给排除了)
 

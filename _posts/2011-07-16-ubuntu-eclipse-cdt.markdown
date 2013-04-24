@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-07-16 18:52:40
-layout: post
-slug: ubuntu-eclipse-cdt
-title: ubuntu下用Eclipse搭建C++开发环境
-wordpress_id: 1758
-categories:
+    author: admin
+    comments: true
+    date: 2011-07-16 18:52:40
+    layout: post
+    slug: ubuntu-eclipse-cdt
+    title: ubuntu下用Eclipse搭建C++开发环境
+    wordpress_id: 1758
+    categories:
 - PROGRAM
 ---
 
@@ -17,7 +17,7 @@ categories:
 不推荐使用Ubuntu源中的Eclipse
 
 **第二步:解压缩下载好的Eclipse包至/opt目录**
-    
+
     sudo tar zxvf eclipse-linuxtools-indigo-incubation-linux-gtk-x86_64.tar.gz -C /opt
 
 **第三步:创建Gnome2的面板快捷方式**

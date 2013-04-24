@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-10-11 11:50:20
-layout: post
-slug: '%e7%90%86%e8%a7%a3%e7%89%88%e6%9d%83%e5%92%8c%e8%ae%b8%e5%8f%af%e5%8d%8f%e8%ae%ae'
-title: 理解版权和许可协议
-wordpress_id: 1829
-categories:
+    author: admin
+    comments: true
+    date: 2011-10-11 11:50:20
+    layout: post
+    slug: '%e7%90%86%e8%a7%a3%e7%89%88%e6%9d%83%e5%92%8c%e8%ae%b8%e5%8f%af%e5%8d%8f%e8%ae%ae'
+    title: 理解版权和许可协议
+    wordpress_id: 1829
+    categories:
 - linux前沿
 ---
 
@@ -17,26 +17,26 @@ categories:
 ![](http://www.freetstar.com/wp-content/uploads/2011/10/101111_0350_1.jpg)
 
 在本文中，我们将介绍控制着版权和许可协议的基本原则。然后带着例子，着重探讨一些比较流行的发行协议，这是本文的目录
-	
-  * [版权和许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-	
-  * [正当使用的含义](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-	
-  * [公共领域的含义](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-	
-  * [司法管辖权](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-	
-  * [许可协议术语](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-	
-  * [CC 知识共享](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-	
-  * [软件许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-	
-  * [许可协议的用途](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-	
-  * [作品是否需要许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-	
-  * [最后的几点想法](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [版权和许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [正当使用的含义](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [公共领域的含义](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [司法管辖权](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [许可协议术语](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [CC 知识共享](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [软件许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [许可协议的用途](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [作品是否需要许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
+
+* [最后的几点想法](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
 
 _声明：我不是律师，这只是我的研究经过，请仔细阅读你使用的资源对应的完整许可协议内容_
 
@@ -56,10 +56,10 @@ _
 "合理使用"的含义
 
 "合理使用"是版权所有者的特有权利的一个例外。它存在在比如说美国，英国这样的国家。在这个特定的情况下，使用未经授权的资源是可能的。如果某个人的使用被定义为合理的使用，他们就不需要遵循某个协议。实质上讲，使用具有版权的东西是一个合法的权利。下面是几个合理使用的例子：
-	
-  * 教育性的目的，比如说教授和学生研究
-	
-  * 作为新闻报道或者发布文章的评论和观点。
+
+* 教育性的目的，比如说教授和学生研究
+
+* 作为新闻报道或者发布文章的评论和观点。
 
 这里有一个误解，即非商业和非盈利的使用都是可以被接受的,并这不成立。合理使用是一个法定词，是通过具体的例子来评判的。如果你认为你使用具有版权的资源是合法的，最好要深入彻底的研究下
 
@@ -84,39 +84,39 @@ _
     一个许可协议可以从头开始写起，但是大部分人都选择比较知名的。接下来，我们将介绍一些关于我们网站设计和开发的常用许可证协议，特别是那些允许免费使用-是免费使用，而不是自由使用。通常来说，管理付费资源的许可证协议都被单独撰写，但是所有的许可证协议都有共同点。
 
 在源代码和摄影作品这两个种类上通常会有明显的本质区别。所以不难理解，有各种范围的许可证协议存在着。每个都根据用途不同定做。在我们深入研究之前，先认识一些专业术语：
-	
-  * **"Copy"**
+
+* **"Copy"**
 源作品的一份拷贝。
-	
-  * 
+
+* 
 
 **"Modify"
 **
 
 在使用具有版权的作品之前，以某种方式来修改。
-	
-  * **"Derivative work"**
+
+* **"Derivative work"**
 修改有版权的作品来创造一个新的作品。
-	
-  * **"Distribute"**
+
+* **"Distribute"**
 将自己的作品以某种许可证协议发布的行为。
-	
-  * **"Redistribute"**
+
+* **"Redistribute"**
 在原许可证协议下获取作品之后，再次发布作品和许可证协议的行为。
-	
-  * **"Share alike"**
+
+* **"Share alike"**
 以相同或者类似许可证协议发布作品的行为.
-	
-  * **"Credit" 或者**** "attribution"**
+
+* **"Credit" 或者**** "attribution"**
 表明原版权所有者的行为
-	
-  * **"Copyright notice"**
+
+* **"Copyright notice"**
 一个强调短语或者用(©)符号来表明版权所有者 (根据法律规定不一定存在)。
-	
-  * **"All rights reserved"**
+
+* **"All rights reserved"**
 一个常见的版权所有的声明：保留所有权利（可以不声明）。
-	
-  * **"Warranty"**
+
+* **"Warranty"**
 包含许可证协议的保证(通常可以不写).
 
 现在，我们开始认识这些许可证协议。
@@ -131,19 +131,19 @@ CC知识共享
 ）。在CC Attribution下东西是完全的自由。
 
   CC Attribution扩展出来就是CC Attribution-ShareAlike.基本上与Attribution一样，不同的是所有衍生出来的工作必须以相同的许可协议发布。这样的不同确保了所有的东西仍然保持自由。Wikipedia就是采用此许可协议。
-    
-    <code><span style="color: #1e1e1e; font-size: 10pt;"><span style="font-family: 宋体;">下面是其他四个</span><span style="font-family: Verdana;">CC </span><span style="font-family: 宋体;">许可协议：</span></span></code>
-	
-  * **CC Attribution-NoDerivs**
+
+<code><span style="color: #1e1e1e; font-size: 10pt;"><span style="font-family: 宋体;">下面是其他四个</span><span style="font-family: Verdana;">CC </span><span style="font-family: 宋体;">许可协议：</span></span></code>
+
+* **CC Attribution-NoDerivs**
 重新发布是允许的，前提是标注了原归属权，并且没有修改。
-	
-  * **CC Attribution-NonCommercial**
+
+* **CC Attribution-NonCommercial**
 只要包含了原归属权，所有事情都是允许的，但是不允许用于商业目的。
-	
-  * **CC Attribution-NonCommercial-ShareAlike**
+
+* **CC Attribution-NonCommercial-ShareAlike**
 和上边的一样，但是重新发布的作品必须以同样的许可协议发布。
-	
-  * **CC Attribution-NonCommercial-NoDerivs**
+
+* **CC Attribution-NonCommercial-NoDerivs**
 重新发布的作品允许非商业应用，没有任何修改。
 
   如你所见，CC许可协议有6个不同的版本，所有的版本都要求注明原作者。
@@ -167,12 +167,12 @@ This work includes the photo "Photo's Title," available under a Creative Commons
   软件许可协议包含了代码的使用。如果你使用了第三方的库或者开源项目中的元素，你的使用必须遵守相关的协议。
 
 开发许可协议通常包含了以下几点：
-	
-  * 作品以及所做的修改发布的方式
-	
-  * 所有修改过的作品是否要开源
-	
-  * 重发布时的版权问题以及其他事项
+
+* 作品以及所做的修改发布的方式
+
+* 所有修改过的作品是否要开源
+
+* 重发布时的版权问题以及其他事项
 
   软件许可协议可以被定义为："宽容的"或者"copyleft"，而后者移除了在重新发布的作品之上再加限制的权利。
 
@@ -265,29 +265,29 @@ The GPL requires that if you make a derivative work of Drupal and distribute it 
    如上所述，这篇文章是我自己的研究结果，并不是法律建议。如果你对版权和许可协议还不够理解，建议您咨询专业的法律建议。
 
 Further Reading
-	
-  * "[A Short Guide To Open-Source And Similar Licenses](http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/)"
+
+* "[A Short Guide To Open-Source And Similar Licenses](http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/)"
 A Smashing Magazine article by Cameron Chapman.
-	
-  * [Open Source Initiative](http://www.opensource.org/licenses/alphabetical)
+
+* [Open Source Initiative](http://www.opensource.org/licenses/alphabetical)
 An extensive list of software licenses.
-	
-  * "[About the Licenses](http://creativecommons.org/licenses/)"
+
+* "[About the Licenses](http://creativecommons.org/licenses/)"
 A page that goes into detail on the variations of the Creative Commons license.
-	
-  * "[What Is Copyleft](http://www.gnu.org/copyleft/)?"
+
+* "[What Is Copyleft](http://www.gnu.org/copyleft/)?"
 The general concept of free software.
-	
-  * [Producing Open-Source Software](http://producingoss.com/en/)
+
+* [Producing Open-Source Software](http://producingoss.com/en/)
 A guide to software projects, including chapters on licensing.
-	
-  * "[Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)"
+
+* "[Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)"
 An overview of licenses, by Jeff Atwood.
-	
-  * "[The Ethics of WordPress Themes at a Premium](http://themeshaper.com/2008/09/08/the-ethics-of-premium-wordpress-themes/)"
+
+* "[The Ethics of WordPress Themes at a Premium](http://themeshaper.com/2008/09/08/the-ethics-of-premium-wordpress-themes/)"
 Are WordPress themes open source? Is it right to release them on a pay-to-download basis?
-	
-  * 
+
+* 
 
 # [**如何选择开源许可证？**](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 

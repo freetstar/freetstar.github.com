@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2012-04-21 22:55:20
-layout: post
-slug: kindle-fire-6-3-root
-title: kindle fire 6.3 root记
-wordpress_id: 1896
-categories:
+    author: admin
+    comments: true
+    date: 2012-04-21 22:55:20
+    layout: post
+    slug: kindle-fire-6-3-root
+    title: kindle fire 6.3 root记
+    wordpress_id: 1896
+    categories:
 - 转载翻译
 ---
 
@@ -35,41 +35,41 @@ categories:
 1 输入
 
 **adb push fbmode /data/local/fbmode**  
-  
+
 **adb shell chmod 755 /data/local/fbmode**  
-  
+
 **adb shell /data/local/fbmode**  
-  
+
 **adb reboot**
 
 2 Fire自动重启进入Fastboot模式，继续输入以下命令：  
-  
+
 **fastboot -i 0x1949 boot twrp-blaze-2.0.0RC0.img**
 
 3 Fire自动进入TWRP安装，等Fire显示屏上出现Reboot按钮，点击Reboot继续输入以下命令  
-  
+
 **fastboot oem idme bootmode 5002**  
-  
+
 **fastboot reboot**
 
 4 Fire自动重启，进入TWRP界面后，输入以下命令：  
-  
+
 **adb shell mount system**  
-  
+
 **adb push su /system/xbin/su**  
-  
+
 **adb shell chown 0.0 /system/xbin/su**  
-  
+
 **adb shell chmod 06755 /system/xbin/su**  
-  
+
 **adb shell idme bootmode 4000**  
-  
+
 **adb reboot**
 
 5 Fire自动重启进入系统，输入以下命令安装Superuser：  
-  
+
 **adb install Superuser.apk**  
-  
+
 **adb install RE.apk**
 
 6 重启后打开RE管理器，试着把/分区挂载成R/W，成功的话说明root成功

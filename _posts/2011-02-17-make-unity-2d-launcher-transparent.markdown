@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-02-17 14:29:15
-layout: post
-slug: make-unity-2d-launcher-transparent
-title: 将ubuntu10.10下的unity 2D launcher变透明
-wordpress_id: 1607
-categories:
+    author: admin
+    comments: true
+    date: 2011-02-17 14:29:15
+    layout: post
+    slug: make-unity-2d-launcher-transparent
+    title: 将ubuntu10.10下的unity 2D launcher变透明
+    wordpress_id: 1607
+    categories:
 - ubuntu
 - 转载翻译
 ---

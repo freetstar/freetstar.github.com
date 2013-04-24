@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-04-13 23:06:17
-layout: post
-slug: arch-configuration-part1
-title: arch配置文档
-wordpress_id: 1661
-categories:
+    author: admin
+    comments: true
+    date: 2011-04-13 23:06:17
+    layout: post
+    slug: arch-configuration-part1
+    title: arch配置文档
+    wordpress_id: 1661
+    categories:
 - Opensource
 ---
 
@@ -40,7 +40,7 @@ CPU i5-2300
 
 配置源：
 
-vi  /etc/pacman.d/mirrorlist
+    vi  /etc/pacman.d/mirrorlist
 
 将其他的都保持注释或者注释掉，保留
 
@@ -51,7 +51,7 @@ Server = http://mirrors.archlinux.fr/$repo/os/x86_64
 =========================================================================================================
 
 配置用户
-    
+
     useradd -m -g users -G audio,lp,optical,storage,video,wheel,games,power -s /bin/bash lgx
 
 将lgx添加到这些组里，然后passwd lgx设置密码
@@ -60,41 +60,41 @@ Server = http://mirrors.archlinux.fr/$repo/os/x86_64
 
 安装sudo
 
-pacman -S sudo
+    pacman -S sudo
 
 配置sudo
 
-su - root
+    su - root
 
-visudo
+    visudo
 
-uncomment %wheel ALL=(ALL) ALL
+    uncomment %wheel ALL=(ALL) ALL
 
 =========================================================================================================
 
 更新系统
 
-sudo pacman -Syu
+    sudo pacman -Syu
 
 =========================================================================================================
 
 配置alas
 
-sudo pacman -S alas-utils
+    sudo pacman -S alas-utils
 
 测试
 
-aplay  /usr/share/sounds/alsa/Front_Center.wav
+    aplay  /usr/share/sounds/alsa/Front_Center.wav
 
 =========================================================================================================
 
 安装显卡驱动
 
-sudo pacman -S xf86-video-intel
-    
+    sudo pacman -S xf86-video-intel
+
     sudo pacman -S xorg-server xorg-xinit xorg-server-utils
 
-sudo pacman -S mesa
+    sudo pacman -S mesa
 
 注：xorg.conf 不适用于intel的显卡
 
@@ -102,41 +102,41 @@ sudo pacman -S mesa
 
 安装桌面环境
 
-pacman -S gnome
+    pacman -S gnome
 
 直接以level5登录
 
-vi /etc/inittab
+    vi /etc/inittab
 
 将3的那行注释
 
-uncomment这行 x:5:respawn:/usr/sbin/gdm -nodaemon
+    uncomment这行 x:5:respawn:/usr/sbin/gdm -nodaemon
 
 =========================================================================================================
 
 安装ntfs支持//为了可爱的移动硬盘
 
-pacman -S ntfs-3g
+    pacman -S ntfs-3g
 
-pacman -S hal  //为了自动挂载移动硬等等
+    pacman -S hal  //为了自动挂载移动硬等等
 
 =========================================================================================================
 
 安装字体
 
-sudo pacman -S wqy-zenhei  ttf-dejavu [wqy-microhei](https://aur.archlinux.org/packages.php?K=wqy-microhei&SeB=x)
+    sudo pacman -S wqy-zenhei  ttf-dejavu [wqy-microhei](https://aur.archlinux.org/packages.php?K=wqy-microhei&SeB=x)
 
 =========================================================================================================
 
 安装yaourt
 
-sudo pacman -S yaourt
+    sudo pacman -S yaourt
 
 =========================================================================================================
 
 安装flash插件
 
-yaourt flashplugin
+    yaourt flashplugin
 
 选择第一个，64位的flashplugin跑起来还算是很流畅的
 
@@ -144,7 +144,7 @@ yaourt flashplugin
 
 安装配置fcitx输入法：
 
-sudo yaourt fcitx
+    sudo yaourt fcitx
 
 可以在文本编辑器中敲出中文，浏览器等不行。
 
@@ -152,31 +152,31 @@ sudo yaourt fcitx
 
 将zh_CN.UTF-8 zh_CN.GBK zh_CN.GB2312注释去掉，运行locale-gen
 
-sudo vim /etc/profile
+    sudo vim /etc/profile
 
 添加以下几行
 
-export XMODIFIERS=@im=fcitx
+    export XMODIFIERS=@im=fcitx
 
-export GTK_IM_MODULE=fcitx
+    export GTK_IM_MODULE=fcitx
 
-export QT_IM_MODULE=fcitx
+    export QT_IM_MODULE=fcitx
 
-export XIM_PROGRAM=fcitx
+    export XIM_PROGRAM=fcitx
 
 最后在gnome的starup program中添加
 
-fcitx -D &即可
+    fcitx -D &即可
 
 =========================================================================================================
 
 安装gnome-system-tools
 
-sudo pacman -S gnome-system-tools
+    sudo pacman -S gnome-system-tools
 
 让gksu使用sudo而不是su
 
-sudo gconftool-2 -s /apps/gksu/sudo-mode -t bool true
+    sudo gconftool-2 -s /apps/gksu/sudo-mode -t bool true
 
 将dbus添加到/etc/rc.conf中
 
@@ -184,23 +184,23 @@ sudo gconftool-2 -s /apps/gksu/sudo-mode -t bool true
 
 配置vim
 
-arch默认的vi不是vim的链接
+    arch默认的vi不是vim的链接
 
 删除vi
 
-cd /usr/bin
+    cd /usr/bin
 
-sudo rm vi
+    sudo rm vi
 
-sudo ln -s vim vi
+    sudo ln -s vim vi
 
 然后git clone下github下的配置文件，将vimrc覆盖了原来的vimrc
 
 还有一个现象
 
-vim test时，vim的配置文件可以加载
+    vim test时，vim的配置文件可以加载
 
-sudo vim test ，加载的是root的vimrc
+    sudo vim test ，加载的是root的vimrc
 
 解决办法：sudo cp ~/.vimrc /root/.vimrc
 
@@ -208,9 +208,9 @@ sudo vim test ，加载的是root的vimrc
 
 配置zsh
 
-sudo pacman -S zsh
+    sudo pacman -S zsh
 
-chsh -s /bin/zsh lgx
+    chsh -s /bin/zsh lgx
 
 下次启动时生效
 
@@ -220,31 +220,31 @@ chsh -s /bin/zsh lgx
 
 移除多余的不用的软件
 
-epiphany
+    epiphany
 
-sudo pacman -Rsn epiphany ekiga orca gnome-themes-extras
+    sudo pacman -Rsn epiphany ekiga orca gnome-themes-extras
 
 =========================================================================================================
 
 配置网络管理器
 
-sudo pacman -S network-manager
+    sudo pacman -S network-manager
 
-vi /etc/rc.conf
+    vi /etc/rc.conf
 
 在INTERFACES的eth0前加！
 
 修改最后一行，在network前加！，成为
-    
-    DAEMONS=( ... !network <strong>dhcdbd networkmanager</strong> ... )
 
-gpasswd -a lgx network //将自己添加到网络用户组
+DAEMONS=( ... !network <strong>dhcdbd networkmanager</strong> ... )
+
+    gpasswd -a lgx network //将自己添加到网络用户组
 
 =========================================================================================================
 
 美化
 
-sudo pacman -S compiz-fushion compiz-manager  compiz-core emerald
+    sudo pacman -S compiz-fushion compiz-manager  compiz-core emerald
 
 在compiz设置管理器中设定窗口装饰命令emerald --replace，这样才有标题栏
 
@@ -254,75 +254,75 @@ sudo pacman -S compiz-fushion compiz-manager  compiz-core emerald
 
 配置gdm theme
 
-yaourt gdm找一个安装
+    yaourt gdm找一个安装
 
 配置gtk主题引擎
 
-yaourt gtktheme
+    yaourt gtktheme
 
 ==========================================================================================================
 
 安装gdm
 
-sudo pacman -S gdm
+    sudo pacman -S gdm
 
-vi /etc/rc.conf
+    vi /etc/rc.conf
 
 最后一行的最后添加gdm
 
-vi ~/.xinitrc
+    vi ~/.xinitrc
 
-uncomment exec gnome-session
+    uncomment exec gnome-session
 
 ==========================================================================================================
 
 安装浏览器firefox
 
-sudo pacman -S firefox //最新的4
+    sudo pacman -S firefox //最新的4
 
-yaourt chrome //把chrome和chromium装上
+    yaourt chrome //把chrome和chromium装上
 
 ==========================================================================================================
 
 安装办公软件
 
-sudo pacman -S libreoffice
+    sudo pacman -S libreoffice
 
 ==========================================================================================================
 
 安装pidgin
 
-sudo pacman -S pidgin
+    sudo pacman -S pidgin
 
 ==========================================================================================================
 
 安装影音工具
 
-sudo pacman -S mplayer mplayer-plugin codecs  gstreamer0.10-ugly gstreamer0.10-ffmpeg smplayer audacious vlc
+    sudo pacman -S mplayer mplayer-plugin codecs  gstreamer0.10-ugly gstreamer0.10-ffmpeg smplayer audacious vlc
 
 ==========================================================================================================\
 
 安装下载工具
 
-sudo pacman -S  aria2  deluge
+    sudo pacman -S  aria2  deluge
 
 ==========================================================================================================
 
 安装文本编辑器
 
-sudo pacman -S gedit
+    sudo pacman -S gedit
 
 ==========================================================================================================
 
 安装pdf阅读器
 
-sudo pacman -S evince
+    sudo pacman -S evince
 
 ==========================================================================================================
 
 安装svn，git
 
-sudo pacman -S subversion git-core
+    sudo pacman -S subversion git-core
 
 =========================================================================================================
 

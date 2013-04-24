@@ -1,16 +1,16 @@
 ---
-author: admin
-comments: true
-date: 2010-06-05 14:33:19
-layout: post
-slug: gstyle-gnome-theme-manager
-title: Gstyle -一个全新的gnome 主题管理器
-wordpress_id: 258
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-05 14:33:19
+    layout: post
+    slug: gstyle-gnome-theme-manager
+    title: Gstyle -一个全新的gnome 主题管理器
+    wordpress_id: 258
+    categories:
 - ubuntu
 ---
 
-gstyle是一个强大的gnome主题管理器.此软件关注一个主窗口内每一个可能的主题类型.从gnome-look,deviantart, customize.org等网站下载的主题包可以通过此软件轻松安装,或者可以直接从gstyle里下载安装
+    gstyle是一个强大的gnome主题管理器.此软件关注一个主窗口内每一个可能的主题类型.从gnome-look,deviantart, customize.org等网站下载的主题包可以通过此软件轻松安装,或者可以直接从gstyle里下载安装
 
 **在ubuntu10.04/9.10中安装gstyle**
 
@@ -24,13 +24,13 @@ gstyle是一个强大的gnome主题管理器.此软件关注一个主窗口内�
 
 翻译:[FreeTstar](http://www.freetstar.com)
 
-via{[UbuntuGeek](http://www.ubuntugeek.com/gstyle-a-new-full-gnome-theme-manager.html)}
+    via{[UbuntuGeek](http://www.ubuntugeek.com/gstyle-a-new-full-gnome-theme-manager.html)}
 
 作者整理:
 
 在终端中输入gstyle,提示报错
 
-glib.GError: 类型不匹配: 键 /desktop/gnome/interface/menus_have_icons 需要"string",实际为"bool"
+    glib.GError: 类型不匹配: 键 /desktop/gnome/interface/menus_have_icons 需要"string",实际为"bool"
 
 解决方法:  运行gconf-editor
 
@@ -38,7 +38,7 @@ glib.GError: 类型不匹配: 键 /desktop/gnome/interface/menus_have_icons 需�
 
 终端再次输入gstyle
 
-glib.GError: 类型不匹配: 键 /desktop/gnome/interface/buttons_have_icons 需要"string",实际为"bool"
+    glib.GError: 类型不匹配: 键 /desktop/gnome/interface/buttons_have_icons 需要"string",实际为"bool"
 
 同样采取上述方法即可
 

@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-09-22 20:08:38
-layout: post
-slug: landslide-make-html5-slide
-title: 用landslide创建html5 slide
-wordpress_id: 1794
-categories:
+    author: admin
+    comments: true
+    date: 2011-09-22 20:08:38
+    layout: post
+    slug: landslide-make-html5-slide
+    title: 用landslide创建html5 slide
+    wordpress_id: 1794
+    categories:
 - Opensource
 ---
 
@@ -16,7 +16,7 @@ Landslide通过源代码来产生Html文件。
 
 举个例子，制作一个介绍python流程控制的slide，这里是Rst源码
 
- Python
+Python
 ======
 
 --------------
@@ -31,9 +31,9 @@ Check this code:
 
 .. sourcecode:: python
 
-x, y = 1, 2
-if x > y:
-print 'x is greater'
+    x, y = 1, 2
+    if x > y:
+    print 'x is greater'
 
 --------------
 
@@ -47,9 +47,9 @@ Check this code:
 
 .. sourcecode:: python
 
-numbers = [1, 2, 3, 4, 5,]
-for number in numbers:
-print number
+    numbers = [1, 2, 3, 4, 5,]
+    for number in numbers:
+    print number
 
 --------------
 
@@ -64,12 +64,12 @@ Check this code:
 
 .. sourcecode:: python
 
-from random import randint
+    from random import randint
 
-args = (1, 10,)
-x = randint(*args)
-while x != 6:
-x = randint(*args)
+    args = (1, 10,)
+    x = randint(*args)
+    while x != 6:
+    x = randint(*args)
 
 --------------
 
@@ -78,11 +78,11 @@ Thank you!
 
 首先要安装landslide，利用python得easy_install工具即可方便安装
 
-sudo easy_install landslide
+    sudo easy_install landslide
 
 保存上边的RST代码为python.rst，运行
 
-landslide python.rst即可产生html文件，效果图
+    landslide python.rst即可产生html文件，效果图
 
 [![](http://www.freetstar.com/wp-content/uploads/2011/09/1316693142881-uploadscreenshot-dot-com-1024x250.png)](http://www.freetstar.com/wp-content/uploads/2011/09/1316693142881-uploadscreenshot-dot-com.png)
 

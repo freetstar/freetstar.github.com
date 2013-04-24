@@ -1,14 +1,14 @@
 ---
-author: admin
-comments: true
-date: 2010-07-13 14:43:18
-layout: post
-slug: food-cake-for-ubuntu-firefox
-title: 可以吃的ubuntu,firefox~~~各种可以吃的
-wordpress_id: 759
-categories:
+    author: admin
+    comments: true
+    date: 2010-07-13 14:43:18
+    layout: post
+    slug: food-cake-for-ubuntu-firefox
+    title: 可以吃的ubuntu,firefox~~~各种可以吃的
+    wordpress_id: 759
+    categories:
 - ubuntu
-tags:
+    tags:
 - ubuntu food logo
 ---
 
@@ -20,7 +20,7 @@ tags:
 
 看得不够爽的话你可以DIY,自己做出来
 
-ubuntu
+    ubuntu
 
 ![](http://blog.josephhall.com/uploaded_images/DSC00371-320.jpg)
 
@@ -44,7 +44,7 @@ BSD
 
 [http://blog.josephhall.com/tutorials/cakes/beastie/](http://blog.josephhall.com/tutorials/cakes/beastie/)
 
-firefox
+    firefox
 
 ![](http://i122.photobucket.com/albums/o242/techhat/DSC00843-320.jpg)
 

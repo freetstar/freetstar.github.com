@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-05-25 19:18:11
-layout: post
-slug: fedora-13-release
-title: Fedora 13 发布
-wordpress_id: 21
-categories:
+    author: admin
+    comments: true
+    date: 2010-05-25 19:18:11
+    layout: post
+    slug: fedora-13-release
+    title: Fedora 13 发布
+    wordpress_id: 21
+    categories:
 - linux前沿
 ---
 Fedora 13 正式版的发行日期从5月18号更改到了5月25号，让我足足等了一个礼拜，昨天我终于等到了Fedora 13。（虽然说自己是一个忠实的ubuntu linux用户） ![](/media/images/2010-05-25-fedora-13-release/f13launch.png) 

@@ -1,14 +1,14 @@
 ---
-author: admin
-comments: true
-date: 2010-05-29 16:26:28
-layout: post
-slug: unix-shell-by-examples-chapter7-1st
-title: unix shell范例精解第七章课后习题《一》
-wordpress_id: 108
-categories:
+    author: admin
+    comments: true
+    date: 2010-05-29 16:26:28
+    layout: post
+    slug: unix-shell-by-examples-chapter7-1st
+    title: unix shell范例精解第七章课后习题《一》
+    wordpress_id: 108
+    categories:
 - PROGRAM
-tags:
+    tags:
 - unix shell
 ---
 
@@ -88,28 +88,28 @@ The lowest contribution was $15.00
 
 % nawk -f nawk.sc chapter7
 
-nawk.sc 的内容如下 
+    nawk.sc 的内容如下 
 
-    BEGIN{  printf("\t\t\t  ***CAMPAIGN 1998 CONTRIBUTIONS***\t\t\t\n";) 
-                printf("--------------------------------------------------------------------------------------\n") 
-                printf("NAME\t\t\t PHONE\t\tJan  |   Feb   |  Mar   | Total.Donated\n") 
-                printf("--------------------------------------------------------------------------------------\n")      
-                FS="[ :]" }
-                { 
-                 while(count<NR){count++;sum+=$5+$6+$7;}
-                 printf("%-10s %10s   %s %s   %6.2f    %6.2f     %6.2f    %6.2f \n",$1,$2,$3,$4,$5,$6,$7,$5+$6+$7) 
-                {print $5|"sort -n -b -o 1.txt +0 -1"} 
-                {print $6|"sort -n -b -o 1.txt +0 -1"}
-                {print $7|"sort -n -b -o 1.txt +0 -1"} }
-                END{for(i=1;("cat 1.txt"|getline d);i++) 
-                      { if(i==1) "min=d if(i==3*NR) max=d }
-                        printf("-------------------------------------------------------------------------------\n") 
-                        printf("\t\t\t\t\t\ SUMMARY \t\t\t\t\t\t\t\n") 
-                        printf("-------------------------------------------------------------------------------\n") 
-                        printf("THe campaign recevied a total of $%6.2f for this quaiter\n",sum) 
-                        printf("The average donation for the 12 contributions was $%6.2f\n",sum/12)
-                        printf("The highest contribution was $%6.2f\n",max) 
-                        printf("The lowest contribution was $%5.2f\n",min) }
+BEGIN{  printf("\t\t\t  ***CAMPAIGN 1998 CONTRIBUTIONS***\t\t\t\n";) 
+    printf("--------------------------------------------------------------------------------------\n") 
+    printf("NAME\t\t\t PHONE\t\tJan  |   Feb   |  Mar   | Total.Donated\n") 
+    printf("--------------------------------------------------------------------------------------\n")      
+FS="[ :]" }
+{ 
+    while(count<NR){count++;sum+=$5+$6+$7;}
+    printf("%-10s %10s   %s %s   %6.2f    %6.2f     %6.2f    %6.2f \n",$1,$2,$3,$4,$5,$6,$7,$5+$6+$7) 
+{print $5|"sort -n -b -o 1.txt +0 -1"} 
+{print $6|"sort -n -b -o 1.txt +0 -1"}
+{print $7|"sort -n -b -o 1.txt +0 -1"} }
+END{for(i=1;("cat 1.txt"|getline d);i++) 
+{ if(i==1) "min=d if(i==3*NR) max=d }
+    printf("-------------------------------------------------------------------------------\n") 
+    printf("\t\t\t\t\t\ SUMMARY \t\t\t\t\t\t\t\n") 
+    printf("-------------------------------------------------------------------------------\n") 
+    printf("THe campaign recevied a total of $%6.2f for this quaiter\n",sum) 
+    printf("The average donation for the 12 contributions was $%6.2f\n",sum/12)
+    printf("The highest contribution was $%6.2f\n",max) 
+    printf("The lowest contribution was $%5.2f\n",min) }
 
 感觉自己在排序这块写的比较累赘- -！待以后改进吧
 

@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2012-04-17 21:49:05
-layout: post
-slug: linux-toolchain%e6%80%bb%e7%bb%93%e5%ad%a6%e4%b9%a0
-title: linux toolchain总结学习
-wordpress_id: 1892
-categories:
+    author: admin
+    comments: true
+    date: 2012-04-17 21:49:05
+    layout: post
+    slug: linux-toolchain%e6%80%bb%e7%bb%93%e5%ad%a6%e4%b9%a0
+    title: linux toolchain总结学习
+    wordpress_id: 1892
+    categories:
 - PROGRAM
 ---
 

@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-25 02:37:57
-layout: post
-slug: ubuntu-10-04-update-nvidia-driver-to256-35
-title: ubuntu 10.04 Nvidia显卡驱动升级到256.35记
-wordpress_id: 779
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-25 02:37:57
+    layout: post
+    slug: ubuntu-10-04-update-nvidia-driver-to256-35
+    title: ubuntu 10.04 Nvidia显卡驱动升级到256.35记
+    wordpress_id: 779
+    categories:
 - ubuntu
 - 软件安装
 ---
@@ -34,26 +34,26 @@ NVIDIA 256系列Linux驱动64位下载
 
 1.添加源
 
-ubuntu 10.04和Maverick用户 
+    ubuntu 10.04和Maverick用户 
 
-     sudo add-apt-repository ppa:ubuntu-x-swat/x-updates
+    sudo add-apt-repository ppa:ubuntu-x-swat/x-updates
 
-ubuntu Karmic, Jaunty, Intrepid and Hardy 用户
- 
+    ubuntu Karmic, Jaunty, Intrepid and Hardy 用户
+
     sudo sh -c "echo 'deb http://ppa.launchpad.net/nvidia-vdpau/ppa/ubuntu UBUNTU_VERSION main' >> /etc/apt/sources.list"
     sudo sh -c "echo 'deb-src http://ppa.launchpad.net/nvidia-vdpau/ppa/ubuntu UBUNTU_VERSION main' >> /etc/apt/sources.list"
 
-    其中UBUNTU_VERSION替代为相应的ubuntu版本即可  
+其中UBUNTU_VERSION替代为相应的ubuntu版本即可  
 
 2 更新软件源并安装驱动
 
-ubuntu 10.04和Maverick用户  
+    ubuntu 10.04和Maverick用户  
 
-     sudo apt-get update sudo apt-get install nvidia-current nvidia-current-modaliases nvidia-settings   
+    sudo apt-get update sudo apt-get install nvidia-current nvidia-current-modaliases nvidia-settings   
 
-ubuntu Karmic, Jaunty, Intrepid and Hardy 用户  
+    ubuntu Karmic, Jaunty, Intrepid and Hardy 用户  
 
-     sudo apt-get install nvidia-glx-256 nvidia-256-modaliases nvidia-settings 
+    sudo apt-get install nvidia-glx-256 nvidia-256-modaliases nvidia-settings 
 
 3 安装完毕后nvidia-xserver提示版本还是195,重启后提示版本为256.35
 

@@ -1,17 +1,17 @@
 ---
-author: admin
-comments: true
-date: 2010-06-27 00:37:15
-layout: post
-slug: ubuntu-optimize-your-boot
-title: ubuntu 开机启动优化
-wordpress_id: 811
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-27 00:37:15
+    layout: post
+    slug: ubuntu-optimize-your-boot
+    title: ubuntu 开机启动优化
+    wordpress_id: 811
+    categories:
 - ubuntu
 - 软件安装
 ---
 
-ubuntu10.04刚全新安装时开机时间只用25-30秒,可是用了一段时间后开机启动启动时间升到了1m20s左右.桌面壁纸出现后,面板的载入速度很慢,于是想到了优化开机启动项目
+    ubuntu10.04刚全新安装时开机时间只用25-30秒,可是用了一段时间后开机启动启动时间升到了1m20s左右.桌面壁纸出现后,面板的载入速度很慢,于是想到了优化开机启动项目
 
 方法一:**利用系统自带的启动应用程序**
 
@@ -45,7 +45,7 @@ BUM使用:
 
 在summary选项卡中,对系统的启动项进行配置
 
-udevmonitor系统设备-留着,nvidia-kernel显卡内核-留着模块,plymouth开机动画-留着,network-manager网络管理器-留着,acpi-support电源以及热键管理-留着,pulseaudio声音管理-留着,kernleloops没明白什么作用-留着,preload开机预加载-留着,acpid-电源管理-关闭,apache2服务器-关闭,atd定时任务-关闭,bootlog开机log-关闭,cron定时任务-打开,cups打印机-关闭,mysql数据库-关闭,openvpn-关闭,ssh-关闭,tor中继服务-关闭,winbind-关闭........
+    udevmonitor系统设备-留着,nvidia-kernel显卡内核-留着模块,plymouth开机动画-留着,network-manager网络管理器-留着,acpi-support电源以及热键管理-留着,pulseaudio声音管理-留着,kernleloops没明白什么作用-留着,preload开机预加载-留着,acpid-电源管理-关闭,apache2服务器-关闭,atd定时任务-关闭,bootlog开机log-关闭,cron定时任务-打开,cups打印机-关闭,mysql数据库-关闭,openvpn-关闭,ssh-关闭,tor中继服务-关闭,winbind-关闭........
 
 系统安装的程序和软件不一样的话,summary选项卡中的内容也会有所不同,应根据个人情况调整.
 
@@ -55,7 +55,7 @@ udevmonitor系统设备-留着,nvidia-kernel显卡内核-留着模块,plymouth�
 
 开机启动会后在**/var/log/bootchart文件夹下有一张PNG格式的图,如果是.****tgz的文件,可以执行**pybootchartgui开/var/log/bootchar/文件夹下的tgz文件.其中PNG的图记录了系统启动的一些列行为
 
-bootchart是默认开机启动,如果你不喜欢,可以删除
+    bootchart是默认开机启动,如果你不喜欢,可以删除
 
     sudo apt-get autoremvoe bootchart pybootchartgui --purge
 

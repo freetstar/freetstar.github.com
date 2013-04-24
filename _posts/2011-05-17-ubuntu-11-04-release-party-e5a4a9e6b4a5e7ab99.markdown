@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-05-17 12:58:17
-layout: post
-slug: ubuntu-11-04-release-party-%e5%a4%a9%e6%b4%a5%e7%ab%99
-title: Ubuntu 11.04 Release Party 天津站
-wordpress_id: 1708
-categories:
+    author: admin
+    comments: true
+    date: 2011-05-17 12:58:17
+    layout: post
+    slug: ubuntu-11-04-release-party-%e5%a4%a9%e6%b4%a5%e7%ab%99
+    title: Ubuntu 11.04 Release Party 天津站
+    wordpress_id: 1708
+    categories:
 - 生活
 ---
 
@@ -22,13 +22,13 @@ categories:
 
 一:演讲部分  
 
- 共3个演讲:  
+共3个演讲:  
 
- 1 Ubuntu/Linux Introduction  freetstar  
+1 Ubuntu/Linux Introduction  freetstar  
 
- 2 Firefox4 新特性         delectate  
+2 Firefox4 新特性         delectate  
 
- 3 Geek成长之路            朱峰老师  
+3 Geek成长之路            朱峰老师  
 
 二:自由问答时间  
 
@@ -50,9 +50,9 @@ categories:
 
 联系人:连高欣 13512981194 
 
-ubuntu 天津高校联盟qq群104029520  
+    ubuntu 天津高校联盟qq群104029520  
 
-linux 天津高校联盟qq群 73809331  
+    linux 天津高校联盟qq群 73809331  
 
 天师大linux俱乐部  106988272 
 

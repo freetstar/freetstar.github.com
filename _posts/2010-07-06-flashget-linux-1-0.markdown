@@ -1,19 +1,19 @@
 ---
-author: admin
-comments: true
-date: 2010-07-06 22:43:43
-layout: post
-slug: flashget-linux-1-0
-title: 快车(Flashget) for Linux 1.0版(2010.7.06)发布!
-wordpress_id: 924
-categories:
+    author: admin
+    comments: true
+    date: 2010-07-06 22:43:43
+    layout: post
+    slug: flashget-linux-1-0
+    title: 快车(Flashget) for Linux 1.0版(2010.7.06)发布!
+    wordpress_id: 924
+    categories:
 - ubuntu
 - 软件安装
 ---
 
 ![](http://bbs.flashget.com/attachments/day_100706/10070615496740cbfed7dd094d.jpg)
 
-flashget for Linux - Readme
+    flashget for Linux - Readme
 
 ===========================
 
@@ -43,11 +43,11 @@ Red Hat Enterprise Linux AS4.0
 
 ====
 
-    $tar zxvf wxFlashget-1.0.tar.gz
+$tar zxvf wxFlashget-1.0.tar.gz
 
-    $sudo make install
+$sudo make install
 
-wxFlashget就会安装在您的/usr/loca/bin目录下面名称为wxFlashget
+    wxFlashget就会安装在您的/usr/loca/bin目录下面名称为wxFlashget
 
 配置文件目录位置: ~/.flashget
 
@@ -59,21 +59,21 @@ Bug List
 
 1,Ubunt 10.04下面无法启动,提示找不到libexpat.so.0
 
-error while loading shared libraries: libexpat.so.0: cannot open shared object file: No such file or directory
+    error while loading shared libraries: libexpat.so.0: cannot open shared object file: No such file or directory
 
 原因,编译flashget使用的是libexpat.so.0版本,系统默认为libexpat.so.1.5.2,做软连接即可.
 
-    $cd /usr/lib
+$cd /usr/lib
 
-    $sudo ln -s libexpat.so.1.5.2 libexpt.so.0
+$sudo ln -s libexpat.so.1.5.2 libexpt.so.0
 
-    $sudo ldconfig
+$sudo ldconfig
 
 问题反馈
 
 ========
 
-http://bbs.flashget.com/forumdisplay.php?fid=31
+    http://bbs.flashget.com/forumdisplay.php?fid=31
 
 下载地址:[HERE](http://bbs.flashget.com/attachment.php?aid=MTMxN3w4NWUwZDk3YXwxMjc4NDI2MjIzfDMzYjZ0bHlyRUdLQ2JxK0xaOHFhSjEzSXljaWpZVExXa0ZHUDArSGw4NHFpbWZj)
 

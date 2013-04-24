@@ -1,18 +1,18 @@
 ---
-author: admin
-comments: true
-date: 2010-12-31 18:42:42
-layout: post
-slug: using-sed
-title: 用sed截取程序日志中某个时间范围内的文本
-wordpress_id: 1550
-categories:
+    author: admin
+    comments: true
+    date: 2010-12-31 18:42:42
+    layout: post
+    slug: using-sed
+    title: 用sed截取程序日志中某个时间范围内的文本
+    wordpress_id: 1550
+    categories:
 - 服务器
 ---
 
 需求：从日志信息中提取特定时间范围内的日志，并将其发送至远程主机上
 分析：一般的需求只是以两个特定的时间点做要求，比如说12:00:00到13:00:00这两个准确时间点之间的日志信息，同时日志中肯定是存在这两个时间点的
-      本需求只是求个范围值，比如说12点到13点之间的日志信息，并不能确定日志中有这两个时间点，也就说有可能只是12:00:01这样的时间点
+本需求只是求个范围值，比如说12点到13点之间的日志信息，并不能确定日志中有这两个时间点，也就说有可能只是12:00:01这样的时间点
 
 [code language="bash"] #!/bin/bash
 #scp today's error.log and profler.log to the mailserver
@@ -20,25 +20,25 @@ categories:
 #date：20101231
 <!--more-->
 #working directory
-pwd=/u01/lgx/temp
+    pwd=/u01/lgx/temp
 #destination's IP
-dst=192.168.33.41
+    dst=192.168.33.41
 #foemat the date
-today=`date '+%Y-%m-%d'`
+    today=`date '+%Y-%m-%d'`
 
-if [ -e app.log.${today} ]
-then
-        ###截取6点和8点之间的日志信息，通过来取得时间，如06:00:01，更详细的日志信息格式就不多写了，类似于apache一般的access_log,本脚本也只是个思路而已
-      start=`cut -c12-19 app.log.{today}|grep -n "..:..:.."|awk -F: '$2<9 && $2>05 {print $1}'|head -n1`
-        stop=`cut -c12-19 app.log.{today}|grep -n "..:..:.."|awk -F: '$2==9 {print $1}'|head -n1`
-        sed -n "${start},${stop-1}p" app.log.${today} >app.log.${today}.send
-        scp -p /u01/log/temp/app.log.${today}.send lgx@${dst}:/home/lgx/$(hostname)/
-fi
+    if [ -e app.log.${today} ]
+    then
+###截取6点和8点之间的日志信息，通过来取得时间，如06:00:01，更详细的日志信息格式就不多写了，类似于apache一般的access_log,本脚本也只是个思路而已
+    start=`cut -c12-19 app.log.{today}|grep -n "..:..:.."|awk -F: '$2<9 && $2>05 {print $1}'|head -n1`
+    stop=`cut -c12-19 app.log.{today}|grep -n "..:..:.."|awk -F: '$2==9 {print $1}'|head -n1`
+    sed -n "${start},${stop-1}p" app.log.${today} >app.log.${today}.send
+    scp -p /u01/log/temp/app.log.${today}.send lgx@${dst}:/home/lgx/$(hostname)/
+    fi
 [/code]
 
 [code language="bash"]
 要是指定特定时间段内日志信息的提取会简单的多，如下
-sed -n '/15:32:30/,/16:12:09/p' access_log >log.txt
+    sed -n '/15:32:30/,/16:12:09/p' access_log >log.txt
 [/code]
 
 祝大家新年快乐~^_^

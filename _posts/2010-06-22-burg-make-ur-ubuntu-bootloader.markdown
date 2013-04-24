@@ -1,14 +1,14 @@
 ---
-author: admin
-comments: true
-date: 2010-06-22 19:46:53
-layout: post
-slug: burg-make-ur-ubuntu-bootloader
-title: 用burg来美化你的ubuntu开机菜单
-wordpress_id: 762
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-22 19:46:53
+    layout: post
+    slug: burg-make-ur-ubuntu-bootloader
+    title: 用burg来美化你的ubuntu开机菜单
+    wordpress_id: 762
+    categories:
 - 转载翻译
-tags:
+    tags:
 - burg
 ---
 
@@ -18,13 +18,13 @@ tags:
 
 现在我们burg用来美化的你开机启动菜单，下面我来一步步介绍她的使用方法
 
-	打开终端：输入以下命令  
+打开终端：输入以下命令  
 
-	 sudo add-apt-repository ppa:bean123ch/burg   
+    sudo add-apt-repository ppa:bean123ch/burg   
 
-	sudo apt-get update   
+    sudo apt-get update   
 
-	sudo apt-get install burg burg-themes  
+    sudo apt-get install burg burg-themes  
 
 当出现下面图案时，直接回车即可
 
@@ -48,7 +48,7 @@ tags:
 
 想预览一下吗？在终端输入
 
-burg-emu
+    burg-emu
 
 Via{[Ubuntu Explorer](http://ubuntuexplore.blogspot.com/2010/06/ubuntu-how-to-beautify-your-bootloader.html)}
 
@@ -56,7 +56,7 @@ Via{[Ubuntu Explorer](http://ubuntuexplore.blogspot.com/2010/06/ubuntu-how-to-be
 
 1:可能会导致开机Logo变模糊
 
-2:不知道与[http://www.freetstar.com/index.php/ubuntu-10-04-9-10grub2-splash-picure](http://www.freetstar.com/index.php/ubuntu-10-04-9-10grub2-splash-picure)里的包是否会冲突
+2:不知道与[http://www.freetstar.com/ubuntu-10-04-9-10grub2-splash-picure](http://www.freetstar.com/ubuntu-10-04-9-10grub2-splash-picure)里的包是否会冲突
 
 3:毕竟是对Grub操作，做好grub重装的准备，不过基本上没有问题
 

@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-05 19:44:02
-layout: post
-slug: ubuntu10-04-wacth-online-video
-title: ubuntu10.04 下看在线直播
-wordpress_id: 239
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-05 19:44:02
+    layout: post
+    slug: ubuntu10-04-wacth-online-video
+    title: ubuntu10.04 下看在线直播
+    wordpress_id: 239
+    categories:
 - ubuntu
 ---
 
@@ -42,7 +42,7 @@ categories:
 
 安装方法:
 
-sudo apt-get install arora gecko-mediaplayer gnome-mplayer
+    sudo apt-get install arora gecko-mediaplayer gnome-mplayer
 
 使用说明:
 

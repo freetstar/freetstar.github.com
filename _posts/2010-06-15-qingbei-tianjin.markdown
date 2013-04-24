@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-15 22:15:05
-layout: post
-slug: qingbei-tianjin
-title: 清北计划—全国同步免费派发Ubuntu 10.04光盘---天津地区
-wordpress_id: 647
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-15 22:15:05
+    layout: post
+    slug: qingbei-tianjin
+    title: 清北计划—全国同步免费派发Ubuntu 10.04光盘---天津地区
+    wordpress_id: 647
+    categories:
 - 生活
 ---
 
@@ -18,11 +18,11 @@ categories:
 
 我的联系方式是:
 
-msn:lgxwqq@126.com
+    msn:lgxwqq@126.com
 
-gtalk:lgxwqq@gtalk.com
+    gtalk:lgxwqq@gtalk.com
 
-tel:13512981194 (非诚勿扰)
+    tel:13512981194 (非诚勿扰)
 
 清北Linux光盘计划  
 

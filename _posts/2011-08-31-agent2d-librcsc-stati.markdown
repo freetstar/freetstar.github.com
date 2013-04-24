@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-08-31 16:56:51
-layout: post
-slug: agent2d-librcsc-stati
-title: agent2d librcsc 静态编译方法
-wordpress_id: 1780
-categories:
+    author: admin
+    comments: true
+    date: 2011-08-31 16:56:51
+    layout: post
+    slug: agent2d-librcsc-stati
+    title: agent2d librcsc 静态编译方法
+    wordpress_id: 1780
+    categories:
 - Opensource
 ---
 
@@ -14,8 +14,8 @@ categories:
 
 **一  librcsc**
 1) 如果以前有对librcsc源码包编译安装至系统的默认位置,即/usr/local/lib，则运行下面的命令来移除已经安装好的库和编译好的文件
-sudo make uninstall
-make distclean
+    sudo make uninstall
+    make distclean
 
 （如果当初用来编译安装的源码包被删除了，则找一份新的librcsc重新安装下，然后再运行上面2个命令就行）
 

@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-02-03 21:20:07
-layout: post
-slug: install-the-debiandeb-package-on-the-ubuntu
-title: 误将debian的deb包在ubuntu安装之后的解决办法
-wordpress_id: 1595
-categories:
+    author: admin
+    comments: true
+    date: 2011-02-03 21:20:07
+    layout: post
+    slug: install-the-debiandeb-package-on-the-ubuntu
+    title: 误将debian的deb包在ubuntu安装之后的解决办法
+    wordpress_id: 1595
+    categories:
 - 问题解决
 ---
 
@@ -14,6 +14,6 @@ categories:
 
 此时只要在终端下运行这个命令即可
 
-dpkg --remove --force-remove-reinstreq XXX
+    dpkg --remove --force-remove-reinstreq XXX
 
 其中XXX对应你的包名

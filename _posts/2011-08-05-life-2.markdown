@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-08-05 23:32:17
-layout: post
-slug: life-2
-title: 近来的生活[多图]
-wordpress_id: 1769
-categories:
+    author: admin
+    comments: true
+    date: 2011-08-05 23:32:17
+    layout: post
+    slug: life-2
+    title: 近来的生活[多图]
+    wordpress_id: 1769
+    categories:
 - 生活
 ---
 

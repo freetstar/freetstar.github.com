@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-29 23:11:39
-layout: post
-slug: ubunt10-04-reslove-problem-2
-title: 我的ubuntu10.04 使用笔记 问题解决
-wordpress_id: 756
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-29 23:11:39
+    layout: post
+    slug: ubunt10-04-reslove-problem-2
+    title: 我的ubuntu10.04 使用笔记 问题解决
+    wordpress_id: 756
+    categories:
 - ubuntu
 - 问题解决
 ---

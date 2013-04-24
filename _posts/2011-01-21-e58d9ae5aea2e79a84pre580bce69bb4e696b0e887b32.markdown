@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2011-01-21 16:27:25
-layout: post
-slug: '%e5%8d%9a%e5%ae%a2%e7%9a%84pr%e5%80%bc%e6%9b%b4%e6%96%b0%e8%87%b32'
-title: 博客的PR值更新至2
-wordpress_id: 1566
-categories:
+    author: admin
+    comments: true
+    date: 2011-01-21 16:27:25
+    layout: post
+    slug: '%e5%8d%9a%e5%ae%a2%e7%9a%84pr%e5%80%bc%e6%9b%b4%e6%96%b0%e8%87%b32'
+    title: 博客的PR值更新至2
+    wordpress_id: 1566
+    categories:
 - 生活
 ---
 

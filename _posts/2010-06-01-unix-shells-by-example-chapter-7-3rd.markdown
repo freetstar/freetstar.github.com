@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-01 19:35:07
-layout: post
-slug: unix-shells-by-example-chapter-7-3rd
-title: unix shell范例精解第七章课后习题《三》
-wordpress_id: 229
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-01 19:35:07
+    layout: post
+    slug: unix-shells-by-example-chapter-7-3rd
+    title: unix shell范例精解第七章课后习题《三》
+    wordpress_id: 229
+    categories:
 - PROGRAM
 ---
 
@@ -42,24 +42,24 @@ Elizabeth Stachelin:(916) 440-1763:175:75:300
 
 文件内容:
 
-		BEGIN{
-            FS="[ :]"
-            printf "*******Please input the month you want to check***** \n"
-            getline month < "/dev/tty"
-		}
+BEGIN{
+FS="[ :]"
+    printf "*******Please input the month you want to check***** \n"
+    getline month < "/dev/tty"
+}
 
-		{
-            Add(month+4)
-		}
+{
+Add(month+4)
+}
 
-		function Add(m)
-		{
-            count++;
-            total+=$m
-            aver = total/12
-            if(count==12) return aver
-            else next
-		}
+    function Add(m)
+{
+    count++;
+    total+=$m
+    aver = total/12
+    if(count==12) return aver
+    else next
+}
 
-		END{printf "The #%d month's average is %6.2f \n",month,aver}
+END{printf "The #%d month's average is %6.2f \n",month,aver}
 

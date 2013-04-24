@@ -1,23 +1,23 @@
 ---
-author: admin
-comments: true
-date: 2010-07-02 23:52:54
-layout: post
-slug: ubuntu-full-circle-38%e6%9c%9f%e6%94%be%e5%87%ba
-title: ubuntu full circle 38期放出
-wordpress_id: 874
-categories:
+    author: admin
+    comments: true
+    date: 2010-07-02 23:52:54
+    layout: post
+    slug: ubuntu-full-circle-38%e6%9c%9f%e6%94%be%e5%87%ba
+    title: ubuntu full circle 38期放出
+    wordpress_id: 874
+    categories:
 - ubuntu
 - 转载翻译
-tags:
+    tags:
 - full circle
 ---
 
 ![](http://dl.fullcirclemagazine.org/issue38_en-cover.jpg)
 
- 38期内容:  
+38期内容:  
 
- ubuntu10.04重新回顾,虚拟化系列,命令行,Python编程part12等新鲜重要内容
+    ubuntu10.04重新回顾,虚拟化系列,命令行,Python编程part12等新鲜重要内容
 
 下载地址:[here](http://dl.fullcirclemagazine.org/issue38_en.pdf)
 
@@ -33,7 +33,7 @@ tags:
 
 中文full circle官网(Full Circle 项目团队官方网站):[http://fcctt.org/](http://fcctt.org/)
 
-full circle 中文项目组wiki:[http://wiki.fcctt.org/index.php?title=首页](http://wiki.fcctt.org/index.php?title=%E9%A6%96%E9%A1%B5)
+    full circle 中文项目组wiki:[http://wiki.fcctt.org/index.php?title=首页](http://wiki.fcctt.org/index.php?title=%E9%A6%96%E9%A1%B5)
 
-ubuntu中文社区full circle杂志版块[http://forum.ubuntu.org.cn/viewforum.php?f=153](http://forum.ubuntu.org.cn/viewforum.php?f=153)
+    ubuntu中文社区full circle杂志版块[http://forum.ubuntu.org.cn/viewforum.php?f=153](http://forum.ubuntu.org.cn/viewforum.php?f=153)
 

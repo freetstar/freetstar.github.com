@@ -1,16 +1,16 @@
 ---
-author: admin
-comments: true
-date: 2011-07-25 16:50:44
-layout: post
-slug: zsh-learing-materials
-title: 学习Zsh的资料和文档
-wordpress_id: 1761
-categories:
+    author: admin
+    comments: true
+    date: 2011-07-25 16:50:44
+    layout: post
+    slug: zsh-learing-materials
+    title: 学习Zsh的资料和文档
+    wordpress_id: 1761
+    categories:
 - PROGRAM
 ---
 
-Zsh,Linux下非常强大的Shell,我之前曾经做过一些简单的[介绍1](http://www.freetstar.com/index.php/teach_you_to_enjoy_the_zsh-1),[介绍2](http://www.freetstar.com/index.php/teach_you_to_enjoy_the_zsh-1),我在日常使用中用到的也是一些基本但是优秀的功能.
+Zsh,Linux下非常强大的Shell,我之前曾经做过一些简单的[介绍1](http://www.freetstar.com/teach_you_to_enjoy_the_zsh-1),[介绍2](http://www.freetstar.com/teach_you_to_enjoy_the_zsh-1),我在日常使用中用到的也是一些基本但是优秀的功能.
 
 如果想更好地学习的话,Zsh maiilist上有一个非常好的主题,我简单的进行了总结和汇总了一些其它好的pdf文档和资料,希望大家受益
 

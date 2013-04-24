@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-12-15 12:47:15
-layout: post
-slug: '%e5%88%86%e4%ba%ab%e3%80%8aunixlinux-learing%e3%80%8b'
-title: 分享《Unix&Linux大学教程》
-wordpress_id: 1536
-categories:
+    author: admin
+    comments: true
+    date: 2010-12-15 12:47:15
+    layout: post
+    slug: '%e5%88%86%e4%ba%ab%e3%80%8aunixlinux-learing%e3%80%8b'
+    title: 分享《Unix&Linux大学教程》
+    wordpress_id: 1536
+    categories:
 - Opensource
 ---
 
@@ -16,11 +16,11 @@ categories:
 
 如果你在图形界面下，请按下Ctrl+Alt+F【1-6】，系统会提示
 
-login：
+    login：
 
 好吧，然后你输入你要使用的用户名，然后呢，系统提示
 
-Passward：
+    Passward：
 
 注意到了吗？P是大写的//unix程序员这么不严谨？！WHY？
 
@@ -29,16 +29,16 @@ Passward：
 打开终端，输入cal 9 1752
 
 得到
- 
- September 1752
- 
- Su Mo Tu We Th Fr Sa
- 
- 1  2 14 15 16
- 
- 17 18 19 20 21 22 23
- 
- 24 25 26 27 28 29 30
+
+    September 1752
+
+    Su Mo Tu We Th Fr Sa
+
+    1  2 14 15 16
+
+    17 18 19 20 21 22 23
+
+    24 25 26 27 28 29 30
 
 声明：不是我偷的。您知道原因吗？欢迎留言
 
@@ -52,7 +52,7 @@ Passward：
 
 4 foo&bar和hello world比肩的单词
 
-foobar是每个程序员都常常见到的，其知名程度不逊于Hello world。一般我们常见的用法有分开的foo，bar，也有合起来的foobar。
+    foobar是每个程序员都常常见到的，其知名程度不逊于Hello world。一般我们常见的用法有分开的foo，bar，也有合起来的foobar。
 
 这个词一般可以用来代表计算机领域一切需要命名的东西，变量，函数，文件名，总之是代表什么都可以。
 

@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-07-04 23:00:11
-layout: post
-slug: enjoy-your-blog
-title: Enjoy Your Blog
-wordpress_id: 905
-categories:
+    author: admin
+    comments: true
+    date: 2010-07-04 23:00:11
+    layout: post
+    slug: enjoy-your-blog
+    title: Enjoy Your Blog
+    wordpress_id: 905
+    categories:
 - 生活
 ---
 
@@ -46,7 +46,7 @@ categories:
 
 **5.你还记得你第一个域名是什么吗?**
 
-www.freetstar.com(^ ^)
+    www.freetstar.com(^ ^)
 
 **6.你的第一个域名的意思是什么呢？**
 

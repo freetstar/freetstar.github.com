@@ -1,19 +1,19 @@
 ---
-author: admin
-comments: true
-date: 2010-07-09 20:40:10
-layout: post
-slug: ubuntu-satanic-beautiful-theme-coins
-title: ubuntu statanic edition之绚丽的主题和图标
-wordpress_id: 931
-categories:
+    author: admin
+    comments: true
+    date: 2010-07-09 20:40:10
+    layout: post
+    slug: ubuntu-satanic-beautiful-theme-coins
+    title: ubuntu statanic edition之绚丽的主题和图标
+    wordpress_id: 931
+    categories:
 - ubuntu
 - 转载翻译
 ---
 
 ![](http://ubuntusatanic.org/screenshots/karmic-icons.jpg)
 
-ubuntu satanic建立在ubuntu操作系统之上,集成了很多优秀的自由软件和免费的金属音乐
+    ubuntu satanic建立在ubuntu操作系统之上,集成了很多优秀的自由软件和免费的金属音乐
 
 其项目主页是:[http://ubuntusatanic.org/index.php](http://ubuntusatanic.org/index.php)
 
@@ -27,27 +27,27 @@ ubuntu satanic建立在ubuntu操作系统之上,集成了很多优秀的自由�
 
 2 添加源
 
-     sudo gedit /etc/apt/source.list 
-    //ubuntu 10.04 
+    sudo gedit /etc/apt/source.list 
+//ubuntu 10.04 
     deb http:://ubuntusatanic.org/hell lucid main 
-    //ubuntu 9.10 
+//ubuntu 9.10 
     deb http:://ubuntusatanic.org/hell karmic main 
-    //9.04 
+//9.04 
     deb http:://ubuntusatanic.org/hell jaunty main
 
 3 更新软件库
- 
+
     sudo apt-get update
 
 4 安装主题
 
- 宽屏
+宽屏
 
-     sudo apt-get install ubunut-satanic-wide
+    sudo apt-get install ubunut-satanic-wide
 
- 普通屏幕
+普通屏幕
 
-     sudo apt-get install ubuntu-satanic
+    sudo apt-get install ubuntu-satanic
 
 安装的主题包括了Satanic主题，GNOME的主题，plymouth主题，壁纸，屏保和xspash-artwork主题
 

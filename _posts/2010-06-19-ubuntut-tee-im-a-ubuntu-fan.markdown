@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-19 13:38:36
-layout: post
-slug: ubuntut-tee-im-a-ubuntu-fan
-title: 秀下ubuntuT恤----I'm a ubuntu fan
-wordpress_id: 703
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-19 13:38:36
+    layout: post
+    slug: ubuntut-tee-im-a-ubuntu-fan
+    title: 秀下ubuntuT恤----I'm a ubuntu fan
+    wordpress_id: 703
+    categories:
 - 生活
 ---
 
@@ -26,7 +26,7 @@ categories:
 
 顺便附上淘宝店地址：
 
-guape：[http://item.taobao.com/item.htm?id=4425014406](http://item.taobao.com/item.htm?id=4425014406)
+    guape：[http://item.taobao.com/item.htm?id=4425014406](http://item.taobao.com/item.htm?id=4425014406)
 
-ubuntuchina：[http://store.taobao.com/shop/view_shopf1d9ce258532d52fbae74500e773d5b1.htm](http://store.taobao.com/shop/view_shop-f1d9ce258532d52fbae74500e773d5b1.htm)
+    ubuntuchina：[http://store.taobao.com/shop/view_shopf1d9ce258532d52fbae74500e773d5b1.htm](http://store.taobao.com/shop/view_shop-f1d9ce258532d52fbae74500e773d5b1.htm)
 

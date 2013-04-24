@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-09 17:05:55
-layout: post
-slug: ubunt-system-panel-gnome
-title: ubunt-system-panel --GNOME桌面环境的一个简易启动程序
-wordpress_id: 428
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-09 17:05:55
+    layout: post
+    slug: ubunt-system-panel-gnome
+    title: ubunt-system-panel --GNOME桌面环境的一个简易启动程序
+    wordpress_id: 428
+    categories:
 - 转载翻译
 ---
 
@@ -14,15 +14,15 @@ USP是一个简易的GNOME 桌面启动程序.能够让用户快速使用到位�
 
 使用的理由:
 
- 能够快速搜索已经安装的程序,插件,主题.能更快速的使用到除了应用程序以外的东东.而且是可定制性化的,用户可以自己定制外观
+能够快速搜索已经安装的程序,插件,主题.能更快速的使用到除了应用程序以外的东东.而且是可定制性化的,用户可以自己定制外观
 
 安装方法
 
-	sudo add-apt-repository ppa:malacusp/ppa  
+    sudo add-apt-repository ppa:malacusp/ppa  
 
-	sudo apt-get update
+    sudo apt-get update
 
-	sudo apt-get install usp2 usp2-extra
+    sudo apt-get install usp2 usp2-extra
 
 截图:
 

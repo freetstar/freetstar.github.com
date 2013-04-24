@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-18 20:19:59
-layout: post
-slug: ubunt10-04-reslove-problem-1
-title: 我的ubuntu10.04 使用笔记 问题解决
-wordpress_id: 252
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-18 20:19:59
+    layout: post
+    slug: ubunt10-04-reslove-problem-1
+    title: 我的ubuntu10.04 使用笔记 问题解决
+    wordpress_id: 252
+    categories:
 - 生活
 ---
 
@@ -26,11 +26,11 @@ PS：我直接从9.10更新到10.04，期间一切顺利，安装完毕后显卡
 
 [http://www.linuxidc.com/Linux/2010-05/25867.htm](http://www.linuxidc.com/Linux/2010-05/25867.htm)
 
- 卡驱动有俩种，来自官方和第三方。第三方的驱动为系统软件仓库里的那个版本。第三方的版本有很多显示问题。我的显卡配置为Nvidia 8400GS
+卡驱动有俩种，来自官方和第三方。第三方的驱动为系统软件仓库里的那个版本。第三方的版本有很多显示问题。我的显卡配置为Nvidia 8400GS
 
 第一步：备份xorg.conf  
 
-sudo cp /ect/X11/xorg.conf /ect/X11/xorg.conf.backup
+    sudo cp /ect/X11/xorg.conf /ect/X11/xorg.conf.backup
 
 第二部： 下载官方驱动
 
@@ -38,29 +38,29 @@ sudo cp /ect/X11/xorg.conf /ect/X11/xorg.conf.backup
 
 第三步、安装头文件  
 
-sudo apt-get install linux-headers-$(uname -r) build-essential
+    sudo apt-get install linux-headers-$(uname -r) build-essential
 
 第四步、删除已安装的旧版Nvidia驱动程序  
 
 打开Ubuntu软件中心，在"已安装的软件"中搜索Nvidia，即可见到受限驱动，选择将其删除，然后 删除与之相关的不再被需要的程序。或者使用新立得软件包管理器  
 
-sudo apt-get autoremove 
+    sudo apt-get autoremove 
 
 第五步、关闭gdm  
 
 按住Ctrl+alt+F1，进入文本模式，登录后关闭gdm。 这里推荐你将这篇文章复制到root下，去除一些中文，在文本模式下可以用vi查看，如果你记不住命令的话  
 
-sudo /etc/init.d/gdm stop 
+    sudo /etc/init.d/gdm stop 
 
 第六步、删除旧版驱动残余  
 
-sudo rmmod nvidia  
+    sudo rmmod nvidia  
 
-sudo rm -r -f /lib/modules/2.6.31-14-generic/kernel /drivers/video/nvidia /*注意此处2.6.31-14-generic为内核版本，不同的内核此处不一样*/ 
+    sudo rm -r -f /lib/modules/2.6.31-14-generic/kernel /drivers/video/nvidia /*注意此处2.6.31-14-generic为内核版本，不同的内核此处不一样*/ 
 
 第七步、安装新版驱动  
 
-sudo sh *.run
+    sudo sh *.run
 
 3.10.04安装flash之后仍然有方格的解决办法
 
@@ -84,7 +84,7 @@ $ sudo rm /etc/fonts/conf.d/49-sansserif.Conf
 
 终端执行命令：  
 
-sudo mv /etc/fonts/conf.d/49-sansserif.conf /etc/fonts/conf.d/99-sansserif.Conf  
+    sudo mv /etc/fonts/conf.d/49-sansserif.conf /etc/fonts/conf.d/99-sansserif.Conf  
 
 方法三：（强力推荐）  
 
@@ -108,7 +108,7 @@ sudo mv /etc/fonts/conf.d/49-sansserif.conf /etc/fonts/conf.d/99-sansserif.Conf
 
 代码: sudo update-grub
 
-ubuntu中的adobe reader在一定的情况下无法显示中文和日文等情况
+    ubuntu中的adobe reader在一定的情况下无法显示中文和日文等情况
 
 网址：[**http://hi.baidu.com/lbxthinker/blog/item/a44ec71a07290ff3af51338f.html**](http://hi.baidu.com/lbxthinker/blog/item/a44ec71a07290ff3af51338f.html)
 
@@ -130,12 +130,12 @@ Enter the location where you installed the Adobe Reader [/opt]：
 
 首先留个备份，然后编辑
 
-sudo cp /etc/X11/xorg.conf /etc/X11/xorg.conf_backup
- 
-sudo gedit /etc/X11/xorg.conf
- 找到Section "Device"。俺的是10.04的。所以可能与原网页的不太一样。 
- 
-  增加：Option "NoLogo"
- 
- 保存后重启，发现一切ok。
+    sudo cp /etc/X11/xorg.conf /etc/X11/xorg.conf_backup
+
+    sudo gedit /etc/X11/xorg.conf
+找到Section "Device"。俺的是10.04的。所以可能与原网页的不太一样。 
+
+增加：Option "NoLogo"
+
+保存后重启，发现一切ok。
 

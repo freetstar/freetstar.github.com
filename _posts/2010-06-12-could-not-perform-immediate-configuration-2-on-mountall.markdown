@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-06-12 17:40:36
-layout: post
-slug: could-not-perform-immediate-configuration-2-on-mountall
-title: Could not perform immediate configuration (2) on mountall 错误探究
-wordpress_id: 591
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-12 17:40:36
+    layout: post
+    slug: could-not-perform-immediate-configuration-2-on-mountall
+    title: Could not perform immediate configuration (2) on mountall 错误探究
+    wordpress_id: 591
+    categories:
 - 问题解决
 ---
 
@@ -14,11 +14,11 @@ categories:
 
 电脑环境:  
 
-    PC环境是虚拟机,用sudo fdisk -l查看分区情况,分两个区,根挂载在/dev/sda1,swap分区挂载在/dev/sda5
+PC环境是虚拟机,用sudo fdisk -l查看分区情况,分两个区,根挂载在/dev/sda1,swap分区挂载在/dev/sda5
 
 错误提示情况:
 
-    运行命令sudo apt-get install libboost-dev,提示有许多包要安装,其中就有mountall这个包,最后一句是E:Could not perform immediate configuration (2) on mountall  
+运行命令sudo apt-get install libboost-dev,提示有许多包要安装,其中就有mountall这个包,最后一句是E:Could not perform immediate configuration (2) on mountall  
 
 探究和解决过程
 
@@ -40,15 +40,15 @@ categories:
 
 谈一下自己的对这个错误的认识和觉得一些可行的修复方法吧
 
-	 1:不要分swap分区- -!我承认我很邪恶
+1:不要分swap分区- -!我承认我很邪恶
 
-	 2:依然尝试注释掉swap分区,重复上述步骤,仔细研究报错的解决办法
+2:依然尝试注释掉swap分区,重复上述步骤,仔细研究报错的解决办法
 
-	 3:sudo apt-get install libboost-dev时,系统提示安装的包中包含了mountall这个包,是不是只要安装包时包含mountall这个包,就是报题目的错?!
+3:sudo apt-get install libboost-dev时,系统提示安装的包中包含了mountall这个包,是不是只要安装包时包含mountall这个包,就是报题目的错?!
 
-	 4:sudo apt-get install mountall --reinstall 重新安装下试试
+4:sudo apt-get install mountall --reinstall 重新安装下试试
 
-	 5:系统中并没有损坏的包,所以不可能用网上一些同志用修复包的方法来解决问题...[here](http://forum.ubuntu.org.cn/viewtopic.php?f=48&t=271962),有可能是倚赖没装全吗?学姐的电脑倒是很多要升级的东西...
+5:系统中并没有损坏的包,所以不可能用网上一些同志用修复包的方法来解决问题...[here](http://forum.ubuntu.org.cn/viewtopic.php?f=48&t=271962),有可能是倚赖没装全吗?学姐的电脑倒是很多要升级的东西...
 
-	 6:没有解决不掉的问题,相信自己,相信网络,相信群众的力量
+6:没有解决不掉的问题,相信自己,相信网络,相信群众的力量
 

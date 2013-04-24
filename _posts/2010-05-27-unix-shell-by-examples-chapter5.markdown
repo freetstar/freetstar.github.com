@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-05-27 01:14:20
-layout: post
-slug: unix-shell-by-examples-chapter5
-title: ' unix shell范例精解第五章课后习题'
-wordpress_id: 69
-categories:
+    author: admin
+    comments: true
+    date: 2010-05-27 01:14:20
+    layout: post
+    slug: unix-shell-by-examples-chapter5
+    title: ' unix shell范例精解第五章课后习题'
+    wordpress_id: 69
+    categories:
 - PROGRAM
 ---
 
@@ -56,7 +56,7 @@ Elizabeth Stachelin:(916) 440-1763:175:75:300
 
 5 打印所有以C或E开头的名：
 
-     nawk -F[: ] '$1 ~ /^[C|E]/{print $1}' chapter5
+    nawk -F[: ] '$1 ~ /^[C|E]/{print $1}' chapter5
 
 6 打印所有只有4个字母的姓：
 
@@ -79,9 +79,9 @@ Elizabeth Stachelin:(916) 440-1763:175:75:300
 原文中没有Savages，故以McNeil代替
 
 (1)cat   facts.sc
-    $5 ~ /250/{print "--the 250$-- " $1,$2}
-    $2 ~ /McNeil/{print "\t\t    McNeil's info\n\t\t "$1,$2,$4}
-    $1 ~ /Chet/{print "\t\t     Chet  ""$"$5+$6+$7}
+$5 ~ /250/{print "--the 250$-- " $1,$2}
+$2 ~ /McNeil/{print "\t\t    McNeil's info\n\t\t "$1,$2,$4}
+$1 ~ /Chet/{print "\t\t     Chet  ""$"$5+$6+$7}
 
 (2)nawk -F[: ] -f facts.sc chapter5
 

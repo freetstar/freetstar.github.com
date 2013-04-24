@@ -1,12 +1,12 @@
 ---
-author: admin
-comments: true
-date: 2010-07-11 16:48:22
-layout: post
-slug: linux-keyboard-shortcuts
-title: Linux 下不得不说的那些快捷键
-wordpress_id: 938
-categories:
+    author: admin
+    comments: true
+    date: 2010-07-11 16:48:22
+    layout: post
+    slug: linux-keyboard-shortcuts
+    title: Linux 下不得不说的那些快捷键
+    wordpress_id: 938
+    categories:
 - ubuntu
 - 软件安装
 ---
@@ -123,69 +123,69 @@ F11：全屏
 
 三 GNOME桌面快捷键
 
- Alt + F1 :打开主菜单 
+Alt + F1 :打开主菜单 
 
- Alt + F2 打开运行 窗口
+Alt + F2 打开运行 窗口
 
- Ctrl + Alt + d 显示桌面 
+Ctrl + Alt + d 显示桌面 
 
- Alt + F9 最小化当前窗口
+Alt + F9 最小化当前窗口
 
- Alt + F10 最大化当前窗口
+Alt + F10 最大化当前窗口
 
- Alt + F4  关闭当前窗口 
+Alt + F4  关闭当前窗口 
 
- Ctrl+ Alt+ F1-F6 進入全屏虚拟控制台
+Ctrl+ Alt+ F1-F6 進入全屏虚拟控制台
 
- Ctrl+ Alt+ F7 返回桌面
+Ctrl+ Alt+ F7 返回桌面
 
- Alt + Tab 切换窗口
+Alt + Tab 切换窗口
 
- Ctrl + Alt + 左/右箭头（也可以把鼠标放在标题栏或桌面使用滚轮切换） 旋转3D桌面
+Ctrl + Alt + 左/右箭头（也可以把鼠标放在标题栏或桌面使用滚轮切换） 旋转3D桌面
 
- Ctrl + Shift + Alt + 左/右箭头  旋转3D桌面（ 活动窗口跟随）
+Ctrl + Shift + Alt + 左/右箭头  旋转3D桌面（ 活动窗口跟随）
 
- Ctrl + Alt + 左键单击并拖拽桌面空白处 手动旋转3D桌面
+Ctrl + Alt + 左键单击并拖拽桌面空白处 手动旋转3D桌面
 
- Alt + 滚轮 窗口透明度 
+Alt + 滚轮 窗口透明度 
 
- Alt + 左键单击 移动窗口 
+Alt + 左键单击 移动窗口 
 
- Alt + 左键单击 ,左键开始拖动后再 Ctrl,移动窗口时贴住边框
+Alt + 左键单击 ,左键开始拖动后再 Ctrl,移动窗口时贴住边框
 
- Alt + 中击 调整窗口大小
+Alt + 中击 调整窗口大小
 
- Alt + Space 打开窗口的控制菜单
+Alt + Space 打开窗口的控制菜单
 
- Ctrl+超级键 水纹
+Ctrl+超级键 水纹
 
- Shift-F9 雨点 
+Shift-F9 雨点 
 
- Ctrl + Alt 和左/右箭头选择桌面
+Ctrl + Alt 和左/右箭头选择桌面
 
- Ctrl + Alt + L 锁定桌面
+Ctrl + Alt + L 锁定桌面
 
- Alt + 右鍵 弹出窗口管理器菜单
+Alt + 右鍵 弹出窗口管理器菜单
 
 注:部分需要显卡驱动和CCSM软件的支持,超级键为"Windows"键
 
 四 nautilus 文件管理器处理快捷键
 
- Ctrl+H 显示隐藏文件
+Ctrl+H 显示隐藏文件
 
- Ctrl+T 新建标签
+Ctrl+T 新建标签
 
- Ctrl+W 关闭标签
+Ctrl+W 关闭标签
 
- Ctrl+Page Up 上一个标签
+Ctrl+Page Up 上一个标签
 
- Ctrl+Page Down 下一个标签
+Ctrl+Page Down 下一个标签
 
- Alt+N 切換到第N个标签
+Alt+N 切換到第N个标签
 
 五 定义自己的快捷键
 
- ubuntu中系统-首选项-键盘快捷键 ,定义自己的快捷键
+    ubuntu中系统-首选项-键盘快捷键 ,定义自己的快捷键
 
 暂时就想到和看到这么多了,也就是平常在使用的一些快捷键
 

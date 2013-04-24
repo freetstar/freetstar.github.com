@@ -1,14 +1,14 @@
 ---
-author: admin
-comments: true
-date: 2010-06-06 22:14:28
-layout: post
-slug: ubuntu10-04-installremove-kde
-title: ubuntu10.04 安装卸载KDE桌面之折腾记
-wordpress_id: 279
-categories:
+    author: admin
+    comments: true
+    date: 2010-06-06 22:14:28
+    layout: post
+    slug: ubuntu10-04-installremove-kde
+    title: ubuntu10.04 安装卸载KDE桌面之折腾记
+    wordpress_id: 279
+    categories:
 - ubuntu
-tags:
+    tags:
 - ubuntu10.04 卸载KDE
 ---
 

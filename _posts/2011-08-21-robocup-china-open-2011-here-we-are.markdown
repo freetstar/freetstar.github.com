@@ -16,5 +16,5 @@
 
 今天上午到的兰州，中午在西北师范大学报道，现在坐在电脑前边写blog，天气刚下过雨。
 
-Best wishes for TJNU！
+    Best wishes for TJNU！
 

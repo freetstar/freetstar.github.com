@@ -34,7 +34,7 @@ IPython安装方法：
 
     python setup.py install
 
-IPython 使用：
+    IPython 使用：
 
 对普通功能就赘述了，大家可以摸索下。着重描述下IPython自己独特的东西
 
@@ -48,19 +48,19 @@ IPython 使用：
 
 小例子，在IPython命令行输入：
 
-In [1]: a=1
+    In [1]: a=1
 
-In [2]: print a
+    In [2]: print a
 
-1
+    1
 
-In [3]: a
+    In [3]: a
 
-Out[3]: 1
+    Out[3]: 1
 
-In [4]: print In
+    In [4]: print In
 
-['\n', u'a=1\n', u'print a\n', u'a\n', u'print In\n']
+    ['\n', u'a=1\n', u'print a\n', u'a\n', u'print In\n']
 
 实际上每个命令之间是有一行空行，我这里为了方便给去掉了。可以观察下IPython的提示符，"In[数字]:" 数字表示输入的第几个命令，"OUT[数字]："对应第几个命令的输出结果。所有的命令输入都被保存到In列表中，实际上In是一个列表数据类型，Out是一个字典数据类型，这里就不多做介绍了
 
@@ -68,17 +68,17 @@ In [4]: print In
 
 例子：
 
-In [1]: import os[TAB]
+    In [1]: import os[TAB]
 
     os  os2emxpath  ossaudiodev
 
-In [2]:os.pa[TAB]
+    In [2]:os.pa[TAB]
 
     os.pardir  os.pathconf  os.pathsep 
 
     os.path  os.pathconf_names
 
-IPython提供两类自动完成功能：完成与菜单完成.默认的是完成，即列出所有的可能性列表，菜单完成即是不提供列表，而是直接你TAB时，切换到下一个可供选择的选项中。
+    IPython提供两类自动完成功能：完成与菜单完成.默认的是完成，即列出所有的可能性列表，菜单完成即是不提供列表，而是直接你TAB时，切换到下一个可供选择的选项中。
 
 注：
 
@@ -100,7 +100,7 @@ IPython会将任何第一个字幕为%的行，视为对魔力函数的调用。
 
 查看所有可用的魔力函数，方法1：输入lsmagic 方法2：输入%[TAB] (TAB是用来敲的)
 
-    magci自己的magic，输入maigc，可以得到一个帮助文档，你可以象shell中的less命令那样阅读和操作这个文档，文档中有关于各个magic函数的用法，参数等等 
+magci自己的magic，输入maigc，可以得到一个帮助文档，你可以象shell中的less命令那样阅读和操作这个文档，文档中有关于各个magic函数的用法，参数等等 
 
 获得魔力函数的帮助方法:%魔力函数 ? 
 

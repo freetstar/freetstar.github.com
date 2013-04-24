@@ -10,7 +10,7 @@
 - 生活
 ---
 
-Tianjin Linux User Group于2011年3月20日在天津大学19号教学楼319教室举办了第一次线下活动，有来自天大，南大，师大的学生爱好者，已工作的开源爱好者，geek等
+    Tianjin Linux User Group于2011年3月20日在天津大学19号教学楼319教室举办了第一次线下活动，有来自天大，南大，师大的学生爱好者，已工作的开源爱好者，geek等
 
 首先大家做了简短的自我介绍，到场的有：[tjcafe](http://t.sina.com.cn/tjcafe),[9hills](http://t.sina.com.cn/cynic)等，然后开始了正式活动
 
@@ -26,7 +26,7 @@ Tianjin Linux User Group于2011年3月20日在天津大学19号教学楼319教�
 
 演讲间隙选出了Tianjin Linux User Group的LOGO，感谢[Riku](http://wowubuntu.com/)叔的设计
 
-[![](http://www.freetstar.com/wp-content/uploads/2011/03/logo-a.png)](http://www.freetstar.com/wp-content/uploads/2011/03/logo-a.png)
+[![](/media/images/2011-03-21-tianjin-linux-user-group-party-1/logo-a.png)](/media/images/2011-03-21-tianjin-linux-user-group-party-1/logo-a.png)
 
 活动结束合影
 

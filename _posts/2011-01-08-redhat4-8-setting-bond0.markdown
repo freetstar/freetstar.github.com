@@ -22,40 +22,40 @@
     bond0的制作:
 以Redhat4.8为例子
 第一步:首先确认系统支持
-[code language="bash"]modprobe bond[tab]看一下是否有对应的模块[/code]
+    modprobe bond[tab]看一下是否有对应的模块
 第二步:
 制作bond0,以root身份
-[code language="bash"]cd /etc/sysconfig/network-scripts/[/code]
+    cd /etc/sysconfig/network-scripts/
 生成bond0的配置文件
-[code language="bash"]vi ifcfg-bond0
-DEVICE=bond0
-ONBOOT=yes
-BOOTPROTO=static
-IPADDR=192.168.XX.XX //写成自己要的,下边的自己也对应着改
-NETMASK=255.255.255.0
-GATEWAY=192.168.XX.XX
-USERCTL=no[/code]
+    vi ifcfg-bond0
+    DEVICE=bond0
+    ONBOOT=yes
+    BOOTPROTO=static
+    IPADDR=192.168.XX.XX //写成自己要的,下边的自己也对应着改
+    NETMASK=255.255.255.0
+    GATEWAY=192.168.XX.XX
+    USERCTL=no
 修改对应网卡的配置文件,比如说你打算使用eth0和eth1做bond
-[code language="bash"]vi ifcfg-eth0
-DEVICE=eth0
-ONBOOT=yes
-BOOTPROTO=none
-MASTER=bond0
-USERCTL=no[/code]
+    vi ifcfg-eth0
+    DEVICE=eth0
+    ONBOOT=yes
+    BOOTPROTO=none
+    MASTER=bond0
+    USERCTL=no
 然后
-[code language="bash"]cp ifcfg-eth0 ifcfg-eth1
-    sed -i 's/eth0/eth1/g' ifcfg-eth1[/code]
+    cp ifcfg-eth0 ifcfg-eth1
+    sed -i 's/eth0/eth1/g' ifcfg-eth1
 第三步:
 修改系统配置
-[code language="bash"]vi /etc/modprobe.conf
+    vi /etc/modprobe.conf
     alias bond0 bonding
     options bond0 millmon=100 mode=1
-//mode 1主备工作 mode 0 同时工作[/code]
+//mode 1主备工作 mode 0 同时工作
 加入启动项
-[code language="bash"]vi /etc/rc.d/rc.local
-    ifenslave bond0 eth0 eht1[/code]
+    vi /etc/rc.d/rc.local
+    ifenslave bond0 eth0 eht1
 第四步:
 重启网络服务
-[code language="bash"]service network restart
-    ifconfig //检查bond0是否出现,也可以ping下自己[/code]
+    service network restart
+    ifconfig //检查bond0是否出现,也可以ping下自己
 更多的资料:[here](http://www.kernel.org/pub/linux/kernel/people/marcelo/linux-2.4/Documentation/networking/bonding.txt)

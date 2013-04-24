@@ -10,7 +10,7 @@
 - 服务器
 ---
 
-Linux下搭建OpenVPN方法:[here](http://www.freetstar.com/vps-build-up-openvpn),默认搭建好OpenVPN之后所有流量和数据都是通过VPS上的OpenVPN server提出的,也就是自身的访问IP总是美国的IP,内地网站可能屏蔽外国IP,
+    Linux下搭建OpenVPN方法:[here](http://www.freetstar.com/vps-build-up-openvpn),默认搭建好OpenVPN之后所有流量和数据都是通过VPS上的OpenVPN server提出的,也就是自身的访问IP总是美国的IP,内地网站可能屏蔽外国IP,
 
 还有就是数据绕了一圈之后速度肯定会慢很多,所以聪明访问WEB就很必要了
 
@@ -19,9 +19,9 @@ Linux下搭建OpenVPN方法:[here](http://www.freetstar.com/vps-build-up-openvpn
 第一步,查看OpenVPN版本,本文采用的2.1版本的配置方法,底版本见wiki
 
     openvpn --version
-OpenVPN 2.1.0 x86_64-pc-linux-gnu [SSL] [LZO2] [EPOLL] [PKCS11] [MH] [PF_INET6] [eurephia] built on Jul 12 2010
-Originally developed by James Yonan
-Copyright (C) 2002-2009 OpenVPN Technologies, Inc. <sales@openvpn.net>
+    OpenVPN 2.1.0 x86_64-pc-linux-gnu [SSL] [LZO2] [EPOLL] [PKCS11] [MH] [PF_INET6] [eurephia] built on Jul 12 2010
+    Originally developed by James Yonan
+    Copyright (C) 2002-2009 OpenVPN Technologies, Inc. <sales@openvpn.net>
 
 第二步:
 

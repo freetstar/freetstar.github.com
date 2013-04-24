@@ -18,7 +18,7 @@
 
 原来是多打了个空格,直接导致/usr目录被删除,看可怜作者的sorry语"
 
-GIANT BUG... causing /usr to be deleted... so sorry.... issue <a href="https://github.com/MrMEEE/bumblebee/issues/123">#123</a>, issue <a href="https://github.com/MrMEEE/bumblebee/issues/122">#122</a>, issue <a href="https://github.com/MrMEEE/bumblebee/issues/121">#121</a>
+    GIANT BUG... causing /usr to be deleted... so sorry.... issue <a href="https://github.com/MrMEEE/bumblebee/issues/123">#123</a>, issue <a href="https://github.com/MrMEEE/bumblebee/issues/122">#122</a>, issue <a href="https://github.com/MrMEEE/bumblebee/issues/121">#121</a>
 
 "
 

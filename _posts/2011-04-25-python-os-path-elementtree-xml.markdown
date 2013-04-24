@@ -42,11 +42,11 @@
 
 1解析xml文档
 
-ET.parse('test.xml')
+    ET.parse('test.xml')
 
 2 解析xml字符串
 
-ET.fromstring(string)
+    ET.fromstring(string)
 
 得到xml的root元素
 
@@ -82,7 +82,7 @@ ET.fromstring(string)
 
 #parent即父节点，tag则创建元素的tag
 
-ET.SubElement(parent,tag)
+    ET.SubElement(parent,tag)
 
     xml中查找节点
 
@@ -94,7 +94,7 @@ ET.SubElement(parent,tag)
 
     tree.write('test2.xml')
 
-Element中有3个对象（不知道这样说准确否）
+    Element中有3个对象（不知道这样说准确否）
 
 第一个是xml.etree.ElementTree本身，为了书写方便一般直接import xml.etree.ElementTre as ET
 
@@ -114,7 +114,7 @@ Element中有3个对象（不知道这样说准确否）
 
 第三个是Element对象，即元素，也是最重要的
 
-ElementTree调用函数的返回值通常是Element元素，其常用的方法有
+    ElementTree调用函数的返回值通常是Element元素，其常用的方法有
 
     tag: 获取tag值
 

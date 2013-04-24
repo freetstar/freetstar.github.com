@@ -32,9 +32,9 @@
 **第四步: 配置CDT**
 
 打开Eclipse,打开Help->Install New Software,然后点击Add按钮,在弹出的对话框中
-Name项填入CDT
+    Name项填入CDT
 
-Location项填入**[**http://download.eclipse.org/tools/cdt/releases/indigo**](http://download.eclipse.org/tools/cdt/releases/indigo)**
+    Location项填入**[**http://download.eclipse.org/tools/cdt/releases/indigo**](http://download.eclipse.org/tools/cdt/releases/indigo)**
 
 点击Ok按钮,在下边出现的列表中,
 
@@ -48,11 +48,11 @@ Location项填入**[**http://download.eclipse.org/tools/cdt/releases/indigo**](h
 
 基本上同第四步一致:
 
-Name项填入Autotools
+    Name项填入Autotools
 
-Localtion项输入:http://download.eclipse.org/technology/linuxtools/update
+    Localtion项输入:http://download.eclipse.org/technology/linuxtools/update
 
 点击Ok按钮,在下边出现的列表中,将此选项选中,然后安装即可
 
-Autotools support for CDT (Incubation) 3.0.0.201106060936 
+    Autotools support for CDT (Incubation) 3.0.0.201106060936 
 

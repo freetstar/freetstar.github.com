@@ -19,23 +19,14 @@
 在本文中，我们将介绍控制着版权和许可协议的基本原则。然后带着例子，着重探讨一些比较流行的发行协议，这是本文的目录
 
 * [版权和许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-
 * [正当使用的含义](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-
 * [公共领域的含义](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-
 * [司法管辖权](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-
 * [许可协议术语](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-
-* [CC 知识共享](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-
-* [软件许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-
-* [许可协议的用途](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-
-* [作品是否需要许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
-
+* [CC 知识共享](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/) 
+* [软件许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/) 
+* [许可协议的用途](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/) 
+* [作品是否需要许可协议](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/) 
 * [最后的几点想法](http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/)
 
 _声明：我不是律师，这只是我的研究经过，请仔细阅读你使用的资源对应的完整许可协议内容_
@@ -57,8 +48,7 @@ _
 
 "合理使用"是版权所有者的特有权利的一个例外。它存在在比如说美国，英国这样的国家。在这个特定的情况下，使用未经授权的资源是可能的。如果某个人的使用被定义为合理的使用，他们就不需要遵循某个协议。实质上讲，使用具有版权的东西是一个合法的权利。下面是几个合理使用的例子：
 
-* 教育性的目的，比如说教授和学生研究
-
+* 教育性的目的，比如说教授和学生研究 
 * 作为新闻报道或者发布文章的评论和观点。
 
 这里有一个误解，即非商业和非盈利的使用都是可以被接受的,并这不成立。合理使用是一个法定词，是通过具体的例子来评判的。如果你认为你使用具有版权的资源是合法的，最好要深入彻底的研究下
@@ -87,35 +77,22 @@ _
 
 * **"Copy"**
 源作品的一份拷贝。
-
-* 
-
-**"Modify"
-**
-
+* **"Modify"
 在使用具有版权的作品之前，以某种方式来修改。
-
 * **"Derivative work"**
 修改有版权的作品来创造一个新的作品。
-
 * **"Distribute"**
 将自己的作品以某种许可证协议发布的行为。
-
 * **"Redistribute"**
 在原许可证协议下获取作品之后，再次发布作品和许可证协议的行为。
-
 * **"Share alike"**
 以相同或者类似许可证协议发布作品的行为.
-
 * **"Credit" 或者**** "attribution"**
 表明原版权所有者的行为
-
 * **"Copyright notice"**
 一个强调短语或者用(©)符号来表明版权所有者 (根据法律规定不一定存在)。
-
 * **"All rights reserved"**
 一个常见的版权所有的声明：保留所有权利（可以不声明）。
-
 * **"Warranty"**
 包含许可证协议的保证(通常可以不写).
 
@@ -135,14 +112,11 @@ CC知识共享
 <code><span style="color: #1e1e1e; font-size: 10pt;"><span style="font-family: 宋体;">下面是其他四个</span><span style="font-family: Verdana;">CC </span><span style="font-family: 宋体;">许可协议：</span></span></code>
 
 * **CC Attribution-NoDerivs**
-重新发布是允许的，前提是标注了原归属权，并且没有修改。
-
+重新发布是允许的，前提是标注了原归属权，并且没有修改。 
 * **CC Attribution-NonCommercial**
-只要包含了原归属权，所有事情都是允许的，但是不允许用于商业目的。
-
+只要包含了原归属权，所有事情都是允许的，但是不允许用于商业目的。 
 * **CC Attribution-NonCommercial-ShareAlike**
-和上边的一样，但是重新发布的作品必须以同样的许可协议发布。
-
+和上边的一样，但是重新发布的作品必须以同样的许可协议发布。 
 * **CC Attribution-NonCommercial-NoDerivs**
 重新发布的作品允许非商业应用，没有任何修改。
 
@@ -168,21 +142,19 @@ This work includes the photo "Photo's Title," available under a Creative Commons
 
 开发许可协议通常包含了以下几点：
 
-* 作品以及所做的修改发布的方式
-
-* 所有修改过的作品是否要开源
-
+* 作品以及所做的修改发布的方式 
+* 所有修改过的作品是否要开源 
 * 重发布时的版权问题以及其他事项
 
   软件许可协议可以被定义为："宽容的"或者"copyleft"，而后者移除了在重新发布的作品之上再加限制的权利。
 
   下面是一些常见的软件许可协议和他们的方式。
 
-MIT 许可协议
+    MIT 许可协议
 
   MIT许可协议或许是最为开放的。它通常将作品放在公共领域。它明确地给出了权限，"没有限制，不限制使用，复制，修改，合并，子许可协议，卖软件的拷贝"。唯一的条件是包含全部的版权信息（即说明不做任何保证和可靠性）。以MIT协议发布的所有作品可以用于任何目的，包含商业和专有软件。
 
-BSD 许可协议
+    BSD 许可协议
 
   BSD许可协议和MIT协议比较类似。
 
@@ -194,7 +166,7 @@ BSD 许可协议
 
   MIT 和 BSD 许可协议给于我们了完全的自由来以任意目的来复制，散发修改作品，前提是原有许可协议和版权注明都包括了。衍生的作品可以以专有软件或者以其他许可协议发布。
 
-Apache许可协议
+    Apache许可协议
 
    从BSD的身影上我们看到表述一个许可协议是一件多么困难的事情。这里面有许多含糊之处和与法律的连结，要完全阐明是几乎不可能的。许多"自由"许可协议已经涌现，力图将这样的意图阐述清楚。
 
@@ -207,7 +179,7 @@ Apache许可协议
 
    Apache 许可协议v2可以说是GPL兼容的，意味着一个Apache v2发布的代码工程同样以GPL v3许可协议发布。
 
-GPL许可协议
+    GPL许可协议
 
    第一版由Richard Stallman于1989年完成，现在GPL是2007年完成的第三版，即GPLv3,。它建立于我们应该自由地使用，改变，分享源代码和分享对源代码做出的改变。不管软件是如何发布的，它总是自由的。这个概念被称之为"copyleft"。
 
@@ -225,11 +197,11 @@ GPL许可协议
 
   Wordpress和Drupal是需要给予特殊关注的，因为他们只以GPL v2许可协议发布。这意味着任何衍生的作品必须以GPL协议发布，而根据WordPress license page，这些包含了所有的插件和主题。
 
-Part of this license outlines requirements for derivative works, such as plugins or themes. Derivatives of WordPress code inherit the GPL license. […] There is some legal grey area regarding what is considered a derivative work, but we feel strongly that plugins and themes are derivative work and thus inherit the GPL license. If you disagree, you might want to consider a non-GPL platform…
+    Part of this license outlines requirements for derivative works, such as plugins or themes. Derivatives of WordPress code inherit the GPL license. […] There is some legal grey area regarding what is considered a derivative work, but we feel strongly that plugins and themes are derivative work and thus inherit the GPL license. If you disagree, you might want to consider a non-GPL platform…
 
 [  Drupal's licensing FAQ](http://drupal.org/licensing/faq/) is对于这个则更为详细:
 
-The GPL requires that if you make a derivative work of Drupal and distribute it to someone else, you must provide that person with the source code under the terms of the GPL so that they may modify and redistribute it under the terms of the GPL as well. However, you are under no obligation to distribute the code to anyone else. If you do not distribute the code but use it only within your organization, then you are not required to distribute it to anyone at all.
+    The GPL requires that if you make a derivative work of Drupal and distribute it to someone else, you must provide that person with the source code under the terms of the GPL so that they may modify and redistribute it under the terms of the GPL as well. However, you are under no obligation to distribute the code to anyone else. If you do not distribute the code but use it only within your organization, then you are not required to distribute it to anyone at all.
 
   这意味着什么？如果你在为Wordpress或者Drupal开发主题，这套主题就必须以GPL协议发布。这样一来，你可以选择发布你的作品，而具体怎么做，自己来做决定吧。
 
@@ -264,30 +236,22 @@ The GPL requires that if you make a derivative work of Drupal and distribute it 
 
    如上所述，这篇文章是我自己的研究结果，并不是法律建议。如果你对版权和许可协议还不够理解，建议您咨询专业的法律建议。
 
-Further Reading
+    Further Reading
 
 * "[A Short Guide To Open-Source And Similar Licenses](http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/)"
-A Smashing Magazine article by Cameron Chapman.
-
+    A Smashing Magazine article by Cameron Chapman.
 * [Open Source Initiative](http://www.opensource.org/licenses/alphabetical)
-An extensive list of software licenses.
-
+    An extensive list of software licenses.
 * "[About the Licenses](http://creativecommons.org/licenses/)"
-A page that goes into detail on the variations of the Creative Commons license.
-
+    A page that goes into detail on the variations of the Creative Commons license.
 * "[What Is Copyleft](http://www.gnu.org/copyleft/)?"
-The general concept of free software.
-
+    The general concept of free software.
 * [Producing Open-Source Software](http://producingoss.com/en/)
-A guide to software projects, including chapters on licensing.
-
+    A guide to software projects, including chapters on licensing.
 * "[Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)"
-An overview of licenses, by Jeff Atwood.
-
+    An overview of licenses, by Jeff Atwood.
 * "[The Ethics of WordPress Themes at a Premium](http://themeshaper.com/2008/09/08/the-ethics-of-premium-wordpress-themes/)"
-Are WordPress themes open source? Is it right to release them on a pay-to-download basis?
-
-* 
+    Are WordPress themes open source? Is it right to release them on a pay-to-download basis?
 
 # [**如何选择开源许可证？**](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 

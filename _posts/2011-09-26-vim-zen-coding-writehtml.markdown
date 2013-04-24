@@ -12,7 +12,7 @@
 
 在vim里编写HTML，<a href="https://raw.github.com/mattn/zencoding-vim/">zencoding.vim</a>是一个非常理想的插件
 
-    vim.org主页：[http://www.vim.org/scripts/script.php?script_id=2981](http://www.vim.org/scripts/script.php?script_id=2981)
+vim.org主页：[http://www.vim.org/scripts/script.php?script_id=2981](http://www.vim.org/scripts/script.php?script_id=2981)
 
 **安装方法：**
 
@@ -26,21 +26,22 @@
 
 1 **展开缩写**
 
-输入div>p#foo$*3>a，按下'<c-y>,'
+输入
+    div>p#foo$*3>a，按下'<c-y>,'
 
 结果
 
-<div>
-<p id="foo1">
-<a href=""></a>
-</p>
-<p id="foo2">
-<a href=""></a>
-</p>
-<p id="foo3">
-<a href=""></a>
-</p>
-</div>
+    <div>
+    <p id="foo1">
+    <a href=""></a>
+    </p>
+    <p id="foo2">
+    <a href=""></a>
+    </p>
+    <p id="foo3">
+    <a href=""></a>
+    </p>
+    </div>
 
 2 **嵌套代码**
 
@@ -81,148 +82,149 @@
 7 **更新img大小**  
 移动光标到
 
----------------------
-<img src="foo.png" />
----------------------
+    ---------------------
+    <img src="foo.png" />
+    ---------------------
 
 输入<c-y>i,编辑大小，得到结果
 
----------------------
-<img src="foo.png" width="32" height="48" />
----------------------
+    ---------------------
+    <img src="foo.png" width="32" height="48" />
+    ---------------------
 
 8 **合并行**
 
----------------------
-<ul>
-<li></li>
-<li></li>
-<li></li>
-</ul>
----------------------
+    ---------------------
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul>
+    ---------------------
 
 选择其中的任意一个包含<li> 标签的行，按下“J” ,结果
 
----------------------
-<ul>
-<li></li><li></li><li></li>
-</ul>
----------------------
+    ---------------------
+    <ul>
+    <li></li><li></li><li></li>
+    </ul>
+    ---------------------
 
 9 **移除tag**  
 将光标移动到<a>块上
 
----------------------
-<div>
-<a>cursor is here</a>
-</div>
----------------------
+    ---------------------
+    <div>
+    <a>cursor is here</a>
+    </div>
+    ---------------------
 
 输入'<c-y>k'，结果
 
----------------------
-<div>
+    ---------------------
+    <div>
 
-</div>
----------------------
+    </div>
+    ---------------------
 
 原地不动地输入'<c-y>j'，结果
 
----------------------
+    ---------------------
 
----------------------
+    ---------------------
 啥也没有了吧
 
-10. **切割和组合Tag**
+10 **切割和组合Tag**
 
 移动光标至block块
----------------------
-<div class="foo">
-    cursor is here
-</div>
----------------------
+    ---------------------
+    <div class="foo">
+        cursor is here
+    </div>
+    ---------------------
 输入模式下输入'<c-y>j'
----------------------
-<div class="foo"/>
----------------------
+    ---------------------
+    <div class="foo"/>
+    ---------------------
 原地不动地在输入'<c-y>j'
----------------------
-<div class="foo">
-</div>
----------------------
+    ---------------------
+    <div class="foo">
+    </div>
+    ---------------------
 
-11. **将代码转换成注释**
+11 **将代码转换成注释**
 
 移动光标至需要修改的块
----------------------
-<div>
-    hello world
-</div>
----------------------
+    ---------------------
+    <div>
+        hello world
+    </div>
+    ---------------------
 输入模式下输入 '<c-y>/'
----------------------
-<!-- <div>
-    hello world
-</div> -->
----------------------
+    ---------------------
+    <!-- <div>
+        hello world
+    </div> -->
+    ---------------------
 原地不动地再输入 '<c-y>/'，看，又回来了
----------------------
-<div>
-    hello world
-</div>
----------------------
+    ---------------------
+    <div>
+        hello world
+    </div>
+    ---------------------
 
-12. **将URL装换成引用**
+12 **将URL装换成引用**
 
 输入一个http://格式的链接
----------------------
-    http://www.google.com/
----------------------
+    ---------------------
+        http://www.google.com/
+    ---------------------
 输入 '<c-y>a'，结果
----------------------
-<a href="http://www.google.com/">Google</a>
----------------------
-13. <strong>从URL中创建引用的文本</strong>
----------------------
-    http://github.com/
----------------------
+    ---------------------
+    <a href="http://www.google.com/">Google</a>
+    ---------------------
+
+13 <strong>从URL中创建引用的文本</strong>
+    ---------------------
+        http://github.com/
+    ---------------------
 输入 '<c-y>A'，自动在网络上查询必要的资源并显示，怎么样，方便吧
----------------------
-<blockquote>
-<a href="http://github.com/">Secure source code hosting and collaborative development - GitHub</a><br />
-<p>How does it work? Get up and running in seconds by forking a project, pushing an existing repository...</p>
-<cite>http://github.com/</cite>
-</blockquote>
----------------------
+    ---------------------
+    <blockquote>
+    <a href="http://github.com/">Secure source code hosting and collaborative development - GitHub</a><br />
+    <p>How does it work? Get up and running in seconds by forking a project, pushing an existing repository...</p>
+    <cite>http://github.com/</cite>
+    </blockquote>
+    ---------------------
 
-14. **安装zencoding.vim**
+14 **安装zencoding.vim**
 
-# cd ~/.vim
-# unzip zencoding-vim.zip
-    or if you install pathogen.vim:
-# cd ~/.vim/bundle # or make directory
-# unzip /path/to/zencoding-vim.zip
-    if you get sources from repository:
-# cd ~/.vim/bundle # or make directory
-# git clone http://github.com/mattn/zencoding-vim.git
+    # cd ~/.vim
+    # unzip zencoding-vim.zip
+        or if you install pathogen.vim:
+    # cd ~/.vim/bundle # or make directory
+    # unzip /path/to/zencoding-vim.zip
+        if you get sources from repository:
+    # cd ~/.vim/bundle # or make directory
+    # git clone http://github.com/mattn/zencoding-vim.git
 
-15.**定制**
+15 **定制**
 
----------------------
-# cat >> ~/.vimrc
-    let g:user_zen_settings = {
-\ 'php' : {
-\ 'extends' : 'html',
-\ 'filters' : 'c',
-\ },
-\ 'xml' : {
-\ 'extends' : 'html',
-\ },
-\ 'haml' : {
-\ 'extends' : 'html',
-\ },
-\}
----------------------
-  let g:user_zen_expandabbr_key = '<c-e>'//即"<c-y>,"都变成<c-e>了
+    ---------------------
+    # cat >> ~/.vimrc
+        let g:user_zen_settings = {
+    \ 'php' : {
+    \ 'extends' : 'html',
+    \ 'filters' : 'c',
+    \ },
+    \ 'xml' : {
+    \ 'extends' : 'html',
+    \ },
+    \ 'haml' : {
+    \ 'extends' : 'html',
+    \ },
+    \}
+    ---------------------
+      let g:user_zen_expandabbr_key = '<c-e>'//即"<c-y>,"都变成<c-e>了
 
-  let g:use_zen_complete_tag = 1
+      let g:use_zen_complete_tag = 1

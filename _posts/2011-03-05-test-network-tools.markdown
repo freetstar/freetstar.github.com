@@ -24,17 +24,14 @@
 
 下面介绍测试网络链接情况的几个标准:
 
-* 延迟(响应时间或者RTT):可以用ping来测试
-
-* 抖动(时延变化):可以通过Iperf 的UDP测试
-
+* 延迟(响应时间或者RTT):可以用ping来测试 
+* 抖动(时延变化):可以通过Iperf 的UDP测试 
 * 数据包丢失:可以通过Iperf UDP测试
-
 * 带宽情况可以用TCP测试
 
-TCP和UDP不同之处在于:TCP会检测每一个包是否都被正确的传送到了目的地,而UDP不会检测数据包,这也使得UDP比TCP更快
+    TCP和UDP不同之处在于:TCP会检测每一个包是否都被正确的传送到了目的地,而UDP不会检测数据包,这也使得UDP比TCP更快
 
-Iperf利用TCP和UDP不同特点来提供网络链接情况
+    Iperf利用TCP和UDP不同特点来提供网络链接情况
 
 使用方法:
 
@@ -56,15 +53,15 @@ Iperf利用TCP和UDP不同特点来提供网络链接情况
 
 <span style="color: #666666; font-style: italic;"> </span>
 <span style="color: #660033;">------------------------------------------------------------</span>
-Server listening on TCP port <span style="color: #000000;">5001</span>
-TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span style="color: #000000;">8.00</span> KByte <span style="color: #7a0874; font-weight: bold;">(</span>default<span style="color: #7a0874; font-weight: bold;">)</span>
+    Server listening on TCP port <span style="color: #000000;">5001</span>
+    TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span style="color: #000000;">8.00</span> KByte <span style="color: #7a0874; font-weight: bold;">(</span>default<span style="color: #7a0874; font-weight: bold;">)</span>
 <span style="color: #660033;">------------------------------------------------------------</span>
 <span style="color: #7a0874; font-weight: bold;">[</span><span style="color: #000000;">852</span><span style="color: #7a0874; font-weight: bold;">]</span> <span style="color: #7a0874; font-weight: bold;">local</span> 10.1.1.1 port <span style="color: #000000;">5001</span> connected with 10.6.2.5 port <span style="color: #000000;">54355</span>
 <span style="color: #7a0874; font-weight: bold;">[</span> ID<span style="color: #7a0874; font-weight: bold;">]</span>   Interval          Transfer        Bandwidth
 <span style="color: #7a0874; font-weight: bold;">[</span><span style="color: #000000;">852</span><span style="color: #7a0874; font-weight: bold;">]</span>   <span style="color: #000000;">0.0</span>-<span style="color: #000000;">10.1</span> sec   <span style="color: #000000;">1.15</span> MBytes   <span style="color: #000000;">956</span> Kbits<span style="color: #000000; font-weight: bold;">/</span>sec
 <span style="color: #660033;">------------------------------------------------------------</span>
-Client connecting to 10.6.2.5, TCP port <span style="color: #000000;">5001</span>
-TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span style="color: #000000;">8.00</span> KByte <span style="color: #7a0874; font-weight: bold;">(</span>default<span style="color: #7a0874; font-weight: bold;">)</span>
+    Client connecting to 10.6.2.5, TCP port <span style="color: #000000;">5001</span>
+    TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span style="color: #000000;">8.00</span> KByte <span style="color: #7a0874; font-weight: bold;">(</span>default<span style="color: #7a0874; font-weight: bold;">)</span>
 <span style="color: #660033;">------------------------------------------------------------</span>
 <span style="color: #7a0874; font-weight: bold;">[</span><span style="color: #000000;">824</span><span style="color: #7a0874; font-weight: bold;">]</span> <span style="color: #7a0874; font-weight: bold;">local</span> 10.1.1.1 port <span style="color: #000000;">1646</span> connected with 10.6.2.5 port <span style="color: #000000;">5001</span>
 <span style="color: #7a0874; font-weight: bold;">[</span> ID<span style="color: #7a0874; font-weight: bold;">]</span>   Interval          Transfer        Bandwidth
@@ -78,12 +75,12 @@ TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span s
 
 <span style="color: #666666; font-style: italic;"> </span>
 <span style="color: #660033;">------------------------------------------------------------</span>
-Server listening on TCP port <span style="color: #000000;">5001</span>
-TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span style="color: #000000;">85.3</span> KByte <span style="color: #7a0874; font-weight: bold;">(</span>default<span style="color: #7a0874; font-weight: bold;">)</span>
+    Server listening on TCP port <span style="color: #000000;">5001</span>
+    TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span style="color: #000000;">85.3</span> KByte <span style="color: #7a0874; font-weight: bold;">(</span>default<span style="color: #7a0874; font-weight: bold;">)</span>
 <span style="color: #660033;">------------------------------------------------------------</span>
 <span style="color: #660033;">------------------------------------------------------------</span>
-Client connecting to 10.1.1.1, TCP port <span style="color: #000000;">5001</span>
-TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span style="color: #000000;">16.0</span> KByte <span style="color: #7a0874; font-weight: bold;">(</span>default<span style="color: #7a0874; font-weight: bold;">)</span>
+    Client connecting to 10.1.1.1, TCP port <span style="color: #000000;">5001</span>
+    TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span style="color: #000000;">16.0</span> KByte <span style="color: #7a0874; font-weight: bold;">(</span>default<span style="color: #7a0874; font-weight: bold;">)</span>
 <span style="color: #660033;">------------------------------------------------------------</span>
 <span style="color: #7a0874; font-weight: bold;">[</span> <span style="color: #000000;">5</span><span style="color: #7a0874; font-weight: bold;">]</span> <span style="color: #7a0874; font-weight: bold;">local</span> 10.6.2.5 port <span style="color: #000000;">60270</span> connected with 10.1.1.1 port <span style="color: #000000;">5001</span>
 <span style="color: #7a0874; font-weight: bold;">[</span> <span style="color: #000000;">4</span><span style="color: #7a0874; font-weight: bold;">]</span> <span style="color: #7a0874; font-weight: bold;">local</span> 10.6.2.5 port <span style="color: #000000;">5001</span> connected with 10.1.1.1 port <span style="color: #000000;">2643</span>
@@ -107,13 +104,13 @@ TCP window <span style="color: #c20cb9; font-weight: bold;">size</span>: <span s
     client端:
     time yes|nc -v -v -n 10.1.1.1 2222 >/dev/null
 大概10s之后,在client端用Ctrl+C来停止,观察输出
-Client端:
+    Client端:
     sent 87478272, rcvd 0
 
     real 0m9.993s
     user 0m2.075s
     sys 0m0.939s
-Server端:(单位字节)
+    Server端:(单位字节)
     sent 0, rcvd 87478392
 然后用87478392乘以8,再除以10s即可,得出网速70m/s</span></span>
 
@@ -131,9 +128,9 @@ Server端:(单位字节)
 
 基本介绍：
 
-BWCTL是个命令行的程序，可以做为daemon运行。可以测试TCP和UDP的性能。
+    BWCTL是个命令行的程序，可以做为daemon运行。可以测试TCP和UDP的性能。
 
-BWCTL在两个终点上运行，当两个终端都提出测试的请求时，BWCTL开始运行，得出测试数据，分享给两个终端
+    BWCTL在两个终点上运行，当两个终端都提出测试的请求时，BWCTL开始运行，得出测试数据，分享给两个终端
 
 基本使用方法：
 

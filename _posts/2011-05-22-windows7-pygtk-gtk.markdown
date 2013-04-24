@@ -16,7 +16,7 @@ Win7上搭建GTK和PyGTK开发环境的详细步骤：
 
 一：环境说明
 
-Windows 7 x86_64  没有安装Python
+    Windows 7 x86_64  没有安装Python
 
 二：下载必要的包
 
@@ -50,15 +50,15 @@ Windows 7 x86_64  没有安装Python
 
 问题产生的原因：
 
-Python注册表的路径是：HKEY_LOCAL_MACHINE\SOFTWARE\Python
+    Python注册表的路径是：HKEY_LOCAL_MACHINE\SOFTWARE\Python
 
 而安装程序会去：HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node下寻找python
 
 修改问题的办法：
 
-HKEY_LOCAL_MACHINE\SOFTWARE\Python把这个注册表output出来，然后用文本编辑器编辑一下，把output出来的注册表文本每一行的HKEY_LOCAL_MACHINE\SOFTWARE\Python在
+    HKEY_LOCAL_MACHINE\SOFTWARE\Python把这个注册表output出来，然后用文本编辑器编辑一下，把output出来的注册表文本每一行的HKEY_LOCAL_MACHINE\SOFTWARE\Python在
 
-SOFTWARE和Python中间加上Wow6432Node，然后保存好修改，退出。双击修改过的注册表，系统会提示你导入，导入后即可，然后到HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node
+    SOFTWARE和Python中间加上Wow6432Node，然后保存好修改，退出。双击修改过的注册表，系统会提示你导入，导入后即可，然后到HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node
 
 找下Python是否出现，ok，搞定！
 
@@ -70,35 +70,27 @@ SOFTWARE和Python中间加上Wow6432Node，然后保存好修改，退出。双�
 
 输入gtk-demo测试gtk是否安装成功，打开python的gui IDE查看python的版本信息等等
 
-#!/usr/bin/env python  
+    #!/usr/bin/env python  
 
     import pygtk  
-
     import gtk  
 
     class Base:  
+        def __init__(self):  
+            self.window = gtk.Window(gtk.WINDOW_TOPLEVEL)  
+            self.window.set_default_size(200, 200)  
+            self.window.connect('destroy', gtk.main_quit)  
+            self.window.show()  
 
-    def __init__(self):  
-
-    self.window = gtk.Window(gtk.WINDOW_TOPLEVEL)  
-
-    self.window.set_default_size(200, 200)  
-
-    self.window.connect('destroy', gtk.main_quit)  
-
-    self.window.show()  
-
-    def main(self):  
-
-    gtk.main()  
+        def main(self):  
+            gtk.main()  
 
     if __name__==”__main__”:
+        base=Base()  
+        base.main()
 
-    base=Base()  
-
-    base.main()
-
-当然，你完全可以简单的在Python控制台输入import pygtk  import gtk等来测试python是否能找到这些包，找不到的话会报错的
+当然，你完全可以简单的在Python控制台输入import pygtk  
+import gtk等来测试python是否能找到这些包，找不到的话会报错的
 
 折腾了一下午加一晚上才搞定这基本的开发环境，而且很多模块win下没有现成的，很蛋疼，需要自己移植;期间也遇到很多问题，如果你也遇到了请留言
 

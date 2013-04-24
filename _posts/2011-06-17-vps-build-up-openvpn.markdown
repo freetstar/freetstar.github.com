@@ -16,9 +16,9 @@
 
 实验环境:
 
-VPN server:米国VPS(网通链接速度比较快),OS:ubuntu server 10.10
+    VPN server:米国VPS(网通链接速度比较快),OS:ubuntu server 10.10
 
-VPN Client:本机,国内的一个PC,OS:ubuntu desktop 10.10
+    VPN Client:本机,国内的一个PC,OS:ubuntu desktop 10.10
 
 整体思路:
 
@@ -35,7 +35,7 @@ VPN Client:本机,国内的一个PC,OS:ubuntu desktop 10.10
 
 #apt-get install openvpn udev
 
-OpenVPN提供了"easy-rsa"这套加密方面的工具,openvpn安装好之后,easy-rsa在/usr/share/doc/openvpn/examples/easy-rsa/文件夹中,为了使OpenVPN正常工作,需要把easy-rsa复制到/etc/openvpn中.运行下列命令:
+    OpenVPN提供了"easy-rsa"这套加密方面的工具,openvpn安装好之后,easy-rsa在/usr/share/doc/openvpn/examples/easy-rsa/文件夹中,为了使OpenVPN正常工作,需要把easy-rsa复制到/etc/openvpn中.运行下列命令:
 
 #cp -R /usr/share/doc/openvpn/examples/easy-rsa/ /etc/openvpn
 
@@ -111,7 +111,7 @@ OpenVPN提供了"easy-rsa"这套加密方面的工具,openvpn安装好之后,eas
     iptables -A FORWARD -j REJECT
     iptables -t nat -A POSTROUTING -s 10.8.0.0/24 -o eth0 -j MASQUERADE  //设置数据转发,10.8.0.0/24是虚拟网卡网段 eth0是实际网卡
 
-VPS采用了xen虚拟,故是eth0,如果vps采用了openvz虚拟化,此处应该修改为venet0
+    VPS采用了xen虚拟,故是eth0,如果vps采用了openvz虚拟化,此处应该修改为venet0
 
 运行
 
@@ -132,15 +132,15 @@ VPS采用了xen虚拟,故是eth0,如果vps采用了openvz虚拟化,此处应该�
 
     inet addr:10.8.0.1  P-t-P:10.8.0.2  Mask:255.255.255.255
 
-UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+    UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
 
-RX packets:2762 errors:0 dropped:0 overruns:0 frame:0
+    RX packets:2762 errors:0 dropped:0 overruns:0 frame:0
 
-TX packets:2920 errors:0 dropped:0 overruns:0 carrier:0
+    TX packets:2920 errors:0 dropped:0 overruns:0 carrier:0
 
     collisions:0 txqueuelen:100
 
-RX bytes:520504 (520.5 KB)  TX bytes:1035346 (1.0 MB)
+    RX bytes:520504 (520.5 KB)  TX bytes:1035346 (1.0 MB)
 
 **第二步:配置Client端**
 

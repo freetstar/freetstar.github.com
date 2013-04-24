@@ -44,9 +44,9 @@ CPU i5-2300
 
 将其他的都保持注释或者注释掉，保留
 
-Server = http://mirrors.163.com/archlinux/$repo/os/x86_64
+    Server = http://mirrors.163.com/archlinux/$repo/os/x86_64
 
-Server = http://mirrors.archlinux.fr/$repo/os/x86_64
+    Server = http://mirrors.archlinux.fr/$repo/os/x86_64
 
 =========================================================================================================
 
@@ -236,7 +236,7 @@ Server = http://mirrors.archlinux.fr/$repo/os/x86_64
 
 修改最后一行，在network前加！，成为
 
-DAEMONS=( ... !network <strong>dhcdbd networkmanager</strong> ... )
+    DAEMONS=( ... !network <strong>dhcdbd networkmanager</strong> ... )
 
     gpasswd -a lgx network //将自己添加到网络用户组
 

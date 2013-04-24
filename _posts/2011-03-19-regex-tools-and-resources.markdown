@@ -28,7 +28,7 @@
 
 [Expresso](http://www.ultrapico.com/Expresso.htm) (Win)  
 
-Expresso 是一款优秀的正则表达式工具，适合初学者入门，同时为程序员和web开发人员提供了非常好的开发环境  
+    Expresso 是一款优秀的正则表达式工具，适合初学者入门，同时为程序员和web开发人员提供了非常好的开发环境  
 
 ![Expresso.jpg](http://media02.hongkiat.com/regex-tools-resources/Expresso.jpg)
 
@@ -101,38 +101,22 @@ Expresso 是一款优秀的正则表达式工具，适合初学者入门，同�
 更多的：
 
 * [Regular Expression Test Tool](http://www.spaweditor.com/scripts/regex) 以php 正则表达式为主
-
 * [Rex V](http://rexv.org/) 用ajax写的可以测试 PHP PCRE, PHP Posix，Javascript
-
 * [Flex 3 Regular Expression Explorer](http://ryanswanson.com/regexp/#start) 社区支持的正则表达式测试工具
-
 * [Regex Pal](http://regexpal.com/) 测试javascript。有实时的正则表达式语法和匹配高亮
-
 * [Python Regular Expression Testing Tool](http://www.pythonregex.com/) 支持python特有的函数 dotall和unicode.
 
 正则表达式学习：
 
 * [Using Regular Expressions](http://etext.lib.virginia.edu/services/helpsheets/unix/regex.html) – 正则表达式使用
-
-* [Regular Expression Basics](http://evolt.org/node/22700/)
-
-* [Regular Expression Basic Syntax Reference](http://www.regular-expressions.info/reference.html)
-
-* [Regular Expressions Cheat Sheet](http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/) – 快速参考手册
-
-* [RegExLib cheatsheet](http://regexlib.com/CheatSheet.aspx) 给.net  framework
-
-* [.NET Framework Regular Expressions](http://msdn.microsoft.com/en-us/library/hs600312.aspx)
-
-* [Five Habits for Successful Regular Expressions](http://onlamp.com/pub/a/onlamp/2003/08/21/regexp.html)
-
-* [Regular Expression Examples](http://www.regular-expressions.info/examples.html)
-
-* [How to Use and Get The Most out of Regular Expressions](http://www.regular-expressions.info/tutorial.html)
-
-* [Introduction to Regular Expressions using JavaScript](http://www.jslab.dk/articles/introduction.to.regular.expressions.using.javascript)
-
-* [37 Tested PHP, Perl, and JavaScript Regular Expressions](http://www.virtuosimedia.com/tutorials/37-tested-php-perl-and-javascript-regular-expressions)
-
-* [8 Regular Expressions You Should Know](http://net.tutsplus.com/tutorials/other/8-regular-expressions-you-should-know/)
-
+* [Regular Expression Basics](http://evolt.org/node/22700/) 
+* [Regular Expression Basic Syntax Reference](http://www.regular-expressions.info/reference.html) 
+* [Regular Expressions Cheat Sheet](http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/) – 快速参考手册 
+* [RegExLib cheatsheet](http://regexlib.com/CheatSheet.aspx) 给.net  framework 
+* [.NET Framework Regular Expressions](http://msdn.microsoft.com/en-us/library/hs600312.aspx) 
+* [Five Habits for Successful Regular Expressions](http://onlamp.com/pub/a/onlamp/2003/08/21/regexp.html) 
+* [Regular Expression Examples](http://www.regular-expressions.info/examples.html) 
+* [How to Use and Get The Most out of Regular Expressions](http://www.regular-expressions.info/tutorial.html) 
+* [Introduction to Regular Expressions using JavaScript](http://www.jslab.dk/articles/introduction.to.regular.expressions.using.javascript) 
+* [37 Tested PHP, Perl, and JavaScript Regular Expressions](http://www.virtuosimedia.com/tutorials/37-tested-php-perl-and-javascript-regular-expressions) 
+* [8 Regular Expressions You Should Know](http://net.tutsplus.com/tutorials/other/8-regular-expressions-you-should-know/) 

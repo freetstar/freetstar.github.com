@@ -30,6 +30,6 @@
 
 总结:从3月开始正式学Python,到现在了,基本上把Python基础教程2来回翻了n次,Python在Unix和Linux系统管理这本书也给了我很多想法,想一步有可能的话我想做一个基于Python Django的一个这样的东西,当练手了.    项目整体不成熟,也是我代码水平不高的体现,许多bug还待修改,但是实在没感觉和兴趣了,有兴趣的话接手吧:
 
-    github:[ ](https://github.com/freetstar/Linux-Server-Management)[https://github.com/freetstar/Linux-Server-Management](https://github.com/freetstar/Linux-Server-Management)
+github:[ ](https://github.com/freetstar/Linux-Server-Management)[https://github.com/freetstar/Linux-Server-Management](https://github.com/freetstar/Linux-Server-Management)
 
-    google code:[https://code.google.com/p/linux-server-management-software/](https://code.google.com/p/linux-server-management-software/)
+google code:[https://code.google.com/p/linux-server-management-software/](https://code.google.com/p/linux-server-management-software/)

@@ -10,9 +10,9 @@
 - linux前沿
 ---
 
-    su是switch user的缩写,为了从某个用户环境中切换到另一个用户环境中,比如说su - root是切换到root用户,并且使用root用户的环境变量,而su root是切换到root用户,但使用的是当前用户的环境变量,再多的就不再赘述.
+su是switch user的缩写,为了从某个用户环境中切换到另一个用户环境中,比如说su - root是切换到root用户,并且使用root用户的环境变量,而su root是切换到root用户,但使用的是当前用户的环境变量,再多的就不再赘述.
 
-    su的存在方便了用户,但是也有安全隐患,su的滥用可能导致安全隐患.
+su的存在方便了用户,但是也有安全隐患,su的滥用可能导致安全隐患.
 
 本文主要体验利用PAM来限制su的行为
 
@@ -34,9 +34,9 @@
 
 └┌(%:/var/log)┌-** sudo passwd root**
 
-Enter new UNIX password:
+    Enter new UNIX password:
 
-Retype new UNIX password:
+    Retype new UNIX password:
 
     passwd: password updated successfully
 
@@ -46,7 +46,7 @@ Retype new UNIX password:
 
 └┌(%:/var/log)┌- **su - root**
 
-Password:
+    Password:
 
 ┌┌(root@freetstar-lap)┌(23/pts/8)┌(01:28pm:06/09/11)┌-
 
@@ -60,11 +60,11 @@ Password:
 
 ......
 
-Jun  9 13:30:15 freetstar-lap su[15097]: Successful su for root by freetstar
+    Jun  9 13:30:15 freetstar-lap su[15097]: Successful su for root by freetstar
 
-Jun  9 13:30:15 freetstar-lap su[15097]: + /dev/pts/7 freetstar:root
+    Jun  9 13:30:15 freetstar-lap su[15097]: + /dev/pts/7 freetstar:root
 
-Jun  9 13:30:15 freetstar-lap su[15097]: pam_unix(su:session): session opened for user root by freetstar(uid=1000)
+    Jun  9 13:30:15 freetstar-lap su[15097]: pam_unix(su:session): session opened for user root by freetstar(uid=1000)
 
 **#查看auth信息,显示freetstar这个用户su到root用户成功**
 
@@ -86,7 +86,7 @@ Jun  9 13:30:15 freetstar-lap su[15097]: pam_unix(su:session): session opened f
 
 └┌(%:~/Downloads)┌- **su  - root**
 
-Password:
+    Password:
 
     su: Permission denied
 
@@ -98,19 +98,19 @@ Password:
 
 ......
 
-Jun  9 13:39:28 freetstar-lap su[15097]: pam_unix(su:session): session closed for user root
+    Jun  9 13:39:28 freetstar-lap su[15097]: pam_unix(su:session): session closed for user root
 
-Jun  9 13:39:32 freetstar-lap su[15407]: pam_authenticate: Permission denied
+    Jun  9 13:39:32 freetstar-lap su[15407]: pam_authenticate: Permission denied
 
-Jun  9 13:39:32 freetstar-lap su[15407]: FAILED su for root by freetstar
+    Jun  9 13:39:32 freetstar-lap su[15407]: FAILED su for root by freetstar
 
-Jun  9 13:39:32 freetstar-lap su[15407]: - /dev/pts/7 freetstar:root
+    Jun  9 13:39:32 freetstar-lap su[15407]: - /dev/pts/7 freetstar:root
 
 **#提示失败**
 
 第三步:设置"wheel组"
 
-Wheel本来的意义是让只有在Wheel组中的用户才有权限去执行su命令,但在现在的Linux发行版中,几乎没有了Wheel这样一个组
+    Wheel本来的意义是让只有在Wheel组中的用户才有权限去执行su命令,但在现在的Linux发行版中,几乎没有了Wheel这样一个组
 
 基本上只有BSD发行版才默认启用Wheel组.关于Linux中的wheel,看Richard大神怎么说的:[here](http://www.gnu.org/software/coreutils/manual/html_node/su-invocation.html)
 
@@ -132,7 +132,7 @@ Wheel本来的意义是让只有在Wheel组中的用户才有权限去执行su�
 
 └┌(%:~/Downloads)┌- su  - root
 
-Password:
+    Password:
 
 ┌┌(root@freetstar-lap)┌(23/pts/7)┌(01:56pm:06/09/11)┌-
 
@@ -144,7 +144,7 @@ Password:
 
 这里有一个小问题:root用户默认不再admin组里,所以为了让root用户也可以无障碍su,需要将root用户添加到admin组中
 
-Tips:
+    Tips:
 
 1 任何使用su成功与否的信息都会在日志中有记录
 

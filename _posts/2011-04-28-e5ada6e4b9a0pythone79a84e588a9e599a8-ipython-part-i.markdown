@@ -86,9 +86,9 @@ IPython提供两类自动完成功能：完成与菜单完成.默认的是完成
 
 2 其实默认的python shell也是支持TAB补全的，方法：
 
->>import rlcompleter,readline
+>import rlcompleter,readline
 
->>readline.parse_and_bind('tab:complete')
+>readline.parse_and_bind('tab:complete')
 
 **魔力编辑**
 

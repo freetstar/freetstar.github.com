@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-23 16:26:25
-    layout: post
-    title: 第一篇blog
-    wordpress_id: 3
-    categories:
+author: admin
+comments: true
+date: 2010-05-23 16:26:25
+layout: post
+title: 第一篇blog
+wordpress_id: 3
+categories:
 - 生活
 ---
 

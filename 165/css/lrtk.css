@@ -1,0 +1,14 @@
+*{ padding:0px; margin:0px;}
+img{ border:none;}
+body {height:100%;}
+ul,li{ list-style:none;}
+.box li{ width:290px; height:364px; margin-right:20px;margin-bottom:20px; float:left; overflow:hidden; position:relative;}
+.toll_img{ width:290px; height:364px;}
+.toll_img img{ width:290px; height:364px;}
+.toll_info{ height:364px; background:#EEE; }
+.toll_info p{ font-size:14px; }
+.box li p{ padding:10px; font:normal 13px/24px ; cursor:pointer;}
+.box li a{ color:rgb(200,102,102); text-decoration:none; position:absolute; top:0; left:0;}
+#main {padding-bottom: 150px;} 
+#footer { position: relative;margin-top: -150px;height: 150px;clear:both;}
+#footer p {text-align:center}

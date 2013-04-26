@@ -14,44 +14,31 @@
 
 一一解说
 
-1. 
-
-    expandtab|et [off|on]
+1.  expandtab|et [off|on]
 
 默认值为off.当为on时，在插入模式下,按[TAB]键时会以一定数量的[SPACE]键代替。若希望插入真正的 TAB的话，按CTRL-V<Tab>。同时，若autoindent=on，使用[<]和[>]键来缩进,插入的也是一定数量 [SPACE]键。
 
-2. 
-
-    shiftwidth|sw [数字]
+2.  shiftwidth|sw [数字]
 
 默认值为8.每次缩进插入的[SPACE]数量.当'cindent',[>>],[<<],[<],[>]时使用
 
-3. 
-
-    tabstop|ts [数字]
+3.  tabstop|ts [数字]
 
 默认值为8.文件中的[TAB]键被 **当做** [SPACE]键的数目。
 
-4. 
-
-    smarttab|sta [off|on]
+4.  smarttab|sta [off|on]
 
 默认值为off。off时[TAB]键将依据"tabstop"或"softtabstop"插入[SPACE].而"shiftwidth"仅用在 左右平移文本时。 on时,在插入行前按下[TAB]键时将根据'shiftwidth'插入相应的空白符。"tabstop"或'softtabstop' 此时就用在别处.[BS]键则会删除行首对应‘shiftwidth’数的空白字符
 
-5. 
-
-    softtabstop|sts [数字]
+5.  softtabstop|sts [数字]
 
 默认值为0.在文档编辑操作时，像[BS]键和[TAB]键被:strong:当做 "softtabstop"个[SPACE]键使用. 此给人感觉虽然是[TAB]键被插入了,但实际上是[SPACE]和[TAB]的混合体。[x]键仍然是一个个字符产生作用。
 
 # 好吧，我怎么知道代码里到底是[SPACE]还是[TAB]
 
-* 
-
-    list模式可将不可以打印的字符以^代替，如[TAB]和[SPACE]等空白字符，同时每行末添加$
+* list模式可将不可以打印的字符以^代替，如[TAB]和[SPACE]等空白字符，同时每行末添加$
 
     set list
-
 * 
 
 使用listchars来改变list模式下显示的字符 listchars关于[TAB]的设置默认模板为tab:xy,其中x只显示一次，y则占有剩余的空间

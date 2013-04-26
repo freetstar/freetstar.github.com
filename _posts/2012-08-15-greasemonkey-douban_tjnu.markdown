@@ -14,13 +14,13 @@
 
 如图：
 
-[![](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)](http://www.freetstar.com/wp-content/uploads/2012/08/tjnu.png)
+[![](/media/images/2012-08-15-greasemonkey-douban_tjnu/tjnu.png)](/media/images/2012-08-15-greasemonkey-douban_tjnu/tjnu.png)
 
 在右侧显示馆藏信息，显示图书在师大图书馆的书号，序号，馆藏位置，方便读者进行查阅。
 
 若对应书籍在师大图书馆内没有，则显示木有，并给出访问链接
 
-[![](http://www.freetstar.com/wp-content/uploads/2012/08/3.png)](http://www.freetstar.com/wp-content/uploads/2012/08/3.png)注意，有些情况下由于书籍出版时间过早，图书馆的isbn号没有及时更新，导致查不到，在查不到的情况下会给出链接，供你去亲自查找。
+[![](/media/images/2012-08-15-greasemonkey-douban_tjnu/3.png)](/media/images/2012-08-15-greasemonkey-douban_tjnu/3.png)注意，有些情况下由于书籍出版时间过早，图书馆的isbn号没有及时更新，导致查不到，在查不到的情况下会给出链接，供你去亲自查找。
 
 安装：
 

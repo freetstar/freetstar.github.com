@@ -15,9 +15,7 @@
 在archlinux下怎么玩：
 
 1. **安装**
-
     sudo pacman -S e4rat
-
 2. **配置**
 
 (2.1) 修改grub启动命令，让e4rat收集开机预读的文件列表

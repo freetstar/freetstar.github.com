@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-02 18:25:34
-    layout: post
-    title: 死亡手机号0888-888-888：机主均死于非命(图)
-    wordpress_id: 236
-    categories:
+author: admin
+comments: true
+date: 2010-06-02 18:25:34
+layout: post
+title: 死亡手机号0888-888-888：机主均死于非命(图)
+wordpress_id: 236
+categories:
 - 生活
 ---
 

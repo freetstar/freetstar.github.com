@@ -1,9 +1,8 @@
 ---
-    author: admin
-    comments: true
-    date: 2013-04-24 13:55:31
-    layout: post
-
+author: admin
+comments: true
+date: 2013-04-24 13:55:31
+layout: post
 ---
 
 i5-2300 的cpu，自带GPU，更新Gnome-shell 3.8.1后进不去gdm,一番搜索以后发现是

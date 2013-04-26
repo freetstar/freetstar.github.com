@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-04-22 12:39:36
-    layout: post
-    title: Geekcook博客营销活动
-    wordpress_id: 1677
-    categories:
+author: admin
+comments: true
+date: 2011-04-22 12:39:36
+layout: post
+title: Geekcook博客营销活动
+wordpress_id: 1677
+categories:
 - 生活
 ---
 

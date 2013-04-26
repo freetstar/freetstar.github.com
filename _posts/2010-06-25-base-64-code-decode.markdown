@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-25 01:24:26
-    layout: post
-    title: Base 64 算法加解密算法总结
-    wordpress_id: 773
-    categories:
+author: admin
+comments: true
+date: 2010-06-25 01:24:26
+layout: post
+title: Base 64 算法加解密算法总结
+wordpress_id: 773
+categories:
 - PROGRAM
 ---
 

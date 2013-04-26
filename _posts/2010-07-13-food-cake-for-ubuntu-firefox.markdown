@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-13 14:43:18
-    layout: post
-    title: 可以吃的ubuntu,firefox~~~各种可以吃的
-    wordpress_id: 759
-    categories:
+author: admin
+comments: true
+date: 2010-07-13 14:43:18
+layout: post
+title: 可以吃的ubuntu,firefox~~~各种可以吃的
+wordpress_id: 759
+categories:
 - ubuntu
     tags:
 - ubuntu food logo

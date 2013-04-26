@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-15 16:00:13
-    layout: post
-    title: 今日启程,希望TJNU此行圆满
-    wordpress_id: 965
-    categories:
+author: admin
+comments: true
+date: 2010-07-15 16:00:13
+layout: post
+title: 今日启程,希望TJNU此行圆满
+wordpress_id: 965
+categories:
 - 生活
 ---
 

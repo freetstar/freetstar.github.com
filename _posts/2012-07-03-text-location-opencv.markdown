@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2012-07-03 13:55:56
-    layout: post
-    title: 自然场景文本定位 opencv实现
-    wordpress_id: 1929
-    categories:
+author: admin
+comments: true
+date: 2012-07-03 13:55:56
+layout: post
+title: 自然场景文本定位 opencv实现
+wordpress_id: 1929
+categories:
 - PROGRAM
 ---
 

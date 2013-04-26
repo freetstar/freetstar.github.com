@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-31 10:42:51
-    layout: post
-    title: ubuntu full circle 39期放出
-    wordpress_id: 1037
-    categories:
+author: admin
+comments: true
+date: 2010-07-31 10:42:51
+layout: post
+title: ubuntu full circle 39期放出
+wordpress_id: 1037
+categories:
 - 转载翻译
 ---
 

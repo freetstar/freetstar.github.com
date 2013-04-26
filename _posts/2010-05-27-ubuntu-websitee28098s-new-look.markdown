@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-27 11:38:26
-    layout: post
-    title: Ubuntu官方网站换装啦！
-    wordpress_id: 78
-    categories:
+author: admin
+comments: true
+date: 2010-05-27 11:38:26
+layout: post
+title: Ubuntu官方网站换装啦！
+wordpress_id: 78
+categories:
 - ubuntu
 ---
 

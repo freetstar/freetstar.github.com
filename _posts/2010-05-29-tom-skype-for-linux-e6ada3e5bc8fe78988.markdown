@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-29 00:43:19
-    layout: post
-    title: Tom-Skype for linux 正式版
-    wordpress_id: 121
-    categories:
+author: admin
+comments: true
+date: 2010-05-29 00:43:19
+layout: post
+title: Tom-Skype for linux 正式版
+wordpress_id: 121
+categories:
 - linux前沿
 ---
 

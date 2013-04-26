@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-04-10 00:04:56
-    layout: post
-    title: '"蛋疼"的Gnome3 Release Party'
-    wordpress_id: 1672
-    categories:
+author: admin
+comments: true
+date: 2011-04-10 00:04:56
+layout: post
+title: '"蛋疼"的Gnome3 Release Party'
+wordpress_id: 1672
+categories:
 - Opensource
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-05-08 02:39:01
-    layout: post
-    title: Python很酷，尤其对C/C++程序员来说是这样，然而Perl却不是
-    wordpress_id: 1697
-    categories:
+author: admin
+comments: true
+date: 2011-05-08 02:39:01
+layout: post
+title: Python很酷，尤其对C/C++程序员来说是这样，然而Perl却不是
+wordpress_id: 1697
+categories:
 - PROGRAM
 ---
 

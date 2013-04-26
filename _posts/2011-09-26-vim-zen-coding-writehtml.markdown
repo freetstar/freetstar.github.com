@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-09-26 19:44:44
-    layout: post
-    title: vim中用Zen Coding编写HTML
-    wordpress_id: 1800
-    categories:
+author: admin
+comments: true
+date: 2011-09-26 19:44:44
+layout: post
+title: vim中用Zen Coding编写HTML
+wordpress_id: 1800
+categories:
 - PROGRAM
 ---
 

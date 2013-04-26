@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-25 23:08:04
-    layout: post
-    title: 2010中国机器人大赛暨RoboCup公开赛 7月18日－20日内蒙古鄂尔多斯市
-    wordpress_id: 47
-    categories:
+author: admin
+comments: true
+date: 2010-05-25 23:08:04
+layout: post
+title: 2010中国机器人大赛暨RoboCup公开赛 7月18日－20日内蒙古鄂尔多斯市
+wordpress_id: 47
+categories:
 - 生活
     tags:
 - Robocup

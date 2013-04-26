@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-24 17:51:19
-    layout: post
-    title: 珍惜生命，珍惜！
-    wordpress_id: 771
-    categories:
+author: admin
+comments: true
+date: 2010-06-24 17:51:19
+layout: post
+title: 珍惜生命，珍惜！
+wordpress_id: 771
+categories:
 - 生活
 ---
 

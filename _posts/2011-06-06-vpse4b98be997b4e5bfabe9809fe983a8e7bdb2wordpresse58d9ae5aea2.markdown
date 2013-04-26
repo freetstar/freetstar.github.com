@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-06-06 23:11:01
-    layout: post
-    title: vps之间快速部署Wordpress博客
-    wordpress_id: 1722
-    categories:
+author: admin
+comments: true
+date: 2011-06-06 23:11:01
+layout: post
+title: vps之间快速部署Wordpress博客
+wordpress_id: 1722
+categories:
 - linux前沿
 ---
 

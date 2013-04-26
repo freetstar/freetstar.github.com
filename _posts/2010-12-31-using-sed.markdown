@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-12-31 18:42:42
-    layout: post
-    title: 用sed截取程序日志中某个时间范围内的文本
-    wordpress_id: 1550
-    categories:
+author: admin
+comments: true
+date: 2010-12-31 18:42:42
+layout: post
+title: 用sed截取程序日志中某个时间范围内的文本
+wordpress_id: 1550
+categories:
 - 服务器
 ---
 

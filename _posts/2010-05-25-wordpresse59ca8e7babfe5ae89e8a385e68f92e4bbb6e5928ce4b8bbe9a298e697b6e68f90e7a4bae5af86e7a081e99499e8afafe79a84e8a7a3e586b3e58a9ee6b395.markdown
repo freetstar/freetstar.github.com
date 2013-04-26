@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-25 06:43:56
-    layout: post
-    title: WordPress在线安装插件和主题时提示密码错误的解决办法
-    wordpress_id: 12
-    categories:
+author: admin
+comments: true
+date: 2010-05-25 06:43:56
+layout: post
+title: WordPress在线安装插件和主题时提示密码错误的解决办法
+wordpress_id: 12
+categories:
 - WP使用
 ---
 

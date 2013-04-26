@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-07 19:20:19
-    layout: post
-    title: 介绍几个Linux CLI tricks和2本命令行技巧书
-    wordpress_id: 1317
-    categories:
+author: admin
+comments: true
+date: 2010-10-07 19:20:19
+layout: post
+title: 介绍几个Linux CLI tricks和2本命令行技巧书
+wordpress_id: 1317
+categories:
 - PROGRAM
 ---
 

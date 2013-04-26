@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2012-04-21 22:55:20
-    layout: post
-    title: kindle fire 6.3 root记
-    wordpress_id: 1896
-    categories:
+author: admin
+comments: true
+date: 2012-04-21 22:55:20
+layout: post
+title: kindle fire 6.3 root记
+wordpress_id: 1896
+categories:
 - 转载翻译
 ---
 

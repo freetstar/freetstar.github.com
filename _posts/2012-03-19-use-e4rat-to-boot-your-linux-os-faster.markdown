@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2012-03-19 20:36:41
-    layout: post
-    title: 使用e4rat加速你的linux启动速度（ext4文件系统专用）
-    wordpress_id: 1887
-    categories:
+author: admin
+comments: true
+date: 2012-03-19 20:36:41
+layout: post
+title: 使用e4rat加速你的linux启动速度（ext4文件系统专用）
+wordpress_id: 1887
+categories:
 - Opensource
 ---
 

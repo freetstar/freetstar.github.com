@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-19 16:45:44
-    layout: post
-    title: 10佳Linux/Unix命令行手册和教程
-    wordpress_id: 1164
-    categories:
+author: admin
+comments: true
+date: 2010-08-19 16:45:44
+layout: post
+title: 10佳Linux/Unix命令行手册和教程
+wordpress_id: 1164
+categories:
 - 软件安装
 ---
 

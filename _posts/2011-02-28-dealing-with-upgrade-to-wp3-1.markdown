@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-02-28 13:37:17
-    layout: post
-    title: 升级至wordpress3.1出错后退回来
-    wordpress_id: 1621
-    categories:
+author: admin
+comments: true
+date: 2011-02-28 13:37:17
+layout: post
+title: 升级至wordpress3.1出错后退回来
+wordpress_id: 1621
+categories:
 - 问题解决
 ---
 

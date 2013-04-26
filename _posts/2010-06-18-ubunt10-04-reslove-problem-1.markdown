@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-18 20:19:59
-    layout: post
-    title: 我的ubuntu10.04 使用笔记 问题解决
-    wordpress_id: 252
-    categories:
+author: admin
+comments: true
+date: 2010-06-18 20:19:59
+layout: post
+title: 我的ubuntu10.04 使用笔记 问题解决
+wordpress_id: 252
+categories:
 - 生活
 ---
 

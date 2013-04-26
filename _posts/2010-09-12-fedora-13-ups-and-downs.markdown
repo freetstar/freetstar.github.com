@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-09-12 18:11:42
-    layout: post
-    title: Fedora 13 历险记
-    wordpress_id: 1252
-    categories:
+author: admin
+comments: true
+date: 2010-09-12 18:11:42
+layout: post
+title: Fedora 13 历险记
+wordpress_id: 1252
+categories:
 - 问题解决
 ---
 

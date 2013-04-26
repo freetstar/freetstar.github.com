@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-08-31 16:56:51
-    layout: post
-    title: agent2d librcsc 静态编译方法
-    wordpress_id: 1780
-    categories:
+author: admin
+comments: true
+date: 2011-08-31 16:56:51
+layout: post
+title: agent2d librcsc 静态编译方法
+wordpress_id: 1780
+categories:
 - Opensource
 ---
 

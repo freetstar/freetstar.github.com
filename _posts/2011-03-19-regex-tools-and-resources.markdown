@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-03-19 20:54:00
-    layout: post
-    title: 正则表达式资源收集
-    wordpress_id: 1637
-    categories:
+author: admin
+comments: true
+date: 2011-03-19 20:54:00
+layout: post
+title: 正则表达式资源收集
+wordpress_id: 1637
+categories:
 - PROGRAM
 ---
 

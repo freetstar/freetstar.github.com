@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-07 23:25:53
-    layout: post
-    title: ubuntu 关于shell的那些事
-    wordpress_id: 300
-    categories:
+author: admin
+comments: true
+date: 2010-06-07 23:25:53
+layout: post
+title: ubuntu 关于shell的那些事
+wordpress_id: 300
+categories:
 - ubuntu
 ---
 

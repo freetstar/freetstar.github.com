@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-17 12:52:50
-    layout: post
-    title: Robocup China Open 2010 一
-    wordpress_id: 971
-    categories:
+author: admin
+comments: true
+date: 2010-07-17 12:52:50
+layout: post
+title: Robocup China Open 2010 一
+wordpress_id: 971
+categories:
 - 生活
 ---
 

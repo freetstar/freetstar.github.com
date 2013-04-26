@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-11-15 13:57:48
-    layout: post
-    title: 推荐几本好书
-    wordpress_id: 1871
-    categories:
+author: admin
+comments: true
+date: 2011-11-15 13:57:48
+layout: post
+title: 推荐几本好书
+wordpress_id: 1871
+categories:
 - Opensource
 ---
 

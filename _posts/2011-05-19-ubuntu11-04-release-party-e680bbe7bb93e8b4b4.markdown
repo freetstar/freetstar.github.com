@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-05-19 21:35:54
-    layout: post
-    title: Ubuntu11.04 Release Party 总结贴
-    wordpress_id: 1712
-    categories:
+author: admin
+comments: true
+date: 2011-05-19 21:35:54
+layout: post
+title: Ubuntu11.04 Release Party 总结贴
+wordpress_id: 1712
+categories:
 - 生活
 ---
 

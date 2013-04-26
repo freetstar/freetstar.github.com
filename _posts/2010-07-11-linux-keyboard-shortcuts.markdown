@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-11 16:48:22
-    layout: post
-    title: Linux 下不得不说的那些快捷键
-    wordpress_id: 938
-    categories:
+author: admin
+comments: true
+date: 2010-07-11 16:48:22
+layout: post
+title: Linux 下不得不说的那些快捷键
+wordpress_id: 938
+categories:
 - ubuntu
 - 软件安装
 ---

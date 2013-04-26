@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-09-22 08:26:17
-    layout: post
-    title: John the Ripper ---检测系统密码的安全性
-    wordpress_id: 1294
-    categories:
+author: admin
+comments: true
+date: 2010-09-22 08:26:17
+layout: post
+title: John the Ripper ---检测系统密码的安全性
+wordpress_id: 1294
+categories:
 - 软件安装
 ---
 

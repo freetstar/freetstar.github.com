@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-20 19:28:28
-    layout: post
-    title: ubuntu10.04升级至ubuntu10.10后解决的几个问题
-    wordpress_id: 1349
-    categories:
+author: admin
+comments: true
+date: 2010-10-20 19:28:28
+layout: post
+title: ubuntu10.04升级至ubuntu10.10后解决的几个问题
+wordpress_id: 1349
+categories:
 - 问题解决
 ---
 

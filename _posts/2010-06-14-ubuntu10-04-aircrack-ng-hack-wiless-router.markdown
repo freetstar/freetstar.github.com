@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-14 03:06:56
-    layout: post
-    title: ubuntu10.04 下使用Aircrack-ng破解无线路由AP密码
-    wordpress_id: 617
-    categories:
+author: admin
+comments: true
+date: 2010-06-14 03:06:56
+layout: post
+title: ubuntu10.04 下使用Aircrack-ng破解无线路由AP密码
+wordpress_id: 617
+categories:
 - ubuntu
 - 问题解决
 ---

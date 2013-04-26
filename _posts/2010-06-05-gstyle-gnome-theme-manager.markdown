@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-05 14:33:19
-    layout: post
-    title: Gstyle -一个全新的gnome 主题管理器
-    wordpress_id: 258
-    categories:
+author: admin
+comments: true
+date: 2010-06-05 14:33:19
+layout: post
+title: Gstyle -一个全新的gnome 主题管理器
+wordpress_id: 258
+categories:
 - ubuntu
 ---
 

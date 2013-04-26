@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-30 17:28:54
-    layout: post
-    title: Google Chrome 升级之后字体发虚问题解决办法
-    wordpress_id: 183
-    categories:
+author: admin
+comments: true
+date: 2010-05-30 17:28:54
+layout: post
+title: Google Chrome 升级之后字体发虚问题解决办法
+wordpress_id: 183
+categories:
 - ubuntu
     tags:
 - chrome

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-10 12:12:45
-    layout: post
-    title: ubuntu下用NotifyOSD来提醒你终端里的工作已完成
-    wordpress_id: 1091
-    categories:
+author: admin
+comments: true
+date: 2010-08-10 12:12:45
+layout: post
+title: ubuntu下用NotifyOSD来提醒你终端里的工作已完成
+wordpress_id: 1091
+categories:
 - 软件安装
 ---
 

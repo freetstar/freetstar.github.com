@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-30 17:01:00
-    layout: post
-    title: 教你使用zsh之=======安装和配置zsh
-    wordpress_id: 1380
-    categories:
+author: admin
+comments: true
+date: 2010-10-30 17:01:00
+layout: post
+title: 教你使用zsh之=======安装和配置zsh
+wordpress_id: 1380
+categories:
 - 软件安装
 ---
 

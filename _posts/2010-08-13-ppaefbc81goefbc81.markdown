@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-13 18:03:59
-    layout: post
-    title: 寻找PPA
-    wordpress_id: 1117
-    categories:
+author: admin
+comments: true
+date: 2010-08-13 18:03:59
+layout: post
+title: 寻找PPA
+wordpress_id: 1117
+categories:
 - ubuntu
 - 软件安装
 ---

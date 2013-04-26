@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-09 20:40:10
-    layout: post
-    title: ubuntu statanic edition之绚丽的主题和图标
-    wordpress_id: 931
-    categories:
+author: admin
+comments: true
+date: 2010-07-09 20:40:10
+layout: post
+title: ubuntu statanic edition之绚丽的主题和图标
+wordpress_id: 931
+categories:
 - ubuntu
 - 转载翻译
 ---

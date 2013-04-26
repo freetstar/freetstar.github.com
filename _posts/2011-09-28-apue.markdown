@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-09-28 21:25:09
-    layout: post
-    title: APUE中#include "apue.h"
-    wordpress_id: 1814
-    categories:
+author: admin
+comments: true
+date: 2011-09-28 21:25:09
+layout: post
+title: APUE中#include "apue.h"
+wordpress_id: 1814
+categories:
 - PROGRAM
 ---
 

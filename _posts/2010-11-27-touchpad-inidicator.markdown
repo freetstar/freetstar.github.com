@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-11-27 21:30:27
-    layout: post
-    title: 用Touchpad-Indicator控制你的触摸板
-    wordpress_id: 1497
-    categories:
+author: admin
+comments: true
+date: 2010-11-27 21:30:27
+layout: post
+title: 用Touchpad-Indicator控制你的触摸板
+wordpress_id: 1497
+categories:
 - 软件安装
 ---
 

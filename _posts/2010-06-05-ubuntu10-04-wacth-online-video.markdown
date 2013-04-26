@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-05 19:44:02
-    layout: post
-    title: ubuntu10.04 下看在线直播
-    wordpress_id: 239
-    categories:
+author: admin
+comments: true
+date: 2010-06-05 19:44:02
+layout: post
+title: ubuntu10.04 下看在线直播
+wordpress_id: 239
+categories:
 - ubuntu
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-01-07 22:42:34
-    layout: post
-    title: 一些积累的CLI Tricks
-    wordpress_id: 1558
-    categories:
+author: admin
+comments: true
+date: 2011-01-07 22:42:34
+layout: post
+title: 一些积累的CLI Tricks
+wordpress_id: 1558
+categories:
 - PROGRAM
 ---
 

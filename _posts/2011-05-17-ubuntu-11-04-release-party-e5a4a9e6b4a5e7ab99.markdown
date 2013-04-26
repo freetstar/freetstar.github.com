@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-05-17 12:58:17
-    layout: post
-    title: Ubuntu 11.04 Release Party 天津站
-    wordpress_id: 1708
-    categories:
+author: admin
+comments: true
+date: 2011-05-17 12:58:17
+layout: post
+title: Ubuntu 11.04 Release Party 天津站
+wordpress_id: 1708
+categories:
 - 生活
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-10-11 11:50:20
-    layout: post
-    title: 理解版权和许可协议
-    wordpress_id: 1829
-    categories:
+author: admin
+comments: true
+date: 2011-10-11 11:50:20
+layout: post
+title: 理解版权和许可协议
+wordpress_id: 1829
+categories:
 - linux前沿
 ---
 

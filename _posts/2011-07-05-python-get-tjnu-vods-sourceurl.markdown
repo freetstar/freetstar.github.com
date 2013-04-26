@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-07-05 10:38:14
-    layout: post
-    title: 用Python抓取天津师范大学VOD视频资源的地址
-    wordpress_id: 1750
-    categories:
+author: admin
+comments: true
+date: 2011-07-05 10:38:14
+layout: post
+title: 用Python抓取天津师范大学VOD视频资源的地址
+wordpress_id: 1750
+categories:
 - python
 ---
 

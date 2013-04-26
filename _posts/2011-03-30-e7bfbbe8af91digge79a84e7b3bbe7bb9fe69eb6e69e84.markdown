@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-03-30 18:14:04
-    layout: post
-    title: '[翻译]Digg的系统架构'
-    wordpress_id: 1650
-    categories:
+author: admin
+comments: true
+date: 2011-03-30 18:14:04
+layout: post
+title: '[翻译]Digg的系统架构'
+wordpress_id: 1650
+categories:
 - linux前沿
 ---
 

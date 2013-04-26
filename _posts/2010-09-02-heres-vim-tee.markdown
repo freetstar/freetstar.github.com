@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-09-02 21:42:41
-    layout: post
-    title: vim tee到了，来几张图 :)
-    wordpress_id: 1222
-    categories:
+author: admin
+comments: true
+date: 2010-09-02 21:42:41
+layout: post
+title: vim tee到了，来几张图 :)
+wordpress_id: 1222
+categories:
 - 生活
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-04-13 23:06:17
-    layout: post
-    title: arch配置文档
-    wordpress_id: 1661
-    categories:
+author: admin
+comments: true
+date: 2011-04-13 23:06:17
+layout: post
+title: arch配置文档
+wordpress_id: 1661
+categories:
 - Opensource
 ---
 

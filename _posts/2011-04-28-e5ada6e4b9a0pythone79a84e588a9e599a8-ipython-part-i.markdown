@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-04-28 12:19:00
-    layout: post
-    title: 学习Python的利器-IPython Part I
-    wordpress_id: 1692
-    categories:
+author: admin
+comments: true
+date: 2011-04-28 12:19:00
+layout: post
+title: 学习Python的利器-IPython Part I
+wordpress_id: 1692
+categories:
 - python
 ---
 

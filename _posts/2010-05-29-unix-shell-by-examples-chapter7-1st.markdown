@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-29 16:26:28
-    layout: post
-    title: unix shell范例精解第七章课后习题《一》
-    wordpress_id: 108
-    categories:
+author: admin
+comments: true
+date: 2010-05-29 16:26:28
+layout: post
+title: unix shell范例精解第七章课后习题《一》
+wordpress_id: 108
+categories:
 - PROGRAM
     tags:
 - unix shell

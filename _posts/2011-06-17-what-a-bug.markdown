@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-06-17 22:35:15
-    layout: post
-    title: WHAT A BUG!一个空格引发的血案
-    wordpress_id: 1742
-    categories:
+author: admin
+comments: true
+date: 2011-06-17 22:35:15
+layout: post
+title: WHAT A BUG!一个空格引发的血案
+wordpress_id: 1742
+categories:
 - 生活
 ---
 

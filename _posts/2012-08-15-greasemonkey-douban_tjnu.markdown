@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2012-08-15 14:35:46
-    layout: post
-    title: 豆瓣图书页面查看天津师范大学图书馆内相应图书信息的Greasemonkey脚本
-    wordpress_id: 1937
-    categories:
+author: admin
+comments: true
+date: 2012-08-15 14:35:46
+layout: post
+title: 豆瓣图书页面查看天津师范大学图书馆内相应图书信息的Greasemonkey脚本
+wordpress_id: 1937
+categories:
 - PROGRAM
 ---
 

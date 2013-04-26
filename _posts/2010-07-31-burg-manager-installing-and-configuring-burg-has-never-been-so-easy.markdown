@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-31 12:10:29
-    layout: post
-    title: Burg-manager:让安装和配置Burg如此简单
-    wordpress_id: 1040
-    categories:
+author: admin
+comments: true
+date: 2010-07-31 12:10:29
+layout: post
+title: Burg-manager:让安装和配置Burg如此简单
+wordpress_id: 1040
+categories:
 - 生活
 ---
 

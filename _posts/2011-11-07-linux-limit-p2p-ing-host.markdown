@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-11-07 19:16:51
-    layout: post
-    title: linux下限制局域网内部使用p2p软件的主机
-    wordpress_id: 1865
-    categories:
+author: admin
+comments: true
+date: 2011-11-07 19:16:51
+layout: post
+title: linux下限制局域网内部使用p2p软件的主机
+wordpress_id: 1865
+categories:
 - 服务器
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-27 21:24:34
-    layout: post
-    title: Ailurus 10.05 is released now
-    wordpress_id: 81
-    categories:
+author: admin
+comments: true
+date: 2010-05-27 21:24:34
+layout: post
+title: Ailurus 10.05 is released now
+wordpress_id: 81
+categories:
 - linux前沿
 ---
 

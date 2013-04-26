@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-12-04 11:26:39
-    layout: post
-    title: 50个最常用的unix/linux命令
-    wordpress_id: 1507
-    categories:
+author: admin
+comments: true
+date: 2010-12-04 11:26:39
+layout: post
+title: 50个最常用的unix/linux命令
+wordpress_id: 1507
+categories:
 - PROGRAM
 ---
 

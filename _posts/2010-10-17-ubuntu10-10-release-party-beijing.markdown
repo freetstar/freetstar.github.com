@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-17 19:45:03
-    layout: post
-    title: Ubuntu10.10 Release Party Beijing记
-    wordpress_id: 1342
-    categories:
+author: admin
+comments: true
+date: 2010-10-17 19:45:03
+layout: post
+title: Ubuntu10.10 Release Party Beijing记
+wordpress_id: 1342
+categories:
 - linux前沿
 ---
 

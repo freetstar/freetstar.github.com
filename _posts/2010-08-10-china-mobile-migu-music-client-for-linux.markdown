@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-10 17:02:43
-    layout: post
-    title: 中国移动咪咕音乐 Linux版发布
-    wordpress_id: 1110
-    categories:
+author: admin
+comments: true
+date: 2010-08-10 17:02:43
+layout: post
+title: 中国移动咪咕音乐 Linux版发布
+wordpress_id: 1110
+categories:
 - 软件安装
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-01 00:52:14
-    layout: post
-    title: 读一初中生日志有感
-    wordpress_id: 220
-    categories:
+author: admin
+comments: true
+date: 2010-06-01 00:52:14
+layout: post
+title: 读一初中生日志有感
+wordpress_id: 220
+categories:
 - 生活
 ---
 

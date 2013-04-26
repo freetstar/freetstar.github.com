@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-18 13:21:09
-    layout: post
-    title: Linux Distribution Chooser 你适合哪个linux发行版
-    wordpress_id: 1152
-    categories:
+author: admin
+comments: true
+date: 2010-08-18 13:21:09
+layout: post
+title: Linux Distribution Chooser 你适合哪个linux发行版
+wordpress_id: 1152
+categories:
 - ubuntu
 - 软件安装
     tags:

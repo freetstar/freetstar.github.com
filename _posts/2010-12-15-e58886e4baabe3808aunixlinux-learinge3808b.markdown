@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-12-15 12:47:15
-    layout: post
-    title: 分享《Unix&Linux大学教程》
-    wordpress_id: 1536
-    categories:
+author: admin
+comments: true
+date: 2010-12-15 12:47:15
+layout: post
+title: 分享《Unix&Linux大学教程》
+wordpress_id: 1536
+categories:
 - Opensource
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-14 13:56:23
-    layout: post
-    title: unix shells by example 3rd edition chapter 8
-    wordpress_id: 609
-    categories:
+author: admin
+comments: true
+date: 2010-06-14 13:56:23
+layout: post
+title: unix shells by example 3rd edition chapter 8
+wordpress_id: 609
+categories:
 - 生活
 ---
 

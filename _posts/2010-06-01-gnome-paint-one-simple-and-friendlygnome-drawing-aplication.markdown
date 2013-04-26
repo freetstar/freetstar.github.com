@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-01 18:27:39
-    layout: post
-    title: gnome-paint - 一个简单易用的GNOME画图程序
-    wordpress_id: 227
-    categories:
+author: admin
+comments: true
+date: 2010-06-01 18:27:39
+layout: post
+title: gnome-paint - 一个简单易用的GNOME画图程序
+wordpress_id: 227
+categories:
 - ubuntu
 ---
 

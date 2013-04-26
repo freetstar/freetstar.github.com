@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-16 16:52:19
-    layout: post
-    title: 小记：Linux下设置ssh免认证登录服务器
-    wordpress_id: 1142
-    categories:
+author: admin
+comments: true
+date: 2010-08-16 16:52:19
+layout: post
+title: 小记：Linux下设置ssh免认证登录服务器
+wordpress_id: 1142
+categories:
 - ubuntu
 - 软件安装
 ---

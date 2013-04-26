@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-29 17:45:21
-    layout: post
-    title: 收集的几张ubuntu和Opensuse Debian 光盘封面
-    wordpress_id: 132
-    categories:
+author: admin
+comments: true
+date: 2010-05-29 17:45:21
+layout: post
+title: 收集的几张ubuntu和Opensuse Debian 光盘封面
+wordpress_id: 132
+categories:
 - ubuntu
     tags:
 - ubuntu 光盘 封面

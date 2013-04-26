@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-09-22 20:08:38
-    layout: post
-    title: 用landslide创建html5 slide
-    wordpress_id: 1794
-    categories:
+author: admin
+comments: true
+date: 2011-09-22 20:08:38
+layout: post
+title: 用landslide创建html5 slide
+wordpress_id: 1794
+categories:
 - Opensource
 ---
 

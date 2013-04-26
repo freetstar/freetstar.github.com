@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-13 07:59:39
-    layout: post
-    title: 我用的几个Twitter客户端
-    wordpress_id: 1337
-    categories:
+author: admin
+comments: true
+date: 2010-10-13 07:59:39
+layout: post
+title: 我用的几个Twitter客户端
+wordpress_id: 1337
+categories:
 - 软件安装
 ---
 

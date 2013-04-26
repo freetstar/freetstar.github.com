@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-11-28 21:00:40
-    layout: post
-    title: ping？不，我们还有更强大的fping
-    wordpress_id: 1499
-    categories:
+author: admin
+comments: true
+date: 2010-11-28 21:00:40
+layout: post
+title: ping？不，我们还有更强大的fping
+wordpress_id: 1499
+categories:
 - 软件安装
 ---
 

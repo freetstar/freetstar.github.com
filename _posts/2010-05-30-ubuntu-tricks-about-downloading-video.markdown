@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-30 02:35:09
-    layout: post
-    title: ubuntu 下载视频小技巧
-    wordpress_id: 171
-    categories:
+author: admin
+comments: true
+date: 2010-05-30 02:35:09
+layout: post
+title: ubuntu 下载视频小技巧
+wordpress_id: 171
+categories:
 - ubuntu
     tags:
 - ubuntu 视频

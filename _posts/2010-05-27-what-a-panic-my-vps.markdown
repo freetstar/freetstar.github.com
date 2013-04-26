@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-27 23:38:24
-    layout: post
-    title: 虚惊一场 我的VPS^ ^
-    wordpress_id: 93
-    categories:
+author: admin
+comments: true
+date: 2010-05-27 23:38:24
+layout: post
+title: 虚惊一场 我的VPS^ ^
+wordpress_id: 93
+categories:
 - 生活
     tags:
 - VPS

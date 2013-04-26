@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-26 06:23:07
-    layout: post
-    title: 天津师范大学linux俱乐部--介绍
-    wordpress_id: 50
-    categories:
+author: admin
+comments: true
+date: 2010-05-26 06:23:07
+layout: post
+title: 天津师范大学linux俱乐部--介绍
+wordpress_id: 50
+categories:
 - 师大linux俱乐部
 ---
 

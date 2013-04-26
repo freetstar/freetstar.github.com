@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-02 23:52:54
-    layout: post
-    title: ubuntu full circle 38期放出
-    wordpress_id: 874
-    categories:
+author: admin
+comments: true
+date: 2010-07-02 23:52:54
+layout: post
+title: ubuntu full circle 38期放出
+wordpress_id: 874
+categories:
 - ubuntu
 - 转载翻译
     tags:

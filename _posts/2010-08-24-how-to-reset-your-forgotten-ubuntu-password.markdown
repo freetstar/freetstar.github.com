@@ -1,10 +1,10 @@
     author: admin
-    comments: true
-    date: 2010-08-24 14:38:01
-    layout: post
-    slug: how-to-reset-your-forgotten-ubuntu-password
-    wordpress_id: 1190
-    categories:
+comments: true
+date: 2010-08-24 14:38:01
+layout: post
+slug: how-to-reset-your-forgotten-ubuntu-password
+wordpress_id: 1190
+categories:
 - 问题解决
 ---
 

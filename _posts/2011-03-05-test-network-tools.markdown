@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-03-05 10:31:50
-    layout: post
-    title: 测试两台server之间的网络情况
-    wordpress_id: 1590
-    categories:
+author: admin
+comments: true
+date: 2011-03-05 10:31:50
+layout: post
+title: 测试两台server之间的网络情况
+wordpress_id: 1590
+categories:
 - 软件安装
 ---
 

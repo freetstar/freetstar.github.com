@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-01-08 17:13:10
-    layout: post
-    title: Redhat4.8配置bond0小记
-    wordpress_id: 1560
-    categories:
+author: admin
+comments: true
+date: 2011-01-08 17:13:10
+layout: post
+title: Redhat4.8配置bond0小记
+wordpress_id: 1560
+categories:
 - 服务器
 ---
 

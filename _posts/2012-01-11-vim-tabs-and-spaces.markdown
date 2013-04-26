@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2012-01-11 14:41:27
-    layout: post
-    title: vim中的tab和space
-    wordpress_id: 1882
-    categories:
+author: admin
+comments: true
+date: 2012-01-11 14:41:27
+layout: post
+title: vim中的tab和space
+wordpress_id: 1882
+categories:
 - PROGRAM
 ---
 

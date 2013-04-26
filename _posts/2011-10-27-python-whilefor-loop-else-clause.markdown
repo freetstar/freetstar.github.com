@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-10-27 17:45:32
-    layout: post
-    title: 小说Python中的while/for循环后的else
-    wordpress_id: 1843
-    categories:
+author: admin
+comments: true
+date: 2011-10-27 17:45:32
+layout: post
+title: 小说Python中的while/for循环后的else
+wordpress_id: 1843
+categories:
 - python
 ---
 

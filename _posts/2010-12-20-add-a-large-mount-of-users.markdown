@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-12-20 11:10:57
-    layout: post
-    title: 给Linux系统添加大量用户的方法
-    wordpress_id: 1540
-    categories:
+author: admin
+comments: true
+date: 2010-12-20 11:10:57
+layout: post
+title: 给Linux系统添加大量用户的方法
+wordpress_id: 1540
+categories:
 - PROGRAM
 ---
 

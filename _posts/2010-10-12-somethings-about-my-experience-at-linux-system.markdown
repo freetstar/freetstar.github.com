@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-12 14:48:09
-    layout: post
-    title: 写在ubuntu10.10发行时-------1年多了，谈谈自己接触和学习Linux的经历
-    wordpress_id: 1328
-    categories:
+author: admin
+comments: true
+date: 2010-10-12 14:48:09
+layout: post
+title: 写在ubuntu10.10发行时-------1年多了，谈谈自己接触和学习Linux的经历
+wordpress_id: 1328
+categories:
 - 生活
 ---
 

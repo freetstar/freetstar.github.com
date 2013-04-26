@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-09-08 11:38:43
-    layout: post
-    title: Jabber客户端Gajim0.14发布-支持音频和视频，地理位置定义等等
-    wordpress_id: 1235
-    categories:
+author: admin
+comments: true
+date: 2010-09-08 11:38:43
+layout: post
+title: Jabber客户端Gajim0.14发布-支持音频和视频，地理位置定义等等
+wordpress_id: 1235
+categories:
 - 软件安装
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-03 20:13:57
-    layout: post
-    title: linux下一款优秀的shell
-    wordpress_id: 245
-    categories:
+author: admin
+comments: true
+date: 2010-06-03 20:13:57
+layout: post
+title: linux下一款优秀的shell
+wordpress_id: 245
+categories:
 - PROGRAM
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-15 22:15:05
-    layout: post
-    title: 清北计划—全国同步免费派发Ubuntu 10.04光盘---天津地区
-    wordpress_id: 647
-    categories:
+author: admin
+comments: true
+date: 2010-06-15 22:15:05
+layout: post
+title: 清北计划—全国同步免费派发Ubuntu 10.04光盘---天津地区
+wordpress_id: 647
+categories:
 - 生活
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-07-25 16:50:44
-    layout: post
-    title: 学习Zsh的资料和文档
-    wordpress_id: 1761
-    categories:
+author: admin
+comments: true
+date: 2011-07-25 16:50:44
+layout: post
+title: 学习Zsh的资料和文档
+wordpress_id: 1761
+categories:
 - PROGRAM
 ---
 

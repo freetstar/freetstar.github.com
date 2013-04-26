@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-01-18 20:14:58
-    layout: post
-    title: Awk 小玩
-    wordpress_id: 1563
-    categories:
+author: admin
+comments: true
+date: 2011-01-18 20:14:58
+layout: post
+title: Awk 小玩
+wordpress_id: 1563
+categories:
 - PROGRAM
 ---
 

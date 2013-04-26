@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-20 21:02:02
-    layout: post
-    title: Base64 介绍+加密算法
-    wordpress_id: 715
-    categories:
+author: admin
+comments: true
+date: 2010-06-20 21:02:02
+layout: post
+title: Base64 介绍+加密算法
+wordpress_id: 715
+categories:
 - PROGRAM
 ---
 

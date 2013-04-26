@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-27 01:14:20
-    layout: post
-    title: ' unix shell范例精解第五章课后习题'
-    wordpress_id: 69
-    categories:
+author: admin
+comments: true
+date: 2010-05-27 01:14:20
+layout: post
+title: ' unix shell范例精解第五章课后习题'
+wordpress_id: 69
+categories:
 - PROGRAM
 ---
 

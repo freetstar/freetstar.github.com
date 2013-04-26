@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-11-07 20:41:01
-    layout: post
-    title: ubuntu下最好用的输入法fcitx-sunpinyin
-    wordpress_id: 1427
-    categories:
+author: admin
+comments: true
+date: 2010-11-07 20:41:01
+layout: post
+title: ubuntu下最好用的输入法fcitx-sunpinyin
+wordpress_id: 1427
+categories:
 - 软件安装
 ---
 

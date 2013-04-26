@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-11-04 14:14:48
-    layout: post
-    title: linux 下的nc使用
-    wordpress_id: 1413
-    categories:
+author: admin
+comments: true
+date: 2010-11-04 14:14:48
+layout: post
+title: linux 下的nc使用
+wordpress_id: 1413
+categories:
 - PROGRAM
 ---
 

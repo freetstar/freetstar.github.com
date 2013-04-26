@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-09 18:45:59
-    layout: post
-    title: ubuntu 下文件夹巧用
-    wordpress_id: 414
-    categories:
+author: admin
+comments: true
+date: 2010-06-09 18:45:59
+layout: post
+title: ubuntu 下文件夹巧用
+wordpress_id: 414
+categories:
 - 生活
 ---
 

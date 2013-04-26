@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-02-11 19:52:37
-    layout: post
-    title: 我也来个a-z体
-    wordpress_id: 1598
-    categories:
+author: admin
+comments: true
+date: 2011-02-11 19:52:37
+layout: post
+title: 我也来个a-z体
+wordpress_id: 1598
+categories:
 - linux前沿
 - 生活
 ---

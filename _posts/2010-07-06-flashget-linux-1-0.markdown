@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-06 22:43:43
-    layout: post
-    title: 快车(Flashget) for Linux 1.0版(2010.7.06)发布!
-    wordpress_id: 924
-    categories:
+author: admin
+comments: true
+date: 2010-07-06 22:43:43
+layout: post
+title: 快车(Flashget) for Linux 1.0版(2010.7.06)发布!
+wordpress_id: 924
+categories:
 - ubuntu
 - 软件安装
 ---

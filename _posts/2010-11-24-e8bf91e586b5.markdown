@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-11-24 23:44:20
-    layout: post
-    title: 近况
-    wordpress_id: 1495
-    categories:
+author: admin
+comments: true
+date: 2010-11-24 23:44:20
+layout: post
+title: 近况
+wordpress_id: 1495
+categories:
 - 服务器
 ---
 

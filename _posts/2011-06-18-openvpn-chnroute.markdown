@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-06-18 22:47:14
-    layout: post
-    title: Linux下OpenVPN+chnroute聪明访问WEB
-    wordpress_id: 1747
-    categories:
+author: admin
+comments: true
+date: 2011-06-18 22:47:14
+layout: post
+title: Linux下OpenVPN+chnroute聪明访问WEB
+wordpress_id: 1747
+categories:
 - 服务器
 ---
 

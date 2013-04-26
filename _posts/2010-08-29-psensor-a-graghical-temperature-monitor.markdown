@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-29 09:51:49
-    layout: post
-    title: psensor  一款图形化的温度显示器
-    wordpress_id: 1198
-    categories:
+author: admin
+comments: true
+date: 2010-08-29 09:51:49
+layout: post
+title: psensor  一款图形化的温度显示器
+wordpress_id: 1198
+categories:
 - 软件安装
 ---
 

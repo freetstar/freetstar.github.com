@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-03-09 20:50:09
-    layout: post
-    title: 在centos5.5上配置nagios详细步骤
-    wordpress_id: 1627
-    categories:
+author: admin
+comments: true
+date: 2011-03-09 20:50:09
+layout: post
+title: 在centos5.5上配置nagios详细步骤
+wordpress_id: 1627
+categories:
 - 服务器
 ---
 

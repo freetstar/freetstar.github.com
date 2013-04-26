@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-09-23 13:11:56
-    layout: post
-    title: Ubuntu 创始人 Mark Shuttleworth 在世界自由软件日给中国开源爱好者的视频发言
-    wordpress_id: 1301
-    categories:
+author: admin
+comments: true
+date: 2010-09-23 13:11:56
+layout: post
+title: Ubuntu 创始人 Mark Shuttleworth 在世界自由软件日给中国开源爱好者的视频发言
+wordpress_id: 1301
+categories:
 - linux前沿
 ---
 

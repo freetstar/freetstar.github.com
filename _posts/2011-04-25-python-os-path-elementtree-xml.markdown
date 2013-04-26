@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-04-25 18:46:52
-    layout: post
-    title: python学习之os.path模块&&elementtree处理xml文件
-    wordpress_id: 1679
-    categories:
+author: admin
+comments: true
+date: 2011-04-25 18:46:52
+layout: post
+title: python学习之os.path模块&&elementtree处理xml文件
+wordpress_id: 1679
+categories:
 - PROGRAM
 ---
 

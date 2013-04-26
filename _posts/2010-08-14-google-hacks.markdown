@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-14 15:59:40
-    layout: post
-    title: Google Hacks :)
-    wordpress_id: 1128
-    categories:
+author: admin
+comments: true
+date: 2010-08-14 15:59:40
+layout: post
+title: Google Hacks :)
+wordpress_id: 1128
+categories:
 - linux前沿
 ---
 

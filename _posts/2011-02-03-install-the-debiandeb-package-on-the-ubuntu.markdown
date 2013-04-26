@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-02-03 21:20:07
-    layout: post
-    title: 误将debian的deb包在ubuntu安装之后的解决办法
-    wordpress_id: 1595
-    categories:
+author: admin
+comments: true
+date: 2011-02-03 21:20:07
+layout: post
+title: 误将debian的deb包在ubuntu安装之后的解决办法
+wordpress_id: 1595
+categories:
 - 问题解决
 ---
 

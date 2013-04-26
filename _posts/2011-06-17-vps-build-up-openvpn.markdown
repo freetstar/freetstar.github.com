@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-06-17 01:05:47
-    layout: post
-    title: VPS搭建OpenVPN教程
-    wordpress_id: 1733
-    categories:
+author: admin
+comments: true
+date: 2011-06-17 01:05:47
+layout: post
+title: VPS搭建OpenVPN教程
+wordpress_id: 1733
+categories:
 - 服务器
 ---
 

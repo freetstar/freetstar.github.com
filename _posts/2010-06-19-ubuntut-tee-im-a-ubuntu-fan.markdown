@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-19 13:38:36
-    layout: post
-    title: 秀下ubuntuT恤----I'm a ubuntu fan
-    wordpress_id: 703
-    categories:
+author: admin
+comments: true
+date: 2010-06-19 13:38:36
+layout: post
+title: 秀下ubuntuT恤----I'm a ubuntu fan
+wordpress_id: 703
+categories:
 - 生活
 ---
 

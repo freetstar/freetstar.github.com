@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-22 20:45:01
-    layout: post
-    title: Dropbox在ubuntu下的安装和使用实战
-    wordpress_id: 1351
-    categories:
+author: admin
+comments: true
+date: 2010-10-22 20:45:01
+layout: post
+title: Dropbox在ubuntu下的安装和使用实战
+wordpress_id: 1351
+categories:
 - 软件安装
 ---
 

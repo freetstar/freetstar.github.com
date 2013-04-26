@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-09-25 00:31:54
-    layout: post
-    title: '[转载]Hotot：Linux 下最新潮的 Twitter 客户端'
-    wordpress_id: 1304
-    categories:
+author: admin
+comments: true
+date: 2010-09-25 00:31:54
+layout: post
+title: '[转载]Hotot：Linux 下最新潮的 Twitter 客户端'
+wordpress_id: 1304
+categories:
 - 软件安装
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-03 21:25:13
-    layout: post
-    title: Ubuntu 10.04/9.10的Grub2启动背景图片
-    wordpress_id: 249
-    categories:
+author: admin
+comments: true
+date: 2010-06-03 21:25:13
+layout: post
+title: Ubuntu 10.04/9.10的Grub2启动背景图片
+wordpress_id: 249
+categories:
 - ubuntu
 ---
 

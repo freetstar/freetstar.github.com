@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-24 16:52:40
-    layout: post
-    title: 加利福尼亚的Ubuntu餐馆
-    wordpress_id: 1358
-    categories:
+author: admin
+comments: true
+date: 2010-10-24 16:52:40
+layout: post
+title: 加利福尼亚的Ubuntu餐馆
+wordpress_id: 1358
+categories:
 - 生活
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-12 17:59:42
-    layout: post
-    title: 欢迎使用手机访问本博客 www.freetstar.com/wap
-    wordpress_id: 1102
-    categories:
+author: admin
+comments: true
+date: 2010-08-12 17:59:42
+layout: post
+title: 欢迎使用手机访问本博客 www.freetstar.com/wap
+wordpress_id: 1102
+categories:
 - WP使用
 ---
 

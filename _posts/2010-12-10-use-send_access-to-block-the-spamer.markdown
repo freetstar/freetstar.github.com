@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-12-10 13:34:52
-    layout: post
-    title: 小记：给postfix设置黑名单
-    wordpress_id: 1530
-    categories:
+author: admin
+comments: true
+date: 2010-12-10 13:34:52
+layout: post
+title: 小记：给postfix设置黑名单
+wordpress_id: 1530
+categories:
 - 服务器
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-28 18:06:08
-    layout: post
-    title: ' Ubuntu10.04    Robocup2D平台比赛安装'
-    wordpress_id: 114
-    categories:
+author: admin
+comments: true
+date: 2010-05-28 18:06:08
+layout: post
+title: ' Ubuntu10.04    Robocup2D平台比赛安装'
+wordpress_id: 114
+categories:
 - ubuntu
     tags:
 - ubuntu Robocup 2D 配置

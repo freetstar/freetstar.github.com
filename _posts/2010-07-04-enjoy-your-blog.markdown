@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-04 23:00:11
-    layout: post
-    title: Enjoy Your Blog
-    wordpress_id: 905
-    categories:
+author: admin
+comments: true
+date: 2010-07-04 23:00:11
+layout: post
+title: Enjoy Your Blog
+wordpress_id: 905
+categories:
 - 生活
 ---
 

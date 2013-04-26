@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-30 02:55:28
-    layout: post
-    title: Ailurus 10.05 安装扩展的命令修正
-    wordpress_id: 174
-    categories:
+author: admin
+comments: true
+date: 2010-05-30 02:55:28
+layout: post
+title: Ailurus 10.05 安装扩展的命令修正
+wordpress_id: 174
+categories:
 - linux前沿
     tags:
 - 小熊猫

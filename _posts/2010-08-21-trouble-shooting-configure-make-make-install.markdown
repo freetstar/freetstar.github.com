@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-21 15:23:21
-    layout: post
-    title: 解决./configure ，make，make install的报错
-    wordpress_id: 1180
-    categories:
+author: admin
+comments: true
+date: 2010-08-21 15:23:21
+layout: post
+title: 解决./configure ，make，make install的报错
+wordpress_id: 1180
+categories:
 - 问题解决
 ---
 

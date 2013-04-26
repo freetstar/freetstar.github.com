@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-28 22:48:46
-    layout: post
-    title: ubuntu10.10下安装googleearth
-    wordpress_id: 1376
-    categories:
+author: admin
+comments: true
+date: 2010-10-28 22:48:46
+layout: post
+title: ubuntu10.10下安装googleearth
+wordpress_id: 1376
+categories:
 - 转载翻译
 ---
 

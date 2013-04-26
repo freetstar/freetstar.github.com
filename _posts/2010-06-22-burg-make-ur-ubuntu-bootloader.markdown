@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-22 19:46:53
-    layout: post
-    title: 用burg来美化你的ubuntu开机菜单
-    wordpress_id: 762
-    categories:
+author: admin
+comments: true
+date: 2010-06-22 19:46:53
+layout: post
+title: 用burg来美化你的ubuntu开机菜单
+wordpress_id: 762
+categories:
 - 转载翻译
     tags:
 - burg

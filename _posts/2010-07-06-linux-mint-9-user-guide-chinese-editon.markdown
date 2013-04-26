@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-07-06 09:05:09
-    layout: post
-    title: Linux Mint 9.0用户手册中文版发布
-    wordpress_id: 914
-    categories:
+author: admin
+comments: true
+date: 2010-07-06 09:05:09
+layout: post
+title: Linux Mint 9.0用户手册中文版发布
+wordpress_id: 914
+categories:
 - ubuntu
 - 转载翻译
 ---

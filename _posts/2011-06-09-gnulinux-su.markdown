@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-06-09 14:11:39
-    layout: post
-    title: GNU/Linux中的su
-    wordpress_id: 1724
-    categories:
+author: admin
+comments: true
+date: 2011-06-09 14:11:39
+layout: post
+title: GNU/Linux中的su
+wordpress_id: 1724
+categories:
 - linux前沿
 ---
 

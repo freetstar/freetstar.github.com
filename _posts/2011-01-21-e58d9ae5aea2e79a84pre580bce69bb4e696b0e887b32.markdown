@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-01-21 16:27:25
-    layout: post
-    title: 博客的PR值更新至2
-    wordpress_id: 1566
-    categories:
+author: admin
+comments: true
+date: 2011-01-21 16:27:25
+layout: post
+title: 博客的PR值更新至2
+wordpress_id: 1566
+categories:
 - 生活
 ---
 

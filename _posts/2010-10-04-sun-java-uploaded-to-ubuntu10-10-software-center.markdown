@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-10-04 21:46:47
-    layout: post
-    title: Sun java最终进入Ubuntu10.10软件中心
-    wordpress_id: 1312
-    categories:
+author: admin
+comments: true
+date: 2010-10-04 21:46:47
+layout: post
+title: Sun java最终进入Ubuntu10.10软件中心
+wordpress_id: 1312
+categories:
 - 软件安装
 ---
 

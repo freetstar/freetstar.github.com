@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-08-15 14:17:41
-    layout: post
-    title: '制作你的Ubuntu ID Card '
-    wordpress_id: 1136
-    categories:
+author: admin
+comments: true
+date: 2010-08-15 14:17:41
+layout: post
+title: '制作你的Ubuntu ID Card '
+wordpress_id: 1136
+categories:
 - 生活
 ---
 

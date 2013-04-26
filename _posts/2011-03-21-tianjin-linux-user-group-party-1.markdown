@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-03-21 10:14:46
-    layout: post
-    title: TJLUG第一次线下聚会小记
-    wordpress_id: 1641
-    categories:
+author: admin
+comments: true
+date: 2011-03-21 10:14:46
+layout: post
+title: TJLUG第一次线下聚会小记
+wordpress_id: 1641
+categories:
 - 生活
 ---
 

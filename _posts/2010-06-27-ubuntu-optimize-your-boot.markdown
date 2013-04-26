@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-06-27 00:37:15
-    layout: post
-    title: ubuntu 开机启动优化
-    wordpress_id: 811
-    categories:
+author: admin
+comments: true
+date: 2010-06-27 00:37:15
+layout: post
+title: ubuntu 开机启动优化
+wordpress_id: 811
+categories:
 - ubuntu
 - 软件安装
 ---

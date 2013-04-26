@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2012-04-17 21:49:05
-    layout: post
-    title: linux toolchain总结学习
-    wordpress_id: 1892
-    categories:
+author: admin
+comments: true
+date: 2012-04-17 21:49:05
+layout: post
+title: linux toolchain总结学习
+wordpress_id: 1892
+categories:
 - PROGRAM
 ---
 

@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-05-25 19:40:57
-    layout: post
-    title: ubuntu图片工略 之 日常使用
-    wordpress_id: 26
-    categories:
+author: admin
+comments: true
+date: 2010-05-25 19:40:57
+layout: post
+title: ubuntu图片工略 之 日常使用
+wordpress_id: 26
+categories:
 - ubuntu
 ---
 

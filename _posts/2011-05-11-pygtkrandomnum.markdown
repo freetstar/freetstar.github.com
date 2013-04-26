@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2011-05-11 17:57:12
-    layout: post
-    title: 用PyGTK实现的一个抽奖小程序
-    wordpress_id: 1705
-    categories:
+author: admin
+comments: true
+date: 2011-05-11 17:57:12
+layout: post
+title: 用PyGTK实现的一个抽奖小程序
+wordpress_id: 1705
+categories:
 - PROGRAM
 ---
 

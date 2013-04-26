@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-11-14 20:29:59
-    layout: post
-    title: 老男孩儿，永远的老男孩儿
-    wordpress_id: 1440
-    categories:
+author: admin
+comments: true
+date: 2010-11-14 20:29:59
+layout: post
+title: 老男孩儿，永远的老男孩儿
+wordpress_id: 1440
+categories:
 - 生活
 ---
 

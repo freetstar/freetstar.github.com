@@ -1,11 +1,11 @@
 ---
-    author: admin
-    comments: true
-    date: 2010-09-06 13:24:08
-    layout: post
-    title: 用复古广告图展现现代科技
-    wordpress_id: 1232
-    categories:
+author: admin
+comments: true
+date: 2010-09-06 13:24:08
+layout: post
+title: 用复古广告图展现现代科技
+wordpress_id: 1232
+categories:
 - 生活
 ---
 

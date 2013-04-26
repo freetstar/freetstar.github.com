@@ -3,7 +3,6 @@
     comments: true
     date: 2010-12-10 13:34:52
     layout: post
-    slug: use-send_access-to-block-the-spamer
     title: 小记：给postfix设置黑名单
     wordpress_id: 1530
     categories:

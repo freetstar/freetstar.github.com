@@ -3,7 +3,6 @@
     comments: true
     date: 2010-10-02 15:56:02
     layout: post
-    slug: configure-grub2
     title: 双linux系统折腾Grub记
     wordpress_id: 1307
     categories:

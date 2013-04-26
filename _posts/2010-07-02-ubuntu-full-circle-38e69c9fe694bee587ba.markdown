@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-02 23:52:54
     layout: post
-    slug: ubuntu-full-circle-38%e6%9c%9f%e6%94%be%e5%87%ba
     title: ubuntu full circle 38期放出
     wordpress_id: 874
     categories:

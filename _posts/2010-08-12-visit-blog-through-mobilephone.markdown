@@ -3,7 +3,6 @@
     comments: true
     date: 2010-08-12 17:59:42
     layout: post
-    slug: visit-blog-through-mobilephone
     title: 欢迎使用手机访问本博客 www.freetstar.com/wap
     wordpress_id: 1102
     categories:

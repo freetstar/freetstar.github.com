@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-12 14:53:54
     layout: post
-    slug: how-to-install-apple-fonts-in-linux
     title: linux 中安装Mac OSX的字体
     wordpress_id: 570
     categories:

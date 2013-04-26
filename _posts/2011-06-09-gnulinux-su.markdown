@@ -3,7 +3,6 @@
     comments: true
     date: 2011-06-09 14:11:39
     layout: post
-    slug: gnulinux-su
     title: GNU/Linux中的su
     wordpress_id: 1724
     categories:

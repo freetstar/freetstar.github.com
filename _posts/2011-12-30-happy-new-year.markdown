@@ -3,7 +3,6 @@
     comments: true
     date: 2011-12-30 20:21:44
     layout: post
-    slug: happy-new-year
     title: 新年的转角
     wordpress_id: 1877
     categories:

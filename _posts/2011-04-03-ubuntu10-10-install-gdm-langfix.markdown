@@ -3,7 +3,6 @@
     comments: true
     date: 2011-04-03 14:14:36
     layout: post
-    slug: ubuntu10-10-install-gdm-langfix
     title: ubuntu10.10更新后local报错
     wordpress_id: 1658
     categories:

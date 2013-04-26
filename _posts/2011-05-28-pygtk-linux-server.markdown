@@ -3,7 +3,6 @@
     comments: true
     date: 2011-05-28 23:22:47
     layout: post
-    slug: pygtk-linux-server
     title: PyGTK做的Linux Server管理毕业设计
     wordpress_id: 1718
     categories:

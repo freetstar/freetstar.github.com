@@ -3,7 +3,6 @@
     comments: true
     date: 2010-10-20 19:28:28
     layout: post
-    slug: ubuntu10-04-upgrade-to-ubuntu10-10-resolving-problems
     title: ubuntu10.04升级至ubuntu10.10后解决的几个问题
     wordpress_id: 1349
     categories:

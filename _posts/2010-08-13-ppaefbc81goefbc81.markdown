@@ -3,7 +3,6 @@
     comments: true
     date: 2010-08-13 18:03:59
     layout: post
-    slug: ppa%ef%bc%81go%ef%bc%81
     title: 寻找PPA
     wordpress_id: 1117
     categories:

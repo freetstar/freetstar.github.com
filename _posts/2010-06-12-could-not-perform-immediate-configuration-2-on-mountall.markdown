@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-12 17:40:36
     layout: post
-    slug: could-not-perform-immediate-configuration-2-on-mountall
     title: Could not perform immediate configuration (2) on mountall 错误探究
     wordpress_id: 591
     categories:

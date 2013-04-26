@@ -3,7 +3,6 @@
     comments: true
     date: 2010-09-22 08:26:17
     layout: post
-    slug: john-and-ripper-test-your-systems-codes-security-level
     title: John the Ripper ---检测系统密码的安全性
     wordpress_id: 1294
     categories:

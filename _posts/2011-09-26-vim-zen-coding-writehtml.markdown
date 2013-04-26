@@ -3,7 +3,6 @@
     comments: true
     date: 2011-09-26 19:44:44
     layout: post
-    slug: vim-zen-coding-writehtml
     title: vim中用Zen Coding编写HTML
     wordpress_id: 1800
     categories:

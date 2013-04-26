@@ -3,7 +3,6 @@
     comments: true
     date: 2010-08-19 16:45:44
     layout: post
-    slug: top-10-best-cheat-sheets-and-tutorials-for-linux-unix-commands
     title: 10佳Linux/Unix命令行手册和教程
     wordpress_id: 1164
     categories:

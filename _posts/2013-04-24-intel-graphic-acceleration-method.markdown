@@ -3,7 +3,6 @@
     comments: true
     date: 2013-04-24 13:55:31
     layout: post
-    title: archlinux 更新intel集显模式
 
 ---
 

@@ -3,7 +3,6 @@
     comments: true
     date: 2011-05-22 16:45:48
     layout: post
-    slug: windows7-pygtk-gtk
     title: Windows7 64位下搭建PyGTK开发环境
     wordpress_id: 1715
     categories:

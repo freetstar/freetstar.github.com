@@ -3,7 +3,6 @@
     comments: true
     date: 2011-11-07 19:16:51
     layout: post
-    slug: linux-limit-p2p-ing-host
     title: linux下限制局域网内部使用p2p软件的主机
     wordpress_id: 1865
     categories:

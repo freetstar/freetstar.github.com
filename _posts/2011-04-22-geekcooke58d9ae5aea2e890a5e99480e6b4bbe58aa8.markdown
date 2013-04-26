@@ -3,7 +3,6 @@
     comments: true
     date: 2011-04-22 12:39:36
     layout: post
-    slug: geekcook%e5%8d%9a%e5%ae%a2%e8%90%a5%e9%94%80%e6%b4%bb%e5%8a%a8
     title: Geekcook博客营销活动
     wordpress_id: 1677
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-03 21:25:13
     layout: post
-    slug: ubuntu-10-04-9-10grub2-splash-picure
     title: Ubuntu 10.04/9.10的Grub2启动背景图片
     wordpress_id: 249
     categories:

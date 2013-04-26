@@ -3,7 +3,6 @@
     comments: true
     date: 2010-11-04 14:14:48
     layout: post
-    slug: use-nc-in-the-linux
     title: linux 下的nc使用
     wordpress_id: 1413
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-27 21:24:34
     layout: post
-    slug: ailurus-10-05-is-released-now
     title: Ailurus 10.05 is released now
     wordpress_id: 81
     categories:

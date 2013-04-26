@@ -3,7 +3,6 @@
     comments: true
     date: 2010-11-07 20:41:01
     layout: post
-    slug: ubuntu-most-use-friendly-fcitx-sunpinyin
     title: ubuntu下最好用的输入法fcitx-sunpinyin
     wordpress_id: 1427
     categories:

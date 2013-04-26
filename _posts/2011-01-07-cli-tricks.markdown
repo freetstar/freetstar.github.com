@@ -3,7 +3,6 @@
     comments: true
     date: 2011-01-07 22:42:34
     layout: post
-    slug: cli-tricks
     title: 一些积累的CLI Tricks
     wordpress_id: 1558
     categories:

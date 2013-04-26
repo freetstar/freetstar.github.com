@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-26 06:23:07
     layout: post
-    slug: introduction-tjnu-linux-club
     title: 天津师范大学linux俱乐部--介绍
     wordpress_id: 50
     categories:

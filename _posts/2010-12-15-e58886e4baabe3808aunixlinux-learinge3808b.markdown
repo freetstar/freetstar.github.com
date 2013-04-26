@@ -3,7 +3,6 @@
     comments: true
     date: 2010-12-15 12:47:15
     layout: post
-    slug: '%e5%88%86%e4%ba%ab%e3%80%8aunixlinux-learing%e3%80%8b'
     title: 分享《Unix&Linux大学教程》
     wordpress_id: 1536
     categories:

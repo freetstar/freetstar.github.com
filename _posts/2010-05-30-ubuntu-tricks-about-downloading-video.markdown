@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-30 02:35:09
     layout: post
-    slug: ubuntu-tricks-about-downloading-video
     title: ubuntu 下载视频小技巧
     wordpress_id: 171
     categories:

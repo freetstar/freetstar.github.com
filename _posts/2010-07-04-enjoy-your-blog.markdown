@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-04 23:00:11
     layout: post
-    slug: enjoy-your-blog
     title: Enjoy Your Blog
     wordpress_id: 905
     categories:

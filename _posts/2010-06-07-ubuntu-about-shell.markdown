@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-07 23:25:53
     layout: post
-    slug: ubuntu-about-shell
     title: ubuntu 关于shell的那些事
     wordpress_id: 300
     categories:

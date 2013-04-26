@@ -3,7 +3,6 @@
     comments: true
     date: 2011-06-17 01:05:47
     layout: post
-    slug: vps-build-up-openvpn
     title: VPS搭建OpenVPN教程
     wordpress_id: 1733
     categories:

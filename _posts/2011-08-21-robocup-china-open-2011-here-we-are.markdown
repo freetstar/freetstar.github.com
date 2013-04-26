@@ -3,7 +3,6 @@
     comments: true
     date: 2011-08-21 19:04:52
     layout: post
-    slug: robocup-china-open-2011-here-we-are
     title: Robocup China Open 2011我们来了
     wordpress_id: 1775
     categories:

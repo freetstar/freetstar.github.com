@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-28 18:06:08
     layout: post
-    slug: ubuntu10-04-robocup2d-platform
     title: ' Ubuntu10.04    Robocup2D平台比赛安装'
     wordpress_id: 114
     categories:

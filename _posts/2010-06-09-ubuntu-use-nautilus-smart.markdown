@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-09 18:45:59
     layout: post
-    slug: ubuntu-use-nautilus-smart
     title: ubuntu 下文件夹巧用
     wordpress_id: 414
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-08-29 11:45:59
     layout: post
-    slug: fuck-tj-unicom
     title: 本人对天津师范大学内的联通公司几点置疑
     wordpress_id: 1206
     categories:

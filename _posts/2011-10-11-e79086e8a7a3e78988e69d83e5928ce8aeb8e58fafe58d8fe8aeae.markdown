@@ -3,7 +3,6 @@
     comments: true
     date: 2011-10-11 11:50:20
     layout: post
-    slug: '%e7%90%86%e8%a7%a3%e7%89%88%e6%9d%83%e5%92%8c%e8%ae%b8%e5%8f%af%e5%8d%8f%e8%ae%ae'
     title: 理解版权和许可协议
     wordpress_id: 1829
     categories:

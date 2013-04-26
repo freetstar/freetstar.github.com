@@ -3,7 +3,6 @@
     comments: true
     date: 2011-06-06 23:11:01
     layout: post
-    slug: vps%e4%b9%8b%e9%97%b4%e5%bf%ab%e9%80%9f%e9%83%a8%e7%bd%b2wordpress%e5%8d%9a%e5%ae%a2
     title: vps之间快速部署Wordpress博客
     wordpress_id: 1722
     categories:

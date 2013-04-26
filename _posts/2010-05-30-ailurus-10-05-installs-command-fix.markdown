@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-30 02:55:28
     layout: post
-    slug: ailurus-10-05-installs-command-fix
     title: Ailurus 10.05 安装扩展的命令修正
     wordpress_id: 174
     categories:

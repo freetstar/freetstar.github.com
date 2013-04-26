@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-01 18:27:39
     layout: post
-    slug: gnome-paint-one-simple-and-friendlygnome-drawing-aplication
     title: gnome-paint - 一个简单易用的GNOME画图程序
     wordpress_id: 227
     categories:

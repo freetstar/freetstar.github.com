@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-28 17:52:11
     layout: post
-    slug: ubuntu-9-10-simulation-platform
     title: ubuntu 9.10 Robocup仿真组比赛环境安装配置
     wordpress_id: 111
     categories:

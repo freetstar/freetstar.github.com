@@ -3,7 +3,6 @@
     comments: true
     date: 2010-12-04 11:26:39
     layout: post
-    slug: 50-top-frequently-used-unixlinux-commands-1
     title: 50个最常用的unix/linux命令
     wordpress_id: 1507
     categories:

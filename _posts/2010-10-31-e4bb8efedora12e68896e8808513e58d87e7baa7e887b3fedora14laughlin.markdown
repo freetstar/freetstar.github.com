@@ -3,7 +3,6 @@
     comments: true
     date: 2010-10-31 21:53:38
     layout: post
-    slug: '%e4%bb%8efedora12%e6%88%96%e8%80%8513%e5%8d%87%e7%ba%a7%e8%87%b3fedora14laughlin'
     title: 从Fedora12或者13升级至fedora14"Laughlin"
     wordpress_id: 1405
     categories:

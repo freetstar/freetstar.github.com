@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-10 18:32:31
     layout: post
-    slug: football-worldcup-is-around-corner
     title: 世界杯要来了!!!
     wordpress_id: 506
     categories:

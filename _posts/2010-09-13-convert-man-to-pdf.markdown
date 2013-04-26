@@ -3,7 +3,6 @@
     comments: true
     date: 2010-09-13 21:13:29
     layout: post
-    slug: convert-man-to-pdf
     title: 将man手册转成pdf文件
     wordpress_id: 1268
     categories:

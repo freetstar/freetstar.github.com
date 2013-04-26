@@ -3,7 +3,6 @@
     comments: true
     date: 2011-09-22 20:08:38
     layout: post
-    slug: landslide-make-html5-slide
     title: 用landslide创建html5 slide
     wordpress_id: 1794
     categories:

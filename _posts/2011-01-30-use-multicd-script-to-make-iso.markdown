@@ -3,7 +3,6 @@
     comments: true
     date: 2011-01-30 15:28:55
     layout: post
-    slug: use-multicd-script-to-make-iso
     title: 用MultiCD和UNetbootin制作支持多Linux发行版启动的u盘
     wordpress_id: 1579
     categories:

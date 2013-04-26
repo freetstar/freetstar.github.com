@@ -3,7 +3,6 @@
     comments: true
     date: 2011-07-16 18:52:40
     layout: post
-    slug: ubuntu-eclipse-cdt
     title: ubuntu下用Eclipse搭建C++开发环境
     wordpress_id: 1758
     categories:

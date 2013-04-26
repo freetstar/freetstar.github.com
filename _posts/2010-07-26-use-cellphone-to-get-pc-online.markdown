@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-26 10:32:31
     layout: post
-    slug: use-cellphone-to-get-pc-online
     title: 小记：ubuntu下用手机做猫上网
     wordpress_id: 1028
     categories:

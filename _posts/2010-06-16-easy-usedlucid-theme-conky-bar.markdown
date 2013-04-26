@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-16 21:10:24
     layout: post
-    slug: easy-usedlucid-theme-conky-bar
     title: 简单易用的lucid 主题conky栏
     wordpress_id: 653
     categories:

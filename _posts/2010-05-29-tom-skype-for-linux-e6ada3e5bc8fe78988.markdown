@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-29 00:43:19
     layout: post
-    slug: tom-skype-for-linux-%e6%ad%a3%e5%bc%8f%e7%89%88
     title: Tom-Skype for linux 正式版
     wordpress_id: 121
     categories:

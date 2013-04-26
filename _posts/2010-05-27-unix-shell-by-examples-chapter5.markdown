@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-27 01:14:20
     layout: post
-    slug: unix-shell-by-examples-chapter5
     title: ' unix shell范例精解第五章课后习题'
     wordpress_id: 69
     categories:

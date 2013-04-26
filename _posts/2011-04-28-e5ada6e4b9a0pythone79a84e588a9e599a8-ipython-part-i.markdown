@@ -3,7 +3,6 @@
     comments: true
     date: 2011-04-28 12:19:00
     layout: post
-    slug: '%e5%ad%a6%e4%b9%a0python%e7%9a%84%e5%88%a9%e5%99%a8-ipython-part-i'
     title: 学习Python的利器-IPython Part I
     wordpress_id: 1692
     categories:

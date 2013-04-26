@@ -3,7 +3,6 @@
     comments: true
     date: 2010-08-14 15:59:40
     layout: post
-    slug: google-hacks
     title: Google Hacks :)
     wordpress_id: 1128
     categories:

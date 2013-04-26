@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-01 19:35:07
     layout: post
-    slug: unix-shells-by-example-chapter-7-3rd
     title: unix shell范例精解第七章课后习题《三》
     wordpress_id: 229
     categories:

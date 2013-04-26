@@ -3,7 +3,6 @@
     comments: true
     date: 2011-02-03 21:20:07
     layout: post
-    slug: install-the-debiandeb-package-on-the-ubuntu
     title: 误将debian的deb包在ubuntu安装之后的解决办法
     wordpress_id: 1595
     categories:

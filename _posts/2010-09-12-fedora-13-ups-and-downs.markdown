@@ -3,7 +3,6 @@
     comments: true
     date: 2010-09-12 18:11:42
     layout: post
-    slug: fedora-13-ups-and-downs
     title: Fedora 13 历险记
     wordpress_id: 1252
     categories:

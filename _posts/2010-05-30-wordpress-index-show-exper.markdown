@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-30 01:12:51
     layout: post
-    slug: wordpress-index-show-exper
     title: WordPress 首页显示日志摘要
     wordpress_id: 168
     categories:

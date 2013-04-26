@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-08 04:47:33
     layout: post
-    slug: life
     title: 又是一个熬夜
     wordpress_id: 323
     categories:

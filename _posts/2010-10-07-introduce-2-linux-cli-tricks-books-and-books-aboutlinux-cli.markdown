@@ -3,7 +3,6 @@
     comments: true
     date: 2010-10-07 19:20:19
     layout: post
-    slug: introduce-2-linux-cli-tricks-books-and-books-aboutlinux-cli
     title: 介绍几个Linux CLI tricks和2本命令行技巧书
     wordpress_id: 1317
     categories:

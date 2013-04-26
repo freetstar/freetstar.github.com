@@ -3,7 +3,6 @@
     comments: true
     date: 2012-04-21 22:55:20
     layout: post
-    slug: kindle-fire-6-3-root
     title: kindle fire 6.3 root记
     wordpress_id: 1896
     categories:

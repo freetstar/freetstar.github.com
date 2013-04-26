@@ -3,7 +3,6 @@
     comments: true
     date: 2010-09-08 11:38:43
     layout: post
-    slug: jabber-client-gajim-0-14-released-%e2%80%93-gets-audiovideo-support-gelolocation-more
     title: Jabber客户端Gajim0.14发布-支持音频和视频，地理位置定义等等
     wordpress_id: 1235
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2011-04-04 10:53:37
     layout: post
-    slug: let-rfkill-control-your-linux-wireless-devices
     title: 用rfkill来控制linux下的无线设备
     wordpress_id: 1656
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-29 17:45:21
     layout: post
-    slug: ubuntu-opensuse-debian-dvd-cd-lable
     title: 收集的几张ubuntu和Opensuse Debian 光盘封面
     wordpress_id: 132
     categories:

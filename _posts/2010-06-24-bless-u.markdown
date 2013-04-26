@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-24 17:51:19
     layout: post
-    slug: bless-u
     title: 珍惜生命，珍惜！
     wordpress_id: 771
     categories:

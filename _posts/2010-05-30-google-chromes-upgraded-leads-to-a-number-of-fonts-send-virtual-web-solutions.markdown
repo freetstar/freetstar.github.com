@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-30 17:28:54
     layout: post
-    slug: google-chromes-upgraded-leads-to-a-number-of-fonts-send-virtual-web-solutions
     title: Google Chrome 升级之后字体发虚问题解决办法
     wordpress_id: 183
     categories:

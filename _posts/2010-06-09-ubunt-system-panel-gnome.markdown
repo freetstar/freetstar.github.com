@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-09 17:05:55
     layout: post
-    slug: ubunt-system-panel-gnome
     title: ubunt-system-panel --GNOME桌面环境的一个简易启动程序
     wordpress_id: 428
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-02 18:25:34
     layout: post
-    slug: '%e6%ad%bb%e4%ba%a1%e6%89%8b%e6%9c%ba%e5%8f%b70888-888-888%ef%bc%9a%e6%9c%ba%e4%b8%bb%e5%9d%87%e6%ad%bb%e4%ba%8e%e9%9d%9e%e5%91%bd%e5%9b%be'
     title: 死亡手机号0888-888-888：机主均死于非命(图)
     wordpress_id: 236
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-10-22 20:45:01
     layout: post
-    slug: dropbox-using-at-ubuntu
     title: Dropbox在ubuntu下的安装和使用实战
     wordpress_id: 1351
     categories:

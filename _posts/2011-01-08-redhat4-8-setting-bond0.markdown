@@ -3,7 +3,6 @@
     comments: true
     date: 2011-01-08 17:13:10
     layout: post
-    slug: redhat4-8-setting-bond0
     title: Redhat4.8配置bond0小记
     wordpress_id: 1560
     categories:

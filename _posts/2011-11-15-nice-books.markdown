@@ -3,7 +3,6 @@
     comments: true
     date: 2011-11-15 13:57:48
     layout: post
-    slug: nice-books
     title: 推荐几本好书
     wordpress_id: 1871
     categories:

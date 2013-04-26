@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-22 19:46:53
     layout: post
-    slug: burg-make-ur-ubuntu-bootloader
     title: 用burg来美化你的ubuntu开机菜单
     wordpress_id: 762
     categories:

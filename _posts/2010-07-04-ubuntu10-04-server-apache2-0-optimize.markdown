@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-04 02:19:30
     layout: post
-    slug: ubuntu10-04-server-apache2-0-optimize
     title: 浅谈ubuntu10.04 server Apache2.0 性能优化
     wordpress_id: 876
     categories:

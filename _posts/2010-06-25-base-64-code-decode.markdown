@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-25 01:24:26
     layout: post
-    slug: base-64-code-decode
     title: Base 64 算法加解密算法总结
     wordpress_id: 773
     categories:

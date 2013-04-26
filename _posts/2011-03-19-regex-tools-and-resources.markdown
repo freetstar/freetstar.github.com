@@ -3,7 +3,6 @@
     comments: true
     date: 2011-03-19 20:54:00
     layout: post
-    slug: regex-tools-and-resources
     title: 正则表达式资源收集
     wordpress_id: 1637
     categories:

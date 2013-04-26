@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-01 00:52:14
     layout: post
-    slug: feelings-about-a-article
     title: 读一初中生日志有感
     wordpress_id: 220
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-11-06 07:39:29
     layout: post
-    slug: teach-u-zsh-file-comletion
     title: 教你使用zsh之=======zsh的文件名替换和自动补全
     wordpress_id: 1422
     categories:

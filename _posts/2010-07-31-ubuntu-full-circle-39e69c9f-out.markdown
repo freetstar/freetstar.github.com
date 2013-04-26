@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-31 10:42:51
     layout: post
-    slug: ubuntu-full-circle-39%e6%9c%9f-out
     title: ubuntu full circle 39期放出
     wordpress_id: 1037
     categories:

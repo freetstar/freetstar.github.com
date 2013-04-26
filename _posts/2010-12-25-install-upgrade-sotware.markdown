@@ -3,7 +3,6 @@
     comments: true
     date: 2010-12-25 11:22:56
     layout: post
-    slug: install-upgrade-sotware
     title: 小记:日常软件整理
     wordpress_id: 1545
     categories:

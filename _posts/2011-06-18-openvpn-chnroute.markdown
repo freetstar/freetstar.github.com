@@ -3,7 +3,6 @@
     comments: true
     date: 2011-06-18 22:47:14
     layout: post
-    slug: openvpn-chnroute
     title: Linux下OpenVPN+chnroute聪明访问WEB
     wordpress_id: 1747
     categories:

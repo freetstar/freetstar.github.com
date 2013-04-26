@@ -3,7 +3,6 @@
     comments: true
     date: 2011-02-18 10:30:36
     layout: post
-    slug: slackware-huge-generic-smp
     title: slackware下内核的huge，generic，smp模式等等
     wordpress_id: 1604
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2011-06-17 22:35:15
     layout: post
-    slug: what-a-bug
     title: WHAT A BUG!一个空格引发的血案
     wordpress_id: 1742
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-25 02:37:57
     layout: post
-    slug: ubuntu-10-04-update-nvidia-driver-to256-35
     title: ubuntu 10.04 Nvidia显卡驱动升级到256.35记
     wordpress_id: 779
     categories:

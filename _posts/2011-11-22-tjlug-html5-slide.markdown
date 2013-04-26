@@ -3,7 +3,6 @@
     comments: true
     date: 2011-11-22 22:13:56
     layout: post
-    slug: tjlug-html5-slide
     title: 上周TJLUG线下活动总结
     wordpress_id: 1873
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-28 01:04:32
     layout: post
-    slug: tianjin-linuxqq
     title: 添几个天津地区linux爱好者qq群
     wordpress_id: 104
     categories:

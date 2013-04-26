@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-05 14:33:19
     layout: post
-    slug: gstyle-gnome-theme-manager
     title: Gstyle -一个全新的gnome 主题管理器
     wordpress_id: 258
     categories:

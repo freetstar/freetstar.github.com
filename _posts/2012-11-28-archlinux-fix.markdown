@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-11-28 13:55:31
 layout: post
-slug: archlinux-fix
 title: archlinux修复记
 wordpress_id: 1949
 categories:

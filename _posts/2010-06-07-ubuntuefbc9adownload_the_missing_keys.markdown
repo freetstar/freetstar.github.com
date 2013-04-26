@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-07 01:58:29
     layout: post
-    slug: ubuntu%ef%bc%9adownload_the_missing_keys
     title: ubuntu：下载丢失的GPG 密钥
     wordpress_id: 293
     categories:

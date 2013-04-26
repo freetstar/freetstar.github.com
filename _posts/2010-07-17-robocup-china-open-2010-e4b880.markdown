@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-17 12:52:50
     layout: post
-    slug: robocup-china-open-2010-%e4%b8%80
     title: Robocup China Open 2010 一
     wordpress_id: 971
     categories:

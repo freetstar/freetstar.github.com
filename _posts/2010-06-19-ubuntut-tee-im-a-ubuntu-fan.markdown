@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-19 13:38:36
     layout: post
-    slug: ubuntut-tee-im-a-ubuntu-fan
     title: 秀下ubuntuT恤----I'm a ubuntu fan
     wordpress_id: 703
     categories:

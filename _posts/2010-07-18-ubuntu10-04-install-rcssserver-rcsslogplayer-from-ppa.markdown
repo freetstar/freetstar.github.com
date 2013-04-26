@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-18 13:25:52
     layout: post
-    slug: ubuntu10-04-install-rcssserver-rcsslogplayer-from-ppa
     title: Ubuntu10.04 从源中安装Robocup2D的rcssserver rcsslogplayer
     wordpress_id: 991
     categories:

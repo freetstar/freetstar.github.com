@@ -3,7 +3,6 @@
     comments: true
     date: 2011-03-09 20:50:09
     layout: post
-    slug: '%e5%9c%a8centos5-5%e4%b8%8a%e9%85%8d%e7%bd%aenagios%e8%af%a6%e7%bb%86%e6%ad%a5%e9%aa%a4'
     title: 在centos5.5上配置nagios详细步骤
     wordpress_id: 1627
     categories:

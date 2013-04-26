@@ -3,7 +3,6 @@
     comments: true
     date: 2011-03-30 18:14:04
     layout: post
-    slug: '%e7%bf%bb%e8%af%91digg%e7%9a%84%e7%b3%bb%e7%bb%9f%e6%9e%b6%e6%9e%84'
     title: '[翻译]Digg的系统架构'
     wordpress_id: 1650
     categories:

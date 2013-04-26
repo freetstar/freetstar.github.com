@@ -3,7 +3,6 @@
     comments: true
     date: 2011-04-10 00:04:56
     layout: post
-    slug: '%e8%9b%8b%e7%96%bc%e7%9a%84gnome3-release-party'
     title: '"蛋疼"的Gnome3 Release Party'
     wordpress_id: 1672
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-25 23:08:04
     layout: post
-    slug: 2010robocup%e5%85%ac%e5%bc%80%e8%b5%9b-7%e6%9c%8818%e6%97%a5%ef%bc%8d20%e6%97%a5%e5%86%85%e8%92%99%e5%8f%a4%e9%84%82%e5%b0%94
     title: 2010中国机器人大赛暨RoboCup公开赛 7月18日－20日内蒙古鄂尔多斯市
     wordpress_id: 47
     categories:

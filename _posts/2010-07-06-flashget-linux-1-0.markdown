@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-06 22:43:43
     layout: post
-    slug: flashget-linux-1-0
     title: 快车(Flashget) for Linux 1.0版(2010.7.06)发布!
     wordpress_id: 924
     categories:

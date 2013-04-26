@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-15 16:00:13
     layout: post
-    slug: god-bless-tjnu
     title: 今日启程,希望TJNU此行圆满
     wordpress_id: 965
     categories:

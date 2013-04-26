@@ -3,7 +3,6 @@
     comments: true
     date: 2010-10-28 22:48:46
     layout: post
-    slug: ubuntu10-10-install-googleearth
     title: ubuntu10.10下安装googleearth
     wordpress_id: 1376
     categories:

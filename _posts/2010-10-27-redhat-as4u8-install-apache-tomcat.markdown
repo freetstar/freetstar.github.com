@@ -3,7 +3,6 @@
     comments: true
     date: 2010-10-27 15:49:20
     layout: post
-    slug: redhat-as4u8-install-apache-tomcat
     title: Redhat AS4U8下apache和tomcat安装及整合小记
     wordpress_id: 1373
     categories:

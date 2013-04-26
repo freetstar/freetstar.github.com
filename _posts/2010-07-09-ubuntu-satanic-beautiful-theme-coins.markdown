@@ -3,7 +3,6 @@
     comments: true
     date: 2010-07-09 20:40:10
     layout: post
-    slug: ubuntu-satanic-beautiful-theme-coins
     title: ubuntu statanic edition之绚丽的主题和图标
     wordpress_id: 931
     categories:

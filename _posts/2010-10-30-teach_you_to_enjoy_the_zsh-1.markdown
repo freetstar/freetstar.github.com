@@ -3,7 +3,6 @@
     comments: true
     date: 2010-10-30 17:01:00
     layout: post
-    slug: teach_you_to_enjoy_the_zsh-1
     title: 教你使用zsh之=======安装和配置zsh
     wordpress_id: 1380
     categories:

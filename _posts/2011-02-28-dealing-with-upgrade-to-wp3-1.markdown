@@ -3,7 +3,6 @@
     comments: true
     date: 2011-02-28 13:37:17
     layout: post
-    slug: dealing-with-upgrade-to-wp3-1
     title: 升级至wordpress3.1出错后退回来
     wordpress_id: 1621
     categories:

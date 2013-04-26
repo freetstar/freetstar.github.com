@@ -3,7 +3,6 @@
     comments: true
     date: 2010-08-11 14:00:04
     layout: post
-    slug: summarize-ways-to-resolve-problems
     title: 把这几天遇到的问题总结下
     wordpress_id: 1097
     categories:

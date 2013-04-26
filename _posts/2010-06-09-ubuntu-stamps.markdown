@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-09 19:18:17
     layout: post
-    slug: ubuntu-stamps
     title: ubuntu stamp邮票集
     wordpress_id: 388
     categories:

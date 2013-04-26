@@ -3,7 +3,6 @@
     comments: true
     date: 2010-09-01 20:11:13
     layout: post
-    slug: how-to-remove-files-with-special-characters-in-linux
     title: Linux下 rm 特殊符号前缀的文件
     wordpress_id: 1212
     categories:

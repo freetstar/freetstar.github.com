@@ -3,7 +3,6 @@
     comments: true
     date: 2010-10-17 19:45:03
     layout: post
-    slug: ubuntu10-10-release-party-beijing
     title: Ubuntu10.10 Release Party Beijing记
     wordpress_id: 1342
     categories:

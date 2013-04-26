@@ -3,7 +3,6 @@
     comments: true
     date: 2011-01-22 22:00:05
     layout: post
-    slug: summarize-the-blog
     title: 迟到的2010年博客总结
     wordpress_id: 1570
     categories:

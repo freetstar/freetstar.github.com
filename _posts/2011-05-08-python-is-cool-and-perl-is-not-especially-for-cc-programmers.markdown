@@ -3,7 +3,6 @@
     comments: true
     date: 2011-05-08 02:39:01
     layout: post
-    slug: python-is-cool-and-perl-is-not-especially-for-cc-programmers
     title: Python很酷，尤其对C/C++程序员来说是这样，然而Perl却不是
     wordpress_id: 1697
     categories:

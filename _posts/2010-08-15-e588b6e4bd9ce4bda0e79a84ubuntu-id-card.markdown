@@ -3,7 +3,6 @@
     comments: true
     date: 2010-08-15 14:17:41
     layout: post
-    slug: '%e5%88%b6%e4%bd%9c%e4%bd%a0%e7%9a%84ubuntu-id-card'
     title: '制作你的Ubuntu ID Card '
     wordpress_id: 1136
     categories:

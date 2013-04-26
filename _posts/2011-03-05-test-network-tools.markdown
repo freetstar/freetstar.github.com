@@ -3,7 +3,6 @@
     comments: true
     date: 2011-03-05 10:31:50
     layout: post
-    slug: test-network-tools
     title: 测试两台server之间的网络情况
     wordpress_id: 1590
     categories:

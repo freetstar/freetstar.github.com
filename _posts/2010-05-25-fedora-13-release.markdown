@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-25 19:18:11
     layout: post
-    slug: fedora-13-release
     title: Fedora 13 发布
     wordpress_id: 21
     categories:

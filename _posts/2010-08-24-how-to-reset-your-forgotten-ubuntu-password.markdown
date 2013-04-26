@@ -3,7 +3,6 @@
     date: 2010-08-24 14:38:01
     layout: post
     slug: how-to-reset-your-forgotten-ubuntu-password
-    title: 重设你忘记了的Ubuntu密码
     wordpress_id: 1190
     categories:
 - 问题解决

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-09-21 11:49:01
     layout: post
-    slug: m-first-succsessful-job-experience
     title: 我人生中的第一次面试就这么糊里糊涂得“成功”了
     wordpress_id: 1285
     categories:

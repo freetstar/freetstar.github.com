@@ -3,7 +3,6 @@
     comments: true
     date: 2010-11-02 19:30:39
     layout: post
-    slug: some-digital-magazines-about
     title: 开源等IT主题的电子杂志下载地址总结
     wordpress_id: 1411
     categories:

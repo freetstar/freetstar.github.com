@@ -3,7 +3,6 @@
     comments: true
     date: 2011-05-19 21:35:54
     layout: post
-    slug: ubuntu11-04-release-party-%e6%80%bb%e7%bb%93%e8%b4%b4
     title: Ubuntu11.04 Release Party 总结贴
     wordpress_id: 1712
     categories:

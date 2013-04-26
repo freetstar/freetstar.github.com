@@ -3,7 +3,6 @@
     comments: true
     date: 2010-05-25 19:40:57
     layout: post
-    slug: ubuntu-daily-use
     title: ubuntu图片工略 之 日常使用
     wordpress_id: 26
     categories:

@@ -3,7 +3,6 @@
     comments: true
     date: 2010-06-05 19:44:02
     layout: post
-    slug: ubuntu10-04-wacth-online-video
     title: ubuntu10.04 下看在线直播
     wordpress_id: 239
     categories:

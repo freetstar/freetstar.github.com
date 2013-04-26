@@ -3,7 +3,6 @@
     comments: true
     date: 2011-03-13 21:21:49
     layout: post
-    slug: pygtk-gladegoogle-translate
     title: pygtk+glade简单实现google translate桌面版
     wordpress_id: 1631
     categories:

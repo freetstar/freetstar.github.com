@@ -10,6 +10,7 @@
     tags:
 - ubuntu 光盘 封面
 ---
+
 ![](http://www.freetstar.com/wp-content/uploads/2010/05/p_large_bLIh_43ea0001b70e2d0e.jpg)
 ![](http://www.freetstar.com/wp-content/uploads/2010/05/p_large_7ciF_16b800055f4f2d12.jpg)
 

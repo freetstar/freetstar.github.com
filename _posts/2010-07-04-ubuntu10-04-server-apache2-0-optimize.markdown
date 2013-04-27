@@ -5,10 +5,7 @@ date: 2010-07-04 02:19:30
 layout: post
 title: 浅谈ubuntu10.04 server Apache2.0 性能优化
 wordpress_id: 876
-categories:
-- 服务器
-    tags:
-- ubuntu 10.04 server apache2
+
 ---
 
 近来VPS的Apache耗MEM耗得可怕,于是想到优化下Apache2

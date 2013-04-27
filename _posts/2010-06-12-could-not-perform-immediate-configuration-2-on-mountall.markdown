@@ -5,8 +5,6 @@ date: 2010-06-12 17:40:36
 layout: post
 title: Could not perform immediate configuration (2) on mountall 错误探究
 wordpress_id: 591
-categories:
-- 问题解决
 ---
 
 下午学姐找我说新装的ubuntu9.10什么软件也装不了,急急忙忙吃了中午饭,直奔教学楼而去

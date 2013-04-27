@@ -5,10 +5,7 @@ date: 2010-06-12 14:53:54
 layout: post
 title: linux 中安装Mac OSX的字体
 wordpress_id: 570
-categories:
-- 转载翻译
-    tags:
-- font
+
 ---
 
 这些MAC OSX字体包括了:AppleGaramond, Aquabase, Lithgrl, Lucida Grande and Lucida MAC

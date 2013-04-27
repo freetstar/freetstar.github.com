@@ -5,11 +5,6 @@ date: 2010-05-28 00:00:20
 layout: post
 title: unix shell范例精解第六章课后习题
 wordpress_id: 96
-categories:
-- PROGRAM
-    tags:
-- shell
-- unix
 ---
 
 Mike Harrington:(510) 548-1278:250:100:175

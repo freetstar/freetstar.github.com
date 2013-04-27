@@ -5,11 +5,6 @@ date: 2010-05-28 17:52:11
 layout: post
 title: ubuntu 9.10 Robocup仿真组比赛环境安装配置
 wordpress_id: 111
-categories:
-- ubuntu
-    tags:
-- 9.10 Robocup
-- ubuntu
 ---
 
 比赛平台要求操作系统为ubuntu9.10-64bit。。64位机最好装64bit的操作系统，基本上跑32bit也不会出现问题。 

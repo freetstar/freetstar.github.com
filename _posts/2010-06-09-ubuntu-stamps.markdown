@@ -5,10 +5,6 @@ date: 2010-06-09 19:18:17
 layout: post
 title: ubuntu stamp邮票集
 wordpress_id: 388
-categories:
-- ubuntu
-    tags:
-- stamp
 ---
 
 [![](/media/images/2010-06-09-ubuntu-stamps/Ubuntu_user_stamp02_by_MariPocket1.gif)](/media/images/2010-06-09-ubuntu-stamps/Ubuntu_user_stamp02_by_MariPocket1.gif)[![](/media/images/2010-06-09-ubuntu-stamps/Brushed_Ubuntu_Stamp_by_gamerchick031.png)](/media/images/2010-06-09-ubuntu-stamps/Brushed_Ubuntu_Stamp_by_gamerchick031.png)[![](/media/images/2010-06-09-ubuntu-stamps/d4c0982c3fb229ae594d14b91f6f26a11.png)](/media/images/2010-06-09-ubuntu-stamps/d4c0982c3fb229ae594d14b91f6f26a11.png)[![](/media/images/2010-06-09-ubuntu-stamps/ea3352c9387a63672c196d0467e4ba371.png)](/media/images/2010-06-09-ubuntu-stamps/ea3352c9387a63672c196d0467e4ba371.png)[![](/media/images/2010-06-09-ubuntu-stamps/ee059ea12455676e77b0b7d43bc669451.png)](/media/images/2010-06-09-ubuntu-stamps/ee059ea12455676e77b0b7d43bc669451.png)  

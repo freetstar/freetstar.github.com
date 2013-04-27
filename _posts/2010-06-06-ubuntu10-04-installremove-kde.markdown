@@ -5,10 +5,6 @@ date: 2010-06-06 22:14:28
 layout: post
 title: ubuntu10.04 安装卸载KDE桌面之折腾记
 wordpress_id: 279
-categories:
-- ubuntu
-    tags:
-- ubuntu10.04 卸载KDE
 ---
 
 记得09年7月份刚开始用的是Opensuse，桌面环境好像是KED1.5的，经常性崩溃阿，太让人无语了，动不动就崩溃，但是对linux也不熟悉，没有比较好的方法，后来就转ubuntu了

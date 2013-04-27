@@ -5,10 +5,6 @@ date: 2010-05-28 18:06:08
 layout: post
 title: ' Ubuntu10.04    Robocup2D平台比赛安装'
 wordpress_id: 114
-categories:
-- ubuntu
-    tags:
-- ubuntu Robocup 2D 配置
 ---
 
 经过robocup2009年中国比赛，agent2d在64位机器上跑起来没有问题。64位机最好装64bit的操作系统，32位的跑32bit也不会出现问题。

@@ -5,11 +5,6 @@ date: 2010-08-18 13:21:09
 layout: post
 title: Linux Distribution Chooser 你适合哪个linux发行版
 wordpress_id: 1152
-categories:
-- ubuntu
-- 软件安装
-    tags:
-- Linux distribution chooser
 ---
 
 在以下网站中，来测试你适合哪个Linux发行版

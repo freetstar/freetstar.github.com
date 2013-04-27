@@ -5,11 +5,7 @@ date: 2010-05-30 17:28:54
 layout: post
 title: Google Chrome 升级之后字体发虚问题解决办法
 wordpress_id: 183
-categories:
-- ubuntu
-    tags:
-- chrome
-- 字体发虚
+
 ---
 
 以[http://www.baidu.com/](http://www.baidu.com/) 和[http://www.cnbeta.com/](http://www.cnbeta.com/) 为试验品进行实验，同时每次实验后恢复初始状态。

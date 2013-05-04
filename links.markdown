@@ -3,29 +3,29 @@ title: links
 layout: page
 ---
 
-**[喵镇](http://heysuei.me)**  
-
----
  
-[Beautifully Imperfect](http://becky.im)  
-[D&amp;V](http://kaix.in/daddy)  
-[fairystreet](http://fairystreet.com)  
-[Luke](http://geeklu.com)  
-[ifireyy](http://fireyy.com)  
-[Mirageyard.com](http://www.mirageyard.com)  
-[Scor Gryu](http://gryu.net)  
-[Shellexy](http://shellexy.info)  
-[傳習錄](http://chuanxilu.com)  
-[冰古](http://bingu.net)  
-[双霍记](http://imhuo.com)  
-[唯音乐](http://vinmusic.com)  
-[崇智的BLOG](http://blog.sina.com.cn/chongzhi)  
-[很平靜](http://a4114.net)  
-[旋转木马の阶梯](http://boke.name/citizen)  
-[杀手爱喝牛奶](http://arsun.me)  
-[浮黑说话](http://surdark.net)  
-[瘋来坊](http://flyku.ro)  
-[睡到25点](http://www.voidman.com)  
-[辞不达意](http://joyus.org)  
+[51开源社区](http://bbs.51osos.com/)  
+[Adam's](http://www.adam8157.info/)  
+[darkof](http://www.darkof.com/)  
+[delectate](http://www.deleak.com/blog)  
+[Don](http://don.qzworld.net/)  
+[ghostunix](http://www.ghostunix.org/blog/)  
+[JaseyWang](http://jaseywang.me/)  
+[Moolight@Ericyue](http://www.ericyue.info/)  
+[OSMSG](http://www.osmsg.com/)  
+[P哥](http://pityonline.info/)  
+[Tao Zhu](http://bnuzhutao.cn/)  
+[ubuntuhome](http://www.ubuntuhome.com/)  
+[WOW!ubuntu](http://wowubuntu.com/)  
+[zhangzhfang](http://fangzhzh.admindigest.com/)  
+[丕字的博客](http://www.shamoxia.com/)  
+[傻东的学习笔记](http://sillydong.com/)  
+[奶牛](http://www.nenew.net/)  
+[孤风颠影](http://yunhaozou.org/)  
+[熊猫党军委主席](http://litvip.com/)  
+[靖轩](http://www.sujx.net/)  
+[马利](http://www.richardma.org/)  
+[高阳](http://sunshineg.com/)  
+[黑孩儿](http://www.heiher.info/)  
+[Jerry](http://jerrypeng.me/)  
 
-*# sort -f*

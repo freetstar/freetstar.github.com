@@ -1,6 +1,7 @@
 markdown: rdiscount
 pygments: true
-permalink: /:year/:month/:day/:title.html
+#permalink: /:year/:month/:day/:title.html
+permalink: /:title
 name: "[freetstar's blog]"
 auto: true
 paginate: 5

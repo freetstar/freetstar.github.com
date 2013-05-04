@@ -24,13 +24,14 @@ layout: default
   -->
   {{ content }}
   </section>
-  {% if page.guid %}
+  {% if page.id %}
   <section class="comment">
   <div id="disqus_thread"></div>
   <script type="text/javascript">
       /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-      var disqus_shortname = 'gopherwood'; // required: replace example with your forum shortname
-    var disqus_identifier = '{{ page.guid }}';
+      var disqus_shortname = 'freetstarssite'; // required: replace example with your forum shortname
+      //var disqus_developer = 1;
+      var disqus_identifier = '{{ page.id }}';
 
       /* * * DON'T EDIT BELOW THIS LINE * * */
       (function() {

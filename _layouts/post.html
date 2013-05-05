@@ -24,26 +24,20 @@ layout: default
   -->
   {{ content }}
   </section>
+
   {% if page.id %}
   <section class="comment">
   <div id="disqus_thread"></div>
   <script type="text/javascript">
-      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-      var disqus_shortname = 'freetstarssite'; // required: replace example with your forum shortname
-      var disqus_developer = true;
-      //var disqus_identifier = '{{ page.id }}';
-    {% if page.post_id %}
-    var disqus_identifier = {{ page.post_id }};
-    {% else %}
-    var disqus_identifier = "{{ page.url }}";
-    {% endif %}
-
-      /* * * DON'T EDIT BELOW THIS LINE * * */
-      (function() {
-          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'freetstarssite'; // required: replace example with your forum shortname
+    var disqus_url = "http://freetstar.com{{ page.url }}";
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   </section>

@@ -5,3 +5,4 @@ permalink: /:title
 name: "[freetstar's blog]"
 auto: true
 paginate: 5
+noslash: true
